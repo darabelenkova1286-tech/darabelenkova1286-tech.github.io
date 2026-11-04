@@ -77,7 +77,19 @@ def send_telegram(body: str) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--test-telegram", action="store_true")
     args = parser.parse_args()
+    if args.test_telegram:
+        if not all(os.environ.get(name) for name in ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID")):
+            print("telegram: bot token or chat ID is not configured", file=sys.stderr)
+            return 1
+        try:
+            send_telegram("DASHKA WIRE · тест Telegram-рассылки. Бот подключён; новости придут после первого выпуска.")
+        except Exception:
+            print("telegram: test delivery failed", file=sys.stderr)
+            return 1
+        print("telegram: test message sent")
+        return 0
     today = datetime.now(ZoneInfo("Europe/Moscow")).date().isoformat()
     index = (ROOT / "latest.md").read_text(encoding="utf-8")
     if edition_date(index) != today:
@@ -89,8 +101,12 @@ def main() -> int:
         print(body)
         return 0
     failures = []
-    for channel, sender in (("email", lambda: send_email(body, today)),
-                            ("telegram", lambda: send_telegram(body))):
+    channels = (("email", ("SMTP_USER", "SMTP_PASSWORD", "MAIL_TO"), lambda: send_email(body, today)),
+                ("telegram", ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID"), lambda: send_telegram(body)))
+    for channel, required, sender in channels:
+        if not all(os.environ.get(name) for name in required):
+            print(f"{channel}: not configured; skipped")
+            continue
         path = marker(today, channel)
         if path.exists():
             print(f"{channel}: already sent")

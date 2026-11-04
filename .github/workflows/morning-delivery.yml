@@ -9,6 +9,12 @@ on:
     # 08:00, 09:00 and 10:00 Europe/Moscow (UTC+3, no DST).
     - cron: '0 5-7 * * *'
   workflow_dispatch:
+    inputs:
+      test_telegram:
+        description: Send one test message to the configured Telegram chat
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   contents: write
@@ -25,7 +31,7 @@ jobs:
         with:
           persist-credentials: true
       - name: Send published edition
-        run: python3 delivery/send_digest.py
+        run: python3 delivery/send_digest.py ${{ github.event_name == 'workflow_dispatch' && inputs.test_telegram && '--test-telegram' || '' }}
         env:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
