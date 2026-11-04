@@ -1,0 +1,17 @@
+[
+  {"id":"techcrunch","name":"TechCrunch","url":"https://techcrunch.com/feed/","kind":"rss","tier":"main"},
+  {"id":"theverge","name":"The Verge","url":"https://www.theverge.com/rss/index.xml","kind":"rss","tier":"main"},
+  {"id":"theinformation","name":"The Information · Technology","url":"https://www.theinformation.com/technology","kind":"manual","tier":"main","note":"Облачный редактор открывает страницу отдельно; полный текст может быть закрыт подпиской."},
+  {"id":"futurism","name":"Futurism","url":"https://futurism.com/feed","kind":"rss","tier":"main"},
+  {"id":"bbc","name":"BBC Technology","url":"https://www.bbc.co.uk/news/technology","kind":"manual","tier":"main","note":"Облачный редактор просматривает раздел напрямую, без RSS."},
+  {"id":"addmeto","name":"addmeto","url":"https://t.me/s/addmeto","kind":"telegram","tier":"main"},
+  {"id":"xor_journal","name":"xor_journal","url":"https://t.me/s/xor_journal","kind":"telegram","tier":"main"},
+  {"id":"alfa_trends","name":"Альфа Тренды","url":"https://t.me/s/alfa_trends","kind":"telegram","tier":"main","attribution":"Новости из ТГ Альфы"},
+  {"id":"antiinfosec","name":"antiinfosec","url":"https://t.me/s/antiinfosec","kind":"telegram","tier":"russia"},
+  {"id":"antidigital","name":"antidigital","url":"https://t.me/s/antidigital","kind":"telegram","tier":"russia"},
+  {"id":"anti_agi","name":"anti_agi","url":"https://t.me/s/anti_agi","kind":"telegram","tier":"russia"},
+  {"id":"autonomy_yandex_tg","name":"Яндекс Автономность · Telegram","url":"https://t.me/s/autonomy_yandex","kind":"telegram","tier":"russia","dedupe_group":"autonomy_yandex"},
+  {"id":"autonomy_yandex","name":"Яндекс Автономность","url":"https://autonomy.yandex.ru/blog","kind":"manual","tier":"russia","dedupe_group":"autonomy_yandex","note":"Облачный редактор просматривает блог и сверяет повторы с Telegram-каналом."},
+  {"id":"wiley_advanced","name":"Advanced Materials · Wiley","url":"https://advanced.onlinelibrary.wiley.com","kind":"manual","tier":"niche","note":"Облачный редактор открывает журнал отдельно; переводит заголовок и пересказывает доступный первичный материал."},
+  {"id":"rozetked","name":"Rozetked","url":"https://rozetked.me","kind":"watch","tier":"backup","note":"Использовать при нехватке сильных инфоповодов; остальное сохранять в бэклог."}
+]

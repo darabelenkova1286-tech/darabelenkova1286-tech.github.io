@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="DASHKA WIRE">
+<rect x="3" y="3" width="90" height="90" rx="3" fill="#151a26"/>
+<path d="M21 17H49C70 17 83 30 83 48S70 79 49 79H21V17ZM39 32V64H49C59 64 65 58 65 48S59 32 49 32H39Z" fill="#d8f75a" fill-rule="evenodd"/>
+<circle cx="75" cy="72" r="8" fill="#4961ee" stroke="#fffdf7" stroke-width="3"/>
+</svg>

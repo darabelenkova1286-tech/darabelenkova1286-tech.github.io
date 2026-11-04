@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://darabelenkova1286-tech.github.io/sitemap.xml

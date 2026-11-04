@@ -1,0 +1,110 @@
+#!/usr/bin/env python3
+"""Send today's published edition once per channel. Standard library only."""
+
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import re
+import smtplib
+import sys
+import urllib.parse
+import urllib.request
+from datetime import datetime
+from email.message import EmailMessage
+from pathlib import Path
+from zoneinfo import ZoneInfo
+
+ROOT = Path(__file__).resolve().parent.parent
+MARKERS = ROOT / ".delivery"
+
+
+def edition_date(index: str) -> str | None:
+    match = re.search(r"^# .*latest edition.*\((\d{4}-\d{2}-\d{2})\)", index, re.M | re.I)
+    return match.group(1) if match else None
+
+
+def message(feed: dict, date: str) -> str:
+    items = [item for item in feed.get("items", []) if f"/e/{date}/" in item.get("url", "")]
+    if not items:
+        raise ValueError("Published edition has no matching feed items")
+    lines = [f"DASHKA WIRE · {date}", "", "Сегодня в технологиях:", ""]
+    for number, item in enumerate(items[:7], 1):
+        title = item.get("_ru", {}).get("title") or item.get("title", "Новость")
+        summary = item.get("_ru", {}).get("summary") or item.get("summary", "")
+        lines.extend([f"{number}. {title}", summary[:240], item["url"], ""])
+    lines.append("Все материалы и первоисточники: https://darabelenkova1286-tech.github.io/")
+    return "\n".join(lines)
+
+
+def marker(date: str, channel: str) -> Path:
+    return MARKERS / f"{date}.{channel}.json"
+
+
+def send_email(body: str, date: str) -> None:
+    user = os.environ["SMTP_USER"]
+    password = os.environ["SMTP_PASSWORD"]
+    recipient = os.environ["MAIL_TO"]
+    mail = EmailMessage()
+    mail["Subject"] = f"DASHKA WIRE · {date}"
+    mail["From"] = user
+    mail["To"] = recipient
+    mail.set_content(body)
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=20) as smtp:
+        smtp.login(user, password)
+        smtp.send_message(mail)
+
+
+def send_telegram(body: str) -> None:
+    token = os.environ["TELEGRAM_BOT_TOKEN"]
+    chat_id = os.environ["TELEGRAM_CHAT_ID"]
+    payload = urllib.parse.urlencode({"chat_id": chat_id, "text": body[:3900],
+                                      "disable_web_page_preview": "true"}).encode()
+    # Do not print network exceptions: their URL can contain the bot token.
+    try:
+        with urllib.request.urlopen(
+            urllib.request.Request(f"https://api.telegram.org/bot{token}/sendMessage", data=payload),
+            timeout=20,
+        ) as response:
+            result = json.load(response)
+    except Exception as exc:
+        raise RuntimeError("Telegram delivery failed; check the bot secret and chat ID") from None
+    if not result.get("ok"):
+        raise RuntimeError("Telegram delivery failed; check the bot secret and chat ID")
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dry-run", action="store_true")
+    args = parser.parse_args()
+    today = datetime.now(ZoneInfo("Europe/Moscow")).date().isoformat()
+    index = (ROOT / "latest.md").read_text(encoding="utf-8")
+    if edition_date(index) != today:
+        print(f"No published edition for {today}; nothing sent")
+        return 0
+    feed = json.loads((ROOT / "feed.json").read_text(encoding="utf-8"))
+    body = message(feed, today)
+    if args.dry_run:
+        print(body)
+        return 0
+    failures = []
+    for channel, sender in (("email", lambda: send_email(body, today)),
+                            ("telegram", lambda: send_telegram(body))):
+        path = marker(today, channel)
+        if path.exists():
+            print(f"{channel}: already sent")
+            continue
+        try:
+            sender()
+            MARKERS.mkdir(exist_ok=True)
+            path.write_text(json.dumps({"date": today, "channel": channel, "status": "sent"}) + "\n")
+            print(f"{channel}: sent")
+        except Exception:
+            failures.append(channel)
+            print(f"{channel}: delivery failed", file=sys.stderr)
+    return 1 if failures else 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

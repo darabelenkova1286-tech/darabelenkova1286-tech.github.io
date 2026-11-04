@@ -1,0 +1,18 @@
+# DASHKA WIRE
+
+> A source-checked morning technology publication in Russian and English.
+> Prepared from real, cited sources. Public editions and source links are available:
+> the source list and every edition as plain markdown.
+
+Publisher: darabelenkova1286-tech — https://github.com/darabelenkova1286-tech
+
+## Machine-friendly entry points
+- RSS feed: https://darabelenkova1286-tech.github.io/feed.xml
+- JSON Feed (with raw-markdown pointers): https://darabelenkova1286-tech.github.io/feed.json
+- Latest edition, plain markdown index: https://darabelenkova1286-tech.github.io/latest.md
+- Sitemap: https://darabelenkova1286-tech.github.io/sitemap.xml
+- Raw markdown of every article: https://darabelenkova1286-tech.github.io/e/<YYYY-MM-DD>/<NN-slug>.md
+- Source list: https://darabelenkova1286-tech.github.io/sources.json
+- Repository: https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io
+
+## Latest articles
