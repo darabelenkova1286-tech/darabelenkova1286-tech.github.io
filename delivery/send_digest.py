@@ -10,6 +10,7 @@ import re
 import smtplib
 import sys
 import urllib.parse
+import urllib.error
 import urllib.request
 from datetime import datetime
 from email.message import EmailMessage
@@ -68,10 +69,15 @@ def send_telegram(body: str) -> None:
             timeout=20,
         ) as response:
             result = json.load(response)
-    except Exception as exc:
-        raise RuntimeError("Telegram delivery failed; check the bot secret and chat ID") from None
+    except urllib.error.HTTPError as exc:
+        reason = {400: "chat not found; send /start to the bot and check chat ID",
+                  401: "bot token rejected",
+                  403: "bot blocked or chat access denied"}.get(exc.code, f"HTTP {exc.code}")
+        raise RuntimeError(f"Telegram delivery failed: {reason}") from None
+    except Exception:
+        raise RuntimeError("Telegram delivery failed: network or response error") from None
     if not result.get("ok"):
-        raise RuntimeError("Telegram delivery failed; check the bot secret and chat ID")
+        raise RuntimeError("Telegram delivery failed: API returned not ok")
 
 
 def main() -> int:
@@ -85,8 +91,8 @@ def main() -> int:
             return 1
         try:
             send_telegram("DASHKA WIRE · тест Telegram-рассылки. Бот подключён; новости придут после первого выпуска.")
-        except Exception:
-            print("telegram: test delivery failed", file=sys.stderr)
+        except Exception as exc:
+            print(f"telegram: {exc}", file=sys.stderr)
             return 1
         print("telegram: test message sent")
         return 0
