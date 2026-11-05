@@ -80,6 +80,27 @@ def send_telegram(body: str) -> None:
         raise RuntimeError("Telegram delivery failed: API returned not ok")
 
 
+def bot_diagnostics() -> bool:
+    """Print non-secret bot identity and whether the configured chat has reached it."""
+    token = os.environ["TELEGRAM_BOT_TOKEN"]
+    chat_id = os.environ["TELEGRAM_CHAT_ID"]
+    try:
+        with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/getMe", timeout=20) as response:
+            account = json.load(response)
+        username = account.get("result", {}).get("username", "")
+        print(f"telegram: token belongs to @{username}")
+        if username.lower() != "dashka_wire_bot":
+            print("telegram: token belongs to a different bot", file=sys.stderr)
+            return False
+        with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/getUpdates?limit=100", timeout=20) as response:
+            updates = json.load(response).get("result", [])
+        seen = any(str(update.get("message", {}).get("chat", {}).get("id")) == chat_id for update in updates)
+        print(f"telegram: configured chat present in recent updates: {'yes' if seen else 'no'}")
+    except Exception:
+        print("telegram: bot identity check unavailable", file=sys.stderr)
+    return True
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true")
@@ -88,6 +109,8 @@ def main() -> int:
     if args.test_telegram:
         if not all(os.environ.get(name) for name in ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID")):
             print("telegram: bot token or chat ID is not configured", file=sys.stderr)
+            return 1
+        if not bot_diagnostics():
             return 1
         try:
             send_telegram("DASHKA WIRE · тест Telegram-рассылки. Бот подключён; новости придут после первого выпуска.")
