@@ -51,6 +51,7 @@ jobs:
           MAIL_TO: ${{ secrets.MAIL_TO }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PAIR_KEY: ${{ secrets.PAIR_KEY }}
       - name: Save delivery markers
         if: always()
         run: |
