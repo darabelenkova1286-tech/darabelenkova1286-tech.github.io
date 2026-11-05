@@ -70,9 +70,15 @@ def send_telegram(body: str) -> None:
         ) as response:
             result = json.load(response)
     except urllib.error.HTTPError as exc:
+        try:
+            detail = json.loads(exc.read()).get("description", "").lower()
+        except Exception:
+            detail = ""
         reason = {400: "chat not found; send /start to the bot and check chat ID",
                   401: "bot token rejected",
-                  403: "bot blocked or chat access denied"}.get(exc.code, f"HTTP {exc.code}")
+                  403: ("bot is blocked by the user" if "blocked" in detail else
+                        "bot cannot initiate this chat" if "initiate" in detail else
+                        "chat access denied")}.get(exc.code, f"HTTP {exc.code}")
         raise RuntimeError(f"Telegram delivery failed: {reason}") from None
     except Exception:
         raise RuntimeError("Telegram delivery failed: network or response error") from None
@@ -94,8 +100,11 @@ def bot_diagnostics() -> bool:
             return False
         with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/getUpdates?limit=100", timeout=20) as response:
             updates = json.load(response).get("result", [])
+        print(f"telegram: recent update count: {len(updates)}")
         seen = any(str(update.get("message", {}).get("chat", {}).get("id")) == chat_id for update in updates)
         print(f"telegram: configured chat present in recent updates: {'yes' if seen else 'no'}")
+        test_seen = any(update.get("message", {}).get("text", "").strip().lower() == "тест" for update in updates)
+        print(f"telegram: recent test message seen: {'yes' if test_seen else 'no'}")
     except Exception:
         print("telegram: bot identity check unavailable", file=sys.stderr)
     return True
