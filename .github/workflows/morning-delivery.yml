@@ -15,6 +15,10 @@ on:
         type: boolean
         required: false
         default: false
+      pair_code:
+        description: Reply only to the chat that sent this exact pairing phrase
+        type: string
+        required: false
 
 permissions:
   contents: write
@@ -31,8 +35,17 @@ jobs:
         with:
           persist-credentials: true
       - name: Send published edition
-        run: python3 delivery/send_digest.py ${{ github.event_name == 'workflow_dispatch' && inputs.test_telegram && '--test-telegram' || '' }}
+        run: |
+          if [ -n "$PAIR_CODE" ]; then
+            python3 delivery/send_digest.py --pair-code "$PAIR_CODE"
+          elif [ "$TEST_TELEGRAM" = "true" ]; then
+            python3 delivery/send_digest.py --test-telegram
+          else
+            python3 delivery/send_digest.py
+          fi
         env:
+          PAIR_CODE: ${{ inputs.pair_code || '' }}
+          TEST_TELEGRAM: ${{ inputs.test_telegram || 'false' }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}

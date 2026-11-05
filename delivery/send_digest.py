@@ -57,9 +57,9 @@ def send_email(body: str, date: str) -> None:
         smtp.send_message(mail)
 
 
-def send_telegram(body: str) -> None:
+def send_telegram(body: str, chat_id: str | None = None) -> None:
     token = os.environ["TELEGRAM_BOT_TOKEN"]
-    chat_id = os.environ["TELEGRAM_CHAT_ID"]
+    chat_id = chat_id or os.environ["TELEGRAM_CHAT_ID"]
     payload = urllib.parse.urlencode({"chat_id": chat_id, "text": body[:3900],
                                       "disable_web_page_preview": "true"}).encode()
     # Do not print network exceptions: their URL can contain the bot token.
@@ -114,7 +114,27 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--test-telegram", action="store_true")
+    parser.add_argument("--pair-code")
     args = parser.parse_args()
+    if args.pair_code:
+        token = os.environ.get("TELEGRAM_BOT_TOKEN")
+        if not token:
+            print("telegram: bot token is not configured", file=sys.stderr)
+            return 1
+        try:
+            with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/getUpdates?limit=100", timeout=20) as response:
+                updates = json.load(response).get("result", [])
+            matches = [update for update in updates if update.get("message", {}).get("text", "").strip() == args.pair_code]
+            if not matches:
+                print("telegram: pairing phrase not received", file=sys.stderr)
+                return 1
+            chat_id = str(max(matches, key=lambda update: update["update_id"])["message"]["chat"]["id"])
+            send_telegram(f"DASHKA WIRE: ваш chat ID — {chat_id}. Пришлите это число в чат Codex для завершения подключения.", chat_id)
+            print("telegram: pairing reply sent to matching chat")
+            return 0
+        except Exception:
+            print("telegram: pairing reply failed", file=sys.stderr)
+            return 1
     if args.test_telegram:
         if not all(os.environ.get(name) for name in ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID")):
             print("telegram: bot token or chat ID is not configured", file=sys.stderr)
