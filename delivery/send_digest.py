@@ -4,7 +4,6 @@
 from __future__ import annotations
 
 import argparse
-import base64
 import json
 import os
 import re
@@ -131,14 +130,6 @@ def main() -> int:
                 return 1
             chat_id = str(max(matches, key=lambda update: update["update_id"])["message"]["chat"]["id"])
             send_telegram(f"DASHKA WIRE: ваш chat ID — {chat_id}. Пришлите это число в чат Codex для завершения подключения.", chat_id)
-            pair_key = os.environ.get("PAIR_KEY")
-            if pair_key:
-                key = base64.b64decode(pair_key, validate=True)
-                raw = chat_id.encode("ascii")
-                if len(key) < len(raw):
-                    raise ValueError("Pairing key too short")
-                encrypted = bytes(a ^ b for a, b in zip(raw, key))
-                print("telegram: encrypted paired chat: " + base64.b64encode(encrypted).decode("ascii"))
             print("telegram: pairing reply sent to matching chat")
             return 0
         except Exception:
