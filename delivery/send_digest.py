@@ -94,7 +94,9 @@ def bot_diagnostics() -> bool:
         with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/getMe", timeout=20) as response:
             account = json.load(response)
         username = account.get("result", {}).get("username", "")
+        display_name = account.get("result", {}).get("first_name", "")
         print(f"telegram: token belongs to @{username}")
+        print(f"telegram: bot display name: {display_name}")
         if username.lower() != "dashka_wire_bot":
             print("telegram: token belongs to a different bot", file=sys.stderr)
             return False
