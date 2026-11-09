@@ -22,6 +22,7 @@ NEWS_SITEMAPS = {
     "techcrunch": "https://techcrunch.com/news-sitemap.xml",
     "futurism": "https://futurism.com/sitemap-news.xml",
 }
+NON_ARTICLE_TITLES = {"bbc": {"send a story"}}
 
 
 def fetch(url: str) -> str:
@@ -89,7 +90,8 @@ def collect_web(source: dict) -> tuple[list[dict], str]:
     for link in parser.links:
         url = absolute(source["url"], link["url"])
         title = re.sub(r"\s+", " ", html.unescape(link["title"])).strip()
-        if not valid(source["id"], url) or url in seen or len(title) < 12:
+        if (not valid(source["id"], url) or url in seen or len(title) < 12
+                or title.casefold() in NON_ARTICLE_TITLES.get(source["id"], set())):
             continue
         seen.add(url)
         published = None
@@ -199,6 +201,8 @@ def main() -> int:
     sources = json.loads(SOURCES.read_text(encoding="utf-8"))
     old = json.loads(OUTPUT.read_text(encoding="utf-8")) if OUTPUT.exists() else {"items": []}
     by_url = {item["url"]: item for item in old.get("items", [])}
+    by_url = {url: item for url, item in by_url.items()
+              if item["title"].casefold() not in NON_ARTICLE_TITLES.get(item["source_id"], set())}
     status = []
     for source in sources:
         known = {url for url, item in by_url.items() if item["source_id"] == source["id"]}
