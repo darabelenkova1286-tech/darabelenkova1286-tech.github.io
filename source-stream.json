@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T15:21:05+00:00",
+  "updated_at": "2026-11-09T15:24:03+00:00",
   "items": [
     {
       "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
@@ -2719,16 +2719,6 @@
       "source_name": "xor_journal",
       "tier": "main",
       "first_seen": "2026-11-09T15:18:38+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://t.me/autonomy_yandex/298",
-      "title": "📦 Смотрите, как наш роботрак самостоятельно работает на контейнерной площадке без человека за рулём О том, как мы научили роботрак справляться с разгрузкой и погрузкой, уступать дорогу фурам в узких проездах и реагировать на сотрудников площадки, рассказал старший менеджер продукта роботраков Павел Величко. Подробнее читайте в блоге",
-      "published": "2026-11-05T12:15:01+00:00",
-      "source_id": "autonomy_yandex_tg",
-      "source_name": "Яндекс Автономность · Telegram",
-      "tier": "russia",
-      "first_seen": "2026-11-09T15:21:05+00:00",
       "attribution": ""
     },
     {
@@ -14229,7 +14219,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 43,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "theverge",
@@ -14237,14 +14227,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "futurism",
@@ -14252,7 +14242,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "bbc",
@@ -14260,15 +14250,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 21,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "addmeto",
       "name": "addmeto",
-      "status": "partial",
-      "scope": "page_limit",
-      "found": 199,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "status": "ok",
+      "scope": "known_post",
+      "found": 20,
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "xor_journal",
@@ -14276,15 +14266,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "alfa_trends",
       "name": "Альфа Тренды",
-      "status": "partial",
-      "scope": "page_limit",
-      "found": 163,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "status": "ok",
+      "scope": "known_post",
+      "found": 17,
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "antiinfosec",
@@ -14292,7 +14282,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "antidigital",
@@ -14300,7 +14290,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 13,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "anti_agi",
@@ -14308,15 +14298,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
       "name": "Яндекс Автономность · Telegram",
-      "status": "partial",
-      "scope": "page_limit",
-      "found": 126,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "status": "ok",
+      "scope": "known_post",
+      "found": 16,
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -14324,14 +14314,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "checked_at": "2026-11-09T15:24:03+00:00"
     },
     {
       "id": "rozetked",
@@ -14339,7 +14329,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 15,
-      "checked_at": "2026-11-09T15:21:05+00:00"
+      "checked_at": "2026-11-09T15:24:03+00:00"
     }
   ]
 }
