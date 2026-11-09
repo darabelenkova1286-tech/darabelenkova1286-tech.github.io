@@ -42,6 +42,13 @@ document.querySelectorAll('img').forEach(function (img) {
   var coverage = document.getElementById('stream-coverage');
   var data = { items: [], sources: [] };
   var visible = 60;
+  function jumpToStream() {
+    if (location.hash === '#source-stream') {
+      document.getElementById('source-stream').scrollIntoView({ block: 'start', behavior: 'auto' });
+    }
+  }
+  window.addEventListener('pageshow', jumpToStream);
+  window.addEventListener('hashchange', jumpToStream);
   function label(ru, en) { return document.body.classList.contains('en') ? en : ru; }
   function dateLabel(value) {
     if (!value) return '';
@@ -100,6 +107,7 @@ document.querySelectorAll('img').forEach(function (img) {
       coverage.appendChild(line);
     });
     render();
+    requestAnimationFrame(jumpToStream);
   }).catch(function () {
     list.replaceChildren(node('p', 'stream-loading', label('Лента источников пока недоступна.', 'Source stream is currently unavailable.')));
   });

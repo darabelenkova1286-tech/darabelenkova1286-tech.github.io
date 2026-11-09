@@ -7,7 +7,7 @@
   --font-b:'IBM Plex Serif',Georgia,serif;
 }
 *{box-sizing:border-box}
-html{scroll-behavior:smooth}
+html{scroll-behavior:auto}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font-b);line-height:1.6;
   background-image:radial-gradient(rgba(23,20,26,.10) 1px,transparent 1px) 1px,transparent 1px);background-size:22px 22px;background-attachment:fixed}
 a{color:var(--ink);text-decoration-thickness:2px;text-underline-offset:3px}
@@ -213,10 +213,13 @@ footer a{color:var(--yellow)}
 /* Put the news on the first screen. */
 main{padding-top:1.4rem}
 .examples{border:0;padding:0 0 2rem}
-.issue-strip{display:flex;align-items:center;justify-content:space-between;gap:1rem;
+.issue-strip{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;
   padding:.45rem 0 .85rem;margin-bottom:1.1rem;border-bottom:3px solid var(--ink)}
 .issue-strip .kicker{margin:0;color:var(--ink);font-size:.82rem}
 .issue-mark{font:700 .9rem var(--font-d);letter-spacing:-.06em;color:var(--pink)}
+.stream-shortcut{font:700 .8rem var(--font-d);text-decoration:none;background:var(--yellow);
+  border:2px solid var(--ink);padding:.26rem .55rem;white-space:nowrap}
+.stream-shortcut:hover{background:var(--pink);color:#fff}
 .sample-note{font-size:.88rem;color:#4d5361;margin:-.25rem 0 1.3rem}
 .example-card{min-height:310px}
 @media(max-width:760px){main{padding-top:.8rem}.example-card{min-height:0}}
