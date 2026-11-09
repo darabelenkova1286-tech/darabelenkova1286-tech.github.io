@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-09T15:27:57+00:00",
+  "updated_at": "2026-11-09T15:30:40+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+      "title": "Hold up — I had a great time talking to the RIAA guy",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-09T15:30:40+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
       "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
@@ -199,26 +209,6 @@
       "source_name": "BBC Technology",
       "tier": "main",
       "first_seen": "2026-11-09T15:21:05+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/cp08467m0zzo",
-      "title": "Send a story",
-      "published": null,
-      "source_id": "bbc",
-      "source_name": "BBC Technology",
-      "tier": "main",
-      "first_seen": "2026-11-09T15:21:05+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/artificial-intelligence/nvidia-stock-lurches-downward-ceo-affair",
-      "title": "We Are Now Learning Whether the Stock Market Cares About an AI Executive Admitting to an Affair With an Alleged Chinese Spy",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-09T15:18:38+00:00",
       "attribution": ""
     },
     {
@@ -1659,6 +1649,16 @@
       "source_name": "antidigital",
       "tier": "russia",
       "first_seen": "2026-11-09T15:16:43+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/nvidia-stock-lurches-downward-ceo-affair",
+      "title": "We Are Now Learning Whether the Stock Market Cares About an AI Executive Admitting to an Affair With an Alleged Chinese Spy",
+      "published": "2026-11-09T10:18:20-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-09T15:18:38+00:00",
       "attribution": ""
     },
     {
@@ -14249,7 +14249,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 45,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "theverge",
@@ -14257,14 +14257,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "futurism",
@@ -14272,15 +14272,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 21,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "found": 20,
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "addmeto",
@@ -14288,7 +14288,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "xor_journal",
@@ -14296,7 +14296,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "alfa_trends",
@@ -14304,7 +14304,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "antiinfosec",
@@ -14312,7 +14312,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "antidigital",
@@ -14320,7 +14320,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 13,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "anti_agi",
@@ -14328,7 +14328,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -14336,7 +14336,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -14344,14 +14344,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     },
     {
       "id": "rozetked",
@@ -14359,7 +14359,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 15,
-      "checked_at": "2026-11-09T15:27:57+00:00"
+      "checked_at": "2026-11-09T15:30:40+00:00"
     }
   ]
 }
