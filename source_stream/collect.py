@@ -11,12 +11,17 @@ import re
 import urllib.error
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = ROOT / "source-stream.json"
 SOURCES = ROOT / "sources.json"
 USER_AGENT = "DashkaWire/1.0 (+https://darabelenkova1286-tech.github.io/)"
 MAX_TG_PAGES = 10
+NEWS_SITEMAPS = {
+    "techcrunch": "https://techcrunch.com/news-sitemap.xml",
+    "futurism": "https://futurism.com/sitemap-news.xml",
+}
 
 
 def fetch(url: str) -> str:
@@ -93,6 +98,27 @@ def collect_web(source: dict) -> tuple[list[dict], str]:
             if m:
                 published = "-".join(m.groups())
         items.append({"url": url, "title": title[:350], "published": published})
+    if source["id"] in NEWS_SITEMAPS:
+        try:
+            root = ET.fromstring(fetch(NEWS_SITEMAPS[source["id"]]))
+            for entry in root:
+                loc = next((tag.text for tag in entry if tag.tag.endswith("}loc")), "")
+                title = next((tag.text for tag in entry.iter() if tag.tag.endswith("}title")), "")
+                published = next((tag.text for tag in entry.iter() if tag.tag.endswith("}publication_date")), None)
+                url = absolute(source["url"], loc or "")
+                if not valid(source["id"], url) or not title:
+                    continue
+                post = {"url": url, "title": html.unescape(title)[:350], "published": published}
+                if url in seen:
+                    for item in items:
+                        if item["url"] == url:
+                            item.update(post)
+                            break
+                else:
+                    items.append(post)
+                    seen.add(url)
+        except (ET.ParseError, urllib.error.URLError, TimeoutError):
+            pass  # The main page still supplies links; coverage stays partial.
     return items, "listing" if items else "empty_listing"
 
 
@@ -183,6 +209,8 @@ def main() -> int:
                 posts, scope = collect_web(source)
             for post in posts:
                 if post["url"] in by_url:
+                    if post.get("published"):
+                        by_url[post["url"]]["published"] = post["published"]
                     if post.get("linked_source"):
                         by_url[post["url"]]["linked_source"] = post["linked_source"]
                     continue
