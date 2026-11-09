@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-09",
+  "items": [
+    {
+      "id": "aina-ring",
+      "published": "2026-11-05",
+      "rubric": "hardware",
+      "title_ru": "Aina открыла предзаказ кольца с экраном и управлением ИИ",
+      "title_en": "Aina opens preorders for a screen-equipped AI control ring",
+      "summary_ru": "У кольца есть OLED-экран, микрофон, динамик и механический контроллер. Производитель обещает первые поставки в начале 2027 года; это анонс и предзаказ, а не массовые продажи.",
+      "summary_en": "The ring combines an OLED display, microphone, speaker and physical controller. The company expects first shipments in early 2027; it is a preorder, not a mass-market release.",
+      "source": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "primary_source": "https://www.aina.com/about",
+      "primary_verified": true
+    },
+    {
+      "id": "serve-physical-ai-services",
+      "published": "2026-11-05",
+      "rubric": "physical_ai",
+      "title_ru": "Serve Robotics предложила другим компаниям сервисы для роботов",
+      "title_en": "Serve Robotics opens its physical AI tools to other robot builders",
+      "summary_ru": "Новая линия Physical AI Services объединяет связь с роботами, отбор данных и материалы из работы собственного флота. Bedrock Robotics названа одним из первых клиентов.",
+      "summary_en": "Physical AI Services packages robot connectivity, data curation and data from Serve's own fleet. Serve names Bedrock Robotics among its launch customers.",
+      "source": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "primary_source": "https://ir.serverobotics.com/news-releases/news-release-details/serve-robotics-launches-physical-ai-services-opening-technology",
+      "primary_verified": true
+    },
+    {
+      "id": "dropbox-tigris",
+      "published": "2026-11-05",
+      "rubric": "business",
+      "title_ru": "Dropbox договорилась купить Tigris Data за $350 млн",
+      "title_en": "Dropbox agrees to buy Tigris Data for about $350 million",
+      "summary_ru": "Сделка по покупке платформы объектного хранения для ИИ ещё не закрыта. Dropbox ожидает завершения в четвёртом квартале и одновременно представила DBX Agent Cloud.",
+      "summary_en": "The AI-oriented object storage acquisition has not closed. Dropbox expects completion in the fourth quarter and also announced DBX Agent Cloud.",
+      "source": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "primary_source": "https://investors.dropbox.com/node/14451/ixbrl-viewer",
+      "primary_verified": true
+    },
+    {
+      "id": "meta-muse-voice",
+      "published": "2026-11-05",
+      "rubric": "ai",
+      "title_ru": "Meta запустила голосовые разговоры с аватаром Muse в США",
+      "title_en": "Meta rolls out voice conversations with the Muse avatar in the US",
+      "summary_ru": "Muse Realtime Voice и Avatar позволяют говорить с агентом на телефоне, в браузере и на Mac. Для очков и будущего устройства Charm функцию пока только обещают.",
+      "summary_en": "Muse Realtime Voice and Avatar bring live conversations to mobile, web and Mac. Support for AI glasses and the planned Charm device is still upcoming.",
+      "source": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "primary_source": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+      "primary_verified": true
+    },
+    {
+      "id": "meta-muse-spaces",
+      "published": "2026-11-06",
+      "rubric": "ai",
+      "title_ru": "Meta добавила создаваемые по описанию пространства в Muse",
+      "title_en": "Meta adds prompt-built spaces to the Muse app",
+      "summary_ru": "Пользователь описывает трекер, планер или доску проекта, а Muse собирает пространство внутри приложения. Meta сообщает о доступности там, где уже работает Muse.",
+      "summary_en": "Users describe a tracker, planner or project board and Muse builds a space inside the app. Meta says it is available wherever Muse is already offered.",
+      "source": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "primary_source": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/amp/",
+      "primary_verified": true
+    },
+    {
+      "id": "gpt-6-cyber",
+      "published": "2026-11-05",
+      "rubric": "ai",
+      "title_ru": "OpenAI представила GPT-6 Cyber для авторизованных исследований безопасности",
+      "title_en": "OpenAI introduces GPT-6 Cyber for authorized security research",
+      "summary_ru": "Модель ориентирована на поиск и проверку уязвимостей. На первом этапе доступ через API и Codex получают избранные одобренные участники Daybreak Red.",
+      "summary_en": "The model targets vulnerability discovery and validation. Initial API and Codex access is limited to selected approved Daybreak Red users.",
+      "source": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "primary_source": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "primary_verified": true
+    }
+  ]
+}

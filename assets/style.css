@@ -220,3 +220,20 @@ main{padding-top:1.4rem}
 .sample-note{font-size:.88rem;color:#4d5361;margin:-.25rem 0 1.3rem}
 .example-card{min-height:310px}
 @media(max-width:760px){main{padding-top:.8rem}.example-card{min-height:0}}
+
+/* Compact verified wire follows the long reads without a story limit. */
+.wire{margin-top:2.5rem}
+.wire-strip{font:700 .86rem var(--font-d);text-transform:uppercase;letter-spacing:.08em;
+  border-top:3px solid var(--ink);border-bottom:3px solid var(--ink);padding:.6rem 0;margin-bottom:1rem}
+.wire-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
+.wire-item{background:var(--paper);border:2px solid var(--ink);padding:1rem 1.2rem;
+  box-shadow:4px 4px 0 var(--ink);display:flex;flex-direction:column;align-items:flex-start}
+.wire-item:nth-child(4n+2),.wire-item:nth-child(4n+3){background:#edf1ff}
+.wire-meta{display:flex;align-items:center;gap:.55rem;flex-wrap:wrap;font:700 .72rem var(--font-d)}
+.wire-meta time{color:#50586b}.wire-meta .attribution{margin:0;font-size:.68rem}
+.wire-item h3{font:700 1.18rem/1.22 var(--font-d);letter-spacing:-.025em;margin:.75rem 0 .35rem}
+.wire-item p{font-size:.9rem;margin:.2rem 0 .8rem}
+.wire-links{display:flex;gap:.7rem 1rem;flex-wrap:wrap;margin-top:auto;font:700 .75rem var(--font-d)}
+.wire-links a{text-decoration:none;border-bottom:2px solid var(--pink)}
+.wire-links a:hover{color:var(--pink)}
+@media(max-width:760px){.wire-list{grid-template-columns:1fr}.wire{margin-top:2rem}}
