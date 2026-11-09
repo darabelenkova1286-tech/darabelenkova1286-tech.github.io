@@ -31,3 +31,66 @@
 document.querySelectorAll('img').forEach(function (img) {
   img.addEventListener('error', function () { img.style.display = 'none'; });
 });
+
+// The unedited source stream is kept separate from verified editorial stories.
+(function () {
+  var list = document.getElementById('stream-list');
+  if (!list) return;
+  var select = document.getElementById('stream-source');
+  var count = document.getElementById('stream-count');
+  var more = document.getElementById('stream-more');
+  var coverage = document.getElementById('stream-coverage');
+  var data = { items: [], sources: [] };
+  var visible = 60;
+  function label(ru, en) { return document.body.classList.contains('en') ? en : ru; }
+  function node(tag, cls, text) {
+    var el = document.createElement(tag);
+    if (cls) el.className = cls;
+    if (text) el.textContent = text;
+    return el;
+  }
+  function render() {
+    var chosen = select.value;
+    var items = data.items.filter(function (x) { return chosen === 'all' || x.source_id === chosen; });
+    list.replaceChildren();
+    items.slice(0, visible).forEach(function (x) {
+      var row = node('article', 'stream-row');
+      var meta = node('div', 'stream-meta');
+      meta.appendChild(node('span', 'stream-name', x.source_name));
+      if (x.attribution) meta.appendChild(node('span', 'stream-attribution', x.attribution));
+      meta.appendChild(node('span', '', x.published ? x.published.slice(0, 16).replace('T', ' ') : label('Обнаружено ', 'Found ') + x.first_seen.slice(0, 16).replace('T', ' ')));
+      row.appendChild(meta);
+      var link = node('a', 'stream-title', x.title);
+      link.href = x.url;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      row.appendChild(link);
+      list.appendChild(row);
+    });
+    if (!items.length) list.appendChild(node('p', 'stream-loading', label('Публикаций пока нет.', 'No posts collected yet.')));
+    count.textContent = label('Собрано ', 'Collected ') + items.length + label(' · показано ', ' · shown ') + Math.min(visible, items.length);
+    more.hidden = items.length <= visible;
+  }
+  select.addEventListener('change', function () { visible = 60; render(); });
+  more.addEventListener('click', function () { visible += 60; render(); });
+  fetch('source-stream.json', { cache: 'no-store' }).then(function (response) {
+    if (!response.ok) throw new Error('HTTP ' + response.status);
+    return response.json();
+  }).then(function (value) {
+    data = value;
+    (data.sources || []).forEach(function (source) {
+      var option = node('option', '', source.name);
+      option.value = source.id;
+      select.appendChild(option);
+      var line = node('p', 'coverage-row');
+      line.appendChild(node('strong', '', source.name + ' · '));
+      var status = source.status === 'ok' ? label('доступен', 'available') : source.status === 'partial' ? label('неполный охват', 'partial coverage') : label('сбор не удался', 'collection failed');
+      line.appendChild(node('span', source.status === 'ok' ? 'coverage-ok' : 'coverage-failed', status));
+      if (source.error) line.appendChild(node('span', '', ' · ' + source.error));
+      coverage.appendChild(line);
+    });
+    render();
+  }).catch(function () {
+    list.replaceChildren(node('p', 'stream-loading', label('Лента источников пока недоступна.', 'Source stream is currently unavailable.')));
+  });
+})();

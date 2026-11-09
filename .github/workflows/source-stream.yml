@@ -1,0 +1,35 @@
+name: DASHKA WIRE source stream
+
+on:
+  schedule:
+    # Collect throughout the day; the edited edition remains a morning task.
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dashka-wire-source-stream
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Collect direct source pages
+        run: python3 source_stream/collect.py
+      - name: Publish stream and coverage status
+        run: |
+          git config user.name "DASHKA WIRE source stream"
+          git config user.email "323653926+darabelenkova1286-tech@users.noreply.github.com"
+          git add source-stream.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update direct source stream"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
