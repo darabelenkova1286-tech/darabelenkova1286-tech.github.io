@@ -1,8 +1,8 @@
 [
-  {"id":"techcrunch","name":"TechCrunch","url":"https://techcrunch.com/feed/","kind":"rss","tier":"main"},
-  {"id":"theverge","name":"The Verge","url":"https://www.theverge.com/rss/index.xml","kind":"rss","tier":"main"},
+  {"id":"techcrunch","name":"TechCrunch","url":"https://techcrunch.com/","kind":"manual","tier":"main"},
+  {"id":"theverge","name":"The Verge","url":"https://www.theverge.com/","kind":"manual","tier":"main"},
   {"id":"theinformation","name":"The Information · Technology","url":"https://www.theinformation.com/technology","kind":"manual","tier":"main","note":"Облачный редактор открывает страницу отдельно; полный текст может быть закрыт подпиской."},
-  {"id":"futurism","name":"Futurism","url":"https://futurism.com/feed","kind":"rss","tier":"main"},
+  {"id":"futurism","name":"Futurism","url":"https://futurism.com/","kind":"manual","tier":"main"},
   {"id":"bbc","name":"BBC Technology","url":"https://www.bbc.co.uk/news/technology","kind":"manual","tier":"main","note":"Облачный редактор просматривает раздел напрямую, без RSS."},
   {"id":"addmeto","name":"addmeto","url":"https://t.me/s/addmeto","kind":"telegram","tier":"main"},
   {"id":"xor_journal","name":"xor_journal","url":"https://t.me/s/xor_journal","kind":"telegram","tier":"main"},

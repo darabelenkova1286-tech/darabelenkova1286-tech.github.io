@@ -16,3 +16,6 @@ Publisher: darabelenkova1286-tech — https://github.com/darabelenkova1286-tech
 - Repository: https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io
 
 ## Latest articles
+- [Yandex tests driverless container handling at an active yard](https://darabelenkova1286-tech.github.io/e/2026-11-09/01-yandex-robotruck-container-yard.html) — The truck drove about 1.5 km through an operating yard and completed a container operation, with a remote operator and onboard observer still involved.
+- [Physicl raises $10 million for targeted robot training data](https://darabelenkova1286-tech.github.io/e/2026-11-09/02-physicl-robot-simulation.html) — Its Studio product recreates conditions in which a model fails, letting researchers train and evaluate changes in simulation.
+- [Amazon brings Alexa for Shopping to text messages](https://darabelenkova1286-tech.github.io/e/2026-11-09/03-alexa-shopping-text.html) — A small invited group in the US can text the shopping agent, with broader access planned over the coming weeks.

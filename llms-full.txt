@@ -1,1 +1,98 @@
 # dashka-wire — full content (llms-full.txt)
+
+
+
+===== EDITION 1 — 2026-11-09 =====
+
+## От редакции
+
+Первый выпуск DASHKA WIRE собирает три проверенных события 5–6 ноября. Amazon расширяет способы общения с торговым ИИ, Physicl предлагает точнее моделировать сложные ситуации для роботов, а Яндекс испытывает автономный грузовик на действующей контейнерной площадке. Даты событий и первоисточники указаны в каждой статье.
+
+## Editorial
+
+The first DASHKA WIRE edition covers three verified developments from November 5–6. Amazon is adding text messaging to its shopping assistant, Physicl is building targeted training data for robots, and Yandex has tested an autonomous truck in an operating container yard. Each story identifies its event date and primary source.
+
+
+----- 01-yandex-robotruck-container-yard (yandex) — primary: https://autonomy.yandex.ru/blog/kak-my-nauchili-robotrak-samostoyatelno-rabotat-na-kontejnernoj-ploshadke -----
+
+## Русская версия
+
+Яндекс [сообщил 5 ноября](https://autonomy.yandex.ru/blog/kak-my-nauchili-robotrak-samostoyatelno-rabotat-na-kontejnernoj-ploshadke) об испытании роботрака на действующей контейнерной площадке. Грузовик проехал примерно полтора километра по закрытой территории и прошёл операцию с разгрузкой и новой погрузкой контейнера. Водительское кресло оставалось пустым, а система автономного вождения управляла машиной на маршруте. Это проверка отдельного участка логистической цепочки, а не объявление о полностью автономной коммерческой перевозке от отправителя до получателя.
+
+Сложность площадки не в длине пути. Погрузчик может оказаться в разных местах, рядом работают люди и другая техника, а грузовику нужно остановиться достаточно точно для работы с контейнером. В описанном тесте удалённый оператор по камерам проверял обстановку и подтверждал, к какому погрузчику подъехать. Затем роботрак сам строил траекторию, останавливался и включал стояночный тормоз. После завершения операции оператор подтверждал продолжение движения. Яндекс отдельно проверял блокировки, препятствующие движению, пока с контейнером работают.
+
+Компания описывает и ограничения автономности. Когда возле перехода сидел человек и намерение пешехода было неясно, система запросила решение удалённого оператора. В кабине на пассажирском сиденье находился наблюдатель с кнопкой экстренной остановки. Поэтому формулировка «без человека за рулём» точнее, чем «без участия человека». Яндекс также указывает ограничение скорости площадки в 10 км/ч; это правило территории, а не измерение скорости технологии.
+
+### Почему это важно
+
+Автономным грузовикам недостаточно уверенно ехать по трассе: они должны вписаться в реальную работу складов. Испытание показывает, как команда решает задачи точной остановки и взаимодействия с погрузочной техникой. Следующий заявленный шаг — связать операции на площадках с автономным движением по дорогам в один маршрут. До такой демонстрации текущий результат следует считать испытанием конкретного сценария.
+
+## English version
+
+On November 5, [Yandex described](https://autonomy.yandex.ru/blog/kak-my-nauchili-robotrak-samostoyatelno-rabotat-na-kontejnernoj-ploshadke) a test of its autonomous truck at an operating container yard. The vehicle drove roughly 1.5 kilometres on closed premises and completed a container unloading and loading operation. Its driver's seat was empty while the autonomous driving system controlled the truck along the route. This was a test of one part of freight logistics, not an announcement of an end-to-end commercial journey without human involvement.
+
+The distance was short, but the environment was not fixed. A container handler can be in a different location each time, while people and other vehicles continue working nearby. The truck needs to approach the correct machine and stop accurately enough to transfer a container. In this test, a remote operator checked camera views and confirmed which handler the truck should approach. The truck then planned its path, positioned itself, stopped, and applied its parking brake. The operator confirmed when it could move again. Yandex says it also tested interlocks intended to prevent movement during container handling.
+
+The company's account makes the limits clear. When a person sat near a crossing and their intention was ambiguous, the system asked the remote operator for help. An observer remained in the passenger seat with an emergency stop button. "No driver at the wheel" is therefore more precise than "no human in the loop." Yandex also cites a 10 km/h limit in the yard; that is the site's traffic rule, not a measured capability of the truck.
+
+### Why it matters
+
+Highway driving is only part of an autonomous freight route. A truck must also fit into ordinary depot and container-yard operations. This test shows progress on precise positioning and coordination with existing machinery. Yandex says the next goal is to connect autonomous yard work with road travel in a single route. Until that full journey is shown, this result remains a test of a defined use case.
+
+
+----- 02-physicl-robot-simulation (business) — primary: https://www.globenewswire.com/news-release/2026/11/06/3397485/0/en/physicl-raises-10-million-to-solve-physical-ai-s-edge-case-gap.html -----
+
+## Русская версия
+
+Стартап Physicl [объявил 6 ноября](https://www.globenewswire.com/news-release/2026/11/06/3397485/0/en/physicl-raises-10-million-to-solve-physical-ai-s-edge-case-gap.html) о привлечении $10 млн посевных инвестиций. Раунд возглавила Inovia Capital, в нём также участвовала US Venture Partners. Повод заметил TechCrunch, но цифры и описание продукта мы сверили с пресс-релизом самой компании. Вместе с финансированием Physicl представила Studio — инструмент для создания тренировочных сцен и данных для физикал ИИ.
+
+Задача продукта сформулирована довольно конкретно. Модели, управляющие роботами или восстанавливающие трёхмерную сцену, могут ошибаться в редких сочетаниях условий: другой свет, непривычная точка камеры, частично закрытый предмет. Собрать достаточно реальных примеров каждой такой ситуации сложно. В Studio исследователь выбирает среду или описывает проблему, меняет параметры сцены и получает набор данных с известным правильным ответом. Такой набор можно использовать для дообучения и проверки, стала ли модель устойчивее к нужному типу ошибки.
+
+По заявлению Physicl, в продукте доступны 10 тысяч трёхмерных сред и более 100 тысяч объектов, из которых можно составлять множество вариантов сцен. Эти цифры описывают каталог и потенциальные комбинации, а не доказанную надёжность какого-либо робота. Компания приводит пример сотрудничества со SpAItial: после добавления данных Physicl ошибка модели при реконструкции комнат, по её словам, снизилась более чем вдвое. Независимых результатов для широкого набора роботов в пресс-релизе нет.
+
+### Почему это важно
+
+В физикал ИИ выигрыш часто зависит от того, как быстро команда находит и разбирает редкие сбои. Physicl продаёт инфраструктуру для этого цикла, а не готового робота. Инвестиции и запуск Studio показывают спрос на более точные симуляции; масштабный эффект в реальном мире ещё предстоит подтвердить. Сумму раунда и параметры продукта разумно читать как заявления компании, подтверждённые её официальным сообщением.
+
+## English version
+
+Physicl [announced on November 6](https://www.globenewswire.com/news-release/2026/11/06/3397485/0/en/physicl-raises-10-million-to-solve-physical-ai-s-edge-case-gap.html) that it had raised $10 million in seed funding. Inovia Capital led the round, with US Venture Partners participating. TechCrunch reported the story, while the funding figure and product details come from the company's own release. Alongside the financing, Physicl introduced Studio, a tool for producing training scenes and ground-truth data for physical AI systems.
+
+The product addresses a specific problem. Models that control robots or reconstruct three-dimensional scenes can fail when conditions change in unusual ways: different lighting, a new camera angle, or an object partly hidden by clutter. Collecting real examples for every combination is difficult. Studio lets a researcher select an environment or describe a weakness, change scene variables, and generate examples with known correct answers. Those examples can then be used to train the model and check whether it handles that particular failure better.
+
+Physicl says Studio offers 10,000 three-dimensional environments and more than 100,000 assets, allowing many scene variations. These figures describe the available catalogue and possible combinations; they are not evidence that a robot has become reliable in the field. The company cites a collaboration with SpAItial, saying data from Physicl helped more than halve one model's room-reconstruction error. The release does not provide independent results across a broad range of robots.
+
+### Why it matters
+
+Progress in physical AI often depends on how quickly teams can identify and address rare failures. Physicl is selling infrastructure for that cycle, rather than a finished robot. The funding and Studio launch indicate demand for more faithful simulation, while a wider real-world impact still needs demonstration. The round size and product specifications should be read as company claims supported by its formal announcement.
+
+
+----- 03-alexa-shopping-text (ai) — primary: https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop -----
+
+## Русская версия
+
+Amazon [объявила 6 ноября](https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop), что торговому помощнику Alexa for Shopping теперь можно писать обычные текстовые сообщения. На старте функция доступна небольшой группе приглашённых клиентов в США. Компания обещает расширить доступ в следующие недели, но всеобщий запуск пока не состоялся. О новости сообщил TechCrunch; условия запуска и возможности мы проверили по собственному описанию Amazon.
+
+Помощник должен принимать свободно сформулированные запросы: подобрать подарок, найти товар, собрать корзину продуктов, проверить заказ или отслеживать снижение цены. Пользователь может прислать фотографию вещи и попросить найти похожую. Amazon также описывает переход разговора из SMS в приложение или на сайт без начала заново. Это делает текстовые сообщения ещё одним интерфейсом к уже существующему торговому агенту, а не отдельной новой моделью ИИ.
+
+Здесь важны границы запуска. Для доступа нужно приглашение, согласие с условиями и привязка номера телефона. Компания пишет, что агент способен помогать с покупками и даже оформлять заказ, но в одном из примеров повторной покупки прямо указывает на одобрение пользователя. Из опубликованного описания нельзя заключить, что у всех клиентов появилась возможность полностью автоматических покупок по SMS. Сведения о работе функции за пределами США в объявлении также отсутствуют.
+
+Amazon приводит свои метрики использования Alexa for Shopping: более 400 млн клиентов за последние 12 месяцев и рост числа пользователей агентных функций более чем в восемь раз с начала года. Это данные компании, а не независимая оценка новой SMS-функции. Отдельной статистики по приглашённой тестовой группе пока нет.
+
+### Почему это важно
+
+Торговые агенты постепенно переходят из отдельного окна приложения в привычные каналы общения. Такому формату проще вписаться в повседневные покупки, но качество рекомендаций, контроль действий и прозрачность подтверждения заказов придётся оценивать после расширения доступа. Пока речь идёт о раннем запуске конкретной функции в США.
+
+## English version
+
+Amazon [announced on November 6](https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop) that customers can now contact Alexa for Shopping through ordinary text messages. The feature initially reaches a small invited group in the United States. Amazon says access will widen over the coming weeks; a general rollout has not happened yet. TechCrunch reported the development, while the availability and feature details were checked against Amazon's own announcement.
+
+The assistant is meant to handle requests written in everyday language. A customer can ask for a gift idea, find a product, assemble a grocery basket, check an order, or monitor a price drop. Amazon says users can also send a photo and ask for similar products. A conversation begun by text can continue in the shopping app or on the website. Text messaging is therefore another interface to an existing shopping agent, rather than the launch of a separate new AI model.
+
+The launch has clear limits. Access requires an invitation, agreement to terms, and a linked phone number. Amazon describes an agent that can assist with purchases and complete orders, but one of its reorder examples explicitly mentions customer approval. The announcement does not establish that every customer can now authorize fully automatic buying by text. Nor does it describe availability outside the United States.
+
+Amazon cites its own usage figures for Alexa for Shopping: more than 400 million customers over the past 12 months and an increase of more than eightfold in customers using agentic features since the start of the year. Those are company figures for the broader service, not an independent assessment of the new messaging feature. No separate adoption data for the invited group has been published.
+
+### Why it matters
+
+Shopping agents are moving from a dedicated app window into familiar communication channels. That could make them easier to use during ordinary errands, but recommendation quality, control over actions, and clear purchase confirmation need to be judged as access grows. For now this is an early US rollout of one specific interface.
