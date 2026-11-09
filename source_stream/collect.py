@@ -117,6 +117,8 @@ class Posts(HTMLParser):
                 self.text_depth = self.depth
             if tag == "time" and a.get("datetime"):
                 self.current["published"] = a["datetime"]
+            if self.text_depth and tag == "a" and a.get("href", "").startswith("https://autonomy.yandex.ru/blog/"):
+                self.current["linked_source"] = absolute("https://autonomy.yandex.ru", a["href"])
 
     def handle_data(self, data):
         if self.current is not None and self.text_depth:
@@ -181,6 +183,8 @@ def main() -> int:
                 posts, scope = collect_web(source)
             for post in posts:
                 if post["url"] in by_url:
+                    if post.get("linked_source"):
+                        by_url[post["url"]]["linked_source"] = post["linked_source"]
                     continue
                 post.update(source_id=source["id"], source_name=source["name"],
                             tier=source["tier"], first_seen=now,
@@ -195,6 +199,10 @@ def main() -> int:
             status.append({"id": source["id"], "name": source["name"], "status": "unavailable",
                            "error": f"{type(exc).__name__}: {str(exc)[:100]}", "checked_at": now})
             print(f"{source['id']}: unavailable ({type(exc).__name__})")
+    yandex_blog_urls = {url for url, item in by_url.items() if item["source_id"] == "autonomy_yandex"}
+    for url, item in list(by_url.items()):
+        if item["source_id"] == "autonomy_yandex_tg" and item.get("linked_source") in yandex_blog_urls:
+            del by_url[url]
     items = sorted(by_url.values(), key=lambda x: (x.get("published") or x["first_seen"], x["first_seen"]), reverse=True)
     OUTPUT.write_text(json.dumps({"updated_at": now, "items": items, "sources": status},
                                  ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

@@ -43,6 +43,16 @@ document.querySelectorAll('img').forEach(function (img) {
   var data = { items: [], sources: [] };
   var visible = 60;
   function label(ru, en) { return document.body.classList.contains('en') ? en : ru; }
+  function dateLabel(value) {
+    if (!value) return '';
+    if (value.length <= 10) return value;
+    var date = new Date(value);
+    if (isNaN(date.getTime())) return value.slice(0, 16).replace('T', ' ');
+    return new Intl.DateTimeFormat(document.body.classList.contains('en') ? 'en-GB' : 'ru-RU', {
+      timeZone: 'Europe/Moscow', day: '2-digit', month: '2-digit', year: 'numeric',
+      hour: '2-digit', minute: '2-digit'
+    }).format(date) + ' MSK';
+  }
   function node(tag, cls, text) {
     var el = document.createElement(tag);
     if (cls) el.className = cls;
@@ -58,7 +68,7 @@ document.querySelectorAll('img').forEach(function (img) {
       var meta = node('div', 'stream-meta');
       meta.appendChild(node('span', 'stream-name', x.source_name));
       if (x.attribution) meta.appendChild(node('span', 'stream-attribution', x.attribution));
-      meta.appendChild(node('span', '', x.published ? x.published.slice(0, 16).replace('T', ' ') : label('Обнаружено ', 'Found ') + x.first_seen.slice(0, 16).replace('T', ' ')));
+      meta.appendChild(node('span', '', x.published ? dateLabel(x.published) : label('Обнаружено ', 'Found ') + dateLabel(x.first_seen)));
       row.appendChild(meta);
       var link = node('a', 'stream-title', x.title);
       link.href = x.url;
