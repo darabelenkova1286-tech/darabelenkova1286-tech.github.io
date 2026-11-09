@@ -74,7 +74,10 @@ var DashkaFeedback = (function () {
   function sourceKey(url) {
     try {
       var p = new URL(url);
-      if (p.hostname === 't.me') return p.pathname.split('/')[1] || 'telegram';
+      if (p.hostname === 't.me') {
+        var channel = p.pathname.split('/')[1] || 'telegram';
+        return channel === 'autonomy_yandex' ? 'autonomy_yandex_tg' : channel;
+      }
       var host = p.hostname.replace(/^www\./, '');
       return ({ 'techcrunch.com': 'techcrunch', 'theverge.com': 'theverge',
         'futurism.com': 'futurism', 'bbc.co.uk': 'bbc', 'bbc.com': 'bbc',
@@ -119,19 +122,35 @@ var DashkaFeedback = (function () {
     high.textContent = '10';
     scale.appendChild(low);
     scale.appendChild(high);
+    var clear = document.createElement('button');
+    clear.type = 'button';
+    clear.className = 'rating-clear';
+    clear.innerHTML = '<span class="lang-ru">Сбросить</span><span class="lang-en">Clear</span>';
+    clear.hidden = !previous;
     target.appendChild(label);
     target.appendChild(input);
     target.appendChild(output);
     target.appendChild(scale);
+    target.appendChild(clear);
     input.addEventListener('input', function () {
       var score = Number(input.value);
       output.textContent = score + ' / 10';
       state.ratings[item.url] = { score: score, title: item.title, source: item.source || sourceKey(item.url),
         topics: topics(item.title, item.rubric), updated_at: new Date().toISOString() };
       save();
+      clear.hidden = false;
       window.dispatchEvent(new Event('dashka-feedback-changed'));
     });
     input.addEventListener('change', function () {
+      window.dispatchEvent(new Event('dashka-feedback-committed'));
+    });
+    clear.addEventListener('click', function () {
+      delete state.ratings[item.url];
+      save();
+      input.value = 5;
+      output.textContent = '— / 10';
+      clear.hidden = true;
+      window.dispatchEvent(new Event('dashka-feedback-changed'));
       window.dispatchEvent(new Event('dashka-feedback-committed'));
     });
   }

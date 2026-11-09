@@ -269,6 +269,9 @@ main{padding-top:1.4rem}
 .rating-widget output{min-width:3.4rem;text-align:right;font:700 .75rem var(--font-d)}
 .rating-ends{grid-column:2;display:flex;justify-content:space-between;color:#626977;
   font:600 .63rem var(--font-d);line-height:1}
+.rating-clear{grid-column:3;border:0;background:transparent;padding:0;color:#50586b;
+  text-decoration:underline;font:600 .65rem var(--font-d);cursor:pointer}
+.rating-clear:hover{color:var(--pink)}
 .stream-row .rating-widget{margin:.45rem 0 0}
 .article .rating-widget{margin:1rem 0}
 .stream-loading{font-size:.88rem}
