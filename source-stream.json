@@ -1,6 +1,286 @@
 {
-  "updated_at": "2026-11-10T07:28:35+00:00",
+  "updated_at": "2026-11-10T12:26:11+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/gadgets/1030358/waze-will-tell-drivers-when-theres-a-garmin-using-cyclist-nearby",
+      "title": "Waze will tell drivers when there’s a Garmin-using cyclist nearby.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
+      "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
+      "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/advanced-transport/tesla-cybertruck-returning-deposits",
+      "title": "Tesla Starts Humiliating Prospect of Returning Cybertruck Deposits It Couldn’t Deliver On",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmy0e04ll8w0o",
+      "title": "Amazon drone deliveries granted huge extension",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cw33xl43xgdpo",
+      "title": "Football Manager series shines a light on video game representation",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49381-v-seti-poyavilis-soobscheniya-o-kriticheskoy-uyazvimosti-v-ios-mozhno-lishit-sya-kriptokoshel-kov",
+      "title": "В iOS обнаружена критическая уязвимость — можно лишиться криптокошельков",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49380-mts-sovmestno-s-uchi-ru-zapustili-vserossiyskuyu-olimpiadu-po-kiberbezopasnosti",
+      "title": "МТС и «Учи.ру» объявили о старте Всероссийской олимпиады по кибербезопасности",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49379-robodostavka-yandeksa-zarabotala-v-ekaterinburge-rovery-vozyat-zakazy-iz-yandeks-lavki",
+      "title": "Рободоставка «Яндекса» заработала в Екатеринбурге — роверы возят заказы из «Яндекс Лавки»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49378-motorola-zapustila-beta-testirovanie-android-17-kakie-esche-smartfony-obnovyatsya",
+      "title": "Motorola запустила бета-тестирование Android 17: какие ещё смартфоны обновятся?",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49377-utekli-makety-iphone-air-2-i-iphone-18",
+      "title": "Утекли макеты iPhone Air 2 и iPhone 18",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49376-yandeks-pey-vypustil-prilozhenie-dlya-oplaty-smart-chasami-huawei",
+      "title": "«Яндекс Пэй» выпустил приложение для оплаты смарт-часами Huawei",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49375-codam-v-rossii-predlagayut-otklyuchat-neprioritetnyh-klientov-dlya-raboty-belyh-spiskov",
+      "title": "Дата-центрам в России предлагают отключать клиентов для работы «белых списков»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49374-za-dva-mesyaca-v-rossii-zaveli-tol-ko-300-tysyach-koshel-kov-dlya-cifrovyh-rubley",
+      "title": "За два месяца в России завели только 300 тысяч кошельков для цифровых рублей",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12887",
+      "title": "Цифровой рубль: открыли, попробовали, забыли Россияне открывают в неделю примерно по 30 тысяч кошельков с цифровыми рублями. Вот только пользуются они ими всё реже. В первые дни массового запуска проводили около 5 тысяч операций в день, сейчас около 3 тысяч. Типичный сценарий: человек открыл кошелёк, перевёл немного денег сам себе, посмотрел и забы",
+      "published": "2026-11-10T12:12:01+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10467",
+      "title": "Gemini, за что ты так с нами 😭 Советы у него больше не спрашиваем. @xor_journal",
+      "published": "2026-11-10T12:04:44+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/addmeto/6229",
+      "title": "Apple начала продавать доступ к ИИ сверх месячного лимита. Пока только в Logic Pro, там появилась кнопка Buy More Usage и единственный вариант, разовый «intelligence usage pack» за $50. Неиспользованное переносится на следующий месяц и сгорает через 12 месяцев после покупки. В этом месяце такие паки ждут в Final Cut Pro, Pixelmator Pro и iWork. Инт",
+      "published": "2026-11-10T11:44:16+00:00",
+      "source_id": "addmeto",
+      "source_name": "addmeto",
+      "tier": "main",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12886",
+      "title": "Что вы чувствуете, когда видите трейлер? Связаны. — Связаны Amazon опубликовал финальный трейлер сериала «Бегущий по лезвию 2099». В новой части франшизы репликанты подняли восстание и победили человечество, а люди теперь оказались угнетаемым классом. Главная героиня Кора скрывается от преследователей и пытается выжить, выдавая выдать себя за бегущ",
+      "published": "2026-11-10T11:17:01+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1649",
+      "title": "Boston Dynamics поставила робота Atlas на колёса 🛞 Инженеры заменили ноги робота на колёса от обычного самоката. Теперь Atlas умеет разгоняться, разворачиваться на 360 градусов и эффектно скользить боком. Разработчики хотели выяснить, насколько точно поведение робота в симуляции переносится на реальные механизмы . Впрочем, в серийную модель Atlas в",
+      "published": "2026-11-10T11:03:38+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/xor_journal/10466",
+      "title": "Никогда еще инвесторы так тщательно не следили за чужой интрижкой 😂 @xor_journal",
+      "published": "2026-11-10T10:44:09+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12885",
+      "title": "Публикация с медиа без подписи",
+      "published": "2026-11-10T10:35:29+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12884",
+      "title": "Скинут ли Хуанга? Вопрос повис в воздухе, ведь наш ловелас доигрался до независимого расследования. Совет директоров Nvidia разбирается в любовной истории Дженсена Хуанга и Элис Хуан — бывшей руководительницы сингапурской Megaspeed. Руководству компании предстоит выяснить, были ли скомпрометированы не только семейные узы, но секреты компании или на",
+      "published": "2026-11-10T10:33:01+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2287",
+      "title": "Публикация с медиа без подписи",
+      "published": "2026-11-10T10:08:03+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12883",
+      "title": "Акционеры «Т-Технологии» могут получить 4,8 руб. на акцию в качестве дивиденда за III квартал Такую рекомендацию дал сегодня совет директоров. Сейчас в обращении порядка 2,683 млрд акций, значит общий объём выплат составит около 12,9 млрд руб . Дивидендная доходность по текущей цене — 1,77–1,8%. Окончательное решение должны принять акционеры на общ",
+      "published": "2026-11-10T09:44:28+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2286",
+      "title": "Тем временем у армянского радио запрещённого в РФ фейсбука нашёлся свой кандидат на роль нового CEO — Рев Лебаредян. Он руководит Omniverse, а его нынешняя должность в Nvidia — вице-президент по симуляции физического ИИ. В компании работает с 2002 года, так что кожаную куртку видел ещё до того, как она стала символом мировой экономики. Лебаредян — ",
+      "published": "2026-11-10T09:42:36+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2285",
+      "title": "Скинут ли Хуанга? Вопрос повис в воздухе, ведь наш ловелас доигрался до независимого расследования. Совет директоров Nvidia разбирается в любовной истории Дженсена Хуанга и Элис Хуан — бывшей руководительницы сингапурской Megaspeed. Руководству компании предстоит выяснить, были ли скомпрометированы не только семейные узы, но секреты компании или на",
+      "published": "2026-11-10T09:31:40+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2284",
+      "title": "🤖 AID — AI-дайджест от @anti_agi Все на нервах. Вчера вечером Anthropic вышла было на финишную прямую перед IPO, но нет. Компания разослала банкам условия размещения: около 867 млн акций по $70–80 (оценка $1,27-$1,45 трлн ). Это до $69,3 млрд . Еще $26 млрд по цене IPO должны были вложить Google , Nvidia , AMD , Broadcom , Micron , Microsoft и TSMC",
+      "published": "2026-11-10T08:20:07+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12882",
+      "title": "Доброе утро! ❤️ 1️⃣ Владельцев коммерческих ЦОДов могут обязать отключать неприоритетных клиентов , чтобы освободить 10% мощностей для сервисов из белых списков. На исполнение запроса операторам дадут 24 часа , а такие отключения признают форс-мажором. За неисполнение требований президентского указа компаниям может грозить введение временного управ",
+      "published": "2026-11-10T08:15:46+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
       "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
@@ -15179,22 +15459,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 54,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 64,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "found": 61,
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "futurism",
@@ -15202,7 +15482,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "bbc",
@@ -15210,7 +15490,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 20,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "addmeto",
@@ -15218,15 +15498,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 17,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "found": 16,
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "alfa_trends",
@@ -15234,7 +15514,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "antiinfosec",
@@ -15242,15 +15522,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "antidigital",
       "name": "antidigital",
       "status": "ok",
       "scope": "known_post",
-      "found": 13,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "found": 17,
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "anti_agi",
@@ -15258,15 +15538,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
       "name": "Яндекс Автономность · Telegram",
       "status": "ok",
       "scope": "known_post",
-      "found": 16,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "found": 15,
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -15274,22 +15554,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "checked_at": "2026-11-10T12:26:11+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 16,
-      "checked_at": "2026-11-10T07:28:35+00:00"
+      "found": 17,
+      "checked_at": "2026-11-10T12:26:11+00:00"
     }
   ]
 }
