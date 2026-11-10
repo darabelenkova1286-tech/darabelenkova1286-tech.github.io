@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-11-10T00:16:04+00:00",
+  "updated_at": "2026-11-10T07:28:35+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm5yndd6190eo",
+      "title": "'How AI helped me remember my grandad'",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
+      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po",
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo",
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://autonomy.yandex.ru/blog/robodostavka-masshtabiruetsya-na-urale-rovery-yandeksa-nachali-privozit-zakazy-zhitelyam-ekaterinburga",
+      "title": "Рободоставка масштабируется на Урале — роверы Яндекса начали привозить заказы жителям Екатеринбурга",
+      "published": null,
+      "source_id": "autonomy_yandex",
+      "source_name": "Яндекс Автономность",
+      "tier": "russia",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49373-entuziast-razblokiroval-ciferblaty-herm-s-dlya-obychnyh-apple-watch",
+      "title": "Энтузиаст разблокировал циферблаты Hermès для обычных Apple Watch",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49372-motorola-sluchayno-podtverdila-chto-vypustit-shirokuyu-raskladushku-v-2027-godu",
+      "title": "Motorola случайно подтвердила, что выпустит широкую «раскладушку» в 2027 году",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49371-aoc-vypustila-31-5-dyuymovyy-4k-monitor-u32u4-s-pyatisloynoy-qd-oled-matricey",
+      "title": "AOC выпустила 31,5-дюймовый 4K-монитор U32U4 с пятислойной QD-OLED-матрицей",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49370-openai-i-modretro-predstavili-retro-konsol-dlya-igr-sozdannyh-pri-pomoschi-codex",
+      "title": "OpenAI и ModRetro представили ретро-консоль для игр, созданных при помощи Codex",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49369-mvd-rossii-nachnet-prinimat-onlayn-zayavleniya-o-prestupleniyah",
+      "title": "МВД России собирается приравнять онлайн-заявления о преступлениях к бумажным",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49368-alawar-anonsirovala-beholder-4-o-molodom-chinovnike-veduschem-dvoynuyu-zhizn",
+      "title": "Alawar анонсировала Beholder 4 о молодом чиновнике, ведущем двойную жизнь",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49366-apple-vypustila-ios-27-2-1",
+      "title": "Apple выпустила iOS 27.2.1",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "published": "2026-11-10T07:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10463",
+      "title": "Fable 5.2 пришел за разработчиками игр — в сети делятся топовыми проектами, созданными ИИ буквально за пару промптов 😳 Вот лишь несколько безумных примеров: 🟢 Модель создала 3D-шутер с графикой в духе AAA-игр. С нуля сделала текстуры, звуки, окружение и игровую механику за 8 часов и $550. Поиграть можно тут . 🟢 Другой разраб создал реалистичную вир",
+      "published": "2026-11-10T05:49:22+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass",
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "published": "2026-11-10T05:18:43+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes",
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "published": "2026-11-10T04:34:15+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "published": "2026-11-10T01:27:12+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
       "title": "What could China get from Jensen Huang?",
@@ -14998,23 +15178,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 51,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "found": 54,
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 66,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "found": 64,
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "futurism",
@@ -15022,7 +15202,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "bbc",
@@ -15030,7 +15210,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 20,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "addmeto",
@@ -15038,15 +15218,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 19,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "found": 17,
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "alfa_trends",
@@ -15054,7 +15234,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "antiinfosec",
@@ -15062,7 +15242,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "antidigital",
@@ -15070,7 +15250,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 13,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "anti_agi",
@@ -15078,7 +15258,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -15086,7 +15266,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -15094,14 +15274,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "checked_at": "2026-11-10T07:28:35+00:00"
     },
     {
       "id": "rozetked",
@@ -15109,7 +15289,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 16,
-      "checked_at": "2026-11-10T00:16:04+00:00"
+      "checked_at": "2026-11-10T07:28:35+00:00"
     }
   ]
 }
