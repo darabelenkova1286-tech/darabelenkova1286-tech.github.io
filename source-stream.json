@@ -1,6 +1,586 @@
 {
-  "updated_at": "2026-11-10T12:26:11+00:00",
+  "updated_at": "2026-11-10T16:26:30+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "title": "Adobe is going all in on agentic AI",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
+      "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
+      "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+      "title": "The Verge’s 2026 holiday gift guide for moms",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1030134/google-deepminds-new-ai-model-gives-robots-improved-dexterity",
+      "title": "Google DeepMind’s new AI model gives robots improved dexterity.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
+      "title": "Ember’s latest self-heating 14-ounce mug is $50 off",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1030807/some-much-needed-clarity-for-steam-deck-game-performance",
+      "title": "Some much-needed clarity for Steam Deck game performance.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1030784/anker-eufy-tracklight-cam-s1-security-camera-tracking-spotlight",
+      "title": "Anker’s new security camera has a floodlight that narrows to a spotlight to track targets.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "title": "similar Baseus U2 Pro",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
+      "title": "Reddit wants to guide your next purchase",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1030749/rockstar-gta-6-30fps-ps5-pro-pssr-ray-tracing",
+      "title": "Rockstar confirms 30fps target for GTA VI on all consoles, PSSR support for PS5 Pro.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+      "title": "Xbox Cloud Gaming support",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1030738/trump-drops-weathertech-founder-as-ftc-nominee-in-favor-of-an-agency-veteran",
+      "title": "Trump drops WeatherTech founder as FTC nominee in favor of an agency veteran.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission",
+      "title": "WeatherTech founder",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1030720/google-gemini-memory-summary-edit-correct-ai-knowledge",
+      "title": "You can now review and edit what Google Gemini knows about you.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1030682/spotify-dj-gets-new-voices-and-the-ability-to-stop-yammering",
+      "title": "Spotify DJ gets new voices, and the ability to stop yammering.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1030256/wyze-lever-smart-lock-fingerprint-reader-handle",
+      "title": "Wyze’s new Lever Lock has a fingerprint scanner on the handle for faster entry.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/streaming/1025877/tubi-is-going-to-let-you-make-mixtapes-to-recommend-shows-and-films",
+      "title": "Tubi is going to let you make “mixtapes” to recommend shows and films.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
+      "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1030633/satechi-apple-macbook-neo-accessories-colors-wireless-keyboard-gan-charger",
+      "title": "Satechi expands its collection of color-matched MacBook Neo accessories.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/963945/satechis-new-macbook-neo-accessories-color-match-apples-budget-friendly-laptop",
+      "title": "launching two USB hubs and a wireless mouse",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/856666/satechi-slim-ex-keyboards-removable-battery-ces-2026",
+      "title": "Slim EX1 wireless keyboard",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/jensen-huang-wife-largest-divorce-settlement",
+      "title": "If Jensen Huang’s Wife Cuts Him Loose, She Could Get the Largest Divorce Settlement of All Time",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
+      "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49389-treyler-osobennostey-ps5-versii-gta-vi",
+      "title": "Трейлер особенностей PS5-версии GTA VI",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49387-nothing-prodolzhaet-tizerit-zagadochnyy-ii-aksessuar",
+      "title": "Nothing продолжает тизерить загадочный ИИ-аксессуар",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49386-chuda-ne-sluchilos-gta-vi-budet-rabotat-v-30-fps-na-vseh-konsolyah",
+      "title": "Чуда не случилось: GTA VI будет работать в 30 fps на всех консолях",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49385-ice-universe-v-kitae-iphone-duo-mnogokratno-oboshel-po-prodazham-galaxy-z-fold-8",
+      "title": "Ice Universe: в Китае iPhone Duo многократно обошёл по продажам Galaxy Z Fold 8",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49382-insayd-harakteristiki-kamer-lineyki-galaxy-s27",
+      "title": "Инсайд: характеристики камер линейки Galaxy S27",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature",
+      "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+      "published": "2026-11-10T16:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10469",
+      "title": "Так будет со всеми: спустя год вайбкодинга в компании просят разрабов писать код руками. 🤡 На Reddit разработчик рассказал , как руководство заставило год назад команду полностью перейти на ИИ-агентов. Сначала обновления штамповали рекордными темпами, а потом начался АД: кодовая база раздулась втрое, агенты начали путаться, а сотрудники вовсе перес",
+      "published": "2026-11-10T15:58:54+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/addmeto/6230",
+      "title": "Создатели Cyanogen решили что сейчас самое время для Linux на мобильных. Ну, потому что теперь все дело во встроенных ИИ-агентах. KORA обещает общую память для агентов, поиск файлов по смыслу и изолированные воркспейсы, чтобы ИИ не унесло лишнего. Нечто под названием Cortex будет определять, запускать модели локально или обращаться к облачным. Оно ",
+      "published": "2026-11-10T15:55:35+00:00",
+      "source_id": "addmeto",
+      "source_name": "addmeto",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "published": "2026-11-10T15:54:08+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12890",
+      "title": "#нецифрадня",
+      "published": "2026-11-10T15:52:11+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs",
+      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+      "published": "2026-11-10T15:45:27+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "published": "2026-11-10T15:29:30+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2288",
+      "title": "Последний месяц мы с тревогой следили за тем, как Яндекс восстанавливал инфраструктуру после серии беспилотных атак. Особенно — за судьбой клиентских данных. Вспоминался горький опыт Amazon: через полгода после первых ударов по объектам в Бахрейне и ОАЭ компания признала, что часть хранилищ восстановить не получится. У нас всё обошлось малой кровью",
+      "published": "2026-11-10T15:15:23+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antiinfosec/296",
+      "title": "Чернеет уже и ноябрь Binance сообщила об уязвимости iOS worse_query, затрагивающей достаточно свежие iOS 26.7.1, 27.0.1 и 27.2. Логика в том, что вредоносное приложение теоретически может получить доступ к файлам других приложений на iPhone, а именно к seed-фразам, приватным ключам, некоторым видам сессий и кэшу. Уязвимость worse_query опубликовал ",
+      "published": "2026-11-10T15:12:01+00:00",
+      "source_id": "antiinfosec",
+      "source_name": "antiinfosec",
+      "tier": "russia",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12889",
+      "title": "Coinbase успела до зимы Крупнейшая американская криптобиржа получила окончательное разрешение федерального регулятора OCC на национальный трастовый банк. Регулятор подписал решение в пятницу, 6 ноября, через несколько дней после промежуточных выборов, на которых демократы, настроенные против послаблений крипте, взяли Сенат. Банком в привычном смысл",
+      "published": "2026-11-10T15:11:02+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews",
+      "title": "Reddit is turning user conversations into AI-powered product reviews",
+      "published": "2026-11-10T15:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops",
+      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+      "published": "2026-11-10T15:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1651",
+      "title": "1711 — ваш код доступа к ГЛАВНОЙ НОЧИ безопасности ИИ 🔥 Мультиагентные системы, новые угрозы и острые дискуссии о безопасности ИИ — всё это ждёт гостей AI AppSec Night. Встречаемся 17 ноября в ДК Альфа-Кристалл. Что будет: 🔴 ИИ-ток-шоу. Эксперты будут питчить темы, а топ-менеджеры бигтеха отвечать на неудобные вопросы. 🔴 «Что? Где? Безопасность!» И",
+      "published": "2026-11-10T14:31:32+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/antiinfosec/295",
+      "title": "Публикация с медиа без подписи",
+      "published": "2026-11-10T14:15:17+00:00",
+      "source_id": "antiinfosec",
+      "source_name": "antiinfosec",
+      "tier": "russia",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp",
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "published": "2026-11-10T14:05:10+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "published": "2026-11-10T14:01:39+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last",
+      "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
+      "published": "2026-11-10T14:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "published": "2026-11-10T14:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter",
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "published": "2026-11-10T14:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12888",
+      "title": "Хуангейт: партнёр с привилегиями Дженсена Хуанга и Элис Хуанг знакомы они как минимум с 2023 года, выяснили The Information . За это время через связанные с Элис китайские компании прошло чипов Nvidia минимум на $7,5 млрд . Элис, её сестра Хуан Юй и муж-рогоносец Кан Вэй , по данным издания, построили сеть компаний ( см. картинку ) между Китаем и С",
+      "published": "2026-11-10T13:41:01+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot",
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "published": "2026-11-10T13:30:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1650",
+      "title": "Anthropic ВЫПУСТИЛА ГАЙД по выбору Claude для разных задач 🧩 Четыре модели Claude — Haiku 5.5, Sonnet 5.5, Opus 5.5 и Fable 5.2 — получили одну фотографию и воссоздали её с помощью python-кода. Так Anthropic объяснила, для каких задач подходит каждая модель: 🔴 Haiku — простые массовые задачи, где важны скорость и низкая стоимость. 🔴 Sonnet — повсед",
+      "published": "2026-11-10T13:17:12+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns ",
+      "published": "2026-11-10T13:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antiinfosec/294",
+      "title": "ESTT delenda est Спустя более суток после атаки личный кабинет ESTT (vds.ssd-vps[.]ru) по-прежнему работает нестабильно или недоступен у части клиентов. Провайдер отчитался о восстановлении 90% клиентских виртуальных серверов, однако управленческий контур (авторизация, статус услуг, биллинг и тикеты) — остается узким местом. Точных сроков полного в",
+      "published": "2026-11-10T12:53:05+00:00",
+      "source_id": "antiinfosec",
+      "source_name": "antiinfosec",
+      "tier": "russia",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/gadgets/1030358/waze-will-tell-drivers-when-theres-a-garmin-using-cyclist-nearby",
       "title": "Waze will tell drivers when there’s a Garmin-using cyclist nearby.",
@@ -27,16 +607,6 @@
       "published": null,
       "source_id": "theverge",
       "source_name": "The Verge",
-      "tier": "main",
-      "first_seen": "2026-11-10T12:26:11+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/advanced-transport/tesla-cybertruck-returning-deposits",
-      "title": "Tesla Starts Humiliating Prospect of Returning Cybertruck Deposits It Couldn’t Deliver On",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-10T12:26:11+00:00",
       "attribution": ""
@@ -232,6 +802,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/future-society/bus-ai-cameras-ticket-drivers",
+      "title": "Tens of Thousands of AI-Equipped School Buses Now Automatically Ticketing Drivers Who Don’t Stop When They Stick Out That Little Stop Sign",
+      "published": "2026-11-10T10:07:21-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/antidigital/12883",
       "title": "Акционеры «Т-Технологии» могут получить 4,8 руб. на акцию в качестве дивиденда за III квартал Такую рекомендацию дал сегодня совет директоров. Сейчас в обращении порядка 2,683 млрд акций, значит общий объём выплат составит около 12,9 млрд руб . Дивидендная доходность по текущей цене — 1,77–1,8%. Окончательное решение должны принять акционеры на общ",
       "published": "2026-11-10T09:44:28+00:00",
@@ -262,6 +842,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/future-society/flock-safety-surveillance-lobbying-politicians",
+      "title": "Flock Safety Found Handing Out Fat Sacks of Cash to Friendly Politicians",
+      "published": "2026-11-10T09:19:19-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/anti_agi/2284",
       "title": "🤖 AID — AI-дайджест от @anti_agi Все на нервах. Вчера вечером Anthropic вышла было на финишную прямую перед IPO, но нет. Компания разослала банкам условия размещения: около 867 млн акций по $70–80 (оценка $1,27-$1,45 трлн ). Это до $69,3 млрд . Еще $26 млрд по цене IPO должны были вложить Google , Nvidia , AMD , Broadcom , Micron , Microsoft и TSMC",
       "published": "2026-11-10T08:20:07+00:00",
@@ -279,6 +869,16 @@
       "source_name": "antidigital",
       "tier": "russia",
       "first_seen": "2026-11-10T12:26:11+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/one-town-america-voted-data-centers",
+      "title": "Only One Town in America Voted in Favor to Building a New Data Center, and the Reason Why Is Bleak",
+      "published": "2026-11-10T08:01:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
       "attribution": ""
     },
     {
@@ -409,6 +1009,16 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/advanced-transport/tesla-cybertruck-returning-deposits",
+      "title": "Tesla Starts Humiliating Prospect of Returning Cybertruck Deposits It Couldn’t Deliver On",
+      "published": "2026-11-10T07:01:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-10T12:26:11+00:00",
       "attribution": ""
     },
     {
@@ -4199,6 +4809,16 @@
       "source_name": "xor_journal",
       "tier": "main",
       "first_seen": "2026-11-09T15:18:38+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "published": "2026-11-04",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
       "attribution": ""
     },
     {
@@ -15458,23 +16078,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 54,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "found": 60,
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 61,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "found": 60,
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "futurism",
@@ -15482,7 +16102,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "bbc",
@@ -15490,7 +16110,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 20,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "addmeto",
@@ -15498,7 +16118,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "xor_journal",
@@ -15506,7 +16126,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "alfa_trends",
@@ -15514,7 +16134,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "antiinfosec",
@@ -15522,7 +16142,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "antidigital",
@@ -15530,7 +16150,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "anti_agi",
@@ -15538,7 +16158,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -15546,7 +16166,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 15,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -15554,14 +16174,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     },
     {
       "id": "rozetked",
@@ -15569,7 +16189,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 17,
-      "checked_at": "2026-11-10T12:26:11+00:00"
+      "checked_at": "2026-11-10T16:26:30+00:00"
     }
   ]
 }
