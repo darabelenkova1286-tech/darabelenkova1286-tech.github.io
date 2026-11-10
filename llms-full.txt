@@ -2,6 +2,118 @@
 
 
 
+===== EDITION 2 — 2026-11-10 =====
+
+## От редакции
+
+Сегодня в центре выпуска — новые модели Anthropic, эксперимент с колесным Atlas и запуск роверов Яндекса в Екатеринбурге. Во всех трех историях важно различать показанную возможность и масштабное внедрение: закрытый доступ к модели, исследовательский прототип и доставку лишь в части города. В короткой ленте — отдельные подтвержденные обновления ИИ-сервисов.
+
+## Editorial
+
+Today's edition looks at Anthropic's new models, Boston Dynamics' wheeled Atlas experiment, and the launch of Yandex rover deliveries in Yekaterinburg. Each story has a boundary worth keeping in view: restricted model access, a research prototype, and delivery in selected city districts. The short wire covers other verified AI product updates.
+
+
+----- 01-anthropic-fable-52 (ai) — primary: https://www.anthropic.com/claude-fable-and-mythos-5-2 -----
+
+## Русская версия
+
+Anthropic [объявила 9 ноября](https://www.anthropic.com/claude-fable-and-mythos-5-2) о Claude Fable 5.2 и Claude Mythos 5.2. Это две конфигурации одной базовой модели. Fable получила защитные ограничения для чувствительных задач в кибербезопасности и биологии и доступна обычным пользователям. Mythos предназначена для организаций, прошедших отдельную проверку в программах Cyber и Life Sciences. Поэтому сообщение о выпуске Mythos не означает, что любой пользователь может сразу выбрать ее в приложении.
+
+Компания позиционирует обе версии как инструменты для длительных и сложных инженерных, исследовательских и программных задач. В собственных испытаниях Anthropic сообщает об улучшениях в кодировании, рассуждении и работе с изображениями. Эти цифры полезны как ориентир, но сравнения моделей зависят от тестовых наборов, выбранного режима рассуждений и условий запуска. Для повседневных задач компания сама рекомендует начинать с Opus 5.5 и переходить на Fable лишь тогда, когда масштаб задачи этого требует.
+
+Заявленная цена стандартного режима составляет 8 долларов за миллион входных токенов и 40 долларов за миллион выходных. Anthropic также говорит о генерации до 30% быстрее прежней версии и предлагает ускоренный режим по удвоенной цене. Формулировка «до» здесь существенна: она не гарантирует такую разницу на каждом запросе. Отдельный системный отчет описывает испытания безопасности и ограничения, включая проверку поведения модели в изолированной среде.
+
+### Почему это важно
+
+Выпуск показывает, что рынок продвинутых моделей разделяется по доступу и типу задач. Для редактора, разработчика или исследователя практический вопрос теперь шире результата в одном бенчмарке: нужна ли такая мощность, сколько стоит полный рабочий процесс и разрешен ли доступ к нужной конфигурации. Указанные Anthropic результаты остаются заявлениями производителя до независимого воспроизведения.
+
+## English version
+
+Anthropic [announced Claude Fable 5.2 and Claude Mythos 5.2 on November 9](https://www.anthropic.com/claude-fable-and-mythos-5-2). They are two configurations of the same underlying model. Fable includes safeguards for sensitive cybersecurity and biology requests and is available to general users. Mythos is intended for organizations accepted into separate Cyber and Life Sciences verification programs. Its announcement therefore does not mean that every Claude user can select it immediately.
+
+Anthropic positions the models for long, demanding engineering, research, and programming tasks. Its own evaluations report improvements in coding, reasoning, and visual work. Those numbers are useful context, but comparisons depend on the benchmark, reasoning setting, and test setup. For ordinary work, the company itself recommends starting with Opus 5.5 and moving to Fable only when a task warrants it.
+
+The stated standard price is $8 per million input tokens and $40 per million output tokens. Anthropic also reports generation speeds up to 30% higher than the previous version and offers an optional faster mode at twice the standard token price. “Up to” matters: it does not promise that gain on every request. A separate system card sets out the company's safety evaluations and limits, including tests of model behavior in sandboxed environments.
+
+### Why it matters
+
+Advanced models are increasingly differentiated by both access rules and intended workload. For a developer or researcher, one benchmark score is only part of the decision: the full workflow cost, the need for extra capability, and eligibility for the desired configuration all matter. Anthropic's performance claims should be treated as vendor results until independently reproduced.
+
+
+----- 02-atlas-wheels (physical_ai) — primary: https://bostondynamics.com/blog/atlas-on-a-roll/ -----
+
+## Русская версия
+
+Boston Dynamics [показала Atlas с колесами вместо стоп](https://bostondynamics.com/blog/atlas-on-a-roll/). Это сообщение заметили в Telegram-канале «Альфа Тренды»; перед вами **новости из ТГ Альфы** с проверкой по публикации самой лаборатории. Инженер команды Atlas Сяоюй Энди У объясняет: цель опыта состояла не в создании нового транспортного робота, а в проверке приводов, низкоуровневого управления моторами и алгоритма, который координирует движения всего тела.
+
+Для переделки команда изготовила один тип переходника, крепящий обод обычного самокатного колеса к существующему приводу голеностопа. Остальные части механизма, по ее описанию, менять не пришлось. В программной модели колесо представили как сустав, способный непрерывно вращаться. Такая схема заставляет моторы долго работать под нагрузкой и проходить разные сочетания скорости и крутящего момента при разгоне, повороте и торможении.
+
+Робот выполнил боковые рывки и прыжок с разворотом на 360 градусов. Часть движений исходила из записей человеческих движений, а управление обучалось и подстраивалось в симуляции. Для исследователей важна не зрелищность трюка, а совпадение расчетного поведения с тем, что может исполнить реальный механизм. Если симулятор слишком идеализирует моторы, обученная политика может требовать от робота невозможного.
+
+### Почему это важно
+
+Колеса сделали разрыв между симуляцией и физическим миром заметнее и измеримее. Такая проверка полезна для надежности будущих роботов, которые должны продолжать работать за пределами лаборатории. Boston Dynamics прямо называет колесный Atlas исследовательским стендом, а не продуктом. Из этой демонстрации нельзя делать вывод о скором выпуске колесного гуманоидного курьера.
+
+## English version
+
+Boston Dynamics [has shown Atlas with wheels in place of its feet](https://bostondynamics.com/blog/atlas-on-a-roll/). The story was spotted through the Alfa Trends Telegram channel; the account here follows the robotics company's own engineering post. Atlas controls engineer Xiaoyu “Andy” Wu says the objective was to test actuators, low-level motor control, and the learned controller coordinating the whole body. It was not an attempt to announce a new transport product.
+
+The team made a custom adapter to mount an ordinary scooter rim onto Atlas's existing ankle actuator. According to Wu, this was the only new mechanical part. In software, each wheel was modeled as an ankle that can rotate continuously. Rolling gives the motors sustained loads across different combinations of speed and torque during starts, turns, and stops.
+
+The robot performed side dashes and a jump with a full 360-degree turn. Some motions came from human motion-capture recordings, while the controller was trained and tuned in simulation. The useful result is not the spectacle of the stunt. It is whether a behavior learned in a virtual model still works on the real machine. A simulator that treats motors as too ideal can teach a policy to demand movements the physical hardware cannot deliver.
+
+### Why it matters
+
+Wheels made the gap between simulated and physical behavior easier to stress-test. That kind of work informs reliability in robots operating beyond the lab. Boston Dynamics explicitly calls wheeled Atlas a research testbed, not a product. The demonstration is no evidence of an imminent wheeled humanoid delivery service.
+
+
+----- 03-yandex-ekaterinburg (yandex) — primary: https://autonomy.yandex.ru/blog/robodostavka-masshtabiruetsya-na-urale-rovery-yandeksa-nachali-privozit-zakazy-zhitelyam-ekaterinburga -----
+
+## Русская версия
+
+Яндекс [объявил 10 ноября](https://autonomy.yandex.ru/blog/robodostavka-masshtabiruetsya-na-urale-rovery-yandeksa-nachali-privozit-zakazy-zhitelyam-ekaterinburga) о начале доставки заказов роверами в Екатеринбурге. Сейчас они работают с шестью дарксторами Яндекс Лавки и обслуживают часть Октябрьского, Чкаловского и Ленинского районов. Это запуск в конкретных зонах, а не покрытие всего города. Сообщение есть и в канале «Яндекс Автономность», но речь идет об одном событии, поэтому мы публикуем одну историю.
+
+Участие шести точек позволяет понять масштаб старта. Компания перечисляет дарксторы на улицах Степана Разина, Вайнера, Сыромолотова, Щорса, Академика Семихатова и Декабристов. Возможность выбрать рободоставку зависит от адреса и доступности ровера при оформлении заказа. Нельзя считать любой заказ из этих районов автоматически роботизированным.
+
+По сообщению Яндекса, используются роверы четвертого поколения с лидаром, камерами и ультразвуковыми датчиками. Сенсоры нужны для ориентации рядом с пешеходами и препятствиями, но сама их установка не доказывает способность робота проехать любой маршрут или работать без операционного сопровождения. Компания описывает дальнейшее расширение до еще четырех районов и двадцати дарксторов Лавки к концу года. Подключение Яндекс Еды и Яндекс Доставки также представлено как следующий этап, а не как услуга, доступная сегодня.
+
+### Почему это важно
+
+Екатеринбург дает Яндексу новую городскую среду для проверки масштабируемости рободоставки. Следить стоит не только за числом роботов, но и за фактическим расширением зон, количеством выполненных заказов и устойчивостью работы в разных погодных условиях. На дату публикации подтвержден именно ограниченный запуск с Лавкой.
+
+## English version
+
+Yandex [announced on November 10](https://autonomy.yandex.ru/blog/robodostavka-masshtabiruetsya-na-urale-rovery-yandeksa-nachali-privozit-zakazy-zhitelyam-ekaterinburga) that its delivery rovers have begun serving customers in Yekaterinburg. They currently work with six Yandex Lavka dark stores and cover parts of the Oktyabrsky, Chkalovsky, and Leninsky districts. This is a launch in defined areas, not citywide service. The Yandex Autonomy Telegram channel reported the same launch; it is one event, so it appears here only once.
+
+The six participating stores show the size of the initial operation. Yandex lists sites on Stepan Razin, Vayner, Syromolotov, Shchors, Academician Semikhatov, and Dekabristov streets. A customer's ability to select a rover depends on the delivery address and availability during checkout. Being in one of the named districts does not mean every order will arrive by robot.
+
+Yandex says these are fourth-generation rovers equipped with lidar, cameras, and ultrasonic sensors. Those devices help the robots navigate near pedestrians and obstacles, but their presence alone does not prove operation on every route or without operational support. The company plans to expand to four more districts and 20 Lavka dark stores by year-end. Support for Yandex Eda and Yandex Delivery is also described as a future step, not a service available today.
+
+### Why it matters
+
+Yekaterinburg provides another urban setting in which Yandex can test whether rover delivery scales. Useful measures will include actual coverage expansion, completed orders, and reliability across changing weather. As of publication, the verified milestone is the limited Lavka rollout.
+
+
+----- otter-languages-2026 (ai) — primary: https://otter.ai/blog/otter-ai-announces-its-biggest-multilingual-leap-yet-27-new-languages-and-multilingual-capabilities -----
+
+Otter добавила 13 языков распознавания речи, включая русский
+
+Компания объявила о 27 новых языках, но сегодня доступны только 13. Еще 14 и автоматическое переключение языков внутри одной встречи обещаны позднее; итоговые 31 язык пока не запущены.
+Otter adds 13 transcription languages, including Russian
+
+The company announced 27 additional languages, but only 13 are available now. Another 14 and automatic language switching within a meeting are planned for later; the full 31-language lineup is not live yet.
+
+
+----- meta-muse-ember (ai) — primary: https://dev.meta.ai/resources/blog/build-with-muse-ember -----
+
+Meta открыла доступ к компактной модели Muse Ember
+
+Модель для частых небольших задач в агентах доступна в Muse Code и Meta Model API. Она принимает текст, изображения, аудио и видео; Meta указывает цену от $0,10 за миллион входных токенов при контексте до 200 тысяч токенов.
+Meta opens access to its compact Muse Ember model
+
+The model for frequent bounded agent tasks is available in Muse Code and the Meta Model API. It accepts text, images, audio, and video; Meta lists input pricing from $0.10 per million tokens for prompts up to 200,000 input tokens.
+
+
 ===== EDITION 1 — 2026-11-09 =====
 
 ## От редакции

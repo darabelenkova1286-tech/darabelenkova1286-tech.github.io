@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-10",
+  "items": [
+    {
+      "id": "meta-muse-ember",
+      "published": "2026-11-09",
+      "rubric": "ai",
+      "title_ru": "Meta открыла доступ к компактной модели Muse Ember",
+      "title_en": "Meta opens access to its compact Muse Ember model",
+      "summary_ru": "Модель для частых небольших задач в агентах доступна в Muse Code и Meta Model API. Она принимает текст, изображения, аудио и видео; Meta указывает цену от $0,10 за миллион входных токенов при контексте до 200 тысяч токенов.",
+      "summary_en": "The model for frequent bounded agent tasks is available in Muse Code and the Meta Model API. It accepts text, images, audio, and video; Meta lists input pricing from $0.10 per million tokens for prompts up to 200,000 input tokens.",
+      "source": "https://dev.meta.ai/resources/blog/build-with-muse-ember",
+      "primary_source": "https://dev.meta.ai/resources/blog/build-with-muse-ember",
+      "primary_verified": true
+    },
+    {
+      "id": "otter-languages-2026",
+      "published": "2026-11-10",
+      "rubric": "ai",
+      "title_ru": "Otter добавила 13 языков распознавания речи, включая русский",
+      "title_en": "Otter adds 13 transcription languages, including Russian",
+      "summary_ru": "Компания объявила о 27 новых языках, но сегодня доступны только 13. Еще 14 и автоматическое переключение языков внутри одной встречи обещаны позднее; итоговые 31 язык пока не запущены.",
+      "summary_en": "The company announced 27 additional languages, but only 13 are available now. Another 14 and automatic language switching within a meeting are planned for later; the full 31-language lineup is not live yet.",
+      "source": "https://otter.ai/blog/otter-ai-announces-its-biggest-multilingual-leap-yet-27-new-languages-and-multilingual-capabilities",
+      "primary_source": "https://otter.ai/blog/otter-ai-announces-its-biggest-multilingual-leap-yet-27-new-languages-and-multilingual-capabilities",
+      "primary_verified": true
+    }
+  ]
+}
