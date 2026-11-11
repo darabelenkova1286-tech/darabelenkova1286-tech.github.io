@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-10T22:23:36+00:00",
+  "updated_at": "2026-11-11T02:47:47+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/gadgets/1031360/ifixit-macbook-proled-teardown",
+      "title": "Going inside the new touchscreen MacBook Pro.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-11T02:47:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-11T02:47:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1031384/nintendo-is-ending-support-for-signing-into-your-account-using-a-google-or-apple-account",
+      "title": "Nintendo is ending support for signing into your account using a Google or Apple account.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-11T02:47:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o",
+      "title": "Students passing university assessments in minutes using AI, regulator warns",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-11T02:47:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-11T02:47:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement",
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "published": "2026-11-11T01:02:13+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-11T02:47:47+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
       "title": "The US is winning the AI race. Jensen Huang could have blown it",
@@ -227,36 +287,6 @@
       "published": null,
       "source_id": "theverge",
       "source_name": "The Verge",
-      "tier": "main",
-      "first_seen": "2026-11-10T22:23:36+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/future-society/democrats-regulation-crackdown-prediction-markets",
-      "title": "Democrats Preparing Crackdown on Prediction Markets",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-10T22:23:36+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/artificial-intelligence/trump-defends-huang-cheating-spy",
-      "title": "Trump Says It’s Fine for a CEO to Cheat on His Wife With an Alleged Spy",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-10T22:23:36+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/artificial-intelligence/nvidia-shut-down-government-investigation-chip-smuggling",
-      "title": "Nvidia Pulled Strings to Shut Down a US Government Investigation Into Chip Smuggling",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-10T22:23:36+00:00",
       "attribution": ""
@@ -882,6 +912,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/artificial-intelligence/trump-defends-huang-cheating-spy",
+      "title": "Trump Says It’s Fine for a CEO to Cheat on His Wife With an Alleged Spy",
+      "published": "2026-11-10T15:53:40-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-10T22:23:36+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/antidigital/12890",
       "title": "#нецифрадня",
       "published": "2026-11-10T15:52:11+00:00",
@@ -962,6 +1002,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/artificial-intelligence/nvidia-shut-down-government-investigation-chip-smuggling",
+      "title": "Nvidia Pulled Strings to Shut Down a US Government Investigation Into Chip Smuggling",
+      "published": "2026-11-10T14:39:06-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-10T22:23:36+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/alfa_trends/1651",
       "title": "1711 — ваш код доступа к ГЛАВНОЙ НОЧИ безопасности ИИ 🔥 Мультиагентные системы, новые угрозы и острые дискуссии о безопасности ИИ — всё это ждёт гостей AI AppSec Night. Встречаемся 17 ноября в ДК Альфа-Кристалл. Что будет: 🔴 ИИ-ток-шоу. Эксперты будут питчить темы, а топ-менеджеры бигтеха отвечать на неудобные вопросы. 🔴 «Что? Где? Безопасность!» И",
       "published": "2026-11-10T14:31:32+00:00",
@@ -1029,6 +1079,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/democrats-regulation-crackdown-prediction-markets",
+      "title": "Democrats Preparing Crackdown on Prediction Markets",
+      "published": "2026-11-10T13:53:32-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-10T22:23:36+00:00",
       "attribution": ""
     },
     {
@@ -16628,23 +16688,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 62,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "found": 61,
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 62,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "found": 63,
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "futurism",
@@ -16652,7 +16712,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "bbc",
@@ -16660,7 +16720,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 18,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "addmeto",
@@ -16668,7 +16728,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "xor_journal",
@@ -16676,7 +16736,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "alfa_trends",
@@ -16684,7 +16744,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "antiinfosec",
@@ -16692,7 +16752,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "antidigital",
@@ -16700,7 +16760,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "anti_agi",
@@ -16708,7 +16768,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -16716,7 +16776,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 15,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -16724,14 +16784,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     },
     {
       "id": "rozetked",
@@ -16739,7 +16799,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 17,
-      "checked_at": "2026-11-10T22:23:36+00:00"
+      "checked_at": "2026-11-11T02:47:47+00:00"
     }
   ]
 }
