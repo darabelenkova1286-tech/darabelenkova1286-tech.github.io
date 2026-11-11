@@ -1,6 +1,256 @@
 {
-  "updated_at": "2026-11-11T02:47:47+00:00",
+  "updated_at": "2026-11-11T11:00:05+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1031494/tiktok-shop-already-has-a-paid-subscription-to-get-you-to-shop-more",
+      "title": "TikTok Shop already has a paid subscription to get you to shop more.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1031490/nintendos-latest-zelda-remake-is-a-smash-hit",
+      "title": "Nintendo’s latest Zelda remake is a smash hit.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031489/google-is-bringing-gmails-help-me-write-ai-tool-to-work-accounts",
+      "title": "Google is bringing Gmail’s “Help me write” AI tool to work accounts.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cx30e04rmddlo",
+      "title": "Children must learn to play at home - nursery boss",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cq892gz0e8lo",
+      "title": "Baby thriving after 3D-printed model used to save her heart",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqj9kp3gj8rwo",
+      "title": "'We all need data, but do we need the largest data centre in Europe here?'",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/articles/49299-chto-chasche-vsego-lomaetsya-v-smartfonah-noutbukah-i-konsolyah-i-kak-etogo-izbezhat",
+      "title": "Что чаще всего ломается в смартфонах, ноутбуках и консолях — и как этого избежать",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49398-vyshel-stabil-nyy-android-17-qpr2-chto-novogo",
+      "title": "Вышел стабильный Android 17 QPR2 — что нового?",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49395-v-ifixit-razobrali-macbook-pro-s-sensornym-ekranom-i-svetyaschimsya-yablokom-szadi",
+      "title": "В iFixit разобрали MacBook Pro с сенсорным экраном и светящимся яблоком сзади",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49407-cherez-vk-znakomstva-teper-mozhno-iskat-paru-po-lyubimym-trekam",
+      "title": "Через «VK Знакомства» теперь можно искать пару по любимым трекам",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49406-insayder-podtverdil-dizayn-galaxy-s27-novymi-bolvankami",
+      "title": "Инсайдер подтвердил дизайн Galaxy S27 новыми болванками",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49405-samsung-vypustila-reklamu-galaxy-fold-8-vysmeivayuschuyu-iphone-duo",
+      "title": "Samsung выпустила рекламу Galaxy Fold 8, высмеивающую iPhone Duo",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49404-yandeks-disk-vernul-avtozagruzku-fotografiy-i-video-so-smartfonov",
+      "title": "«Яндекс Диск» вернул автозагрузку фотографий и видео со смартфонов",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49402-sony-otgruzila-bolee-100-mln-playstation-5",
+      "title": "Sony отгрузила более 100 млн PlayStation 5",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49401-na-disney-zakonchilsya-mini-serial-kvest-vizhna",
+      "title": "На Disney+ закончился мини-сериал «Квест Вижна»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49400-mincifry-sohranit-i-prodolzhit-razvivat-provodnoe-radioveschanie-v-rossii",
+      "title": "Минцифры сохранит и продолжит развивать проводное радиовещание в России",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49399-v-firefox-poyavilis-mini-okna-mozhno-otsoedinit-vkladku-ili-chast-stranicy",
+      "title": "В Firefox появились мини-окна: можно отсоединить вкладку или часть страницы",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2291",
+      "title": "🤖 AID — AI-дайджест от @anti_agi Роуд-шоу маст гоу он . Anthropic вчера официально начала маркетинг акций : 825 млн бумаг по $70–78 , привлечение до $64,35 млрд , оценка до $1,4 трлн . Ещё $26 млрд даст частное размещение у AMD , Broadcom , Google , Micron , Microsoft , Nvidia и TSMC . Торги на Nasdaq под тикером ANT начнутся 19 ноября , и по объём",
+      "published": "2026-11-11T10:10:58+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12894",
+      "title": "Доброе утро! ❤️ 1️⃣ Ассоциация производителей электроники РАТЭК попросила Мишустина перенести введение технологического сбора, запланированное на 1 декабря 2026 г. Бизнес жалуется на отсутствие утверждённых правил расчёта и непротестированные госсистемы, что грозит срывом поставок и дополнительными издержками. Минпромторг считает, что времени на по",
+      "published": "2026-11-11T08:33:43+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2290",
+      "title": "Молчание — золото Клод оказался слишком дорогим сортировщиком. Amazon заменила Claude Sonnet 4.6 в одной из внутренних систем обработки обращений собственным Strands Decider — и сократила расходы на классификацию на 98% . Задача была простая: распределять жалобы, запросы и автоматические сигналы по 20 категориям. Теперь компания рассчитывает эконом",
+      "published": "2026-11-11T08:18:33+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10476",
+      "title": "Лучшие ИИ модели не справляются с работой на фрилансе — показало новое исследование. Даже лучшие современные агенты смогли выполнить лишь 3% реальных заданий с платформы Upwork и заработали всего 1 810 $ из возможных более 140 000 $. Задачи, кстати, были… Фрилансеры, АЛАРМ: новый Claude Fable 5.2 уже справляется с 41% реальных заказов на уровне про",
+      "published": "2026-11-11T08:11:02+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1652",
+      "title": "Более 40 команд Альфа-Банка перешли на разработку с ИИ-агентами ❤️ Это эпоха AIPDLC, нового цикла разработки, где ИИ участвует на каждом этапе . Люди больше не пишут код руками. Они управляют агентами, которые это делают. Что происходит с профессией разработчика, когда код пишут ИИ-агенты? Объясняет ❤️ Святослав Соловьёв, директор по искусственному",
+      "published": "2026-11-11T07:38:58+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/xor_journal/10473",
+      "title": "Начинаем охоту за гаджетами на AliExpress — в честь распродажи 11/11 смартфоны и другие устройства OPPO можно урвать со скидками 😨 Так, флагманский смартфон OPPO Find X10 Pro Max, умные часы Watch S и беспроводные наушники Enco X3 отдаются со скидками до 55%! Можно заранее закупиться подарками к Новому году или просто порадовать себя любимого. Бежи",
+      "published": "2026-11-11T07:35:02+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antiinfosec/297",
+      "title": "Шутка, от которой не до смеха Тут потихоньку начал расползаться PoC-отчет по «новой страшной уязвимости, затрагивающей более 2 млрд устройств» —Terminal2Shell. Класс угрозы 11 из 11 по CVSS, 0 милисекунд до эксплойта, живет с 1971 года. «Уязвимость на уровне проектирования эмуляторов терминала. При запуске терминала немедленно запускается процесс о",
+      "published": "2026-11-11T06:57:54+00:00",
+      "source_id": "antiinfosec",
+      "source_name": "antiinfosec",
+      "tier": "russia",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10472",
+      "title": "Айтишники оказались самыми привлекательными партнёрами в России 😘 По данным исследования, IT-специалистов считают привлекательными для романтических отношений 40% опрошенных. Следом идут предприниматели и медики. Из забавного — особенно любят айтишников зумеры и миллениалы, а вот поколение X умнее предпочитает нефтяников, финансистов и юристов. Над",
+      "published": "2026-11-11T06:23:24+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/gadgets/1031360/ifixit-macbook-proled-teardown",
       "title": "Going inside the new touchscreen MacBook Pro.",
@@ -2179,6 +2429,16 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-10T00:16:04+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "published": "2026-11-10",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-11T11:00:05+00:00",
       "attribution": ""
     },
     {
@@ -16689,7 +16949,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 61,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "theverge",
@@ -16697,14 +16957,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 63,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "futurism",
@@ -16712,15 +16972,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 18,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "found": 21,
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "addmeto",
@@ -16728,15 +16988,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 16,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "found": 14,
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "alfa_trends",
@@ -16744,7 +17004,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "antiinfosec",
@@ -16752,7 +17012,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "antidigital",
@@ -16760,7 +17020,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "anti_agi",
@@ -16768,7 +17028,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -16776,7 +17036,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 15,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -16784,22 +17044,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "checked_at": "2026-11-11T11:00:05+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 17,
-      "checked_at": "2026-11-11T02:47:47+00:00"
+      "found": 16,
+      "checked_at": "2026-11-11T11:00:05+00:00"
     }
   ]
 }
