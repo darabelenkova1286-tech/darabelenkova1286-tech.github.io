@@ -1,6 +1,1026 @@
 {
-  "updated_at": "2026-11-12T09:51:31+00:00",
+  "updated_at": "2026-11-12T18:20:55+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit",
+      "title": "Apple’s HomeView is my new favorite smart display — but not my daughter’s",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "title": "The Jensen Huang scandal is hardly over",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
+      "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review",
+      "title": "The pricey new Apple TV 4K is still the best streamer around",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+      "title": "I reviewed the Apple HomeView, ask me anything",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "title": "Jensen Huang is out. What did China want from him?",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
+      "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032076/got-questions-about-the-apple-homeview",
+      "title": "Got questions about the Apple HomeView?",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1032148/the-game-awards-are-coming-to-disney-plus",
+      "title": "The Game Awards are coming to Disney Plus.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/podcast/1032130/todays-vergecast-jensen-huang-resigns-and-our-homeview-review",
+      "title": "Today’s Vergecast: Jensen Huang resigns, and our HomeView review.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "title": "More game developers are starting to use generative AI",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
+      "title": "25 years later, Xbox is trying to reinvent itself again",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
+      "title": "Google Wallet can finally unlock doors with digital home keys",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/apple/1032049/joanna-stern-bullied-apple-into-a-homeview-update-already",
+      "title": "Joanna Stern bullied Apple into a HomeView update already.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032066/yahoo-is-the-first-to-sign-up-for-new-pay-to-scrape-collective-ai-licensing",
+      "title": "Yahoo is the first to sign up for new pay-to-scrape collective AI licensing.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/775072/rsl-standard-licensing-ai-publishing-reddit-yahoo-medium",
+      "title": "several companies backed RSL",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/841222/rsl-licensing-ai-spec-launch",
+      "title": "pay for scraping",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032048/nothing-carl-pei-teaser-ai-screen-free-device",
+      "title": "Nothing teases a better look at its screen-free AI device launching next month.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "title": "teaser image earlier this month showing just a silhouette",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032042/donald-trump-says-tim-cook-should-replace-jensen-huang",
+      "title": "Donald Trump says Tim Cook should replace Jensen Huang.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale",
+      "title": "A power bank that can quickly charge three gadgets is just $49",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1031999/microsofts-ad-supported-xbox-cloud-gaming-sessions-are-now-live",
+      "title": "Microsoft’s ad-supported Xbox Cloud Gaming sessions are now live.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
+      "title": "testing earlier this year",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+      "title": "pay-as-you-go Cloud Gaming playtime",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031905/now-anyone-can-make-custom-plugins-for-the-mpc-vibe-coded-or-otherwise",
+      "title": "Now anyone can make custom plugins for the MPC, vibe-coded or otherwise.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "title": "embrace the modding community",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+      "title": "hacking them trivial",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031981/googles-gemini-app-is-now-available-in-apple-carplay",
+      "title": "Google’s Gemini app is now available in Apple CarPlay.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
+      "title": "Google built-in",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto",
+      "title": "Android Auto",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "title": "Gemini was already available through Google Maps",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity",
+      "title": "Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031874/apple-will-open-preorders-for-some-of-its-new-smart-home-collection-tomorrow",
+      "title": "Apple will open preorders for some of its new smart home collection tomorrow.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced",
+      "title": "Apple Home Collection",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031865/fairphone-is-getting-a-us-boost",
+      "title": "Fairphone is getting a US Boost.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+      "title": "looked into acquiring",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031894/anthropic-confirms-its-planning-for-its-shares-to-start-publicly-trading-on-november-19th",
+      "title": "Anthropic confirms it’s planning for its shares to start publicly trading on November 19th.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031840/even-jensen-huangs-jackets-arent-safe-from-adulteration",
+      "title": "Even Jensen Huang’s jackets aren’t safe from adulteration.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1031845/spirits-former-flight-attendants-protect-their-data-from-google",
+      "title": "Spirit’s former flight attendants protect their data from Google.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/981364/spirit-in-the-machine",
+      "title": "spent $10 million",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031827/blackmagic-made-a-usb-c-mic-for-spatial-audio",
+      "title": "Blackmagic made a USB-C mic for spatial audio.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/mark-zuckerberg-tech-wife-guy",
+      "title": "Mark Zuckerberg Maintains Status as Tech’s One True Wife Guy",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo",
+      "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cr868lv54ejjo",
+      "title": "Welsh government takes control of controversial Cardiff data centre plan",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmg46y76kz5no",
+      "title": "Resident Evil Requiem sweeps Golden Joystick Awards",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49432-xiaomi-predstavila-skladnoy-avtomobil-nyy-pylesos",
+      "title": "Xiaomi представила складной автомобильный пылесос",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/articles/49383-test-avtonomnosti-v-ios-27-i-ios-27-2-ne-toropites-obnovlyat-sya",
+      "title": "Тест автономности в iOS 27 и iOS 27.2: не торопитесь обновляться",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49441-pol-zovateli-steam-zhaluyutsya-na-nedostupnost-servisa",
+      "title": "Пользователи Steam жалуются на недоступность сервиса",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49440-treyler-mul-tfil-ma-gatto-ot-pixar",
+      "title": "Трейлер мультфильма Gatto от Pixar",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49439-pis-mo-predsedatelya-soveta-direktorov-nvidia-dlya-sotrudnikov-kompanii",
+      "title": "Письма временных руководителей Nvidia для сотрудников компании",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49438-ii-didzhey-v-spotify-zagovoril-devyat-yu-novymi-golosami",
+      "title": "ИИ-диджей в Spotify заговорил девятью новыми голосами",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49437-ice-universe-samsung-razrabatyvaet-smartfon-s-rastyagivayuschimsya-displeem",
+      "title": "Ice Universe: Samsung разрабатывает смартфон с растягивающимся дисплеем",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49436-dzhensen-huang-ushel-v-otstavku-iz-nvidia",
+      "title": "Дженсен Хуанг ушёл в отставку из Nvidia",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49435-segodnya-v-nashem-igrovom-bolote",
+      "title": "Сегодня в нашем игровом болоте 🕹️",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49434-xiaomi-predstavila-v-rossii-smart-chasy-watch-s5-s-funkciyami-dlya-monitoringa-zdorov-ya-i-trenirovok",
+      "title": "Xiaomi представила в России смарт-часы Watch S5 с функциями для здоровья и спорта",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+      "published": "2026-11-12T17:36:40+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12907",
+      "title": "⚡️ Дженсен Хуанг ушёл с поста гендиректора Nvidia, однако скандал на этом, похоже, не закончился, ведь, как выяснил Semafor, сразу несколько расследований Минюста США грозят затронуть и саму компанию. Одно из них, антимонопольное, касается непосредственно Nvidia, к которой ведомство, насколько известно, присматривается ещё с 2024 года. Два других п",
+      "published": "2026-11-12T17:18:15+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "published": "2026-11-12T17:17:58+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "published": "2026-11-12T17:00:52+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "published": "2026-11-12T17:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress",
+      "title": "Jensen Huang agrees to testify before Congress",
+      "published": "2026-11-12T16:36:37+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "published": "2026-11-12T16:32:33+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10495",
+      "title": "А как ему отказать 🫣 @xor_journal",
+      "published": "2026-11-12T16:32:20+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor",
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "published": "2026-11-12T16:12:44+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2299",
+      "title": "Алиса, действуй! Сегодня в Алисе AI появился персональный ИИ-агент «Действуй!»: ему можно поручить записать вас к врачу по телефону, заполнить форму на сайте или собрать билеты и брони из писем в папку на Диске. Алиса сама разбивает задачу на шаги, выбирает инструменты и выполняет задачу. Пока это ранний доступ для нескольких тысяч активных пользов",
+      "published": "2026-11-12T16:05:42+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network",
+      "title": "Whoop just launched a social network",
+      "published": "2026-11-12T16:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10494",
+      "title": "История кибербеза за пять минут И не спрашивайте, зачем волку личные данные зайцев и почему их охраняет бобер. Мы художники, мы так видим 🐺 🦫 А если серьезно, эта бесконечная погоня немного напоминает «Ну, погоди!» и «Тома и Джерри» в одном флаконе. Десятилетиями атакующие искали лазейки, а защитники их закрывали. Атаки становились хитрее, защита —",
+      "published": "2026-11-12T15:50:01+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/addmeto/6231",
+      "title": "WSJ: Дженсен Хуанг ушёл в отставку с поста CEO Nvidia, после 33 лет работы в компании. Вопреки расхожему мнению, он американец тайваньского происхождения и ему принадлежит 3.3% компании. Он был первым и единственным главой компании за всю её историю. Отставка связана с двумя внебрачными связями, в том числе с (видимо!) китайской шпионкой и с сотруд",
+      "published": "2026-11-12T15:42:26+00:00",
+      "source_id": "addmeto",
+      "source_name": "addmeto",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement",
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "published": "2026-11-12T15:37:29+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12906",
+      "title": "«Ростелеком» в облаках «Ростелеком» отчитался за III квартал и девять месяцев 2026 года. За январь–сентябрь OIBDA группы выросла на 10%, до 259,9 млрд руб., операционная прибыль — на 8%, до 115,4 млрд руб., а чистая прибыль — на 12%, до 20,6 млрд руб. При этом маржа OIBDA немного снизилась: с 39,1% до 38,9%. Прибыль, приходящаяся на акционеров груп",
+      "published": "2026-11-12T15:34:51+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund",
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "published": "2026-11-12T15:18:14+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10493",
+      "title": "Самый эпичный карьерный рост: 5 лет работы посудомойщиком и официантом в закусочной, а потом раз — и ты основатель Nvidia и сегодня твое состояние оценивается в $113 млрд. Да, это резюме Хуанга. @xor_journal Самая впечатляющая карьера на LinkedIn 😂 @xor_journal",
+      "published": "2026-11-12T15:16:07+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "published": "2026-11-12T15:02:28+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1657",
+      "title": "ИИ-роботы с лазерами ЗАЩИЩАЮТ ЛОСОСЕЙ под водой 🐟 Норвежские рыбные фермы внедрили более 3500 подводных роботов с ИИ. Они защищают лосося от морских вшей — паразитических рачков. Камеры роботов сканируют тело лосося, находят паразитов, а затем лазер уничтожает их точечными импульсами. Так рыбу избавляют от вредителей без химических ванн, которые вы",
+      "published": "2026-11-12T14:47:08+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "published": "2026-11-12T14:30:01+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antiinfosec/299",
+      "title": "Базар в облаках У ИБ-специалистов появились новые претензии к Microsoft. В очередном разборе вредоносного образца снова фигурирует облако Azure, а публичного ответа компания пока не дала. Пока индустрия рассказывает о борьбе с APT, чужая управляющая инфраструктура спокойно квартирует в крупном облаке. Техника следующая: Ко вполне легитимному файлу ",
+      "published": "2026-11-12T14:29:15+00:00",
+      "source_id": "antiinfosec",
+      "source_name": "antiinfosec",
+      "tier": "russia",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2298",
+      "title": "Объединенная микроэлектронная корпорация и Байкал Электроникс уже готовят офферы Дженсену Хуангу 😏 @anti_agi",
+      "published": "2026-11-12T14:14:09+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo",
+      "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+      "published": "2026-11-12T14:10:34+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10492",
+      "title": "⚡️ Дженсена Хуанга уволили с поста главы NVIDIA 😨 Совет директоров объявил о немедленной отставке Хуанга на фоне его любовных интрижек и предполагаемых связей с китайской шпионкой. Вместе с постом CEO он также покинул совет директоров и должность президента компании. Хуанг руководил NVIDIA с момента её основания в 1993 году, но эпоха Куртки прошла.",
+      "published": "2026-11-12T14:06:06+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12905",
+      "title": "⚡️ ⚡️ ⚡️ Хуанг всё Дженсен Хуанг покидает посты президента, генерального директора и члена совета директоров NVIDIA. Временным генеральным директором назначена финансовый директор компании Коллетт Кресс. ▪️ Немедленный уход основателя. Хуанг покидает все руководящие должности в компании и выходит из совета директоров спустя 33 года после основания ",
+      "published": "2026-11-12T13:55:46+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2297",
+      "title": "⚡️ ⚡️ ⚡️ Хуанг всё Дженсен Хуанг покидает посты президента, генерального директора и члена совета директоров NVIDIA. Временным генеральным директором назначена финансовый директор компании Коллетт Кресс. ▪️ Немедленный уход основателя. Хуанг покидает все руководящие должности в компании и выходит из совета директоров спустя 33 года после основания ",
+      "published": "2026-11-12T13:55:06+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/autonomy_yandex/314",
+      "title": "🧿 Из чего складывается безопасность на дороге и как устроена технология автономного вождения 1️⃣ В сё начинается с локализации . Система сопоставляет данные с лидаров с HD-картами высокой точности и понимает, где именно она находится. 2️⃣ Следом запускается процесс распознавания . На основе информации с камер, лидаров и радаров алгоритмы оценивают ",
+      "published": "2026-11-12T13:33:57+00:00",
+      "source_id": "autonomy_yandex_tg",
+      "source_name": "Яндекс Автономность · Telegram",
+      "tier": "russia",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "published": "2026-11-12T13:26:25+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10491",
+      "title": "Все к экранам — это новый движ! Подкаст «Решительный совет» Задач становится всё больше, связи между ними сложнее, готовых ответов — меньше. Руководители R&D 2ГИС выяснили это на себе и решили обсудить ситуации, где нет ни полной информации, ни единого мнения. В первом выпуске рассуждали, почему можно застрять в режиме пожарного и как из этого выбр",
+      "published": "2026-11-12T13:15:03+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12904",
+      "title": "Вклад платформ гибкой занятости в валовую добавленную стоимость может вырасти до 3,5% ВВП к 2036 году Сейчас платформы гибкой занятости обеспечивают около 1,5% российского ВВП, а к 2036 году их вклад может достичь 3,5%. Такой прогноз представил управляющий партнёр Авито Иван Гуз на сессии Дня платформенной экономики. В выступлении прозвучали и друг",
+      "published": "2026-11-12T12:55:29+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10488",
+      "title": "Рынок IT-вакансий трясет: пока фронтендеры и мобильные разработчики теряют работу, спрос на других инженеров взлетает 🙄 По данным нового большого исследования, за год количество открытых вакансий для фронтендеров сократилось на 51% , для Android-разработчиков упало на 47%, а для iOS — на 46%. Что еще: 🟢 Спрос на Forward Deployed Engineers, которые ",
+      "published": "2026-11-12T12:49:29+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1656",
+      "title": "Альтман объединяется с Samsung. Он хочет придумать замену iPhone 🤝 Глава OpenAI предложил Samsung объединить усилия для разработки нового устройства на базе ИИ. По задумке Альтмана, оно сможет заменить смартфон и стать персональным технологическим компаньоном. Главное отличие — никаких экранов и приложений . ИИ будет сам взаимодействовать с цифровы",
+      "published": "2026-11-12T12:31:40+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/anti_agi/2296",
+      "title": "Депутаты достали двойные листочки Если хочешь убедить в чем-то человека, расскажи ему об этом в рамках учебного курса. Советская школа напрочь отбила в нас способность дискутировать с учителем. Многие из нас помнят коронные фразы любимых учителей: «Звонок на урок для учеников, звонок с урока — для учителя» ; «А голову ты дома не забыл?» ; «Давай ты",
+      "published": "2026-11-12T12:12:01+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/openai-enormous-losses",
+      "title": "OpenAI Is Sustaining Enormous Losses",
+      "published": "2026-11-12T11:10:17-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/really-bad-day-nvidia-ceo-resigns",
+      "title": "It’s a Really, Really Bad Day for Nvidia",
+      "published": "2026-11-12T10:20:04-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2295",
+      "title": "🤖 AID — AI-дайджест от @anti_agi Ночью стало известно, что совет директоров Nvidia готовится уволить основателя и бессменного (вот уже 33 года!) CEO компании, Дженсена Хуанга . Помимо романа с Элис Хуанг из Megaspeed , которую разведка США считает агентом Пекина, всплыла еще связь с вице-президентом Nvidia Кимберли Пауэлл , его прямой подчинённой. ",
+      "published": "2026-11-12T10:03:01+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1655",
+      "title": "Робота T800 превратили в Терминатора с клинками 💪 Энтузиаст модифицировал робота T800, придав ему внешний вид механического скелета из фильма «Терминатор». Робот получил светящиеся красные глаза, металлическое лицо и несколько настоящих клинков на предплечьях. 😁 — Я бы с ним в лифт не заходил ❤️ — Росомаха, ты ли это? @alfa_trends",
+      "published": "2026-11-12T09:53:31+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1031775/jensen-huang-nvidia-ceo-replacement-rumors",
       "title": "AOC chimes in on the Nvidia CEO scandal.",
@@ -162,6 +1182,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/artificial-intelligence/nvidia-ceo-jensen-huang-resigns",
+      "title": "“Diva Down:” Nvidia CEO Jensen Huang Resigns",
+      "published": "2026-11-12T09:12:37-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/antidigital/12902",
       "title": "Доброе утро! ❤️ 1️⃣ Отечественный рынок систем защиты от дронов в 2026 г. достигнет 56 млрд руб. (по оценке холдинга «Росэл»), а к 2027-му вырастет до 67 млрд . Более 60% спроса уже формируют гражданские заказчики на фоне участившихся атак на инфраструктуру и требований указа президента о защите объектов. Главным драйвером остается ТЭК (до 70% зака",
       "published": "2026-11-12T08:35:27+00:00",
@@ -169,6 +1199,16 @@
       "source_name": "antidigital",
       "tier": "russia",
       "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/softbank-billion-loss-ai-data-centers-financing",
+      "title": "SoftBank Loses $7 Billion as AI Data Centers Turn Out to Be Risky Investment",
+      "published": "2026-11-12T08:28:27-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
       "attribution": ""
     },
     {
@@ -217,6 +1257,16 @@
       "published": "2026-11-12T05:32:09+00:00",
       "source_id": "xor_journal",
       "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "published": "2026-11-12T03:13:10+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-12T09:51:31+00:00",
       "attribution": ""
@@ -425,6 +1475,16 @@
       "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure",
       "title": "Meta is losing its longtime head of infrastructure",
       "published": "2026-11-11T20:12:01+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze",
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "published": "2026-11-11T20:04:28+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
@@ -1372,26 +2432,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "published": "2026-11-11",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-12T09:51:31+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze",
-      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "published": "2026-11-11",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-12T01:32:45+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
       "title": "The US is winning the AI race. Jensen Huang could have blown it",
       "published": null,
@@ -1812,16 +2852,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "published": "2026-11-10T17:30:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-10T22:23:36+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
       "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
       "published": "2026-11-10T17:04:19+00:00",
@@ -1838,16 +2868,6 @@
       "source_id": "antidigital",
       "source_name": "antidigital",
       "tier": "russia",
-      "first_seen": "2026-11-10T22:23:36+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai",
-      "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
-      "published": "2026-11-10T16:50:38+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
       "first_seen": "2026-11-10T22:23:36+00:00",
       "attribution": ""
     },
@@ -2262,26 +3282,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs",
-      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-      "published": "2026-11-10T15:45:27+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-10T16:26:30+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "published": "2026-11-10T15:29:30+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-10T16:26:30+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://t.me/anti_agi/2288",
       "title": "Последний месяц мы с тревогой следили за тем, как Яндекс восстанавливал инфраструктуру после серии беспилотных атак. Особенно — за судьбой клиентских данных. Вспоминался горький опыт Amazon: через полгода после первых ударов по объектам в Бахрейне и ОАЭ компания признала, что часть хранилищ восстановить не получится. У нас всё обошлось малой кровью",
       "published": "2026-11-10T15:15:23+00:00",
@@ -2314,16 +3314,6 @@
     {
       "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews",
       "title": "Reddit is turning user conversations into AI-powered product reviews",
-      "published": "2026-11-10T15:00:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-10T16:26:30+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops",
-      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
       "published": "2026-11-10T15:00:00+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -2459,16 +3449,6 @@
       "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-10T22:23:36+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
-      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns ",
-      "published": "2026-11-10T13:00:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-10T16:26:30+00:00",
       "attribution": ""
     },
     {
@@ -3492,6 +4472,26 @@
       "attribution": ""
     },
     {
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "published": "2026-11-10",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T22:23:36+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai",
+      "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+      "published": "2026-11-10",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T22:23:36+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available",
       "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
       "published": "2026-11-10",
@@ -3499,6 +4499,46 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-10T22:23:36+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs",
+      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+      "published": "2026-11-10",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "published": "2026-11-10",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops",
+      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+      "published": "2026-11-10",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns ",
+      "published": "2026-11-10",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T16:26:30+00:00",
       "attribution": ""
     },
     {
@@ -18018,39 +19058,39 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 60,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "found": 58,
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 66,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "found": 70,
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "futurism",
       "name": "Futurism",
       "status": "partial",
       "scope": "listing",
-      "found": 57,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "found": 56,
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 21,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "found": 22,
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "addmeto",
@@ -18058,7 +19098,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "xor_journal",
@@ -18066,15 +19106,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 13,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "alfa_trends",
       "name": "Альфа Тренды",
       "status": "ok",
       "scope": "known_post",
-      "found": 18,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "found": 19,
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "antiinfosec",
@@ -18082,7 +19122,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "antidigital",
@@ -18090,23 +19130,23 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "anti_agi",
       "name": "anti_agi",
       "status": "ok",
       "scope": "known_post",
-      "found": 17,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "found": 18,
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
       "name": "Яндекс Автономность · Telegram",
       "status": "ok",
       "scope": "known_post",
-      "found": 15,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "found": 10,
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -18114,14 +19154,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "checked_at": "2026-11-12T18:20:55+00:00"
     },
     {
       "id": "rozetked",
@@ -18129,7 +19169,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 16,
-      "checked_at": "2026-11-12T09:51:31+00:00"
+      "checked_at": "2026-11-12T18:20:55+00:00"
     }
   ]
 }
