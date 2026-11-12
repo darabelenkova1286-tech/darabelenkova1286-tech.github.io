@@ -1,6 +1,256 @@
 {
-  "updated_at": "2026-11-11T18:42:32+00:00",
+  "updated_at": "2026-11-12T01:32:45+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031645/when-i-asked-who-else-jensen-huang-was-fucking-i-did-not-expect-to-get-answers-so-quickly",
+      "title": "When I asked who else Jensen Huang was fucking, I did not expect to get answers so quickly.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031611/data-center-critics-are-gearing-up-to-hold-politicians-to-their-campaign-promises",
+      "title": "Data center critics are gearing up to hold politicians to their campaign promises.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "title": "became a theme",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "title": "United won’t let your AI agent book your flight",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1031600/spacexsis-grok-build-reportedly-leaked-private-info-from-thousands-of-users-including-its-own-business",
+      "title": "SpaceXSI’s Grok Build reportedly leaked private info from thousands of users — including its own business.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1031594/a-temporary-stay-of-execution-for-the-cybertruck",
+      "title": "A temporary stay of execution for the Cybertruck.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/streaming/1031590/roku-is-done-with-the-smart-home",
+      "title": "Roku is done with the smart home.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1031587/the-us-should-lose-its-measles-elimination-status-scientists-say",
+      "title": "The US should lose its measles elimination status, scientists say.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1031580/jensen-huangs-affair-reportedly-has-taiwan-and-us-cabinet-officials-rattled",
+      "title": "Jensen Huang’s affair reportedly has Taiwan and US cabinet officials rattled.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/jensen-huang-nvidia-calls-grow-resign",
+      "title": "As Multiple Affairs Emerge, Calls Grow for Jensen Huang to Resign",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o",
+      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49410-noyabr-skoe-obnovlenie-slomalo-kamery-v-google-pixel-11-pro",
+      "title": "Ноябрьское обновление сломало камеры в Google Pixel 11",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49421-apple-zakroet-forum-podderzhki-support-community-on-rabotal-s-1998-goda",
+      "title": "Apple закроет форум поддержки Support Community — он работал с 1998 года",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49420-v-gosdumu-vnesli-zakon-dlya-ogranicheniya-denezhnyh-perevodov-pri-somnitel-nyh-operaciyah",
+      "title": "В Госдуму внесли закон для ограничения денежных переводов при сомнительных операциях",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "published": "2026-11-11T23:50:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "published": "2026-11-11T23:28:45+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "published": "2026-11-11T23:17:05+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10479",
+      "title": "Фермеры каннабиса мечтают переквалифицироваться в ИИ-бизнесменов — выращивать траву стало менее выгодно, чем сдавать помещения под дата-центры 🤔 Как пишет Forbes, из-за падения в США цен на каннабис производители массово пытаются сдать или продать свои фермы… ИИ-компаниям. Дело в том, что там уже есть мощное электроснабжение, охлаждение и вентиляци",
+      "published": "2026-11-11T21:09:47+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure",
+      "title": "Meta is losing its longtime head of infrastructure",
+      "published": "2026-11-11T20:12:01+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "published": "2026-11-11T19:54:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "published": "2026-11-11T19:34:55+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "published": "2026-11-11T19:22:22+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
       "title": "I asked every TV manufacturer 17 questions about how they spy on you",
@@ -177,16 +427,6 @@
       "published": null,
       "source_id": "theverge",
       "source_name": "The Verge",
-      "tier": "main",
-      "first_seen": "2026-11-11T18:42:32+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/future-society/analysis-sports-betting-platforms-revenue-problem-addiction",
-      "title": "Damning Analysis Finds That Sports Betting Platforms Are Making Almost All Their Revenue Off Problem Gamblers",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-11T18:42:32+00:00",
       "attribution": ""
@@ -392,6 +632,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/future-society/jensen-huang-cheated-wife-horrible",
+      "title": "Can We Just Take a Moment to Reflect on How Horrible It Is That Jensen Huang Cheated on His Wife Who Had Supported Him for So Many Decades as He Rose to Incredible Power and Fame?",
+      "published": "2026-11-11T16:08:02-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/antidigital/12897",
       "title": "Куда пристроить голову У вас есть голова, но вы не знаете, что с ней делать, когда тело придёт в негодность? MIT Technology Review составил список из шести вариантов, от хирургических до облачных, и приятных среди них нет. Самый прямолинейный вариант — пришить голову к чужому телу. В 1970 году нейрохирург Роберт Уайт проделал это с макаками-резусам",
       "published": "2026-11-11T16:06:30+00:00",
@@ -409,6 +659,26 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-11T18:42:32+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "published": "2026-11-11T15:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-11T18:42:32+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/us-government-cftc-kalshi-prediction-market-regulation",
+      "title": "The US Government Just Issued a Stark Warning to Kalshi",
+      "published": "2026-11-11T14:51:44-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
       "attribution": ""
     },
     {
@@ -442,6 +712,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/future-society/trump-democratic-majority-takes-aim-crypto-empire",
+      "title": "Trump in Danger as Democratic Majority Takes Aim at His Crypto Empire",
+      "published": "2026-11-11T13:54:16-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/xor_journal/10478",
       "title": "Anthropic закручивает гайки — теперь для доступа к Claude важно не только где вы живёте, но и на кого работаете 👻 С 12 ноября компания ужесточает правила: даже если вы переехали из России в Грузию, Казахстан и другие страны, то пользоваться Claude для работы на российскую компанию всё равно запрещено. Причём под раздачу попадают и зарубежные фирмы,",
       "published": "2026-11-11T13:53:44+00:00",
@@ -457,6 +737,16 @@
       "published": "2026-11-11T12:58:14+00:00",
       "source_id": "xor_journal",
       "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-11T18:42:32+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/analysis-sports-betting-platforms-revenue-problem-addiction",
+      "title": "Damning Analysis Finds That Sports Betting Platforms Are Making Almost All Their Revenue Off Problem Gamblers",
+      "published": "2026-11-11T12:54:57-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-11T18:42:32+00:00",
       "attribution": ""
@@ -772,6 +1062,16 @@
       "attribution": ""
     },
     {
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "published": "2026-11-11T07:30:51+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-11T11:00:05+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/antiinfosec/297",
       "title": "Шутка, от которой не до смеха Тут потихоньку начал расползаться PoC-отчет по «новой страшной уязвимости, затрагивающей более 2 млрд устройств» —Terminal2Shell. Класс угрозы 11 из 11 по CVSS, 0 милисекунд до эксплойта, живет с 1971 года. «Уязвимость на уровне проектирования эмуляторов терминала. При запуске терминала немедленно запускается процесс о",
       "published": "2026-11-11T06:57:54+00:00",
@@ -852,13 +1152,13 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze",
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
       "published": "2026-11-11",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
-      "first_seen": "2026-11-11T18:42:32+00:00",
+      "first_seen": "2026-11-12T01:32:45+00:00",
       "attribution": ""
     },
     {
@@ -2462,16 +2762,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "published": "2026-11-10T01:27:12+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-10T07:28:35+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
       "title": "What could China get from Jensen Huang?",
       "published": null,
@@ -2982,16 +3272,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "published": "2026-11-10",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-11T11:00:05+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available",
       "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
       "published": "2026-11-10",
@@ -3005,16 +3285,6 @@
       "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago",
       "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
       "published": "2026-11-09T23:28:37+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-10T00:16:04+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse",
-      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-      "published": "2026-11-09T23:03:46+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
@@ -3075,26 +3345,6 @@
       "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
       "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
       "published": "2026-11-09T19:24:51+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-10T00:16:04+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months",
-      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-      "published": "2026-11-09T19:21:46+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-10T00:16:04+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks",
-      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-      "published": "2026-11-09T19:19:24+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
@@ -4949,6 +5199,46 @@
       "source_name": "xor_journal",
       "tier": "main",
       "first_seen": "2026-11-09T15:18:38+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "published": "2026-11-09",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T07:28:35+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "published": "2026-11-09",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T00:16:04+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months",
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "published": "2026-11-09",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T00:16:04+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks",
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "published": "2026-11-09",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T00:16:04+00:00",
       "attribution": ""
     },
     {
@@ -17499,30 +17789,30 @@
       "status": "partial",
       "scope": "listing",
       "found": 62,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 63,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "found": 65,
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "futurism",
       "name": "Futurism",
       "status": "partial",
       "scope": "listing",
-      "found": 58,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "found": 57,
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "bbc",
@@ -17530,7 +17820,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 21,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "addmeto",
@@ -17538,15 +17828,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 14,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "found": 15,
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "alfa_trends",
@@ -17554,7 +17844,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "antiinfosec",
@@ -17562,7 +17852,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "antidigital",
@@ -17570,7 +17860,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "anti_agi",
@@ -17578,7 +17868,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -17586,7 +17876,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 15,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -17594,14 +17884,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "checked_at": "2026-11-12T01:32:45+00:00"
     },
     {
       "id": "rozetked",
@@ -17609,7 +17899,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 16,
-      "checked_at": "2026-11-11T18:42:32+00:00"
+      "checked_at": "2026-11-12T01:32:45+00:00"
     }
   ]
 }
