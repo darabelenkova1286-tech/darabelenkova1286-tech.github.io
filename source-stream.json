@@ -1,6 +1,226 @@
 {
-  "updated_at": "2026-11-12T01:32:45+00:00",
+  "updated_at": "2026-11-12T09:51:31+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031775/jensen-huang-nvidia-ceo-replacement-rumors",
+      "title": "AOC chimes in on the Nvidia CEO scandal.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031766/jensen-huang-nvidia-ceo-replacement-rumors",
+      "title": "If Jensen Huang is done at Nvidia, who will be the next CEO? Johny Srouji?",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave",
+      "title": "seriously considering",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/840054/apple-hardware-vp-johny-srouji-reportedly-tells-staff-i-dont-plan-on-leaving-anytime-soon",
+      "title": "deciding to stay",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4ye3rvd4o",
+      "title": "50 world leaders in Dublin for major European summit",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqy7l70kv7r8o",
+      "title": "Artists concerned AI use leads to fewer commissions",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49431-google-predstavila-servis-tabletop-dlya-planirovaniya-meropriyatiy",
+      "title": "Google представила сервис Tabletop для планирования мероприятий",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49429-globalsign-gotovit-novuyu-volnu-otzyva-ssl-sertifikatov-u-rossiyskih-saytov",
+      "title": "GlobalSign готовит новую волну отзыва SSL-сертификатов у российских сайтов",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49428-alise-ai-teper-mozhno-poruchit-sovershat-zvonki-i-vypolnyat-drugie-zadachi-s-rezhimom-deystvuy",
+      "title": "«Алисе AI» можно будет поручить звонки и другие задачи — с режимом «Действуй!»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49427-huawei-pokazala-pervyy-videotizer-svoego-novogo-subbrenda-osta",
+      "title": "Huawei показала первый видеотизер своего нового суббренда Osta",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49426-resident-evil-requiem-vybrali-igroy-goda-na-golden-joystick-award-2026",
+      "title": "Resident Evil Requiem выбрали игрой года на Golden Joystick Award 2026",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49425-tcl-predstavila-v-rossii-novye-stiral-nye-i-sushil-nye-mashiny-i-holodil-niki",
+      "title": "TCL представила в России новые стиральные и сушильные машины и холодильники",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49424-anker-vypustila-v-rossii-naushniki-klipsy-aeroclip-2-s-firmennym-ii-chipom-thus",
+      "title": "Anker выпустила в России наушники-клипсы AeroClip 2 с фирменным ИИ-чипом THUS",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49423-s-emki-vlastelin-kolec-ohota-na-golluma-zaversheny",
+      "title": "Закончились съёмки «Властелина колец: Охота на Голлума»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49422-wsj-sovet-direktorov-nvidia-gotovitsya-uvolit-dzhensena-huanga-iz-za-dvuh-romanov",
+      "title": "WSJ: совет директоров Nvidia готовится уволить Дженсена Хуанга — из-за двух романов",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12903",
+      "title": "🛰 Как развивается спутниковая связь в России: от интернета в Арктике до отечественного оборудования В «Российской газете» прочитали большое интервью гендиректора «РТКОММ» Сергея Ратиева. Он рассказал, как за последние 15 лет изменился российский рынок спутниковой связи, почему такие технологии остаются востребованными даже при развитии наземных сет",
+      "published": "2026-11-12T09:51:06+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12902",
+      "title": "Доброе утро! ❤️ 1️⃣ Отечественный рынок систем защиты от дронов в 2026 г. достигнет 56 млрд руб. (по оценке холдинга «Росэл»), а к 2027-му вырастет до 67 млрд . Более 60% спроса уже формируют гражданские заказчики на фоне участившихся атак на инфраструктуру и требований указа президента о защите объектов. Главным драйвером остается ТЭК (до 70% зака",
+      "published": "2026-11-12T08:35:27+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10487",
+      "title": "Технологии развивались ради этого 😂 @xor_journal",
+      "published": "2026-11-12T08:17:06+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2294",
+      "title": "Семь нейронов сделали ИИ-агента спящим агентом Исследователи Microsoft показали , как встроить скрытую закладку в языковую модель, изменив всего несколько нейронов. Пока она не встретит заданную строку, модель работает как обычно. Но после срабатывания триггера выдает команду, которую для нее выбрал атакующий. Если модель управляет агентом с доступ",
+      "published": "2026-11-12T08:13:01+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10481",
+      "title": "Хранить данные можно даже в Minecraft, Discord и обычной PNG-картинке — разработчики придумали кучу безумных альтернатив привычным БД 🧠 Но хранить мало: данные нужно уметь находить, обновлять и восстанавливать после потери. Например, в Т1 Облако для PostgreSQL можно настроить автоматические резервные копии и восстановить из них базу. Как с этими же",
+      "published": "2026-11-12T07:35:02+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12901",
+      "title": "Прощения не будет Не успел Дженсен Хуанг извиниться перед сотрудниками за измену жене, как выяснилось, что роман у него был не один. Помимо топ-менеджера сингапурской Megaspeed Элис Хуанг, которую американская разведка считает китайской шпионкой, у главы Nvidia, по данным NYT и WSJ, были отношения с Кимберли Пауэлл, которая почти двадцать лет работ",
+      "published": "2026-11-12T07:05:22+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10480",
+      "title": "Хуанг может покинуть пост главы Nvidia из-за любовных интрижек — совет директоров компании готовится уволить создателя главного поставщика чипов для ИИ 😨 Как пишет WSJ, причиной стали сразу две внебрачные связи Дон Хуанга. Сначала всплыла история с китайской шпионкой, а теперь стало известно о романе с замужней вице-президентом Nvidia Кимберли Пауэ",
+      "published": "2026-11-12T05:32:09+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-12T09:51:31+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
@@ -122,16 +342,6 @@
       "attribution": ""
     },
     {
-      "url": "https://futurism.com/future-society/jensen-huang-nvidia-calls-grow-resign",
-      "title": "As Multiple Affairs Emerge, Calls Grow for Jensen Huang to Resign",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-12T01:32:45+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o",
       "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
       "published": null,
@@ -247,6 +457,16 @@
       "published": "2026-11-11T19:22:22+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/jensen-huang-nvidia-calls-grow-resign",
+      "title": "As Multiple Affairs Emerge, Calls Grow for Jensen Huang to Resign",
+      "published": "2026-11-11T18:50:15-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-12T01:32:45+00:00",
       "attribution": ""
@@ -1149,6 +1369,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-11T02:47:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "published": "2026-11-11",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T09:51:31+00:00",
       "attribution": ""
     },
     {
@@ -2745,16 +2975,6 @@
       "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass",
       "title": "California’s proposed ‘billionaire tax’ fails to pass",
       "published": "2026-11-10T05:18:43+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-10T07:28:35+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes",
-      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
-      "published": "2026-11-10T04:34:15+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
@@ -5199,6 +5419,16 @@
       "source_name": "xor_journal",
       "tier": "main",
       "first_seen": "2026-11-09T15:18:38+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes",
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "published": "2026-11-09",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T07:28:35+00:00",
       "attribution": ""
     },
     {
@@ -17788,23 +18018,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 62,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "found": 60,
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 65,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "found": 66,
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "futurism",
@@ -17812,7 +18042,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 57,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "bbc",
@@ -17820,7 +18050,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 21,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "addmeto",
@@ -17828,15 +18058,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 15,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "found": 13,
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "alfa_trends",
@@ -17844,7 +18074,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "antiinfosec",
@@ -17852,7 +18082,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "antidigital",
@@ -17860,7 +18090,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "anti_agi",
@@ -17868,7 +18098,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -17876,7 +18106,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 15,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -17884,14 +18114,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "checked_at": "2026-11-12T09:51:31+00:00"
     },
     {
       "id": "rozetked",
@@ -17899,7 +18129,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 16,
-      "checked_at": "2026-11-12T01:32:45+00:00"
+      "checked_at": "2026-11-12T09:51:31+00:00"
     }
   ]
 }
