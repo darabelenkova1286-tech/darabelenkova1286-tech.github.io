@@ -1,6 +1,396 @@
 {
-  "updated_at": "2026-11-12T18:20:55+00:00",
+  "updated_at": "2026-11-13T00:26:33+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "title": "Microsoft Outlook is down",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "title": "Xbox announces Wolfenstein 3",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+      "title": "Humble Bundle redesign removes two-factor verification from settings",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032419/reuters-jensen-huang-had-an-intimate-relationship-with-another-nvidia-employee-too",
+      "title": "Reuters: Jensen Huang had an “intimate relationship” with another Nvidia employee too.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032390/bmx-solidsafe-semi-solid-state-20k-laptop-power-bank",
+      "title": "BMX’s new semi-solid-state power bank outputs up to 100W.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+      "title": "power banks featuring safer and longer-lasting semi-solid-state cells",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+      "title": "Here are the 25 original Xbox games you can now play on PC",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/science/1032350/spacex-tesla-mega-merger-could-come-as-soon-as-december",
+      "title": "SpaceX-Tesla mega-merger could come as soon as December.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+      "title": "The SpaceX-Tesla merger",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "title": "more like a when than an if",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1032306/doom-developer-id-software-is-working-on-a-new-title",
+      "title": "Doom developer id Software is working on a new title.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs",
+      "title": "major layoffs affecting id in July",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
+      "title": "Meet the people who want peptides to be made in America",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032221/donald-trump-jr-is-no-longer-advising-kalshi",
+      "title": "Donald Trump Jr. is no longer advising Kalshi.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1032231/jensen-huang-will-still-need-to-answer-to-congress-despite-his-resignation-schumer-says",
+      "title": "Jensen Huang will still need to answer to Congress despite his resignation, Schumer says.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c60qkn5gz392o",
+      "title": "Scotland created Grand Theft Auto - is its video game industry still thriving?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
+      "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49443-google-predstavila-gemini-4-hydrogen-svoyu-samuyu-effektivnuyu-model-dlya-povsednevnyh-zadach",
+      "title": "Google представила Gemini 4 Hydrogen — свою самую эффективную модель для повседневных задач",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49444-reuters-u-dzhensena-huanga-byl-roman-kak-minimum-s-dvumya-podchinennymi",
+      "title": "Reuters: у Дженсена Хуанга был роман как минимум с двумя подчинёнными",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49442-google-otkryla-predzakazy-na-umnye-ochki-intelligent-eyewear-s-podderzhkoy-gemini",
+      "title": "Google открыла предзаказы на умные очки Intelligent Eyewear с поддержкой Gemini",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "published": "2026-11-12T22:22:28+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "published": "2026-11-12T21:35:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "published": "2026-11-12T21:27:10+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10497",
+      "title": "Красота на ночь: разработчик с помощью Claude Fable 5.2 превратил «Звёздную ночь» Ван Гога в 3D-игру. Так что теперь можно кататься на велосипеде внутри знаменитой картины, собирать светящиеся сферы, выполнять трюки и летать среди звёзд. Окунуться в мир художника можно прям в браузере. Залипаем здесь 🤩 @xor_journal",
+      "published": "2026-11-12T21:17:02+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "published": "2026-11-12T20:26:47+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10496",
+      "title": "У Дженсена Хуанга нашли уже ТРЕТЬЮ любовницу — она тоже работает в Nvidia, сообщает Reuters. Да посчитайте уже просто всех женщин в компании 😰 @xor_journal",
+      "published": "2026-11-12T19:52:50+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "published": "2026-11-12T19:11:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage",
+      "title": "Microsoft’s Outlook email hit by new outage",
+      "published": "2026-11-12T19:03:39+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12908",
+      "title": "Теперь окончательно: структуры Wildberries & Russ (RWB) всё-таки договорились о покупке 75% туроператора \"Библио-Глобус\". Совет директоров аэропорта Шереметьево, которому принадлежит эта доля, одобрил сделку 9 ноября. По данным источников РБК , её стоимость может составить около 40 млрд руб. Оплатить покупку планируют за счёт будущей прибыли туропе",
+      "published": "2026-11-12T19:00:04+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "published": "2026-11-12T18:39:23+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
       "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
@@ -482,16 +872,6 @@
       "attribution": ""
     },
     {
-      "url": "https://futurism.com/future-society/mark-zuckerberg-tech-wife-guy",
-      "title": "Mark Zuckerberg Maintains Status as Tech’s One True Wife Guy",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-12T18:20:55+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
       "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
       "published": null,
@@ -772,6 +1152,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/artificial-intelligence/jensen-huangs-extramarital-affairs-are-multiplying",
+      "title": "Jensen Huang’s Extramarital Affairs Are Multiplying",
+      "published": "2026-11-12T15:43:35-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/addmeto/6231",
       "title": "WSJ: Дженсен Хуанг ушёл в отставку с поста CEO Nvidia, после 33 лет работы в компании. Вопреки расхожему мнению, он американец тайваньского происхождения и ему принадлежит 3.3% компании. Он был первым и единственным главой компании за всю её историю. Отставка связана с двумя внебрачными связями, в том числе с (видимо!) китайской шпионкой и с сотруд",
       "published": "2026-11-12T15:42:26+00:00",
@@ -842,16 +1232,6 @@
       "attribution": "Новости из ТГ Альфы"
     },
     {
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "published": "2026-11-12T14:30:01+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-12T18:20:55+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://t.me/antiinfosec/299",
       "title": "Базар в облаках У ИБ-специалистов появились новые претензии к Microsoft. В очередном разборе вредоносного образца снова фигурирует облако Azure, а публичного ответа компания пока не дала. Пока индустрия рассказывает о борьбе с APT, чужая управляющая инфраструктура спокойно квартирует в крупном облаке. Техника следующая: Ко вполне легитимному файлу ",
       "published": "2026-11-12T14:29:15+00:00",
@@ -859,6 +1239,16 @@
       "source_name": "antiinfosec",
       "tier": "russia",
       "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/nvidia-stock-year-lost-money",
+      "title": "If You Bought Nvidia Stock One Year Ago, You Would Now Have Lost a Substantial Amount of Money",
+      "published": "2026-11-12T14:18:59-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
       "attribution": ""
     },
     {
@@ -922,6 +1312,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/future-society/jensen-huang-sacked-nvidia-elon-musk",
+      "title": "Jensen Huang Has Been Sacked by Nvidia. Elon Musk Says He’ll Hire Him",
+      "published": "2026-11-12T13:26:47-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition",
       "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
       "published": "2026-11-12T13:26:25+00:00",
@@ -948,6 +1348,16 @@
       "source_id": "antidigital",
       "source_name": "antidigital",
       "tier": "russia",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/mark-zuckerberg-tech-wife-guy",
+      "title": "Mark Zuckerberg Maintains Status as Tech’s One True Wife Guy",
+      "published": "2026-11-12T12:52:49-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
       "first_seen": "2026-11-12T18:20:55+00:00",
       "attribution": ""
     },
@@ -1429,6 +1839,26 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "published": "2026-11-12",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "published": "2026-11-12",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
       "attribution": ""
     },
     {
@@ -2752,29 +3182,9 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "published": "2026-11-10T21:08:52+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-10T22:23:36+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
       "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
       "published": "2026-11-10T20:52:13+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-10T22:23:36+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development",
-      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-      "published": "2026-11-10T20:47:05+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
@@ -4469,6 +4879,26 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-10T00:16:04+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "published": "2026-11-10",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T22:23:36+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development",
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "published": "2026-11-10",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-10T22:23:36+00:00",
       "attribution": ""
     },
     {
@@ -19058,23 +19488,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 58,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "found": 55,
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 70,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "found": 68,
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "futurism",
@@ -19082,7 +19512,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 56,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "bbc",
@@ -19090,7 +19520,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 22,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "addmeto",
@@ -19098,7 +19528,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "xor_journal",
@@ -19106,7 +19536,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 13,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "alfa_trends",
@@ -19114,7 +19544,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "antiinfosec",
@@ -19122,7 +19552,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "antidigital",
@@ -19130,7 +19560,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "anti_agi",
@@ -19138,7 +19568,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -19146,7 +19576,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 10,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -19154,22 +19584,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "checked_at": "2026-11-13T00:26:33+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 16,
-      "checked_at": "2026-11-12T18:20:55+00:00"
+      "found": 15,
+      "checked_at": "2026-11-13T00:26:33+00:00"
     }
   ]
 }
