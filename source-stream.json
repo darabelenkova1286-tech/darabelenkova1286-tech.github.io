@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-11-13T00:26:33+00:00",
+  "updated_at": "2026-11-13T07:59:46+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+      "title": "What we know about the global Microsoft outage",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49446-na-ios-27-2-poyavilsya-sposob-vklyuchit-5g-na-iphone-v-rossii-kak-eto-sdelat",
+      "title": "На iOS 27.2 появился способ включить 5G на iPhone в России — как это сделать?",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49433-cd-project-ispol-zovala-ii-dlya-ozvuchki-geral-ta-v-novom-dopolnenii-k-the-witcher-3",
+      "title": "CD Projekt использовала ИИ для озвучки Геральта в новом дополнении к The Witcher 3",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49450-google-vypustila-android-17-qpr3-beta-4",
+      "title": "Google выпустила Android 17 QPR3 Beta 4",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49449-smi-rkn-napravil-bolee-2-2-mlrd-rubley-na-ii-tehnologii-v-sisteme-fil-tracii-kontenta",
+      "title": "СМИ: РКН направил более 2,2 млрд рублей на ИИ-технологии в системе фильтрации контента",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49448-v-seti-nazvali-veryatnye-harakteristiki-xiaomi-18-8-elite-gen-6-do-16-gb-ozu-i-1-tb-pamyati",
+      "title": "В сети назвали вероятные характеристики Xiaomi 18: 8 Elite Gen 6, до 16 ГБ ОЗУ и 1 ТБ памяти",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49447-donal-d-tramp-prodvigaet-tima-kuka-na-post-glavy-nvidia",
+      "title": "Дональд Трамп продвигает Тима Кука на пост главы Nvidia",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49445-xbox-i-machinegames-oficial-no-rabotayut-nad-wolfenstein-3",
+      "title": "Xbox и MachineGames официально работают над Wolfenstein 3",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12909",
+      "title": "Доброе утро! ❤️ 1️⃣ Стоимость страхования дата-центров от терактов и диверсий взлетела более чем в 100 раз с начала октября. Если в первой половине года тариф составлял 0,03–0,06% от лимита, то теперь он вырос до 1–5%. Итоговый тариф зависит от геолокации ЦОДа (близости к зонам риска) и уровня его физической защищённости. 2️⃣ Роскомнадзор внедрил м",
+      "published": "2026-11-13T07:43:55+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10499",
+      "title": "В ранней компьютерной сети, где работали университеты и исследовательские центры, появилась реклама компьютеров. Получатели начали жаловаться, а администрация объявила такую рассылку недопустимой. Так в 1978 году встретили первый спам. Подписывайтесь 👉 @techno_yandex",
+      "published": "2026-11-13T07:35:01+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1658",
+      "title": "Кто проверяет нейросети — и можно ли доверить эту работу другому ИИ? 🔍 ИИ-агенты всё чаще берут на себя задачи, от которых зависит пользовательский опыт и работа бизнеса. Но как убедиться, что они правильно понимают запросы, не выдают неверную информацию и действуют в заданных рамках? ❤️ Святослав Соловьёв, директор по искусственному интеллекту в И",
+      "published": "2026-11-13T07:07:02+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/xor_journal/10498",
+      "title": "Учим ИИ-агентов писать нормальный код — команда Google Chrome вместе с разработчиками других браузеров обновила набор скиллов для современной веб-разработки. Внутри Modern Web Guidance инструкции по 250 возможностям современных браузеров и 203 сценария их применения. Агенты учатся избегать устаревшие подходы, создавать адаптивные интерфейсы, делать",
+      "published": "2026-11-13T05:35:57+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-13T07:59:46+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
       "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
@@ -288,6 +428,16 @@
       "source_id": "rozetked",
       "source_name": "Rozetked",
       "tier": "backup",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "published": "2026-11-12T22:42:51+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
       "first_seen": "2026-11-13T00:26:33+00:00",
       "attribution": ""
     },
@@ -1839,16 +1989,6 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-12T01:32:45+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "published": "2026-11-12",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-13T00:26:33+00:00",
       "attribution": ""
     },
     {
@@ -19488,8 +19628,8 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 55,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "found": 53,
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "theverge",
@@ -19497,14 +19637,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 68,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "futurism",
@@ -19512,15 +19652,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 56,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 22,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "found": 19,
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "addmeto",
@@ -19528,7 +19668,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "xor_journal",
@@ -19536,7 +19676,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 13,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "alfa_trends",
@@ -19544,7 +19684,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "antiinfosec",
@@ -19552,7 +19692,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "antidigital",
@@ -19560,7 +19700,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "anti_agi",
@@ -19568,7 +19708,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -19576,7 +19716,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 10,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -19584,14 +19724,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     },
     {
       "id": "rozetked",
@@ -19599,7 +19739,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 15,
-      "checked_at": "2026-11-13T00:26:33+00:00"
+      "checked_at": "2026-11-13T07:59:46+00:00"
     }
   ]
 }
