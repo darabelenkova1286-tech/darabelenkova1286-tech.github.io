@@ -1,6 +1,746 @@
 {
-  "updated_at": "2026-11-13T07:59:46+00:00",
+  "updated_at": "2026-11-13T16:26:18+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
+      "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "title": "Microsoft’s massive Outlook outage continues",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
+      "title": "Apple should have made the MacBook logo RGB",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
+      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/1028667/its-now-easier-to-try-a-secretlab-chair-depending-on-where-you-live",
+      "title": "It’s now easier to try a Secretlab chair, depending on where you live.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "title": "The Verge’s 2026 gift guide for dads",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1032927/tubi-kickstarter-fandom-fund",
+      "title": "Tubi and Kickstarter are partnering to support independent creators.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/684374/tubi-kickstarter-initiative",
+      "title": "last year’s FilmStream Collective Fund",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032905/lego-bricklink-marketplace-online-unusual-activity-user-info-compromised",
+      "title": "Lego’s BrickLink marketplace is back online after some users’ info was compromised.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1032894/bmw-hit-with-a-massive-recall-over-fire-risk",
+      "title": "BMW hit with a massive recall over fire risk.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1032895/some-friday-the-13th-news-on-friday-the-13th",
+      "title": "Some Friday the 13th news on Friday the 13th.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+      "title": "the horror resurgence",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+      "title": "the streaming prequel series Crystal Lake",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/1032845/the-outlook-outage-drags-on-but-microsoft-says-fixes-are-looking-positive",
+      "title": "The Outlook outage drags on, but Microsoft says fixes are looking ‘positive.’",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032838/jensen-did-so-many-good-things-and-he-needs-a-second-chance",
+      "title": "‘Jensen did so many good things and he needs a second chance.’",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032825/jensen-huang-im-a-piece-of-shit",
+      "title": "Jensen Huang: ‘I’m a piece of shit.’",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032816/muse-can-make-outbound-phone-calls-for-you",
+      "title": "Muse can make outbound phone calls for you.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/openai-military-applications-ai-pranksters-ukrainian",
+      "title": "OpenAI Leadership Gets Fooled by Pranksters Pretending to be Ukrainian Officials, Discusses Military Secrets With Them",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/crgqx8l7ngqlo",
+      "title": "Global Microsoft outage affects NI schools, councils and other services",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6m2lywnpmy7o",
+      "title": "Guernsey: Microsoft outage causes disruption",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro",
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cq1j6d8x7rjjo",
+      "title": "Microsoft outage disrupts hospital communications",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+      "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmkg52ekg1zeo",
+      "title": "Wales' public services impacted by global Microsoft outage",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqe87d47598eo",
+      "title": "How Microsoft outage is affecting police, airports and hospitals in the north-west of England",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2lx1pjeqo",
+      "title": "Governments, courts, trains and hospitals hit by Microsoft outage in North America",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c3vg2wdx8z7no",
+      "title": "South West: Disruption caused by Microsoft outage",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o",
+      "title": "NHS, schools and police forces hit by Microsoft outage",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn5p1vykgo",
+      "title": "How Microsoft outage is affecting South East NHS trusts, councils and police",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cw0k6je4vr1xo",
+      "title": "Microsoft outage: Yorkshire councils and police hit",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cv1j6d9kg98po",
+      "title": "Manx government systems hit by Microsoft outage",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://autonomy.yandex.ru/blog/rovery-nachali-dostavlyat-lekarstva-iz-aptek-v-moskve",
+      "title": "Роверы начали доставлять лекарства из аптек в Москве",
+      "published": null,
+      "source_id": "autonomy_yandex",
+      "source_name": "Яндекс Автономность",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/articles/49430-znakomimsya-s-ofisnym-paketom-mts-link-vse-dlya-sovmestnoy-raboty",
+      "title": "Знакомимся с офисным пакетом «МТС Линк»: всё для совместной работы",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49458-insayd-reliz-iphone-18-perenesli-iz-za-perehoda-na-kamery-samsung",
+      "title": "Инсайд: релиз iPhone 18 перенесли из-за перехода на камеры Samsung",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49457-sboy-v-rabote-infrastruktury-microsoft-zatronul-desyatki-stran",
+      "title": "Сбой в работе инфраструктуры Microsoft затронул десятки стран",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49456-tri-kinoreliza-i-vse-tri-v-cifre",
+      "title": "Три кинорелиза — и все три в «цифре» 📺",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49455-huawei-predstavila-sense-g1-sistemu-invazivnogo-izmereniya-glyukozy-v-krovi",
+      "title": "Huawei представила Sense G1 — систему инвазивного измерения глюкозы в крови",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49454-v-brauzere-opera-dlya-ios-poyavilas-funkciya-szhatiya-veb-stranic-do-80",
+      "title": "В браузере Opera для iOS появилась функция сжатия веб-страниц до 80%",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49453-wildberries-zapuskaet-prodazhi-poderzhannyh-avtomobiley",
+      "title": "Wildberries запускает продажи подержанных автомобилей",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49452-2gis-nauchilsya-detal-no-otobrazhat-poezdki-na-obschestvennom-transporte",
+      "title": "«2ГИС» научился детально отображать поездки на общественном транспорте",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12920",
+      "title": "⚡️ В офис Яндекса прибыл новый робосотрудник Говорят, робот \"Шкет\" уже скоро начнёт разгуливать по Красной Розе, доставляя заказы. Робота привезли сегодня в обед — по виду эта та же модель, которую недавно учили доставать пакеты из ровера. По виду вблизи \"Шкет\" похож на Unitree G1, но с наворотами. Учитывая любовь «Яндекса» к разным шасси и упор на",
+      "published": "2026-11-13T16:08:31+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "published": "2026-11-13T16:00:12+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10503",
+      "title": "Появилась новая платформа для создания игр с помощью ИИ-агентов — Patch. Внутри есть инструменты для разработки игр с поддержкой MCP и CLI, а также библиотека с 50 тыс бесплатных ассетов : моделей, текстур и прочего. Можно создавать собственные игры, переделывать проекты с Patch или делать моды для ПК-игр. Готовыми шедеврами можно делиться с другим",
+      "published": "2026-11-13T15:58:22+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "published": "2026-11-13T15:58:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antiinfosec/301",
+      "title": "Beget и бэкапы После недавнего инцидента у Beget клиенты VPS столкнулись с довольно неудобной процедурой. Чтобы получить доступ к своим же бэкапам через панель, нужно подтвердить владение сервером. Способов компания предлагает два: 1️⃣ Отдать пароль root в веб-форму. Да, провайдер заверяет, что пароль используется только для автоматической проверки",
+      "published": "2026-11-13T15:21:58+00:00",
+      "source_id": "antiinfosec",
+      "source_name": "antiinfosec",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2302",
+      "title": "⚡️ В офис Яндекса прибыл новый робосотрудник Говорят, робот \"Шкет\" уже скоро начнёт разгуливать по Красной Розе, доставляя заказы. Робота привезли сегодня в обед — по виду эта та же модель, которую недавно учили доставать пакеты из ровера. По виду вблизи \"Шкет\" похож на Unitree G1, но с наворотами. Учитывая любовь «Яндекса» к разным шасси и упор на",
+      "published": "2026-11-13T15:18:14+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10502",
+      "title": "Яндекс мощно прокачал голосовых ИИ-агентов — теперь они смогут разговаривать почти как оператор и решать сразу несколько задач за раз 😨 Компания представила две речевые модели: 🟢 Speech TTS Live, которая подбирает интонации, паузы и акценты под смысл текста: от уверенной для продаж до мягкой для поддержки. 🟢 Вторая модель, Speech Realtime Max, зато",
+      "published": "2026-11-13T15:10:05+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach",
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "published": "2026-11-13T14:57:55+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1661",
+      "title": "Альфа-Банк придумал СТРАХОВКУ ОТ ОШИБОК сотен ИИ-моделей 🎲 В промышленной эксплуатации банка работают более 500 ИИ-моделей, свыше 100 из них — критичные . Со временем их точность может снижаться, а поведение — меняться. А цена ошибки высока. В Альфа-Банке её измеряют не только рублями, но и вашим доверием , на которое точно не должны влиять очередн",
+      "published": "2026-11-13T13:57:43+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/antiinfosec/300",
+      "title": "И ты брут? Неожиданно «Российская газета» предупреждает о мошенниках в Национальном мессенджере имени Красной Звезды «МАКС». При этом ссылаются сообщение Росреестра, которым эти мошенники и прикидываются. «В последнее время гражданам в мессенджере МАХ стали поступать фейковые сообщения, в которых говорится о проведении операций с их объектами недви",
+      "published": "2026-11-13T13:43:31+00:00",
+      "source_id": "antiinfosec",
+      "source_name": "antiinfosec",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/addmeto/6232",
+      "title": "Почему-то мало пишут про это. Но у майкрософт уже почти 20 часов проблемы . Сначала они были только у аутлука и других сервисов для бизнеса. Сейчас, судя по всему, страдают почти все онлайн-сервисы майкрософт, кроме MSN. Т.е. например, Defender XDR, Copilot, OneDrive и т.д. — почти все лежат или очень сильно деградировали.",
+      "published": "2026-11-13T13:29:12+00:00",
+      "source_id": "addmeto",
+      "source_name": "addmeto",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis",
+      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+      "published": "2026-11-13T13:15:20+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12914",
+      "title": "Человек — самое любопытное существо на планете. Потому-то мы и тащим в рот всякую гадость — мир-то познается на вкус. Так что совсем непонятно, как вышло, что люди распробовали кофе только в середине XV века. Во всяком случае, именно тогда кофе из своей родины, Африки, начало проникать в арабский мир, а примерно через сто лет напиток из красных зер",
+      "published": "2026-11-13T13:11:02+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "published": "2026-11-13T12:52:19+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2301",
+      "title": "Осень патриарха Или как прошли последние часы уходящего главы Nvidia Дженсен Хуанг мог ответить на рабочее письмо посреди ночи. Ему напрямую подчинялись около 60 руководителей, он читал списки главных задач сотрудников и вникал даже в зарплаты младших специалистов. Но в последние дни ответы стали приходить медленнее. А к вечеру, когда решалась его ",
+      "published": "2026-11-13T12:48:35+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "published": "2026-11-13T12:28:23+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10501",
+      "title": "От увольнения Дженсена Хуанга выиграл… Дженсен Хуанг — но есть нюанс 🤨 Business Insider нашёл 24-летнего программиста из Сингапура, которого зовут точно так же, как бывшего главу Nvidia. Раньше совпадение помогало ему на собеседованиях. Но после скандала с похождениями Дон Хуанга парня начали заваливать вопросами об изменах и обвинять в падении акц",
+      "published": "2026-11-13T11:55:58+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1659",
+      "title": "Первый NAS Xiaomi оказался настолько популярным, что обошёл Synology 💥 Уже через месяц после выхода Xiaomi заняла треть рынка NAS в Китае. По итогам третьего квартала её доля составила 21,5% — компания обошла Synology и уступила только Ugreen . Аналитики связывают успех с интеграцией накопителя в экосистему смартфонов Xiaomi. NAS — это сетевое хран",
+      "published": "2026-11-13T11:41:26+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/antidigital/12913",
+      "title": "Взлом по ВКС ФБР опубликовало отчёт о масштабной кибератаке: поддерживаемые государством северокорейские хакеры за последние 18 месяцев украли более $400 млн в криптовалюте. В рамках схемы хакеры создавали поддельные версии популярных программ для видеоконференций (Zoom, Microsoft Teams, Google Meet) и отправляли жертве приглашение на созвон от реа",
+      "published": "2026-11-13T11:19:01+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2300",
+      "title": "🤖 AID — AI-дайджест от @anti_agi Вчера совет Nvidia принял отставку Дженсена Хуанга . Временным CEO стала финдиректор Колетт Кресс , а в компании впервые появился председатель совета — Харви Джонс . Акции на открытии теряли 14% , но к закрытию отыграли падение до −4,3% . Зато AMD прибавила 5,9% , Broadcom — 5,5% : рынок перекладывает деньги к конку",
+      "published": "2026-11-13T11:06:35+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/autonomy_yandex/322",
+      "title": "📍 Почему роверы Яндекса доставляют заказы только в радиусе двух километров от даркстора или ресторана? Зона доставки роботов во многом повторяет пешие маршруты курьеров, но подстраивается под особенности инфраструктуры района. На движения роверов влияют ширина тротуаров, перекрёстки и светофоры, закрытые территории и ремонтные работы. ⏬ От дорожных",
+      "published": "2026-11-13T11:02:30+00:00",
+      "source_id": "autonomy_yandex_tg",
+      "source_name": "Яндекс Автономность · Telegram",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12912",
+      "title": "Хромой утёнок Kalshi рассталась с Дональдом Трампом-младшим . Официальная причина его ухода с поста советника: конфликт интересов. Фонд 1789 Capital , где Трамп-младший партнёр, нарастил долю в Polymarket , главном конкуренте Kalshi. В августе этот фонд вообще возглавил раунд Polymarket на $1 млрд. Проблема в том, что сидеть на двух стульях Трамп-м",
+      "published": "2026-11-13T10:05:08+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/donald-trump-jr-yeeted-out-kalshi",
+      "title": "It Seems Very Clear Why Don Trump Jr. Has Suddenly Been Yeeted Out of Kalshi",
+      "published": "2026-11-13T10:01:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/autonomy_yandex/321",
+      "title": "Лекарства из аптек 36,6 теперь может привезти робот ☺️ Аптечная сеть 36,6 и Яндекс Доставка запустили в Москве доставку роботами: можно заказать безрецептурные препараты, косметику, БАДы и другие аптечные товары. Пока услугу тестируют в восьми районах: Хамовниках, Даниловском, Очаково-Матвеевском, Тверском, Аэропорте, Замоскворечье, Савёловском и н",
+      "published": "2026-11-13T09:10:11+00:00",
+      "source_id": "autonomy_yandex_tg",
+      "source_name": "Яндекс Автономность · Telegram",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/us-government-chinese-spy-false-accusations-huang",
+      "title": "The US Government Has a Track Record of Falsely Accusing People of Being Chinese Spies",
+      "published": "2026-11-13T09:02:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12911",
+      "title": "Блокировки по фальшивым судебным ордерам Правительство Индии выпустило два распоряжения, предписав провайдерам заблокировать 129 нелегальных сайтов с азартными играми. К документам прилагались копии постановлений Высоких судов штатов Раджастан и Уттар-Прадеш с подписями, печатями и гербами. Журналисты Reuters решили проверить документы и обнаружили",
+      "published": "2026-11-13T08:59:16+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12910",
+      "title": "Microsoft глобально упал В четверг около часа дня по нью-йоркскому времени(девяти вечера по Москве) у пользователей Microsoft по всему миру перестали открываться почта, документы и чаты, а к утру пятницы, 13-го, компания так и не смогла всё починить. Сервис Down Detector собрал почти 130 тыс. жалоб из 74 стран на сбои в Outlook, Teams, Word, Excel,",
+      "published": "2026-11-13T08:14:35+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10500",
+      "title": "«Я кусок д*рьма» — Дженсен Хуанг сломался на фоне разборок и увольнения из Nvidia 🥲 Bloomberg рассказал, как прошли последние часы миллиардера на посту главы компании, и это было тяжело. Обычно энергичный и властный Хуанг, у которого под прямым руководством 60 человек, выглядел опустошённым, отвечал на всё «мне всё равно» и «как угодно». Позже в ра",
+      "published": "2026-11-13T08:07:02+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/fake-ai-paparazzi-shots-celebrities",
+      "title": "Shameless Scammers Are Cashing in by Posting Fake, AI-Altered Paparazzi Shots of Celebrities Undergoing Going Huge Body Changes, Drinking While Pregnant, and Cheating on Their Partners",
+      "published": "2026-11-13T08:01:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
       "title": "Donald Trump really wants Tim Cook to run Nvidia",
@@ -429,6 +1169,16 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "published": "2026-11-13",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
       "attribution": ""
     },
     {
@@ -19628,23 +20378,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 53,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "found": 50,
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 68,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "found": 61,
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "futurism",
@@ -19652,15 +20402,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 56,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 19,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "found": 15,
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "addmeto",
@@ -19668,23 +20418,23 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 13,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "found": 15,
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "alfa_trends",
       "name": "Альфа Тренды",
       "status": "ok",
       "scope": "known_post",
-      "found": 19,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "found": 18,
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "antiinfosec",
@@ -19692,31 +20442,31 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "antidigital",
       "name": "antidigital",
       "status": "ok",
       "scope": "known_post",
-      "found": 20,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "found": 11,
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "anti_agi",
       "name": "anti_agi",
       "status": "ok",
       "scope": "known_post",
-      "found": 18,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "found": 16,
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
       "name": "Яндекс Автономность · Telegram",
       "status": "ok",
       "scope": "known_post",
-      "found": 10,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "found": 12,
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -19724,22 +20474,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "checked_at": "2026-11-13T16:26:18+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 15,
-      "checked_at": "2026-11-13T07:59:46+00:00"
+      "found": 16,
+      "checked_at": "2026-11-13T16:26:18+00:00"
     }
   ]
 }
