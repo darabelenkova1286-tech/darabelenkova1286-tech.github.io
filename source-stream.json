@@ -1,6 +1,136 @@
 {
-  "updated_at": "2026-11-14T18:04:09+00:00",
+  "updated_at": "2026-11-14T22:26:00+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/games/1033940/blade-runner-might-finally-get-the-aaa-game-treatment-it-deserves",
+      "title": "Blade Runner might finally get the ‘AAA’ game treatment it deserves.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
+      "title": "Blade Runner 2099",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1033915/government-settlement-ice-monitoring-groups-and-apps",
+      "title": "Free speech group says the government agreed to back off ICE monitoring groups and apps.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
+      "title": "preliminary injunction",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/799473/facebook-meta-ice-jawboning",
+      "title": "shut them down",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/science-energy/trump-iran-war-nigeria-chinese-solar-panel",
+      "title": "Trump’s War on Iran is Pushing the Global South Toward Chinese Solar Panels in Record Numbers",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/ai-agent-cant-explain-egg-order",
+      "title": "AI Agent Can’t Explain Why It Randomly Ordered its Human Meat Proxy an Absurd Number of Eggs",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c58j4y0r490vo",
+      "title": "Protest over plan for data centre near nature site",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10511",
+      "title": "С этим не пропадешь : нашли Lastbook — бесплатную библиотеку инструкций для выживания и восстановления цивилизации после конца света 🫨 Внутри советы и правила по первой помощи, добыче воды, выращиванию еды и получению электричества — короче, все самое необходимое. А ещё 2300+ обучающих видео, карты с 258 тысячами объектов и даже локальный ИИ, котор",
+      "published": "2026-11-14T21:54:33+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "published": "2026-11-14T21:41:22+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "published": "2026-11-14T20:04:44+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
       "title": "Jensen Huang and the decline of the visionary showman founder CEO",
@@ -142,26 +272,6 @@
       "attribution": ""
     },
     {
-      "url": "https://futurism.com/artificial-intelligence/ai-chatbots-recommend-scam",
-      "title": "AI Chatbots Won’t Stop Recommending Scam Websites to People Trying to Shop",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-14T18:04:09+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/future-society/tesla-fsd-cyclists",
-      "title": "Study Finds that FSD Drives like a Homicidal Maniac Around Cyclists",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-14T18:04:09+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
       "title": "Thousands turn out in Edinburgh to protest against AI data centres",
       "published": null,
@@ -252,6 +362,16 @@
       "attribution": ""
     },
     {
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "published": "2026-11-14T18:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide",
       "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
       "published": "2026-11-14T17:45:04+00:00",
@@ -267,6 +387,26 @@
       "published": "2026-11-14T17:30:00+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/ai-chatbots-recommend-scam",
+      "title": "AI Chatbots Won’t Stop Recommending Scam Websites to People Trying to Shop",
+      "published": "2026-11-14T13:02:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/tesla-fsd-cyclists",
+      "title": "Study Finds that FSD Drives like a Homicidal Maniac Around Cyclists",
+      "published": "2026-11-14T12:01:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-14T18:04:09+00:00",
       "attribution": ""
@@ -534,16 +674,6 @@
     {
       "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
       "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "published": "2026-11-14",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-14T18:04:09+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use",
-      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
       "published": "2026-11-14",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -2132,31 +2262,11 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "published": "2026-11-12T20:26:47+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-13T00:26:33+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://t.me/xor_journal/10496",
       "title": "У Дженсена Хуанга нашли уже ТРЕТЬЮ любовницу — она тоже работает в Nvidia, сообщает Reuters. Да посчитайте уже просто всех женщин в компании 😰 @xor_journal",
       "published": "2026-11-12T19:52:50+00:00",
       "source_id": "xor_journal",
       "source_name": "xor_journal",
-      "tier": "main",
-      "first_seen": "2026-11-13T00:26:33+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "published": "2026-11-12T19:11:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-13T00:26:33+00:00",
       "attribution": ""
@@ -3579,6 +3689,26 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "published": "2026-11-12",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "published": "2026-11-12",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
       "attribution": ""
     },
     {
@@ -21288,23 +21418,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 42,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "found": 39,
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 60,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "found": 61,
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "futurism",
@@ -21312,7 +21442,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "bbc",
@@ -21320,7 +21450,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 19,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "addmeto",
@@ -21328,7 +21458,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "xor_journal",
@@ -21336,7 +21466,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "alfa_trends",
@@ -21344,7 +21474,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "antiinfosec",
@@ -21352,7 +21482,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "antidigital",
@@ -21360,7 +21490,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "anti_agi",
@@ -21368,7 +21498,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -21376,7 +21506,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -21384,22 +21514,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "checked_at": "2026-11-14T22:26:00+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 14,
-      "checked_at": "2026-11-14T18:04:09+00:00"
+      "found": 13,
+      "checked_at": "2026-11-14T22:26:00+00:00"
     }
   ]
 }
