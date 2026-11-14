@@ -1,6 +1,276 @@
 {
-  "updated_at": "2026-11-14T11:29:39+00:00",
+  "updated_at": "2026-11-14T18:04:09+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything",
+      "title": "You can see every red flag in Theranos 2.0",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech",
+      "title": "They want your blood",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1033891/thoughts-and-prayers-to-anyone-flying-today",
+      "title": "Thoughts and prayers to anyone flying today.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1033869/of-course-elon-musk-wants-jensen-huang-to-get-his-job-back",
+      "title": "Of course, Elon Musk wants Jensen Huang to get his job back.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1033864/microsoft-has-finished-restoring-service-after-its-massive-outlook-outage",
+      "title": "Microsoft has finished restoring service after its massive Outlook outage.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "title": "A gadget to make your dumb house smarter",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/category/mental-health",
+      "title": "Mental Health",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/ai-chatbots-recommend-scam",
+      "title": "AI Chatbots Won’t Stop Recommending Scam Websites to People Trying to Shop",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/tesla-fsd-cyclists",
+      "title": "Study Finds that FSD Drives like a Homicidal Maniac Around Cyclists",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
+      "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5lk4qw3eo",
+      "title": "Schools aim to build on esports expertise",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/articles/49384-sravnenie-avtonomnosti-iphone-duo-galaxy-z-fold-8-i-xiaomi-18-fold-kakaya-raskladushka-luchshe",
+      "title": "Сравнение автономности iPhone Duo, Galaxy Z Fold 8 и Xiaomi 18 Fold — какая «раскладушка» лучше?",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49472-huawei-ob-yavila-pobediteley-fotokonkursa-xmage-awards-2026",
+      "title": "Huawei объявила победителей фотоконкурса Xmage Awards 2026",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49471-insayd-robert-pattinson-mozhet-stat-novym-bondom-na-tri-fil-ma",
+      "title": "Инсайд: Роберт Паттинсон может стать новым Бондом на три фильма",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49470-robotaki-waymo-budet-pyatit-sya-nazad-esli-idti-na-nego-so-znakom-stop",
+      "title": "Роботакси Waymo будет пятиться назад, если идти на него со знаком «Стоп»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49469-magnit-prevratit-produkty-v-art-ob-ekty-chtoby-rasskazat-o-svoih-it-razrabotkah",
+      "title": "«Магнит» превратит продукты в арт-объекты, чтобы рассказать о своих IT-разработках",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49468-twitch-budet-razdavat-klyuchi-gta-vi-s-19-po-30-noyabrya",
+      "title": "Twitch будет раздавать ключи GTA VI с 19 по 30 ноября",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "published": "2026-11-14T17:45:04+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "published": "2026-11-14T17:30:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.bbc.co.uk/news/articles/cje39y1gpl9eo",
       "title": "Police drone crash could have caused fatal injuries",
@@ -72,6 +342,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/health-medicine/meta-tiktok-secretly-paying-off-teens",
+      "title": "Meta and TikTok Have Been Secretly Paying Millions of Dollars to Teens to Keep Their Experiences Out of Court",
+      "published": "2026-11-14T11:02:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/alfa_trends/1662",
       "title": "Роботы на колёсах, DOOM в космосе и страховка от ошибок ИИ — в регулярной подборке новостей 🧘 Напоминаем о самых интересных технологичных событиях за неделю. 🔴 Boston Dynamics поставила робота Atlas на колёса . Теперь он умеет разгоняться, разворачиваться на 360 градусов и эффектно скользить боком. 🔴 Doom запустили в космосе по голосовой команде с ",
       "published": "2026-11-14T10:52:48+00:00",
@@ -92,6 +372,26 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/science-energy/judge-blasts-tesla-fraud-solar-roof-panels",
+      "title": "Judge Blasts Tesla as Fraudulent for Selling Junk Solar Panels That Never Worked",
+      "published": "2026-11-14T10:01:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/health-medicine/scientists-participants-dark-room-mirror",
+      "title": "In Bizarre Experiment, Scientists Put Subjects in Dark Room With a Large Mirror and Instructed Them to Think of the Dead",
+      "published": "2026-11-14T09:02:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/xor_journal/10509",
       "title": "❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ Большие цели складываются из маленьких шагов. Начать новое дело, выбрать незнакомый маршрут или попробовать что-то непривычное. Энергетик «Энергия первых» — про твой активный ритм!",
       "published": "2026-11-14T09:00:04+00:00",
@@ -99,6 +399,16 @@
       "source_name": "xor_journal",
       "tier": "main",
       "first_seen": "2026-11-14T11:29:39+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/even-san-francisco-is-turning-against-ai",
+      "title": "Even San Francisco Is Turning Against AI",
+      "published": "2026-11-14T08:02:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
       "attribution": ""
     },
     {
@@ -219,6 +529,26 @@
       "source_name": "BBC Technology",
       "tier": "main",
       "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "published": "2026-11-14",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "published": "2026-11-14",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-14T18:04:09+00:00",
       "attribution": ""
     },
     {
@@ -2522,39 +2852,9 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "published": "2026-11-12T17:17:58+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-12T18:20:55+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions",
       "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
       "published": "2026-11-12T17:00:52+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-12T18:20:55+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "published": "2026-11-12T17:00:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-12T18:20:55+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress",
-      "title": "Jensen Huang agrees to testify before Congress",
-      "published": "2026-11-12T16:36:37+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
@@ -2577,16 +2877,6 @@
       "published": "2026-11-12T16:32:20+00:00",
       "source_id": "xor_journal",
       "source_name": "xor_journal",
-      "tier": "main",
-      "first_seen": "2026-11-12T18:20:55+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor",
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "published": "2026-11-12T16:12:44+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-12T18:20:55+00:00",
       "attribution": ""
@@ -2658,16 +2948,6 @@
       "source_id": "antidigital",
       "source_name": "antidigital",
       "tier": "russia",
-      "first_seen": "2026-11-12T18:20:55+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund",
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "published": "2026-11-12T15:18:14+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
       "first_seen": "2026-11-12T18:20:55+00:00",
       "attribution": ""
     },
@@ -2789,16 +3069,6 @@
       "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-13T00:26:33+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition",
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "published": "2026-11-12T13:26:25+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-12T18:20:55+00:00",
       "attribution": ""
     },
     {
@@ -3319,6 +3589,66 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "published": "2026-11-12",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "published": "2026-11-12",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress",
+      "title": "Jensen Huang agrees to testify before Congress",
+      "published": "2026-11-12",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor",
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "published": "2026-11-12",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund",
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "published": "2026-11-12",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "published": "2026-11-12",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T18:20:55+00:00",
       "attribution": ""
     },
     {
@@ -20958,39 +21288,39 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 45,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "found": 42,
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 63,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "found": 60,
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "futurism",
       "name": "Futurism",
       "status": "partial",
       "scope": "listing",
-      "found": 57,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "found": 58,
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 18,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "found": 19,
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "addmeto",
@@ -20998,7 +21328,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "xor_journal",
@@ -21006,7 +21336,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "alfa_trends",
@@ -21014,7 +21344,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "antiinfosec",
@@ -21022,7 +21352,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "antidigital",
@@ -21030,7 +21360,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "anti_agi",
@@ -21038,7 +21368,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -21046,7 +21376,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -21054,14 +21384,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "checked_at": "2026-11-14T18:04:09+00:00"
     },
     {
       "id": "rozetked",
@@ -21069,7 +21399,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 14,
-      "checked_at": "2026-11-14T11:29:39+00:00"
+      "checked_at": "2026-11-14T18:04:09+00:00"
     }
   ]
 }
