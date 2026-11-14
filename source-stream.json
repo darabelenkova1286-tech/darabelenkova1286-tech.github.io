@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-11-13T22:39:17+00:00",
+  "updated_at": "2026-11-14T03:17:47+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/entertainment/1033819/looks-like-one-grounded-plane-had-a-good-time-thanks-to-hoobastank",
+      "title": "Looks like one grounded plane had a good time — thanks to Hoobastank.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1033793/in-light-of-todays-nationwide-ground-stop",
+      "title": "In light of today’s nationwide ground stop…",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/science/1033704/spacex-starship-launch-successful-but-a-booster-went-boom-instead-of-sticking-the-landing",
+      "title": "SpaceX Starship launch successful, but a booster went boom.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
+      "title": "supposed to be the first time in history",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/science/1033581/national-weather-service-radar-operating-normally",
+      "title": "The National Weather Service says there’s no radar outage.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033576/is-ai-involved-in-todays-faa-nationwide-ground-stop",
+      "title": "Is AI involved in today’s FAA nationwide ground stop?",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "title": "shiny new AI rebrand",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/us-airspace-shuts-down-faa-rolled-out-ai",
+      "title": "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence?",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo",
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cr894ln9kk04o",
+      "title": "Are we too reliant on big tech companies?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "published": "2026-11-13T23:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "published": "2026-11-13T22:43:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
       "title": "Jensen Huang was reckless with the environment, too",
@@ -112,48 +252,8 @@
       "attribution": ""
     },
     {
-      "url": "https://futurism.com/future-society/palantir-ceo-warns-mass-surveillance",
-      "title": "Palantir CEO, With a Straight Face, Warns That Wealth Tax Will Cause Mass Surveillance",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-13T22:39:17+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://futurism.com/category/global-warming",
       "title": "Global Warming",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-13T22:39:17+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/science-energy/method-bringing-bleached-coral-back-life",
-      "title": "Stanford Scientists Intrigued by Method for Bringing Bleached Coral Back to Life",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-13T22:39:17+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/artificial-intelligence/uk-tenant-landlord-gen-ai-rent",
-      "title": "Tenant Uses AI to Beat Down His Landlord in Court",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-13T22:39:17+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/artificial-intelligence/ai-found-ancient-maya-site-not",
-      "title": "AI-Pilled Tech Bro Claims His Agents Found an Ancient Maya Site in the Jungle. It Turns Out That Researchers Actually Discovered It.",
       "published": null,
       "source_id": "futurism",
       "source_name": "Futurism",
@@ -832,6 +932,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/artificial-intelligence/uk-tenant-landlord-gen-ai-rent",
+      "title": "Tenant Uses AI to Beat Down His Landlord in Court",
+      "published": "2026-11-13T15:01:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-13T22:39:17+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach",
       "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
       "published": "2026-11-13T14:57:55+00:00",
@@ -839,6 +949,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/ai-found-ancient-maya-site-not",
+      "title": "AI-Pilled Tech Bro Claims His Agents Found an Ancient Maya Site in the Jungle. It Turns Out That Researchers Actually Discovered It.",
+      "published": "2026-11-13T14:02:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-13T22:39:17+00:00",
       "attribution": ""
     },
     {
@@ -892,6 +1012,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/future-society/palantir-ceo-warns-mass-surveillance",
+      "title": "Palantir CEO, With a Straight Face, Warns That Wealth Tax Will Cause Mass Surveillance",
+      "published": "2026-11-13T13:01:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-13T22:39:17+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
       "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
       "published": "2026-11-13T12:52:19+00:00",
@@ -919,6 +1049,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/science-energy/method-bringing-bleached-coral-back-life",
+      "title": "Stanford Scientists Intrigued by Method for Bringing Bleached Coral Back to Life",
+      "published": "2026-11-13T12:03:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-13T22:39:17+00:00",
       "attribution": ""
     },
     {
@@ -3092,16 +3232,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "published": "2026-11-11T23:17:05+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-12T01:32:45+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://t.me/xor_journal/10479",
       "title": "Фермеры каннабиса мечтают переквалифицироваться в ИИ-бизнесменов — выращивать траву стало менее выгодно, чем сдавать помещения под дата-центры 🤔 Как пишет Forbes, из-за падения в США цен на каннабис производители массово пытаются сдать или продать свои фермы… ИИ-компаниям. Дело в том, что там уже есть мощное электроснабжение, охлаждение и вентиляци",
       "published": "2026-11-11T21:09:47+00:00",
@@ -4049,6 +4179,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-11T02:47:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "published": "2026-11-11",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-12T01:32:45+00:00",
       "attribution": ""
     },
     {
@@ -20708,23 +20848,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 48,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "found": 47,
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 59,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "found": 63,
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "futurism",
@@ -20732,15 +20872,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 57,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 15,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "found": 16,
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "addmeto",
@@ -20748,7 +20888,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "xor_journal",
@@ -20756,7 +20896,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "alfa_trends",
@@ -20764,7 +20904,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "antiinfosec",
@@ -20772,7 +20912,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "antidigital",
@@ -20780,7 +20920,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "anti_agi",
@@ -20788,7 +20928,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -20796,7 +20936,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -20804,14 +20944,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "checked_at": "2026-11-14T03:17:47+00:00"
     },
     {
       "id": "rozetked",
@@ -20819,7 +20959,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 17,
-      "checked_at": "2026-11-13T22:39:17+00:00"
+      "checked_at": "2026-11-14T03:17:47+00:00"
     }
   ]
 }
