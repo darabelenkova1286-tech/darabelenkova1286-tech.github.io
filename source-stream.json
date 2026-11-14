@@ -1,6 +1,116 @@
 {
-  "updated_at": "2026-11-14T03:17:47+00:00",
+  "updated_at": "2026-11-14T11:29:39+00:00",
   "items": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cje39y1gpl9eo",
+      "title": "Police drone crash could have caused fatal injuries",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-14T11:29:39+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqy0eg3zj6wzo",
+      "title": "'Microsoft outage put patients in a bad situation'",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-14T11:29:39+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49463-v-ssha-priostanovili-aviaperelety-po-vsey-strane-vskore-posle-zapuska-novoy-ii-sistemy",
+      "title": "В США приостановили авиаперелёты по всей стране — вскоре после запуска новой ИИ-системы",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-14T11:29:39+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49467-razrabotchiki-rossiyskogo-onlayn-shutera-pioner-ob-yavili-o-zakrytii-proekta",
+      "title": "Разработчики российского онлайн-шутера PIONER объявили о закрытии проекта",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-14T11:29:39+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49466-iphone-duo-na-teste-v-pryamom-efire-nachal-vyhodit-iz-stroya-k-451-tysyache-skladyvaniy",
+      "title": "iPhone Duo на тесте в прямом эфире начал выходить из строя к 451 тысяче складываний",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-14T11:29:39+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49465-html-vidzhety-v-telegram-prishlos-otklyuchit-iz-za-uyazvimostey-dlya-vzloma",
+      "title": "Telegram отключил HTML-виджеты из-за уязвимости для взлома — и начал тестировать Lockdown Mode",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-14T11:29:39+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49464-insayd-ubisoft-dala-zelenyy-svet-tret-ey-chasti-tom-clancy-s-rainbow-six-vegas",
+      "title": "Инсайд: Ubisoft дала «зелёный свет» третьей части Tom Clancy's Rainbow Six Vegas",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-14T11:29:39+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1662",
+      "title": "Роботы на колёсах, DOOM в космосе и страховка от ошибок ИИ — в регулярной подборке новостей 🧘 Напоминаем о самых интересных технологичных событиях за неделю. 🔴 Boston Dynamics поставила робота Atlas на колёса . Теперь он умеет разгоняться, разворачиваться на 360 градусов и эффектно скользить боком. 🔴 Doom запустили в космосе по голосовой команде с ",
+      "published": "2026-11-14T10:52:48+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-14T11:29:39+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/xor_journal/10510",
+      "title": "У каждого был этот маленький секрет 😁 @xor_journal",
+      "published": "2026-11-14T10:04:54+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-14T11:29:39+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10509",
+      "title": "❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ Большие цели складываются из маленьких шагов. Начать новое дело, выбрать незнакомый маршрут или попробовать что-то непривычное. Энергетик «Энергия первых» — про твой активный ритм!",
+      "published": "2026-11-14T09:00:04+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-14T11:29:39+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10508",
+      "title": "Устаревшее оборудование и ИИ сломали сегодня всю авиацию США — по всей стране пришлось временно остановить вылеты самолётов 👻 Ещё 10 ноября Федеральное управление гражданской авиации США (FAA) внедрило во все 22 региональных центра ИИ-систему SMART. Она анализирует более 200 потоков данных и прогнозирует ситуацию в небе. А уже 13 ноября начался нас",
+      "published": "2026-11-14T06:11:51+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-14T11:29:39+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/entertainment/1033819/looks-like-one-grounded-plane-had-a-good-time-thanks-to-hoobastank",
       "title": "Looks like one grounded plane had a good time — thanks to Hoobastank.",
@@ -77,16 +187,6 @@
       "published": null,
       "source_id": "theverge",
       "source_name": "The Verge",
-      "tier": "main",
-      "first_seen": "2026-11-14T03:17:47+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/artificial-intelligence/us-airspace-shuts-down-faa-rolled-out-ai",
-      "title": "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence?",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-14T03:17:47+00:00",
       "attribution": ""
@@ -379,6 +479,16 @@
       "source_name": "antidigital",
       "tier": "russia",
       "first_seen": "2026-11-13T22:39:17+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/us-airspace-shuts-down-faa-rolled-out-ai",
+      "title": "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence?",
+      "published": "2026-11-13T17:56:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
       "attribution": ""
     },
     {
@@ -20848,8 +20958,8 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 47,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "found": 45,
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "theverge",
@@ -20857,14 +20967,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 63,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "futurism",
@@ -20872,15 +20982,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 57,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 16,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "found": 18,
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "addmeto",
@@ -20888,23 +20998,23 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 17,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "found": 19,
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "alfa_trends",
       "name": "Альфа Тренды",
       "status": "ok",
       "scope": "known_post",
-      "found": 18,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "found": 19,
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "antiinfosec",
@@ -20912,7 +21022,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "antidigital",
@@ -20920,7 +21030,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "anti_agi",
@@ -20928,7 +21038,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -20936,7 +21046,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -20944,22 +21054,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "checked_at": "2026-11-14T11:29:39+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 17,
-      "checked_at": "2026-11-14T03:17:47+00:00"
+      "found": 14,
+      "checked_at": "2026-11-14T11:29:39+00:00"
     }
   ]
 }
