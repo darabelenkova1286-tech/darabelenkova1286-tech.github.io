@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-11-15T17:44:12+00:00",
+  "updated_at": "2026-11-15T22:49:57+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T22:49:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T22:49:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T22:49:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1033994/microsoft-is-bringing-back-the-original-xbox-bootup-animation",
+      "title": "Microsoft is bringing back the original Xbox bootup animation.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T22:49:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T22:49:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1033981/italy-slaps-meta-with-887-million-fine",
+      "title": "Italy slaps Meta with $887 million fine.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T22:49:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-15T22:49:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "published": "2026-11-15T21:56:35+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-15T22:49:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10514",
+      "title": "ИИ-модели ненавидят Python — программист выяснил , какие языки программирования бесят нейросети больше всего 🤭 Разраб опросил 12 ведущих моделей по 100 раз каждую. В итоге на Python все обплевались — он собрал 299 негативных отзывов, следом по нелюбви идут Rust и TypeScript. А вот PHP неожиданно оказался в любимчиках: у него 28 положительных отзыво",
+      "published": "2026-11-15T21:25:03+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-15T22:49:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "published": "2026-11-15T20:20:57+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-15T22:49:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending",
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "published": "2026-11-15T18:29:14+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-15T22:49:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10513",
+      "title": "Перерождение Скрепыша: в Telegram появится персональная ИИ-утка — она сможет читать переписки, искать информацию в чатах и помогать с сообщениями 😨 Милашного ассистента обнаружили в бета-версиях Telegram для iOS и macOS. Такое ждем. @xor_journal",
+      "published": "2026-11-15T18:14:40+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-15T22:49:57+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
       "title": "An overview of Jensen Huang’s messy days",
@@ -107,36 +227,6 @@
       "published": null,
       "source_id": "theverge",
       "source_name": "The Verge",
-      "tier": "main",
-      "first_seen": "2026-11-15T17:44:12+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/future-society/hormone-therapy-transgender-care-research",
-      "title": "People Who Got Hormone Therapy as Teenagers End Up With a Lower Regret Rate Years Later Than Knee Replacement Surgery, Research Finds",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-15T17:44:12+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/artificial-intelligence/author-hundreds-romance-novels-ai",
-      "title": "Author Says the Hundreds of Full-Length Romance Novels She Publishes Every Year Are Very High Quality in Spite of AI Usage",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-15T17:44:12+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/science-energy/simulation-earth-without-life",
-      "title": "Grim Simulation Shows What Earth Would Be Like if Life Never Existed",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-15T17:44:12+00:00",
       "attribution": ""
@@ -359,6 +449,36 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-15T10:56:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/author-hundreds-romance-novels-ai",
+      "title": "Author Says the Hundreds of Full-Length Romance Novels She Publishes Every Year Are Very High Quality in Spite of AI Usage",
+      "published": "2026-11-15T10:01:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/science-energy/simulation-earth-without-life",
+      "title": "Grim Simulation Shows What Earth Would Be Like if Life Never Existed",
+      "published": "2026-11-15T09:01:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/hormone-therapy-transgender-care-research",
+      "title": "People Who Got Hormone Therapy as Teenagers End Up With a Lower Regret Rate Years Later Than Knee Replacement Surgery, Research Finds",
+      "published": "2026-11-15T08:02:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
       "attribution": ""
     },
     {
@@ -1272,16 +1392,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances",
-      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "published": "2026-11-13T21:44:38+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-13T22:39:17+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://t.me/xor_journal/10507",
       "title": "Новое правило скоро введут во всех компаниях 😂 @xor_journal",
       "published": "2026-11-13T21:17:02+00:00",
@@ -1295,16 +1405,6 @@
       "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board",
       "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
       "published": "2026-11-13T20:07:24+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-13T22:39:17+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "published": "2026-11-13T19:37:57+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
@@ -2559,6 +2659,26 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances",
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "published": "2026-11-13",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T22:39:17+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "published": "2026-11-13",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T22:39:17+00:00",
       "attribution": ""
     },
     {
@@ -21808,23 +21928,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 37,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "found": 36,
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 66,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "found": 68,
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "futurism",
@@ -21832,15 +21952,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 20,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "found": 21,
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "addmeto",
@@ -21848,7 +21968,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "xor_journal",
@@ -21856,7 +21976,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "alfa_trends",
@@ -21864,7 +21984,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "antiinfosec",
@@ -21872,7 +21992,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "antidigital",
@@ -21880,7 +22000,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "anti_agi",
@@ -21888,7 +22008,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -21896,7 +22016,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -21904,22 +22024,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "checked_at": "2026-11-15T22:49:57+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 14,
-      "checked_at": "2026-11-15T17:44:12+00:00"
+      "found": 13,
+      "checked_at": "2026-11-15T22:49:57+00:00"
     }
   ]
 }
