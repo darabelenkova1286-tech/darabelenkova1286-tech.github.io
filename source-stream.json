@@ -1,6 +1,276 @@
 {
-  "updated_at": "2026-11-15T10:56:00+00:00",
+  "updated_at": "2026-11-15T17:44:12+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "title": "An overview of Jensen Huang’s messy days",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "title": "Apple’s first smart glasses are coming together",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1033963/ao3-is-back-after-17-days",
+      "title": "AO3 is back after 17 days.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1022506/an-ao3-disaster",
+      "title": "October 29th",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1022995/a-security-incident-is-behind-ao3s-outage",
+      "title": "security incident.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1033957/oops-all-spies",
+      "title": "Oops, all spies.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001189/if-we-can-pressure-lawmakers-to-create-guardrails-we-will-be-able-to-stop-me",
+      "title": "Jane Wickline’s Dario Amodei",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "title": "The Sony Aibo was a robot revolution dressed like a dog",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/hormone-therapy-transgender-care-research",
+      "title": "People Who Got Hormone Therapy as Teenagers End Up With a Lower Regret Rate Years Later Than Knee Replacement Surgery, Research Finds",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/author-hundreds-romance-novels-ai",
+      "title": "Author Says the Hundreds of Full-Length Romance Novels She Publishes Every Year Are Very High Quality in Spite of AI Usage",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/science-energy/simulation-earth-without-life",
+      "title": "Grim Simulation Shows What Earth Would Be Like if Life Never Existed",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c9m2j8nvyky1o",
+      "title": "Police using drones to monitor night-time city",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cwm2j08053zko",
+      "title": "Warning over fraudsters posing as bank fraud team",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6lyk77m7e8po",
+      "title": "No audit on Agilisys contract halt ever took place",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/reviews/49473-obzor-xiaomi-smart-band-11-stal-ton-she-umnee-no-gps-tak-i-ne-poluchil",
+      "title": "Обзор Xiaomi Smart Band 11: стал тоньше, умнее, но GPS так и не получил",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49483-keychron-predstavila-besprovodnuyu-mysh-t1-he-s-nastraivaemym-trekbolom",
+      "title": "Keychron представила беспроводную мышь T1 HE с настраиваемым трекболом",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49486-dlya-telegram-testiruyut-virtual-nogo-kompan-ona-kotoryy-obitaet-v-chatah",
+      "title": "Для Telegram тестируют виртуального компаньона в виде утки, которая обитает в чатах",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49485-hosting-provayder-beget-snova-okazalsya-pod-hakerskoy-atakoy",
+      "title": "Хостинг-провайдер Beget снова оказался под хакерской атакой",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49484-mercedes-benz-rassmatrivaet-vozmozhnost-zakrytiya-nekotoryh-svoih-zavodov-v-germanii",
+      "title": "Mercedes-Benz рассматривает возможность закрытия некоторых заводов в Германии",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry",
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "published": "2026-11-15T17:05:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2307",
+      "title": "⚡️ Сбер набирает вес В сеть утекли характеристики GigaChat 4 : в SGLang, движке для запуска нейросетей, появился запрос на добавление поддержки новой модели Сбера. В описании — 708 млрд параметров, из которых на каждом токене активны 41 млрд . Относительно GigaChat 3.5 Reasoning модель выросла на 64% по общему числу параметров и на 46% по активным:",
+      "published": "2026-11-15T16:42:01+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season",
+      "title": "The tech products we enthusiastically recommend this holiday season",
+      "published": "2026-11-15T16:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.bbc.co.uk/news/articles/cq782l2992dno",
       "title": "Sea of phones at Christmas event prompts backlash",
@@ -1632,16 +1902,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach",
-      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-      "published": "2026-11-13T14:57:55+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-13T16:26:18+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://futurism.com/artificial-intelligence/ai-found-ancient-maya-site-not",
       "title": "AI-Pilled Tech Bro Claims His Agents Found an Ancient Maya Site in the Jungle. It Turns Out That Researchers Actually Discovered It.",
       "published": "2026-11-13T14:02:00-05:00",
@@ -1677,16 +1937,6 @@
       "published": "2026-11-13T13:29:12+00:00",
       "source_id": "addmeto",
       "source_name": "addmeto",
-      "tier": "main",
-      "first_seen": "2026-11-13T16:26:18+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis",
-      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
-      "published": "2026-11-13T13:15:20+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-13T16:26:18+00:00",
       "attribution": ""
@@ -1728,16 +1978,6 @@
       "source_id": "anti_agi",
       "source_name": "anti_agi",
       "tier": "russia",
-      "first_seen": "2026-11-13T16:26:18+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
-      "title": "Jensen Huang didn’t show confidence in his successor, report says",
-      "published": "2026-11-13T12:28:23+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
       "first_seen": "2026-11-13T16:26:18+00:00",
       "attribution": ""
     },
@@ -2319,6 +2559,36 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach",
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "published": "2026-11-13",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis",
+      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+      "published": "2026-11-13",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "published": "2026-11-13",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
       "attribution": ""
     },
     {
@@ -21538,23 +21808,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 39,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "found": 37,
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 61,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "found": 66,
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "futurism",
@@ -21562,7 +21832,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "bbc",
@@ -21570,7 +21840,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 20,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "addmeto",
@@ -21578,7 +21848,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "xor_journal",
@@ -21586,7 +21856,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "alfa_trends",
@@ -21594,7 +21864,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "antiinfosec",
@@ -21602,7 +21872,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "antidigital",
@@ -21610,7 +21880,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "anti_agi",
@@ -21618,7 +21888,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -21626,7 +21896,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -21634,14 +21904,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     },
     {
       "id": "rozetked",
@@ -21649,7 +21919,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 14,
-      "checked_at": "2026-11-15T10:56:00+00:00"
+      "checked_at": "2026-11-15T17:44:12+00:00"
     }
   ]
 }
