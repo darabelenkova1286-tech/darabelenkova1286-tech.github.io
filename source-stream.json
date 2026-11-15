@@ -1,6 +1,106 @@
 {
-  "updated_at": "2026-11-15T02:41:07+00:00",
+  "updated_at": "2026-11-15T10:56:00+00:00",
   "items": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cq782l2992dno",
+      "title": "Sea of phones at Christmas event prompts backlash",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-15T10:56:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm4gndpl1nlxo",
+      "title": "Wine-drinking driver among shocking images caught in AI camera trial",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-15T10:56:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49477-roborock-predstavila-v-rossii-moyuschiy-pylesos-f25-ultra-steam-gen-2",
+      "title": "Roborock представила в России моющий пылесос F25 Ultra Steam Gen 2",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-15T10:56:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49482-po-beguschemu-po-lezviyu-mogut-sdelat-aaa-igru",
+      "title": "По «Бегущему по лезвию» могут сделать AAA-игру",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-15T10:56:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49480-tesla-nachala-prodavat-cybercab-bez-rulya-i-pedaley-dlya-lichnogo-pol-zovaniya",
+      "title": "Tesla начала продавать Cybercab без руля и педалей для личного пользования",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-15T10:56:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49479-mincifry-operatory-svyazi-dogovorilis-s-bankami-o-markirovke-zvonkov",
+      "title": "Минцифры: операторы связи договорились с банками о маркировке звонков",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-15T10:56:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49478-hbo-pokazala-pervyy-otryvok-iz-seriala-po-garri-potteru",
+      "title": "HBO показала первый отрывок из сериала по «Гарри Поттеру»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-15T10:56:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49476-riot-games-anonsirovala-league-of-legends-new-dawn",
+      "title": "Riot Games анонсировала League of Legends: New Dawn",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-15T10:56:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49475-spacex-provela-pyatnadcatyy-zapusk-starship-mechazilla-vpervye-v-istorii-poymala-korabl",
+      "title": "SpaceX провела пятнадцатый запуск Starship — Mechazilla впервые в истории поймала корабль",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-15T10:56:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10512",
+      "title": "Ночное-полезное: чистим забитый диск C: за пару кликов — нашел бесплатную утилиту Roomy специально для уборки Windows 😊 Программа находит временные файлы, кэш приложений, остатки обновлений Windows и другие ненужные данные. Показывает, что занимает место, объясняет, что можно без проблем удалить, а затем помогает избавиться от лишнего. Все это бесп",
+      "published": "2026-11-15T06:07:02+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-15T10:56:00+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.bbc.co.uk/news/articles/c6zjr7e2wk3xo",
       "title": "Traditional industries and AI: When old meets new",
@@ -21439,7 +21539,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 39,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "theverge",
@@ -21447,14 +21547,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 61,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "futurism",
@@ -21462,15 +21562,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 19,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "found": 20,
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "addmeto",
@@ -21478,7 +21578,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "xor_journal",
@@ -21486,7 +21586,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "alfa_trends",
@@ -21494,7 +21594,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "antiinfosec",
@@ -21502,7 +21602,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "antidigital",
@@ -21510,7 +21610,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "anti_agi",
@@ -21518,7 +21618,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -21526,7 +21626,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -21534,22 +21634,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "checked_at": "2026-11-15T10:56:00+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 13,
-      "checked_at": "2026-11-15T02:41:07+00:00"
+      "found": 14,
+      "checked_at": "2026-11-15T10:56:00+00:00"
     }
   ]
 }
