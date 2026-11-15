@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-14T22:26:00+00:00",
+  "updated_at": "2026-11-15T02:41:07+00:00",
   "items": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr7e2wk3xo",
+      "title": "Traditional industries and AI: When old meets new",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-15T02:41:07+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/games/1033940/blade-runner-might-finally-get-the-aaa-game-treatment-it-deserves",
       "title": "Blade Runner might finally get the ‘AAA’ game treatment it deserves.",
@@ -67,26 +77,6 @@
       "published": null,
       "source_id": "theverge",
       "source_name": "The Verge",
-      "tier": "main",
-      "first_seen": "2026-11-14T22:26:00+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/science-energy/trump-iran-war-nigeria-chinese-solar-panel",
-      "title": "Trump’s War on Iran is Pushing the Global South Toward Chinese Solar Panels in Record Numbers",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-14T22:26:00+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/artificial-intelligence/ai-agent-cant-explain-egg-order",
-      "title": "AI Agent Can’t Explain Why It Randomly Ordered its Human Meat Proxy an Absurd Number of Eggs",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-14T22:26:00+00:00",
       "attribution": ""
@@ -392,6 +382,26 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/science-energy/trump-iran-war-nigeria-chinese-solar-panel",
+      "title": "Trump’s War on Iran is Pushing the Global South Toward Chinese Solar Panels in Record Numbers",
+      "published": "2026-11-14T15:01:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/ai-agent-cant-explain-egg-order",
+      "title": "AI Agent Can’t Explain Why It Randomly Ordered its Human Meat Proxy an Absurd Number of Eggs",
+      "published": "2026-11-14T14:03:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-14T22:26:00+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://futurism.com/artificial-intelligence/ai-chatbots-recommend-scam",
       "title": "AI Chatbots Won’t Stop Recommending Scam Websites to People Trying to Shop",
       "published": "2026-11-14T13:02:00-05:00",
@@ -669,6 +679,16 @@
       "source_name": "BBC Technology",
       "tier": "main",
       "first_seen": "2026-11-14T03:17:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+      "title": "Where was Nvidia’s security team?",
+      "published": "2026-11-14",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-15T02:41:07+00:00",
       "attribution": ""
     },
     {
@@ -2222,16 +2242,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "published": "2026-11-12T22:22:28+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-13T00:26:33+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "published": "2026-11-12T21:35:00+00:00",
@@ -3689,6 +3699,16 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-12T01:32:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "published": "2026-11-12",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T00:26:33+00:00",
       "attribution": ""
     },
     {
@@ -21419,7 +21439,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 39,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "theverge",
@@ -21427,14 +21447,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 61,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "futurism",
@@ -21442,7 +21462,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "bbc",
@@ -21450,7 +21470,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 19,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "addmeto",
@@ -21458,7 +21478,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "xor_journal",
@@ -21466,7 +21486,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "alfa_trends",
@@ -21474,7 +21494,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "antiinfosec",
@@ -21482,7 +21502,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "antidigital",
@@ -21490,7 +21510,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "anti_agi",
@@ -21498,7 +21518,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -21506,7 +21526,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -21514,14 +21534,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     },
     {
       "id": "rozetked",
@@ -21529,7 +21549,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 13,
-      "checked_at": "2026-11-14T22:26:00+00:00"
+      "checked_at": "2026-11-15T02:41:07+00:00"
     }
   ]
 }
