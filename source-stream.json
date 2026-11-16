@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-15T22:49:57+00:00",
+  "updated_at": "2026-11-16T02:44:50+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-16T02:44:50+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+      "title": "Apple launches new app to study how people use AI for health",
+      "published": "2026-11-16T01:30:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-16T02:44:50+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "published": "2026-11-15T23:30:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-16T02:44:50+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
       "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
@@ -1195,16 +1225,6 @@
       "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price",
       "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
       "published": "2026-11-13T23:00:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-14T03:17:47+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "published": "2026-11-13T22:43:00+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
@@ -2659,6 +2679,16 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-13T00:26:33+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "published": "2026-11-13",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-14T03:17:47+00:00",
       "attribution": ""
     },
     {
@@ -21929,22 +21959,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 36,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 68,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "found": 67,
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "futurism",
@@ -21952,7 +21982,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "bbc",
@@ -21960,7 +21990,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 21,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "addmeto",
@@ -21968,7 +21998,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "xor_journal",
@@ -21976,7 +22006,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "alfa_trends",
@@ -21984,7 +22014,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "antiinfosec",
@@ -21992,7 +22022,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "antidigital",
@@ -22000,7 +22030,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "anti_agi",
@@ -22008,7 +22038,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -22016,7 +22046,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -22024,14 +22054,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     },
     {
       "id": "rozetked",
@@ -22039,7 +22069,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 13,
-      "checked_at": "2026-11-15T22:49:57+00:00"
+      "checked_at": "2026-11-16T02:44:50+00:00"
     }
   ]
 }
