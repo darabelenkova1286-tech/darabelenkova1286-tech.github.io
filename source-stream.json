@@ -1,6 +1,256 @@
 {
-  "updated_at": "2026-11-16T02:44:50+00:00",
+  "updated_at": "2026-11-16T11:21:57+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+      "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cw24e3drpv3mo",
+      "title": "Council leader forgives woman who made bomb threat",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cme3dwg49v8vo",
+      "title": "Students must adapt to AI, says education boss",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do",
+      "title": "Intel sued by investors after PC sales slump hits share price",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49487-financial-times-dzhensen-huang-mozhet-vernut-sya-na-post-gendirektora-nvidia",
+      "title": "Financial Times: Дженсен Хуанг может вернуться на пост гендиректора Nvidia",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49493-xbox-podtverdila-chto-project-helix-konsol-kotoraya-mozhet-zapuskat-igry-s-pk",
+      "title": "Xbox подтвердила, что Project Helix — консоль, которая может запускать игры с ПК",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49496-kitayskim-strimeram-gta-vi-zapretyat-strimit-napadeniya-na-policiyu-i-ogrableniya",
+      "title": "Китайским стримерам GTA VI запретят стримить нападения на полицию и ограбления",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49495-v-deepseek-poyavilis-limity-na-ispol-zovanie",
+      "title": "В DeepSeek появились лимиты на использование",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49494-vos-moy-sezon-medlennyh-loshadey-dolzhen-stat-dlya-shou-poslednim",
+      "title": "Восьмой сезон «Медленных лошадей» должен стать для шоу последним",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49492-neupulse-c-naruchnyy-gadzhet-kotoryy-podavlyaet-tiki-lyudey-s-sindromom-turetta",
+      "title": "Neupulse C — наручный гаджет, который подавляет тики людей с синдромом Туретта",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49491-skrudzh-s-dzhonni-deppom-vozglavil-prokat-42-mln-dollarov-za-vyhodnye",
+      "title": "«Скрудж» с Джонни Деппом возглавил прокат — 42 млн долларов за выходные",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49490-bloomberg-face-id-glavnyy-prioritet-dlya-iphone-duo-2",
+      "title": "Bloomberg: Face ID — главный приоритет для iPhone Duo 2",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49489-bloomberg-apple-sobiraetsya-predstavit-umnye-ochki-s-siri-ai-na-wwdc-2027",
+      "title": "Bloomberg: Apple собирается представить умные очки с Siri AI на WWDC 2027",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49488-insayd-na-poluchenie-platiny-v-gta-vi-ponadobitsya-bolee-200-chasov",
+      "title": "Инсайд: на получение «платины» в GTA VI понадобится более 200 часов",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/autonomy_yandex/323",
+      "title": "⛓️ JTAG-цепочка из ПЛИС и микроконтроллера. Если вы знаете, что это значит, вам на Хабр : там новая статья от команды разработки лидаров. Остальным коротко: чтобы запустить лидар в серию, нужно проверить, что все чипы на плате хорошо припаяны. Мы объединили два из них в цепочку, нашли неочевидные подводные камни и рассказали, как их обойти.",
+      "published": "2026-11-16T10:34:26+00:00",
+      "source_id": "autonomy_yandex_tg",
+      "source_name": "Яндекс Автономность · Telegram",
+      "tier": "russia",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10520",
+      "title": "Превращаем любой сайт в готовый брендбук для агентов — нашли бесплатный сервис AI Brand Kit, который за пару кликов собирает фирменный стиль компании. Достаточно вставить ссылку, и инструмент сам извлечёт цвета, шрифты, логотип и стиль текстов в файлы DESIGN.md , BRAND.md и SKILL.md . Их можно передать Claude, ChatGPT, Cursor и Codex, чтобы ИИ созд",
+      "published": "2026-11-16T10:21:00+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12930",
+      "title": "На развитие ИИ в России дополнительно направят 5,17 млрд рублей Дополнительные средства пойдут в том числе на внедрение отечественных больших фундаментальных моделей. Поправки об увеличении финансирования федерального проекта «Искусственный интеллект» на 2027 год рассмотрел комитет Госдумы по информационной политике, информационным технологиям и св",
+      "published": "2026-11-16T09:36:01+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2308",
+      "title": "«Спасибо, Дженсен. Мы с тобой» ❤️ Сотрудники и акционеры NVIDIA опубликовали открытое письмо с требованием вернуть Хуанга К сегодняшнему утру под открытым письмом совету директоров NVIDIA с требованием вернуть Дженсена Хуанга на пост главы компании набралось больше 170 тысяч подписей. Около 8,4 тысячи подписавшихся указали, что работают в NVIDIA. П",
+      "published": "2026-11-16T09:34:45+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10519",
+      "title": "AWS так и не смогла восстановить часть данных клиентов после атак на дата-центры в ОАЭ и Бахрейне — теперь Amazon призывает компании делать автономные бэкапы. На фоне участившихся таких историй бизнес снова вспоминает про старые добрые оптические диски. И, похоже, не зря: они позволяют хранить данные без постоянного электричества и охлаждения, изол",
+      "published": "2026-11-16T09:30:02+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1663",
+      "title": "Telegram тестирует виртуальную утку-компаньона 😘 Исследователь нашёл в бета-версии для iOS утёнка. Похоже, это часть эксперимента с 3D-персонажами , которые смогут жить прямо в личных переписках. В коде нашли анимации и элементы управления поведением таких компаньонов. Утёнка можно будет кастомизировать , а его настроение будет меняться в зависимос",
+      "published": "2026-11-16T09:18:55+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/antidigital/12929",
+      "title": "Слишком большие, чтобы подчиняться? В 1985 году совет директоров Apple встал на сторону Джона Скалли и отстранил Стива Джобса от управления компанией, которую тот основал. Джобс ушёл и вернулся только через 12 лет. Тогда совет мог победить основателя. В ноябре 2023 года совет OpenAI попробовал повторить этот трюк и уволил Сэма Альтмана . Но времена",
+      "published": "2026-11-16T09:12:12+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10518",
+      "title": "У DeepSeek заканчиваются мощности — китайская нейросеть начала ограничивать пользователей из-за перегрузки серверов 🥲 Пользователи жалуются на новые жесткие лимиты : длинные чаты, неактивные больше недели, перестают поддерживаться, размер одного сообщения ограничили примерно 40 тысячами символов, а после исчерпания дневной квоты нейросеть отказывае",
+      "published": "2026-11-16T09:00:51+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12928",
+      "title": "Доброе утро! ❤️ 1️⃣ Российские операторы персональных данных и провайдеры ЦОДов попросили разрешить использовать вычислительные мощности за рубежом на случай атак на российскую инфраструктуру. Такая возможность предусмотрена указом президента, но требует согласования с ФСБ и правительственной подкомиссией. 2️⃣ Бюджет может получить более 4 млрд руб",
+      "published": "2026-11-16T08:30:16+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots",
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "published": "2026-11-16T07:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10515",
+      "title": "⚡️ Alibaba выкатили Qwen4-Max — новую флагманскую модель, которая дешевле и лучше конкурентов. 🟢 Qwen4-Max обходит GPT-6.1 Sol и Claude Opus 5.5 в DeepSWE, а в Agents’ Last Exam набирает 46,7% — лучший результат среди представленных моделей. На других бенчах тоже показывает себя хорошо. 🟢 Разрабы сделали отдельный упор на геймдев: модель умеет созд",
+      "published": "2026-11-16T06:31:16+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
       "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
@@ -1972,16 +2222,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "published": "2026-11-13T15:58:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-13T16:26:18+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://t.me/antiinfosec/301",
       "title": "Beget и бэкапы После недавнего инцидента у Beget клиенты VPS столкнулись с довольно неудобной процедурой. Чтобы получить доступ к своим же бэкапам через панель, нужно подтвердить владение сервером. Способов компания предлагает два: 1️⃣ Отдать пароль root в веб-форму. Да, провайдер заверяет, что пароль используется только для автоматической проверки",
       "published": "2026-11-13T15:21:58+00:00",
@@ -2709,6 +2949,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-13T22:39:17+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "published": "2026-11-13",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-13T16:26:18+00:00",
       "attribution": ""
     },
     {
@@ -21959,7 +22209,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 36,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "theverge",
@@ -21967,14 +22217,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 67,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "futurism",
@@ -21982,15 +22232,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 21,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "found": 22,
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "addmeto",
@@ -21998,15 +22248,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 19,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "found": 17,
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "alfa_trends",
@@ -22014,7 +22264,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "antiinfosec",
@@ -22022,7 +22272,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "antidigital",
@@ -22030,7 +22280,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "anti_agi",
@@ -22038,15 +22288,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
       "name": "Яндекс Автономность · Telegram",
       "status": "ok",
       "scope": "known_post",
-      "found": 12,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "found": 13,
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -22054,22 +22304,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "checked_at": "2026-11-16T11:21:57+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 13,
-      "checked_at": "2026-11-16T02:44:50+00:00"
+      "found": 16,
+      "checked_at": "2026-11-16T11:21:57+00:00"
     }
   ]
 }
