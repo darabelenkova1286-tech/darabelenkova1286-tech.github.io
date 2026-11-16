@@ -1,6 +1,106 @@
 {
-  "updated_at": "2026-11-16T11:21:57+00:00",
+  "updated_at": "2026-11-16T12:40:15+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1034080/bose-recalls-over-600000-bluetooth-speaker-batteries",
+      "title": "Bose recalls over 600,000 Bluetooth speaker batteries.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-16T12:40:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1034075/theyre-stealing-the-sky",
+      "title": "“They’re stealing the sky.”",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-16T12:40:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
+      "title": "potatoes by air",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-16T12:40:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+      "title": "Amazon’s Zoox robotaxis are now available via Uber",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-16T12:40:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+      "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-16T12:40:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49497-smartfony-samsung-nauchatsya-ocenivat-kaloriynost-blyud",
+      "title": "Смартфоны Samsung научатся оценивать калорийность блюд",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-16T12:40:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1664",
+      "title": "Робот впервые самостоятельно построил конструкцию прямо в космосе 🧱 Аппарат ASTRA собрал часть антенны без участия астронавтов. Робот соединял специальные композитные трубки и алюминиевые детали , постепенно наращивая конструкцию. Теперь детали можно будет доставлять на орбиту по частям наборами, а собирать целиком уже на месте . В перспективе таку",
+      "published": "2026-11-16T12:12:30+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-16T12:40:15+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas",
+      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+      "published": "2026-11-16T12:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-16T12:40:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/addmeto/6233",
+      "title": "NYT: AO3, главный архив фанфиков, снова работает после инцидента с безопасностью. Причём вернулся раньше обещанных ЧЕТЫРЕХ недель, всего три недели на восстановление. Подробностей никаких, но да, фанаты ждали. На самом деле я не смеюсь и не глумлюсь. Скорее уважение чувакам, которые всерьез отнеслись к восстановлению — полностью пересобрали всю инф",
+      "published": "2026-11-16T11:35:04+00:00",
+      "source_id": "addmeto",
+      "source_name": "addmeto",
+      "tier": "main",
+      "first_seen": "2026-11-16T12:40:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12931",
+      "title": "Финрезы Билайна за III квартал: выручка +10%, запуск beeGPT и развитие 5G Билайн представил финансовые и операционные результаты за третий квартал и 9 месяцев 2026 года. Компания сохраняет двузначные темпы роста выручки, расширяет сетевую инфраструктуру и развивает цифровые сервисы, включая собственные ИИ-продукты. Главные финансовые показатели: ↗️",
+      "published": "2026-11-16T11:23:45+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-16T12:40:15+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
       "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
@@ -269,6 +369,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-16T02:44:50+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "published": "2026-11-16",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-16T12:40:15+00:00",
       "attribution": ""
     },
     {
@@ -22208,23 +22318,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 36,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "found": 37,
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 67,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "found": 68,
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "futurism",
@@ -22232,7 +22342,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "bbc",
@@ -22240,7 +22350,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 22,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "addmeto",
@@ -22248,7 +22358,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "xor_journal",
@@ -22256,7 +22366,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "alfa_trends",
@@ -22264,7 +22374,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "antiinfosec",
@@ -22272,7 +22382,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "antidigital",
@@ -22280,7 +22390,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "anti_agi",
@@ -22288,7 +22398,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -22296,7 +22406,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 13,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -22304,22 +22414,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "checked_at": "2026-11-16T12:40:15+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 16,
-      "checked_at": "2026-11-16T11:21:57+00:00"
+      "found": 15,
+      "checked_at": "2026-11-16T12:40:15+00:00"
     }
   ]
 }
