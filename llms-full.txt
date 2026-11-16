@@ -2,6 +2,118 @@
 
 
 
+===== EDITION 3 — 2026-11-16 =====
+
+## От редакции
+
+Главное сегодня — выпущенная Alibaba модель Qwen4-Max и исследование Apple о том, как люди пользуются медицинским ИИ. Отдельно разбираем необычную космическую демонстрацию Caltech: её первичное сообщение вышло 5 ноября, а в сегодняшнюю подборку повод попал через новую публикацию Альфы. Указываем исходные даты, чтобы не превращать позднее обнаружение в мнимую новость дня.
+
+## Editorial
+
+Today's leading stories are Alibaba's Qwen4-Max release and Apple's study of how people use health AI. We also examine Caltech's unusual orbital robotics demonstration: its original announcement was published on November 5, and it entered this edition through an Alfa post today. The original dates are explicit so a newly spotted story is not presented as a new event.
+
+
+----- 01-caltech-astra (first) — primary: https://www.caltech.edu/about/news/caltech-robotic-space-demo-successfully-builds-in-space -----
+
+## Русская версия
+
+Пятого ноября Caltech [сообщил](https://www.caltech.edu/about/news/caltech-robotic-space-demo-successfully-builds-in-space), что роботизированная система ASTRA самостоятельно собрала часть ферменной конструкции на орбите. Сегодня история вновь появилась в подборке «Альфа Тренды»; это **новости из ТГ Альфы**, проверенные по публикации разработчиков. Слово «впервые» здесь относится к автономной сборке конструкции в космосе без помощи астронавтов, как её описывает исследовательская команда. Оно не означает, что робот собрал полноценную антенну.
+
+ASTRA — сокращение от Autonomous In-Space Tensioned Reflector Assembly. Робот берёт композитные трубки и алюминиевые соединения из расположенных рядом контейнеров и собирает из них повторяющиеся секции каркаса. Демонстрация стала частью программы DARPA NOM4D, которая исследует способы изготовления крупных объектов уже после запуска. Система провела в космосе около шести месяцев; командой проекта руководит профессор Caltech Серджио Пеллегрино.
+
+План предполагал отражатель диаметром около 1,4 метра. Из-за ограничений по времени команда завершила лишь начальную секцию антенны. Это важная граница результата: показан рабочий шаг сборки на орбите, а не законченный прибор и не серийная технология строительства. Первые этапы проекта были проектированием и земными лабораторными проверками, поэтому именно орбитальный опыт отличает нынешний результат.
+
+### Почему это важно
+
+Большие антенны и отражатели ограничены размерами обтекателя ракеты. Их можно складывать для запуска, но этот подход тоже имеет пределы. Сборка элементов на орбите открывает третий путь, потенциально полезный для телескопов, связи и солнечных массивов. Пока Caltech доказал возможность одной операции; масштабируемость и надёжность больших сооружений ещё предстоит показать.
+
+## English version
+
+On November 5, Caltech [reported](https://www.caltech.edu/about/news/caltech-robotic-space-demo-successfully-builds-in-space) that its ASTRA robotic system had autonomously assembled part of a truss in orbit. The story resurfaced in today's Alfa Trends Telegram post; this account checks that post against the builders' original announcement. The team's “first” claim concerns autonomous construction of a structure in space without astronauts. It does not mean that the robot completed a full antenna.
+
+ASTRA stands for Autonomous In-Space Tensioned Reflector Assembly. Its manipulator retrieves composite tubes and aluminum joints from nearby dispensers and puts together repeated bays of a frame. The demonstration belongs to DARPA's NOM4D program, which explores manufacturing large objects after launch. The system spent about six months in space, and Caltech professor Sergio Pellegrino leads the project.
+
+The intended reflector measured about 1.4 metres across. Time constraints meant the team finished only the initial section. That distinction defines the result: one assembly step worked in orbit, while neither a complete instrument nor a deployable construction service has been demonstrated. Earlier phases covered design and laboratory work on Earth; the orbital operation is the new evidence.
+
+### Why it matters
+
+Large antennas and reflectors run into the size limits of rocket fairings. Folding structures for launch helps, but also has practical limits. Building from parts in orbit offers another possible route for telescopes, communications, and solar arrays. Caltech has demonstrated one operation; reliability and scale for much larger structures remain open questions.
+
+
+----- 02-qwen4-max (ai) — primary: https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max -----
+
+## Русская версия
+
+Alibaba Cloud [объявила 16 ноября](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max) о выпуске Qwen4-Max. Повод заметили в `xor_journal`, а параметры мы сверили с заявлением разработчика. Компания называет модель самой мощной в семействе Qwen на сегодня. У неё нативная работа с изображениями и контекстное окно до миллиона токенов. Модель доступна через QwenCloud по Token Plan и API, а также в сервисах QwenWork и QwenStudio.
+
+Архитектура описана как смесь экспертов: всего 2,4 триллиона параметров, но на каждый токен активируется около 71 миллиарда. Это не означает, что все параметры участвуют в каждом ответе. Alibaba связывает такой подход с меньшими вычислительными затратами по сравнению с прежней Qwen3.8-Max. Компания сообщает о шестом месте в рейтинге Code Arena и о сильных результатах на наборах заданий для агентов, работы с документами и визуального рассуждения.
+
+Заявленные 35% экономии токенов и примерно 60% снижения средней стоимости задачи относятся к собственному тесту Work360 в режиме High effort. Это не универсальная скидка для всех пользователей. В пресс-релизе отдельно указана цена $0,075 за миллион входных токенов при попадании в неявный кэш; такую цену нельзя применять к каждому запросу без уточнения условий кэширования. Младшие модели серии с открытыми весами компания лишь обещает выпустить позднее.
+
+### Почему это важно
+
+Модель сочетает длинный контекст, мультимодальный ввод и доступ через API — набор, востребованный в рабочих агентах. Но практическая ценность зависит от конкретной задачи, задержки, полной цены входных и выходных токенов и воспроизводимости тестов. На дату выпуска подтверждены доступность Qwen4-Max и заявленные технические характеристики; сравнения с конкурентами следует проверять отдельно.
+
+## English version
+
+Alibaba Cloud [announced Qwen4-Max on November 16](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max). The story was spotted via `xor_journal`, and the specifications were checked against Alibaba's release. The company calls it the Qwen family's most capable model so far. It supports native visual input and a context window of up to one million tokens. It is available through QwenCloud's Token Plan and API, and in QwenWork and QwenStudio.
+
+Alibaba describes the architecture as a mixture of experts with 2.4 trillion total parameters, while roughly 71 billion are activated per token. That does not mean every parameter participates in every answer. The company links the design to lower inference costs than its previous Qwen3.8-Max. It reports a sixth-place Code Arena ranking and strong results in tests of agent workflows, workplace tasks, and visual reasoning.
+
+The quoted 35% reduction in token use and roughly 60% lower average cost per task come from Alibaba's own Work360 evaluation at High reasoning effort. They are not a blanket price cut for every workload. The release also lists $0.075 per million input tokens for implicit cache hits; that conditional figure should not be treated as the price of every request. Smaller open-weight Qwen4 models are promised for a later date.
+
+### Why it matters
+
+Long context, multimodal input, and API access make this a relevant model for workplace agents. Its practical value will depend on a specific task, latency, full input and output pricing, and independently repeatable results. Today's confirmed milestone is the model's release and Alibaba's published specifications; claims of superiority over rivals require separate scrutiny.
+
+
+----- 03-apple-health-ai-study (ai) — primary: https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/ -----
+
+## Русская версия
+
+Apple [объявила 15 ноября](https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/) о запуске Apple Health AI Usage Study — виртуального исследования в США и отдельного приложения для его участников. Повод появился в TechCrunch, первоисточником служит публикация Apple. Цель исследования — понять, насколько люди доверяют ответам разговорного ИИ о здоровье, как они понимают объяснения и меняют ли повседневное поведение после консультации с системой.
+
+Apple проводит работу совместно с OpenEvidence, разработчиком инструмента для медицинских специалистов. В исследовательском приложении участники смогут задавать обычные вопросы о здоровье и видеть ссылки на рецензируемые клинические источники. По желанию можно передать отдельные показатели HealthKit, включая активность, сон или результаты анализов, чтобы исследовать влияние личных данных на полезность ответа. Apple заявляет, что данные исследования не будут использованы для обучения моделей и что передача показателей добровольна.
+
+Набор ограничен максимум 200 тысячами участников от 21 года в США. Нужен iPhone с поддержкой Apple Intelligence — iPhone 15 Pro или новее — и iOS 26 либо более поздняя версия. Участникам предлагается оценивать качество ответов; приложение также должно распознавать тревожные вопросы и предлагать обратиться к врачу или другим ресурсам. Это задуманные меры, а не доказательство безошибочности системы.
+
+### Почему это важно
+
+В медицинском контексте важно не только получить правдоподобный ответ, но и понять его ограничения. Исследование может дать данные о доверии, понимании и использовании ссылок на источники. Пока Apple не представила результатов исследования и не запустила универсального «ИИ-врача». Само приложение, по оговорке компании, не предназначено для диагностики или лечения и не заменяет медицинского специалиста.
+
+## English version
+
+Apple [announced the Apple Health AI Usage Study on November 15](https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/). It is a US virtual research project with an app for enrolled participants. TechCrunch surfaced the news; Apple's announcement is the primary source. The study asks how much people trust conversational health AI, whether they understand its responses, and how those responses affect everyday decisions.
+
+Apple is collaborating with OpenEvidence, which develops a tool used by clinicians. Participants can ask everyday health questions in the study app and see links to peer-reviewed clinical sources. They may optionally share selected HealthKit information, such as activity, sleep, or lab results, so researchers can study how personal context changes the usefulness of an answer. Apple says study data will not train AI models and that sharing health metrics is voluntary.
+
+Enrollment is limited to up to 200,000 eligible US participants aged 21 or older. They need an Apple Intelligence-capable iPhone, starting with iPhone 15 Pro, running iOS 26 or later. The app asks participants to rate responses and is designed to flag certain concerning questions and suggest follow-up with a clinician or other resources. Those are planned safeguards, not evidence that the system is error-free.
+
+### Why it matters
+
+In health settings, a plausible answer is not enough; people need to understand its limits. The study could produce evidence about trust, comprehension, and the use of citations. Apple has not published study results or launched a general-purpose “AI doctor.” The company says the app is not intended to diagnose or treat a condition or replace medical advice.
+
+
+----- plural-europe-fund-2026 (business) — primary: https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/ -----
+
+Plural привлекла €1 млрд для инвестиций в европейские технологические компании
+
+Партнёры фонда сообщили TechCrunch, что две трети средств пойдут в третий фонд ранних стадий, а треть — на дополнительные вложения в действующие проекты. Среди интересующих направлений — энергия, инфраструктура ИИ, оборона и здравоохранение.
+Plural raises €1 billion for European technology investments
+
+Plural partners told TechCrunch that two-thirds will go to its third early-stage fund and one-third to follow-on investments. Target areas include energy, AI infrastructure, defence, and health.
+
+
+----- yandex-pharmacy-rovers (yandex) — primary: https://t.me/autonomy_yandex/321 -----
+
+Яндекс и «36,6» запустили доставку аптечных заказов роверами в Москве
+
+В канале Яндекс Автономности компания сообщила о запуске доставки из аптек сети «36,6» через Яндекс Доставку. Сообщение датировано 13 ноября; география и доступность зависят от адреса заказа.
+Yandex and 36.6 start rover delivery for pharmacy orders in Moscow
+
+Yandex Autonomy announced that orders from 36.6 pharmacies can be delivered by rover through Yandex Delivery. The company post is dated November 13; availability depends on the order address.
+
+
 ===== EDITION 2 — 2026-11-10 =====
 
 ## От редакции

@@ -1,19 +1,19 @@
-# dashka-wire — latest edition №2 (2026-11-10)
+# dashka-wire — latest edition №3 (2026-11-16)
 
-## Anthropic releases Claude Fable 5.2 and Mythos 5.2 / Anthropic представила Claude Fable 5.2 и Mythos 5.2
-rubric: ai · primary: https://www.anthropic.com/claude-fable-and-mythos-5-2 · via: https://t.me/xor_journal/10461
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-10/01-anthropic-fable-52.md
+## Caltech robot autonomously assembles part of a structure in orbit / Робот Caltech впервые самостоятельно собрал часть конструкции на орбите
+rubric: first · primary: https://www.caltech.edu/about/news/caltech-robotic-space-demo-successfully-builds-in-space · via: https://t.me/alfa_trends/1664
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-16/01-caltech-astra.md
 
-## Why Boston Dynamics put wheels on Atlas / Зачем Boston Dynamics поставила Atlas на колеса
-rubric: physical_ai · primary: https://bostondynamics.com/blog/atlas-on-a-roll/ · via: https://t.me/alfa_trends/1649
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-10/02-atlas-wheels.md
+## Alibaba releases Qwen4-Max with a million-token context window / Alibaba выпустила Qwen4-Max с контекстом в миллион токенов
+rubric: ai · primary: https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max · via: https://t.me/xor_journal/10515
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-16/02-qwen4-max.md
 
-## Yandex rovers begin deliveries in Yekaterinburg / Роверы Яндекса начали доставлять заказы в Екатеринбурге
-rubric: yandex · primary: https://autonomy.yandex.ru/blog/robodostavka-masshtabiruetsya-na-urale-rovery-yandeksa-nachali-privozit-zakazy-zhitelyam-ekaterinburga · via: https://t.me/autonomy_yandex/311
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-10/03-yandex-ekaterinburg.md
+## Apple launches a study of how people use AI for health questions / Apple запустила исследование того, как люди используют ИИ для вопросов о здоровье
+rubric: ai · primary: https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/ · via: https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-16/03-apple-health-ai-study.md
 
 ## More in the wire
-- Otter добавила 13 языков распознавания речи, включая русский / Otter adds 13 transcription languages, including Russian · 2026-11-10
-  primary: https://otter.ai/blog/otter-ai-announces-its-biggest-multilingual-leap-yet-27-new-languages-and-multilingual-capabilities · via: https://otter.ai/blog/otter-ai-announces-its-biggest-multilingual-leap-yet-27-new-languages-and-multilingual-capabilities
-- Meta открыла доступ к компактной модели Muse Ember / Meta opens access to its compact Muse Ember model · 2026-11-09
-  primary: https://dev.meta.ai/resources/blog/build-with-muse-ember · via: https://dev.meta.ai/resources/blog/build-with-muse-ember
+- Plural привлекла €1 млрд для инвестиций в европейские технологические компании / Plural raises €1 billion for European technology investments · 2026-11-16
+  primary: https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/ · via: https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/
+- Яндекс и «36,6» запустили доставку аптечных заказов роверами в Москве / Yandex and 36.6 start rover delivery for pharmacy orders in Moscow · 2026-11-13
+  primary: https://t.me/autonomy_yandex/321 · via: https://t.me/autonomy_yandex/321
