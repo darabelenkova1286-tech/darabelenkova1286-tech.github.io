@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Команда Domyn адаптирует суперкомпьютер Jupiter для обучения модели почти на триллион параметров - dashka-wire</title>
+<meta name="description" content="Researchers describe an experimental setup and higher throughput; training of the planned open model is still in progress.">
+<link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="../../assets/style.css">
+<link rel="canonical" href="https://darabelenkova1286-tech.github.io/e/2026-11-17/03-domyn-jupiter.html">
+<link rel="alternate" type="application/rss+xml" title="dashka-wire" href="https://darabelenkova1286-tech.github.io/feed.xml">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Domyn adapts the Jupiter supercomputer for near-trillion-parameter model training", "alternativeHeadline": "Команда Domyn адаптирует суперкомпьютер Jupiter для обучения модели почти на триллион параметров", "datePublished": "2026-11-17", "inLanguage": ["ru", "en"], "isBasedOn": "https://www.domyn.com/blog/training-1t-moe-eu-public-infrastructure-pytorch", "author": {"@type": "Organization", "name": "dashka-wire (automated)", "url": "https://darabelenkova1286-tech.github.io/"}, "publisher": {"@type": "Person", "name": "darabelenkova1286-tech", "url": "https://github.com/darabelenkova1286-tech"}, "mainEntityOfPage": "https://darabelenkova1286-tech.github.io/e/2026-11-17/03-domyn-jupiter.html"}</script>
+</head>
+<body>
+<div class="loader" id="loader" aria-hidden="true"><span></span><span></span><span></span></div>
+<header class="masthead">
+  <a class="brand" href="../../index.html"><img class="logo" src="../../assets/logo.svg" alt="">DASHKA WIRE</a>
+  <nav>
+    <a href="../../archive.html" class="nav-link"><span class="lang-ru">Архив</span><span class="lang-en">Archive</span></a>
+    <a href="../../about.html" class="nav-link"><span class="lang-ru">Кухня</span><span class="lang-en">About</span></a>
+    <a href="https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io" class="nav-link">GitHub</a>
+    <button id="langToggle" class="lang-toggle" aria-label="Switch language">EN</button>
+  </nav>
+</header>
+<main>
+<article class="article">
+  <p class="kicker"><span class="badge"><span class="lang-ru">ИИ</span><span class="lang-en">AI</span></span> &middot; 2026-11-17 &middot; <a href="index.html"><span class="lang-ru">весь выпуск</span><span class="lang-en">full edition</span></a></p>
+  <h1><span class="lang-ru">Команда Domyn адаптирует суперкомпьютер Jupiter для обучения модели почти на триллион параметров</span><span class="lang-en">Domyn adapts the Jupiter supercomputer for near-trillion-parameter model training</span></h1>
+  <p class="dek big"><span class="lang-ru">Исследователи описали экспериментальную конфигурацию и рост пропускной способности; обучение открытой модели ещё продолжается.</span><span class="lang-en">Researchers describe an experimental setup and higher throughput; training of the planned open model is still in progress.</span></p>
+  <div class="rating-widget" data-feedback-id="https://t.me/anti_agi/2309" data-feedback-title="Команда Domyn адаптирует суперкомпьютер Jupiter для обучения модели почти на триллион параметров" data-feedback-rubric="ai"></div>
+
+
+  <div class="prose lang-ru"><p>Двенадцатого ноября исследовательская команда Domyn <a href="https://www.domyn.com/blog/training-1t-moe-eu-public-infrastructure-pytorch">опубликовала технический разбор</a> подготовки европейского суперкомпьютера Jupiter к обучению большой языковой модели. История попала в сегодняшнюю подборку через <code>anti_agi</code>; дата первичного материала указана отдельно. Проект EUROPA ведут Domyn вместе с Fraunhofer IAIS и Fraunhofer IIS в рамках European Frontier AI Grand Challenge. Его цель — создать открытую модель и впоследствии выпустить веса и инструкции по обучению. Публикация описывает настройку системы, а не завершённое обучение или уже доступные веса.</p>
+<p>Экспериментальная архитектура содержит около 951,9 миллиарда параметров в сумме, но активирует примерно 32,8 миллиарда на каждый токен. Это модель типа «смесь экспертов»: она выбирает часть специализированных блоков для конкретного шага, поэтому общее число параметров не равно вычислениям на каждом ответе. Для опытов использованы 96 узлов Jupiter с 384 ускорителями GH200. Система общего пользования изначально проектировалась для научных расчётов, а не как выделенный кластер обучения ИИ.</p>
+<p>Главной трудностью, по словам авторов, стала передача данных между узлами и ограничение памяти, а не арифметическая мощность ускорителей. После изменений в распараллеливании и программном стеке команда сообщает о росте пропускной способности с примерно 90 до 1293 токенов в секунду на один GPU в измеренном режиме. Авторы предупреждают, что конфигурация продолжает меняться. Эти числа относятся к конкретному эксперименту и не являются оценкой качества будущей модели на пользовательских задачах.</p>
+<h3>Почему это важно</h3>
+<p>Проект показывает, как общедоступную европейскую вычислительную инфраструктуру можно приспосабливать к крупному обучению без отдельного специализированного кластера. Практический итог будет понятен позднее, когда команда завершит обучение, опубликует веса и независимые исследователи смогут повторить измерения. Пока проверяемый результат — опубликованная инженерная методика и измеренная производительность опытной конфигурации.</p></div>
+  <div class="prose lang-en"><p>On November 12, Domyn's technical team <a href="https://www.domyn.com/blog/training-1t-moe-eu-public-infrastructure-pytorch">published a detailed account</a> of preparing Europe's Jupiter supercomputer to train a large language model. The story entered today's selection through <code>anti_agi</code>; the original publication date is stated separately. The EUROPA project brings Domyn together with Fraunhofer IAIS and Fraunhofer IIS under the European Frontier AI Grand Challenge. Its goal is an open model with released weights and training recipes. This post describes system preparation, not completed training or weights already available to developers.</p>
+<p>The experimental design has approximately 951.9 billion total parameters but activates about 32.8 billion per token. As a mixture-of-experts model, it selects a subset of specialized components for each step; its total parameter count is not the amount of computation used for every response. The team ran experiments on 96 Jupiter nodes containing 384 GH200 accelerators. Jupiter is shared public infrastructure originally optimized for scientific workloads, rather than a dedicated AI training cluster.</p>
+<p>The authors say inter-node communication and memory constraints were harder than raw accelerator arithmetic. Changes to parallelism and the software stack increased measured throughput from roughly 90 to 1,293 tokens per second per GPU in the reported setup. They also warn that the configuration is still changing. These figures describe a particular engineering experiment, not the future model's quality on real user tasks.</p>
+<h3>Why it matters</h3>
+<p>The project explores how public European computing infrastructure can support large model training without a purpose-built private cluster. Its practical outcome will become clearer after training finishes, weights are released, and independent teams can reproduce results. For now, the verifiable result is a published engineering method and measured throughput in an experimental configuration.</p></div>
+  <p class="srcline"><span class="lang-ru">Первоисточник:</span><span class="lang-en">Primary source:</span> <a href="https://www.domyn.com/blog/training-1t-moe-eu-public-infrastructure-pytorch">https://www.domyn.com/blog/training-1t-moe-eu-public-infrastructure-pytorch</a><br><span class="lang-ru">Обнаружено через:</span><span class="lang-en">Found via:</span> <a href="https://t.me/anti_agi/2309">https://t.me/anti_agi/2309</a></p>
+</article>
+</main>
+<footer>
+  <p class="lang-ru">Автор проекта: <a href="https://github.com/darabelenkova1286-tech">darabelenkova1286-tech</a>. Утренний выпуск собирается из проверенных источников.</p>
+  <p class="lang-en">A morning edition by <a href="https://github.com/darabelenkova1286-tech">darabelenkova1286-tech</a>, grounded in verified sources.</p>
+  <p><a href="https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io">DASHKA WIRE</a> &middot; <a href="https://github.com/ADanMan/frontier-wire">Основа: Frontier Wire</a> &middot; MIT</p>
+</footer>
+<script src="../../assets/site.js"></script>
+</body>
+</html>

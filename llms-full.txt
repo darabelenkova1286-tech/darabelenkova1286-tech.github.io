@@ -2,6 +2,118 @@
 
 
 
+===== EDITION 4 — 2026-11-17 =====
+
+## От редакции
+
+Сегодня разбираем сетевой сбой Timeweb Cloud по журналу самого провайдера и запуск каталога плагинов Алисы AI. Отдельный технический материал — о том, как европейская команда приспосабливает суперкомпьютер Jupiter для обучения почти триллионной модели. Оригинал исследования опубликован 12 ноября; это работа в процессе, а не готовая открытая модель.
+
+## Editorial
+
+Today we trace the Timeweb Cloud network outage through the provider's own incident log and examine Yandex's Alice AI plugin catalogue. A separate technical story looks at a European team's attempt to train a near-trillion-parameter model on the Jupiter supercomputer. That research was published on November 12 and describes work in progress, not a completed open model.
+
+
+----- 01-timeweb-cloud (russia) — primary: https://timeweb.cloud/live?tab=1 -----
+
+## Русская версия
+
+Timeweb Cloud [зафиксировал 17 ноября](https://timeweb.cloud/live?tab=1) частичную недоступность своих сервисов. Согласно официальной странице состояния, инцидент длился с 13:28 до 14:52 по Москве. В 14:54 провайдер сообщил, что сетевая проблема полностью устранена и сервисы работают в штатном режиме. Историю заметили через `xor_journal`, но для времени, масштаба и состояния восстановления мы опираемся на собственный журнал компании.
+
+В списке затронутых сервисов указаны облачные серверы, облачные базы данных, App Platform, балансировщики нагрузки и Kubernetes. Страница также перечисляет зоны в Санкт-Петербурге, Москве, Казахстане, Нидерландах, Германии и США. Это перечень зон, где была отмечена частичная недоступность, а не доказательство, что каждый клиент в каждой зоне потерял доступ. На странице нет точного числа затронутых клиентов или сайтов.
+
+В социальных сетях появились сообщения, связывающие сбой с цифрой «более 700 тысяч сайтов». Timeweb использует эту цифру для описания общей клиентской базы хостинга, поэтому она не измеряет последствия сегодняшнего инцидента. Достовернее говорить о подтверждённой проблеме в перечисленных облачных сервисах. Нельзя также делать вывод о потере данных: публичный журнал фиксирует недоступность и восстановление, но не сообщает о безвозвратной утрате информации.
+
+### Почему это важно
+
+Одна сетевая проблема может одновременно затронуть серверы, базы данных и инструменты развёртывания, от которых зависят приложения. Для оценки реального ущерба понадобятся последующий отчёт провайдера и данные клиентов: длительность недоступности конкретных систем, география и возможные последствия для данных. На момент публикации официально подтверждены начало, окончание и восстановление работы сервисов.
+
+## English version
+
+Timeweb Cloud [logged partial service unavailability on November 17](https://timeweb.cloud/live?tab=1). Its official status page dates the incident from 13:28 to 14:52 Moscow time. At 14:54, the provider said the network problem had been fully resolved and services were operating normally. We spotted the story via `xor_journal`, but use the provider's own incident log for timing, scope, and recovery status.
+
+The listed affected services are cloud servers, managed databases, App Platform, load balancers, and Kubernetes. The page names zones in St Petersburg, Moscow, Kazakhstan, the Netherlands, Germany, and the United States. This is a list of zones where partial unavailability was recorded, not proof that every customer in each zone lost access. The page does not give a verified count of affected customers or sites.
+
+Some social posts tie the outage to a figure of more than 700,000 websites. Timeweb uses that number to describe its overall hosting footprint; it is not a measure of this incident's impact. The supported claim is narrower: a confirmed problem with the cloud services listed by the provider. Nor does the status log establish permanent data loss. It reports an availability problem and recovery, without such a finding.
+
+### Why it matters
+
+A single network problem can affect servers, databases, and deployment tools at the same time. Assessing the real impact will require a later provider report and customer evidence about individual service interruptions, geography, and any data consequences. As this edition goes out, the official record confirms the incident window and the provider's recovery notice.
+
+
+----- 02-yandex-plugins (yandex) — primary: https://ir.yandex.ru/press-releases?id=16-11-2026-02&year=2026 -----
+
+## Русская версия
+
+Яндекс [объявил 16 ноября](https://ir.yandex.ru/press-releases?id=16-11-2026-02&year=2026) о запуске каталога плагинов для Алисы AI и Алисы AI для бизнеса. Каталог работает в бета-режиме и содержит более двадцати плагинов, созданных как Яндексом, так и сторонними компаниями. Это отдельный шаг после появления у Алисы режима выполнения поручений: теперь компания описывает общий каталог и процедуру для сторонних разработчиков.
+
+Плагины дают ассистенту доступ к данным и функциям внешних сервисов. Яндекс приводит примеры работы с банковским приложением, системой бухгалтерии, управлением проектами и складским учётом. Пользователь может задать вопрос в чате, а Алиса получит нужные сведения через подключённый плагин и сформирует ответ. Для бизнеса предусмотрены частные плагины, доступные только сотрудникам конкретной организации; администратор управляет доступом и подтверждениями изменений.
+
+Разработчику для публикации в каталоге нужен MCP-сервер и заявка. Яндекс говорит, что перед размещением плагины проходят модерацию. Это не означает, что любой внешний сервис уже подключён или что всем пользователям автоматически открыты корпоративные данные. Доступность зависит от конкретного плагина, его настроек, авторизации и, в компании, правил администратора. Документация Алисы также указывает, что каталог доступен в России на сайте и в приложении.
+
+### Почему это важно
+
+Каталог превращает Алису из набора функций одного поставщика в платформу для внешних интеграций. Для пользователей ценность будет зависеть от качества конкретных плагинов и понятного контроля над тем, какие данные получает ассистент. На дату выпуска подтверждена бета-версия с числом доступных плагинов «более 20»; масштаб использования и надёжность рабочих сценариев ещё предстоит оценить.
+
+## English version
+
+Yandex [announced a plugin catalogue on November 16](https://ir.yandex.ru/press-releases?id=16-11-2026-02&year=2026) for Alice AI and its business edition. The catalogue is in beta and contains more than 20 plugins made by Yandex and outside companies. This follows the introduction of Alice's task-running mode, but adds a shared catalogue and a route for third-party developers to publish integrations.
+
+Plugins let the assistant use data and functions from external services. Yandex gives examples involving banking, accounting, project management, and inventory systems. A user can ask a question in chat, and Alice can retrieve relevant information through a connected plugin before answering. Businesses can also make private plugins available only to their own employees, with an administrator managing access and approvals for changes.
+
+Developers need to prepare an MCP server and submit an application. Yandex says plugins are moderated before appearing in the catalogue. That does not mean every external service is connected already or that corporate data is exposed by default. Availability depends on the particular plugin, its configuration, authentication, and organizational permissions. Alice's documentation says the catalogue is available in Russia on the website and in the app.
+
+### Why it matters
+
+The catalogue moves Alice toward a platform for outside integrations. Its value will depend on the quality of individual plugins and clear controls over what data the assistant may access. As of publication, the confirmed milestone is a beta catalogue with more than 20 plugins. Adoption and reliability in real workflows still need evidence.
+
+
+----- 03-domyn-jupiter (ai) — primary: https://www.domyn.com/blog/training-1t-moe-eu-public-infrastructure-pytorch -----
+
+## Русская версия
+
+Двенадцатого ноября исследовательская команда Domyn [опубликовала технический разбор](https://www.domyn.com/blog/training-1t-moe-eu-public-infrastructure-pytorch) подготовки европейского суперкомпьютера Jupiter к обучению большой языковой модели. История попала в сегодняшнюю подборку через `anti_agi`; дата первичного материала указана отдельно. Проект EUROPA ведут Domyn вместе с Fraunhofer IAIS и Fraunhofer IIS в рамках European Frontier AI Grand Challenge. Его цель — создать открытую модель и впоследствии выпустить веса и инструкции по обучению. Публикация описывает настройку системы, а не завершённое обучение или уже доступные веса.
+
+Экспериментальная архитектура содержит около 951,9 миллиарда параметров в сумме, но активирует примерно 32,8 миллиарда на каждый токен. Это модель типа «смесь экспертов»: она выбирает часть специализированных блоков для конкретного шага, поэтому общее число параметров не равно вычислениям на каждом ответе. Для опытов использованы 96 узлов Jupiter с 384 ускорителями GH200. Система общего пользования изначально проектировалась для научных расчётов, а не как выделенный кластер обучения ИИ.
+
+Главной трудностью, по словам авторов, стала передача данных между узлами и ограничение памяти, а не арифметическая мощность ускорителей. После изменений в распараллеливании и программном стеке команда сообщает о росте пропускной способности с примерно 90 до 1293 токенов в секунду на один GPU в измеренном режиме. Авторы предупреждают, что конфигурация продолжает меняться. Эти числа относятся к конкретному эксперименту и не являются оценкой качества будущей модели на пользовательских задачах.
+
+### Почему это важно
+
+Проект показывает, как общедоступную европейскую вычислительную инфраструктуру можно приспосабливать к крупному обучению без отдельного специализированного кластера. Практический итог будет понятен позднее, когда команда завершит обучение, опубликует веса и независимые исследователи смогут повторить измерения. Пока проверяемый результат — опубликованная инженерная методика и измеренная производительность опытной конфигурации.
+
+## English version
+
+On November 12, Domyn's technical team [published a detailed account](https://www.domyn.com/blog/training-1t-moe-eu-public-infrastructure-pytorch) of preparing Europe's Jupiter supercomputer to train a large language model. The story entered today's selection through `anti_agi`; the original publication date is stated separately. The EUROPA project brings Domyn together with Fraunhofer IAIS and Fraunhofer IIS under the European Frontier AI Grand Challenge. Its goal is an open model with released weights and training recipes. This post describes system preparation, not completed training or weights already available to developers.
+
+The experimental design has approximately 951.9 billion total parameters but activates about 32.8 billion per token. As a mixture-of-experts model, it selects a subset of specialized components for each step; its total parameter count is not the amount of computation used for every response. The team ran experiments on 96 Jupiter nodes containing 384 GH200 accelerators. Jupiter is shared public infrastructure originally optimized for scientific workloads, rather than a dedicated AI training cluster.
+
+The authors say inter-node communication and memory constraints were harder than raw accelerator arithmetic. Changes to parallelism and the software stack increased measured throughput from roughly 90 to 1,293 tokens per second per GPU in the reported setup. They also warn that the configuration is still changing. These figures describe a particular engineering experiment, not the future model's quality on real user tasks.
+
+### Why it matters
+
+The project explores how public European computing infrastructure can support large model training without a purpose-built private cluster. Its practical outcome will become clearer after training finishes, weights are released, and independent teams can reproduce results. For now, the verifiable result is a published engineering method and measured throughput in an experimental configuration.
+
+
+----- yandex-chachava-board (yandex) — primary: https://ir.yandex.ru/press-releases?id=16-11-2026-01&year=2026 -----
+
+Александр Чачава покинул совет директоров Яндекса
+
+Яндекс сообщил о выходе Чачавы из совета директоров и заявил, что изменение не влияет на операционную работу и стратегию. Компания отдельно уточнила, что персональные санкции ЕС в отношении Чачавы не распространяются на группу Яндекса.
+Alexander Chachava leaves Yandex's board
+
+Yandex announced Chachava's departure from its board and said the change does not alter operations or strategy. It also said EU sanctions against him do not extend to Yandex group companies.
+
+
+----- retadup-coffeeloader-2026 (russia) — primary: https://securelist.ru/retadup-delivers-coffeeloader/117678/ -----
+
+«Лаборатория Касперского» описала новую цепочку заражения Retadup и CoffeeLoader
+
+Исследователи обнаружили модификацию CoffeeLoader ещё в августе, а технический разбор опубликовали 16 ноября. В цепочке используется изменённая библиотека 7z.dll и новый вариант упаковщика Armoury; это анализ вредоносного ПО, а не сообщение о заражении всех USB-накопителей.
+Kaspersky details a new Retadup and CoffeeLoader infection chain
+
+Researchers spotted the CoffeeLoader variant in August and published their technical analysis on November 16. The chain uses a modified 7z.dll and a new Armoury packer; it is malware research, not a claim that all USB drives are infected.
+
+
 ===== EDITION 3 — 2026-11-16 =====
 
 ## От редакции

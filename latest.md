@@ -1,19 +1,19 @@
-# dashka-wire — latest edition №3 (2026-11-16)
+# dashka-wire — latest edition №4 (2026-11-17)
 
-## Caltech robot autonomously assembles part of a structure in orbit / Робот Caltech впервые самостоятельно собрал часть конструкции на орбите
-rubric: first · primary: https://www.caltech.edu/about/news/caltech-robotic-space-demo-successfully-builds-in-space · via: https://t.me/alfa_trends/1664
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-16/01-caltech-astra.md
+## Timeweb Cloud network outage affects services across several regions / Сбой Timeweb Cloud затронул облачные сервисы в нескольких регионах
+rubric: russia · primary: https://timeweb.cloud/live?tab=1 · via: https://t.me/xor_journal/10533
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-17/01-timeweb-cloud.md
 
-## Alibaba releases Qwen4-Max with a million-token context window / Alibaba выпустила Qwen4-Max с контекстом в миллион токенов
-rubric: ai · primary: https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max · via: https://t.me/xor_journal/10515
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-16/02-qwen4-max.md
+## Yandex opens a beta plugin catalogue for Alice AI / Яндекс открыл бета-каталог плагинов для Алисы AI
+rubric: yandex · primary: https://ir.yandex.ru/press-releases?id=16-11-2026-02&year=2026 · via: https://ir.yandex.ru/press-releases?id=16-11-2026-02&year=2026
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-17/02-yandex-plugins.md
 
-## Apple launches a study of how people use AI for health questions / Apple запустила исследование того, как люди используют ИИ для вопросов о здоровье
-rubric: ai · primary: https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/ · via: https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-16/03-apple-health-ai-study.md
+## Domyn adapts the Jupiter supercomputer for near-trillion-parameter model training / Команда Domyn адаптирует суперкомпьютер Jupiter для обучения модели почти на триллион параметров
+rubric: ai · primary: https://www.domyn.com/blog/training-1t-moe-eu-public-infrastructure-pytorch · via: https://t.me/anti_agi/2309
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-17/03-domyn-jupiter.md
 
 ## More in the wire
-- Plural привлекла €1 млрд для инвестиций в европейские технологические компании / Plural raises €1 billion for European technology investments · 2026-11-16
-  primary: https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/ · via: https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/
-- Яндекс и «36,6» запустили доставку аптечных заказов роверами в Москве / Yandex and 36.6 start rover delivery for pharmacy orders in Moscow · 2026-11-13
-  primary: https://t.me/autonomy_yandex/321 · via: https://t.me/autonomy_yandex/321
+- Александр Чачава покинул совет директоров Яндекса / Alexander Chachava leaves Yandex's board · 2026-11-16
+  primary: https://ir.yandex.ru/press-releases?id=16-11-2026-01&year=2026 · via: https://t.me/antidigital/12933
+- «Лаборатория Касперского» описала новую цепочку заражения Retadup и CoffeeLoader / Kaspersky details a new Retadup and CoffeeLoader infection chain · 2026-11-16
+  primary: https://securelist.ru/retadup-delivers-coffeeloader/117678/ · via: https://t.me/antiinfosec/303

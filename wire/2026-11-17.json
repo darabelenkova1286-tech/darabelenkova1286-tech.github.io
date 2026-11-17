@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-17",
+  "items": [
+    {
+      "id": "yandex-chachava-board",
+      "published": "2026-11-16",
+      "rubric": "yandex",
+      "title_ru": "Александр Чачава покинул совет директоров Яндекса",
+      "title_en": "Alexander Chachava leaves Yandex's board",
+      "summary_ru": "Яндекс сообщил о выходе Чачавы из совета директоров и заявил, что изменение не влияет на операционную работу и стратегию. Компания отдельно уточнила, что персональные санкции ЕС в отношении Чачавы не распространяются на группу Яндекса.",
+      "summary_en": "Yandex announced Chachava's departure from its board and said the change does not alter operations or strategy. It also said EU sanctions against him do not extend to Yandex group companies.",
+      "source": "https://t.me/antidigital/12933",
+      "primary_source": "https://ir.yandex.ru/press-releases?id=16-11-2026-01&year=2026",
+      "primary_verified": true
+    },
+    {
+      "id": "retadup-coffeeloader-2026",
+      "published": "2026-11-16",
+      "rubric": "russia",
+      "title_ru": "«Лаборатория Касперского» описала новую цепочку заражения Retadup и CoffeeLoader",
+      "title_en": "Kaspersky details a new Retadup and CoffeeLoader infection chain",
+      "summary_ru": "Исследователи обнаружили модификацию CoffeeLoader ещё в августе, а технический разбор опубликовали 16 ноября. В цепочке используется изменённая библиотека 7z.dll и новый вариант упаковщика Armoury; это анализ вредоносного ПО, а не сообщение о заражении всех USB-накопителей.",
+      "summary_en": "Researchers spotted the CoffeeLoader variant in August and published their technical analysis on November 16. The chain uses a modified 7z.dll and a new Armoury packer; it is malware research, not a claim that all USB drives are infected.",
+      "source": "https://t.me/antiinfosec/303",
+      "primary_source": "https://securelist.ru/retadup-delivers-coffeeloader/117678/",
+      "primary_verified": true
+    }
+  ]
+}
