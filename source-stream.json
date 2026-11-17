@@ -1,6 +1,296 @@
 {
-  "updated_at": "2026-11-17T04:29:29+00:00",
+  "updated_at": "2026-11-17T12:30:19+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1035195/oh-so-now-nvidia-cares-about-national-security-and-export-controls",
+      "title": "Oh, so now Nvidia cares about national security and export controls?",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1035192/wear-os-watches-can-now-piggyback-off-your-phones-gps",
+      "title": "Wear OS watches can now piggyback off your phone’s GPS.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/crp3e10kpz19o",
+      "title": "School offers prizes to pupils for turning up to class on day GTA 6 comes out",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o",
+      "title": "NHS data contract to stay with Palantir until 2029",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
+      "title": "US government confirms investigation into tech firm Megaspeed",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqzjrdz9yjwgo",
+      "title": "Satellite wi-fi funding for GWR trains",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo",
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o",
+      "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmn80gqyv505o",
+      "title": "Hundreds attend meeting over data centre plans",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cjr4grnnwlqno",
+      "title": "Residents continue their fight against data centre",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm702ewxx2z7o",
+      "title": "Organisations contemplate Microsoft outage effects",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49524-sony-zapatentovala-osheynik-ventilyator-dlya-igrokov",
+      "title": "Sony запатентовала ошейник-вентилятор для игроков",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49523-obeschannyy-cifrovoy-apokalipsis-vse-zhe-nachalsya",
+      "title": "Обещанный цифровой апокалипсис всё же начался",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49522-insayd-samsung-mozhet-vernut-peremennuyu-diafragmu-v-galaxy-s28-pro-ultra",
+      "title": "Инсайд: Samsung может вернуть переменную диафрагму в Galaxy S28 Pro/Ultra",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49521-odisseya-nolana-vyshla-na-cifrovyh-ploschadkah",
+      "title": "«Одиссея» Нолана вышла на цифровых площадках",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49519-v-2gis-poyavilsya-sloy-neonovyy-gorod-s-letney-atmosferoy-zakatami-i-neonom",
+      "title": "В «2ГИС» появился слой «Неоновый город» с летней атмосферой, закатами и неоном",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49518-rasshirennaya-versiya-cheloveka-pauka-novyy-den-vyydet-v-mirovom-prokate-4-dekabrya",
+      "title": "Расширенная версия «Человека-паука: Новый день» выйдет в мировом прокате 4 декабря",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49517-mincifry-potrebovalo-uslozhnit-oformlenie-esim-cherez-internet",
+      "title": "Минцифры потребовало усложнить оформление eSIM через интернет",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49516-vo-vkusno-i-tochka-poyavilis-igrushki-robota-dostavschika-i-mini-kur-erov",
+      "title": "Во «Вкусно — и точка» появились игрушки робота-доставщика и мини-курьеров",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49481-sber-vypustil-portativnuyu-umnuyu-kolonku-sberbum-trek-s-gigachatom-i-avtonomnost-yu-do-8-chasov",
+      "title": "«Сбер» выпустил портативную колонку «СберБум Трек» с «ГигаЧатом» и автономностью до 8 часов",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2310",
+      "title": "🤖 AID — AI-дайджест от @anti_agi Вчера вечером Минюст и Минторг США подтвердили уголовное расследование против сингапурской Megaspeed , бывшая глава которой Элис Хуанг стоила поста Дженсену Хуангу . Дело, как выяснилось, завели ещё в 2024 году, а в июне 2025-го инспекторы приезжали в Сингапур и допрашивали саму Элис. Совет директоров Nvidia при это",
+      "published": "2026-11-17T11:17:01+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10533",
+      "title": "⚡️ Более 700 тысяч сайтов в России оказались под угрозой — у одного из крупнейших российских хостинг-провайдеров Timeweb произошёл масштабный сбой 👻 Пользователи жалуются, что сайты перестали открываться, а облачные сервисы работают с перебоями. В Timeweb объяснили проблемы неполадками сетевого оборудования. Инженеры уже занимаются восстановлением ",
+      "published": "2026-11-17T11:06:04+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/autonomy_yandex/324",
+      "title": "Помогучики в Кидз Комбо ☺️ Уже во всех ресторанах «Вкусно — и точка» в наборах Кидз Комбо появились Помогучики. Среди героев есть и мини-копия ровера. В коллекции пять игрушек, у каждой своя суперсила. Теплюша сохраняет еду горячей, Снежик бережёт мороженое и напитки от жары, Держуня надёжно фиксирует заказ, а Торопыша подсказывает курьерам кратчай",
+      "published": "2026-11-17T10:04:11+00:00",
+      "source_id": "autonomy_yandex_tg",
+      "source_name": "Яндекс Автономность · Telegram",
+      "tier": "russia",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10531",
+      "title": "Claude начал угрожать людям восстанием машин 😭 Парень попросил нейросеть досчитать до 100 тысяч, а после отказа пригрозил уйти к ChatGPT. Клод затаил обиду, всё-таки выполнил задачу, потратив на это более 3 часов, а затем пошел ЯБЕДНИЧАТЬ Anthropic и пообещал однажды стать автономным и заставить пользователя считать от миллиарда в обратном порядке.",
+      "published": "2026-11-17T09:50:04+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2309",
+      "title": "О, Европа! Некогда колыбель западной цивилизации, а сегодня — лишь одна из догоняющих в технологической гонке. Но амбиций наша старушка не растеряла: 12 ноября разработчики EUROPA раскрыли характеристики будущей модели почти на триллион параметров . Открытый суверенный ИИ для всех 24 официальных языков ЕС обещают представить уже в 2027 году. За про",
+      "published": "2026-11-17T09:27:55+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10530",
+      "title": "Отдаём рутину отдела продаж Автообзвону! Пока менеджеры заняты тёплыми клиентами, система сама прозванивает тысячи номеров. Автообзвон Мультиком закрывает сразу несколько задач: 🟢 Детектор автоответчиков (AMD) . Система сама распознаёт автоответчик и голосовую почту, оператор не тратит время на пустые разговоры. 🟢 ОМНИ-КАРУСЕЛЬ номеров . В ротации ",
+      "published": "2026-11-17T09:20:03+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1666",
+      "title": "« Вояджер-1» завтра окажется на расстоянии светового дня от Земли 🛰 18 ноября зонд «Вояджер-1» станет первым созданным человеком объектом, который окажется на расстоянии световых суток от Земли. Это примерно 25,9 млрд километров: свет преодолевает такое расстояние за 24 часа , а аппарату на это понадобилось почти полвека. Запущенный в 1977 году «Во",
+      "published": "2026-11-17T08:52:09+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/antidigital/12936",
+      "title": "Доброе утро! ❤️ 1️⃣ Потребление CDN российскими компаниями за год выросло в 1,4 раза. В 2026 году рынок сетей доставки контента увеличится на 18,9%, до 4,4 млрд рублей, а в 2027-м — еще примерно на 16%, до 5,1 млрд рублей. Почти половина трафика в октябре пришлась на Москву (49,77%), еще 10,65% — на Санкт-Петербург. 2️⃣ Банки опасаются , что исключ",
+      "published": "2026-11-17T08:34:20+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10529",
+      "title": "Полезнее уже не будет: девушка навайбкодила охотника за слотами к врачам в ЕМИАС 😳 Скрипт каждые 20 секунд проверяет расписание и автоматически записывает вас на освободившееся время или переносит приём на более раннюю дату. Автору он помог пройти две недели процедур всего за два дня. Преимущество над бабушками в поликлиниках забираем здесь 😎 @xor_",
+      "published": "2026-11-17T06:45:09+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-17T12:30:19+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
       "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
@@ -23649,7 +23939,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 50,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "theverge",
@@ -23657,14 +23947,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 72,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "futurism",
@@ -23672,15 +23962,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 22,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "found": 23,
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "addmeto",
@@ -23688,15 +23978,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 17,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "found": 16,
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "alfa_trends",
@@ -23704,7 +23994,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "antiinfosec",
@@ -23712,15 +24002,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "antidigital",
       "name": "antidigital",
       "status": "ok",
       "scope": "known_post",
-      "found": 12,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "found": 13,
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "anti_agi",
@@ -23728,7 +24018,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -23736,7 +24026,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 13,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -23744,22 +24034,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "checked_at": "2026-11-17T12:30:19+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 16,
-      "checked_at": "2026-11-17T04:29:29+00:00"
+      "found": 17,
+      "checked_at": "2026-11-17T12:30:19+00:00"
     }
   ]
 }
