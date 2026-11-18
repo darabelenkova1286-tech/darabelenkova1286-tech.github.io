@@ -1,6 +1,936 @@
 {
-  "updated_at": "2026-11-18T14:00:10+00:00",
+  "updated_at": "2026-11-18T21:57:54+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1037122/the-matrix-reclaimed",
+      "title": "The Matrix Reclaimed?",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/991080/the-matrix-5-is-waiting-on-a-blessing",
+      "title": "in the works",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037065/amazon-kindle-scribe-alexa-tablet-braille-institute-atkinson-hyperlegible-font",
+      "title": "Kindles are getting a new font designed by the Braille Institute to improve readability.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
+      "title": "Kindle devices",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs",
+      "title": "Alexa Tablets",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/1037078/siriusxm-and-pandora-are-going-to-offer-podcast-transcripts-following-a-lawsuit-settlement",
+      "title": "SiriusXM and Pandora are going to offer podcast transcripts following a lawsuit settlement.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1037061/targets-plan-to-get-you-in-its-stores-on-black-friday-100-free-first-come-first-served-gift-cards",
+      "title": "Target’s plan to get you in its stores on Black Friday? 100 free first-come, first-served gift cards.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "title": "Absolute Batman can save DC Studios",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1037020/bong-joon-hos-the-host-is-back-in-theaters-this-weekend",
+      "title": "Bong Joon Ho’s The Host is back in theaters this weekend.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1037018/gta-vi-framerate-resolution-compared-playstation-xbox",
+      "title": "The full GTA VI graphics breakdown on PS5 Pro, PS5, Xbox Series X, and Xbox Series S.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
+      "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
+      "title": "Instagram now lets you edit your stories after you post them",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036974/its-bad-form-to-blow-up-repeatedly",
+      "title": "“It’s bad form to blow up repeatedly.”",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "title": "remember the now-25-year-old guy who blew up his AI hedge fund",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1036962/one-potential-nvidia-ceo-candidate-arms-ceo",
+      "title": "One potential Nvidia CEO candidate? Arm’s CEO.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
+      "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1032050/mobapad-m12-pro-joy-con-nintendo-switch-2-hands-on",
+      "title": "Nintendo doesn’t make Switch 2 Joy-Con that are this cozy.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1036865/newsmax-is-suing-fox-over-its-anticompetitive-roku-acquisition",
+      "title": "Newsmax is suing Fox over its “anticompetitive” Roku acquisition.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/streaming/1028629/fox-roku-acquisition-close",
+      "title": "$22 billion merger",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1036897/google-is-rolling-out-its-latest-ai-world-model-more-widely",
+      "title": "Google is rolling out its latest AI world model more widely.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "title": "generate more realistic virtual experiences",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
+      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs",
+      "title": "Our favorite accessories to level up your gaming setup ahead of GTA VI",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support",
+      "title": "Google is forcing Android app developers to properly support foldables",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036772/sam-altman-artificial-luca-guadagnino-trailer-andrew-garfield",
+      "title": "Sam Altman is only lying for the greater good in Artificial’s new trailer.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/991464/luca-guadagnino-artificial-teaser-trailer",
+      "title": "Luca Guadagnino’s Artificial",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1036759/david-ellison-confirms-elon-musk-invested-1-billion-in-skydance",
+      "title": "David Ellison confirms Elon Musk invested $1 billion in Skydance.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1016835/larry-and-david-ellison-got-1-billion-from-elon-musk-for-their-warner-bros-takeover",
+      "title": "about the investment",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1036389/titw-giveaway-18",
+      "title": "Gadget giveaways, meet holidays.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/936771/today-im-toying-with-giveaway-free-gadgets",
+      "title": "The Verge doesn’t keep the gadgets we test",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1036670/rocky-and-grace-are-coming-back-to-imax-on-december-11th",
+      "title": "Rocky and Grace are coming back to IMAX on December 11th.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/891979/project-hail-mary-review-ryan-gosling",
+      "title": "Project Hail Mary",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1028343/the-odyssey-is-sailing-back-to-imax-again-starting-december-11th",
+      "title": "Christopher Nolan’s Odyssey",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/streaming/1036656/netflix-is-eyeing-2030-world-cup-broadcasting-rights",
+      "title": "Netflix is eyeing 2030 World Cup broadcasting rights.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
+      "title": "8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
+      "title": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036614/organizations-are-racing-to-patch-another-ai-discovered-critical-vulnerability-java4shell",
+      "title": "Organizations are racing to patch another AI-discovered critical vulnerability: Java4Shell.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "title": "the PHP2Shell bug",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+      "title": "The Verge’s 2026 holiday gift guide for travelers",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor",
+      "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/podcast/1036546/gta-vi-review-vergecast",
+      "title": "Today’s Vergecast: GTA VI is the love story of our times.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues",
+      "title": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036541/in-employee-testing-metas-muse-agents-mixed-up-messages-and-pulled-in-unexpected-chats-from-other-apps",
+      "title": "In employee testing, Meta’s Muse agents mixed up messages and pulled in unexpected chats from other apps.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
+      "title": "How The Verge is picking which Black Friday deals to share",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
+      "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o",
+      "title": "UK government asks for Russell Brand's YouTube account to be removed",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6n4kz3lgdz5o",
+      "title": "TfL photocard breach exposes 265,000 customers",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmn80y2vxd2po",
+      "title": "Grand Theft Auto staff 'caught red-handed' in confidentiality breach, tribunal hears",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko",
+      "title": "Regulator mistakenly sent complaints about doctors to newspaper",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/reviews/49505-obzor-tcl-tab-a1-plus-nxtpaper-bol-shoy-planshet-s-ekranom-pod-bumagu",
+      "title": "Обзор TCL TAB A1 Plus NXTPAPER: большой планшет с экраном под бумагу",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49555-marvel-pokazala-megaposter-mstiteley",
+      "title": "Marvel показала 11 постеров «Мстителей: Доктор Дум», которые образуют единую иллюстрацию",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49554-apple-predstavila-45-luchshih-igr-i-prilozheniy-v-app-store-vypuschennyh-v-2026-godu",
+      "title": "Apple представила 45 лучших игр и приложений в App Store 2026 года",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49553-v-moskve-v-chetvertyy-raz-proydet-viju-noch-emociy-na-etot-raz-ob-anatomii-lzhi",
+      "title": "В Москве в четвёртый раз пройдёт «viju ночь эмоций» — на этот раз об анатомии лжи",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49552-russkiy-treyler-fil-ma-iskusstvennyy-intellekt-pro-osnovateley-openai",
+      "title": "Русский трейлер фильма «Искусственный интеллект» про основателей OpenAI",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49551-hakery-zayavili-o-vzlome-nvidia-i-trebuyut-ot-kompanii-vykup",
+      "title": "Хакеры заявили о взломе Nvidia и требуют от компании выкуп",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49550-v-seti-poyavilis-novye-oboi-windows-11",
+      "title": "В сети появились новые обои Windows 11",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49549-insayd-diagonal-ekranov-v-iphone-duo-2-ostanetsya-prezhney",
+      "title": "Инсайд: диагональ экранов в iPhone Duo 2 останется прежней",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49548-opa-post-ne-pro-gta-vot-novye-prilozheniya",
+      "title": "Опа, пост не про GTA. Вот новые приложения 🔄",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10557",
+      "title": "LeetCode теперь и для вайбкодеров — на платформе появились новые задачи, которые проверяют умение создавать продукты с помощью ИИ. Project Problems оценивает ваши навыки управления ИИ‑агентами на реальных проектах вроде создания API для управления складскими запасами и возвратами товаров, как в Amazon. Всего нас ждет 12 заданий, на каждое дают по 6",
+      "published": "2026-11-18T21:35:03+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "published": "2026-11-18T21:34:13+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "published": "2026-11-18T21:31:21+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie",
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "published": "2026-11-18T20:07:01+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "published": "2026-11-18T19:56:39+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2319",
+      "title": "Microsoft: свой кремний, веса на продажу и конец монополии партнера В Microsoft решили больше не притворяться, что их стратегия в ИИ сводится к перепродаже чужих флагманов по подписке. На Ignite 2026 компания выкатила модели собственного семейства MAI 2 на чипах второго поколения Maia 200. Гонки за первыми строчками в бенчах не случилось, зато прои",
+      "published": "2026-11-18T19:39:45+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation",
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "published": "2026-11-18T19:29:41+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/addmeto/6237",
+      "title": "Quad9 убирает свой бесплатный DNS-резолвер 9.9.9.9 из Франции. Французский суд назначил им ежедневные штрафы, т.к. они \"не блокировали домены, связанные с предполагаемым пиратством\". Выбор был между судом и полной потерей приватности сервиса, и компания разумно предпочла просто уйти. Хуже всего, что Quad9 по закону НИКАК не может предупредить своих",
+      "published": "2026-11-18T18:53:30+00:00",
+      "source_id": "addmeto",
+      "source_name": "addmeto",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode",
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "published": "2026-11-18T18:04:05+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "published": "2026-11-18T17:32:10+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance",
+      "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
+      "published": "2026-11-18T17:30:56+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "published": "2026-11-18T16:59:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12948",
+      "title": "Ни дня без NVIDIA The Gentlemen заявили о взломе NVIDIA и поставили счетчик. Будто новостей об этой компании нам мало. В карточке — обратный отсчет почти на десять дней. Что именно удалось унести, пока не раскрывают. В разделе с информацией о данных стоит лаконичное «скоро». Условия о непубликации (и вообще такая возможность) пока также не опублико",
+      "published": "2026-11-18T16:38:18+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10556",
+      "title": "Объясняем что угодно с помощью человечков — разраб создал скилл stick-scene, который превращает материал в забавные анимации. Просто рассказываете агенту, что хотите визуализировать, а он сам придумывает сцену, пишет код и добавляет анимацию со стикманом. Идеально для объяснений сложных технических концепций. Забираем 😎 @xor_journal",
+      "published": "2026-11-18T16:35:56+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "published": "2026-11-18T16:14:09+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2318",
+      "title": "Что может быть лучше, чем нейросеть? Нейросеть с милыми глазками Пока мы работали, Сбер представил СберБум Трек — портативную колонку с ГигаЧатом . Она распознаёт голосовые команды без интернета и работает до восьми часов на одном заряде. Музыку колонка сама скачивает из плейлиста «Любимое» в сервисе «Звук» во внутреннюю память — помещается больше ",
+      "published": "2026-11-18T16:12:36+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl",
+      "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
+      "published": "2026-11-18T16:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/evidence-growing-outages-trump-fault",
+      "title": "Evidence Is Growing That the Massive Tech Outages Are Trump’s Fault",
+      "published": "2026-11-18T15:45:16-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antiinfosec/307",
+      "title": "Ни дня без NVIDIA The Gentlemen заявили о взломе NVIDIA и поставили счетчик. Будто новостей об этой компании нам мало. В карточке — обратный отсчет почти на десять дней. Что именно удалось унести, пока не раскрывают. В разделе с информацией о данных стоит лаконичное «скоро». Условия о непубликации (и вообще такая возможность) пока также не опублико",
+      "published": "2026-11-18T15:43:24+00:00",
+      "source_id": "antiinfosec",
+      "source_name": "antiinfosec",
+      "tier": "russia",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10555",
+      "title": "ИИ-фотосессии стали ещё реалистичнее — в Институте AIRI разработали метод, который исправляет кривые надписи и лица на сгенерированных картинках 👍 KandiShop улучшает уже готовые изображения без (!) дообучения нейросетей. Он помогает сохранить сходство с оригинальным лицом и точнее воспроизводить надписи на товарах. Метод протестировали на пяти ИИ-м",
+      "published": "2026-11-18T15:35:02+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2317",
+      "title": "Apple сделает умную Siri платной Ну и точно переживёт ИИ-пузырь Во второй бете iOS 27.3 Apple тестирует суточные лимиты на облачные функции Siri и Apple Intelligence. У каждого устройства свой бесплатный лимит на сложные поручения вроде «найди в почте бронь столика и добавь её в календарь». Отдельные лимиты будут у генерации и редактирования картин",
+      "published": "2026-11-18T15:33:01+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1671",
+      "title": "В Японии показали смартфон, который не хочет быть смартфоном ☎️ У Infobar Zero нет веб-браузера и приложений соцсетей, но есть вайфай, блютус и eSIM. Необычный телефон получил двухцветную клавиатуру, три варианта оформления и камеру на 2 Мп для снимков с ретроэффектом. Внутри — процессор MediaTek, 1 ГБ оперативной и 8 ГБ встроенной памяти , поддерж",
+      "published": "2026-11-18T15:28:25+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/antidigital/12947",
+      "title": "Рабочий день сегодня — wasted. Вышла GTA VI Grand Theft Auto VI стала доступна игрокам в Новой Зеландии — первой стране, где уже наступило 19 ноября. Пользователи массово поменяли себе регионы аккаунтов, чтобы оценить релиз одними из первых. На Twitch за трансляциями игры одновременно следят более 2,5 млн человек. Игра занимает около 212 ГБ памяти.",
+      "published": "2026-11-18T15:11:23+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10552",
+      "title": "Слепая печать теперь ФАЙТИНГ — нашли бесплатную игру Type Fighter II, в которой скорость набора текста решает исход битвы. Собственно, чтобы побеждать противников, нужно всего лишь быстро и без ошибок нажимать нужные клавиши. Есть разные бойцы, таблица лидеров и отслеживание прогресса — и все это в стиле старых аркад. Работает прямо в браузере, так",
+      "published": "2026-11-18T15:11:02+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts",
+      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+      "published": "2026-11-18T14:55:13+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/ai-breaking-software-powers-world",
+      "title": "AI Is Breaking the Entire Structure of Software That Powers the World",
+      "published": "2026-11-18T14:46:18-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/autonomy_yandex/326",
+      "title": "🟢 Роверы Яндекса, как и пешеходы, соблюдают установленные правила дорожного движения Например, переходят дорогу на зелёный сигнал светофора. Они «смотрят по сторонам» с помощью камер и лидара и начинают движение только после того, как убедятся в безопасности манёвра. Если ровер подъехал к переходу, а зелёный свет уже горит, он не будет торопиться, ",
+      "published": "2026-11-18T14:33:27+00:00",
+      "source_id": "autonomy_yandex_tg",
+      "source_name": "Яндекс Автономность · Telegram",
+      "tier": "russia",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2316",
+      "title": "Сам не гам и другим не дам С недавних пор модели Anthropic начали отказывать в реверс-инжиниринге игр и создании их копий. Под раздачу попали даже разработчики собственных проектов; на похожие блокировки жаловались пользователи Codex. Потом пошли объяснения: в OpenAI заявили, что запрета на реверс-инжиниринг нет, а срабатывания защиты преимуществен",
+      "published": "2026-11-18T14:15:42+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
       "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
@@ -422,6 +1352,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/health-medicine/trumps-ai-slop-not-fit-office",
+      "title": "Trump’s Embrace of AI Slop Shows He’s Not in Touch With Reality and Should Be Removed From Office, Critics Say",
+      "published": "2026-11-18T13:34:26-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/addmeto/6236",
       "title": "Оставлю вам тут такую ссылку https://macos-beta.telegram.org/dictator Вот тут больше подробносей https://x.com/SenditHighor/status/2122767739903230318",
       "published": "2026-11-18T13:19:12+00:00",
@@ -472,6 +1412,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/artificial-intelligence/trump-administration-flailing-explain-outages",
+      "title": "The Trump Administration Is Absolutely Flailing Trying to Explain Why So Many Crucial Services Are Going Down",
+      "published": "2026-11-18T12:27:18-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/xor_journal/10548",
       "title": "Ор, витуберши нашли свою ЦА и теперь объясняют TCP/IP, DNS, Ethernet и другую базу симпам. Единственный правильный способ обучения ИТ 🤣",
       "published": "2026-11-18T12:17:35+00:00",
@@ -509,6 +1459,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-18T14:00:10+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/conspiracy-theory-cranks-global-outages-viral-rumors",
+      "title": "Conspiracy Cranks Are Having an Absolute Field Day With All These Global Outages",
+      "published": "2026-11-18T11:25:21-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
       "attribution": ""
     },
     {
@@ -552,6 +1512,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/artificial-intelligence/banks-nsa-admit-ai-massive-outages",
+      "title": "Banks and the NSA Admit That Yes, It Was AI That Caused the Massive Outages",
+      "published": "2026-11-18T10:16:49-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/antidigital/12943",
       "title": "М.Видео пробует скопировать \"Икею\" в проекте М.Мебель. Как пишет Владислав Бакальчук, сразу в четырех магазинах сети в Москве, Адлере, Краснодаре и Ростове-на-Дону откроются шоурумы площадью до 200 кв. м. Там покупатели смогут подобрать мебель, бытовую технику и устройства умного дома для обустройства жилья. В ассортимент войдут кухни, гостиные, об",
       "published": "2026-11-18T10:10:53+00:00",
@@ -569,6 +1539,16 @@
       "source_name": "xor_journal",
       "tier": "main",
       "first_seen": "2026-11-18T14:00:10+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/jd-vance-trans-athletes-aviation",
+      "title": "JD Vance Says the Real Reason America’s Entire Flight System Crumbled Was Trans Athletes, Not AI",
+      "published": "2026-11-18T09:28:10-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
       "attribution": ""
     },
     {
@@ -699,6 +1679,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-18T04:23:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "published": "2026-11-18",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
       "attribution": ""
     },
     {
@@ -3242,16 +4232,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach",
-      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-      "published": "2026-11-16T19:53:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-16T22:04:20+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id",
       "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
       "published": "2026-11-16T19:26:55+00:00",
@@ -3275,16 +4255,6 @@
       "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game",
       "title": "Island is a new screen-time app that turns staying off your phone into a game",
       "published": "2026-11-16T18:54:18+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-16T22:04:20+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion",
-      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-      "published": "2026-11-16T18:21:14+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
@@ -3319,16 +4289,6 @@
       "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-17T04:29:29+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "published": "2026-11-16T17:36:43+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-16T22:04:20+00:00",
       "attribution": ""
     },
     {
@@ -3418,16 +4378,6 @@
       "source_id": "antiinfosec",
       "source_name": "antiinfosec",
       "tier": "russia",
-      "first_seen": "2026-11-16T22:04:20+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m",
-      "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
-      "published": "2026-11-16T16:06:30+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
       "first_seen": "2026-11-16T22:04:20+00:00",
       "attribution": ""
     },
@@ -3999,6 +4949,46 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-16T02:44:50+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach",
+      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+      "published": "2026-11-16",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-16T22:04:20+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion",
+      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+      "published": "2026-11-16",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-16T22:04:20+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "published": "2026-11-16",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-16T22:04:20+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m",
+      "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+      "published": "2026-11-16",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-16T22:04:20+00:00",
       "attribution": ""
     },
     {
@@ -25978,39 +26968,39 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 69,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "found": 63,
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 62,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "found": 73,
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "futurism",
       "name": "Futurism",
       "status": "partial",
       "scope": "listing",
-      "found": 58,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "found": 59,
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 20,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "found": 19,
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "addmeto",
@@ -26018,15 +27008,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 14,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "found": 15,
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "alfa_trends",
@@ -26034,7 +27024,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "antiinfosec",
@@ -26042,7 +27032,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "antidigital",
@@ -26050,7 +27040,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "anti_agi",
@@ -26058,15 +27048,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
       "name": "Яндекс Автономность · Telegram",
       "status": "ok",
       "scope": "known_post",
-      "found": 13,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "found": 10,
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -26074,14 +27064,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "checked_at": "2026-11-18T21:57:54+00:00"
     },
     {
       "id": "rozetked",
@@ -26089,7 +27079,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 15,
-      "checked_at": "2026-11-18T14:00:10+00:00"
+      "checked_at": "2026-11-18T21:57:54+00:00"
     }
   ]
 }
