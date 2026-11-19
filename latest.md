@@ -1,19 +1,21 @@
-# dashka-wire — latest edition №4 (2026-11-17)
+# dashka-wire — latest edition №5 (2026-11-19)
 
-## Timeweb Cloud network outage affects services across several regions / Сбой Timeweb Cloud затронул облачные сервисы в нескольких регионах
-rubric: russia · primary: https://timeweb.cloud/live?tab=1 · via: https://t.me/xor_journal/10533
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-17/01-timeweb-cloud.md
+## nginx releases fixes for five vulnerabilities in the NGINX2Root chain / Для nginx вышли исправления пяти уязвимостей из цепочки NGINX2Root
+rubric: security · primary: https://nginx.org/en/security_advisories.html · via: https://t.me/antiinfosec/308
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-19/01-nginx2root.md
 
-## Yandex opens a beta plugin catalogue for Alice AI / Яндекс открыл бета-каталог плагинов для Алисы AI
-rubric: yandex · primary: https://ir.yandex.ru/press-releases?id=16-11-2026-02&year=2026 · via: https://ir.yandex.ru/press-releases?id=16-11-2026-02&year=2026
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-17/02-yandex-plugins.md
+## Anthropic prices its IPO at $83 a share, with trading expected today / Anthropic назначила цену IPO в $83 за акцию; торги ожидаются сегодня
+rubric: business · primary: https://www.anthropic.com/news/anthropic-prices-initial-public-offering · via: https://t.me/xor_journal/10560
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-19/02-anthropic-ipo.md
 
-## Domyn adapts the Jupiter supercomputer for near-trillion-parameter model training / Команда Domyn адаптирует суперкомпьютер Jupiter для обучения модели почти на триллион параметров
-rubric: ai · primary: https://www.domyn.com/blog/training-1t-moe-eu-public-infrastructure-pytorch · via: https://t.me/anti_agi/2309
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-17/03-domyn-jupiter.md
+## Google starts rolling out Gemini 4 Neon to developers and subscribers / Google начала выпуск Gemini 4 Neon для разработчиков и подписчиков
+rubric: ai · primary: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ · via: https://t.me/xor_journal/10558
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-19/03-gemini-neon.md
 
 ## More in the wire
-- Александр Чачава покинул совет директоров Яндекса / Alexander Chachava leaves Yandex's board · 2026-11-16
-  primary: https://ir.yandex.ru/press-releases?id=16-11-2026-01&year=2026 · via: https://t.me/antidigital/12933
-- «Лаборатория Касперского» описала новую цепочку заражения Retadup и CoffeeLoader / Kaspersky details a new Retadup and CoffeeLoader infection chain · 2026-11-16
-  primary: https://securelist.ru/retadup-delivers-coffeeloader/117678/ · via: https://t.me/antiinfosec/303
+- Google открыла Genie 4 в Project Genie для части подписчиков Ultra / Google opens Genie 4 in Project Genie to eligible Ultra subscribers · 2026-11-18
+  primary: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ · via: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
+- Сбер начал продажи портативной колонки СберБум Трек / Sber starts selling the portable SberBoom Track speaker · 2026-11-17
+  primary: https://www.sberbank.ru/ru/sberpress/all/article?blockID=1303&lang=ru&newsID=e94d84d8-0be6-4c63-9b05-8f13933f3149&regionID=33&type=NEWS · via: https://t.me/anti_agi/2318
+- Google начала бесплатно открывать задачи Gemini в шести странах / Google begins free rollout of Gemini Tasks in six countries · 2026-11-17
+  primary: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/ · via: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/

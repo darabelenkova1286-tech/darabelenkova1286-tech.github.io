@@ -2,6 +2,128 @@
 
 
 
+===== EDITION 5 — 2026-11-19 =====
+
+## От редакции
+
+Сегодня главное — опубликованные исправления серьёзных уязвимостей nginx, цена размещения акций Anthropic и выход Gemini 4 Neon. В каждом случае отделяем подтверждённое событие от ожиданий: патчи уже объявлены, торги Anthropic на момент подготовки выпуска ещё только ожидаются, а оценки новой модели требуют независимой проверки.
+
+## Editorial
+
+Today's lead stories are the released nginx security fixes, Anthropic's IPO pricing, and the rollout of Gemini 4 Neon. We separate confirmed events from expectations: patches have been announced, Anthropic trading was still expected when this edition was prepared, and model performance claims need independent testing.
+
+
+----- 01-nginx2root (security) — primary: https://nginx.org/en/security_advisories.html -----
+
+## Русская версия
+
+Проект nginx [опубликовал перечень исправлений](https://nginx.org/en/security_advisories.html) для пяти уязвимостей, которые исследователи Xint объединили под именем NGINX2Root. Исправленные версии открытого nginx — 1.30.7 в стабильной ветке и 1.31.9 в основной. [Новостная лента проекта](https://nginx.org/news.html) датирует их выпуск 18 ноября. Повод мы обнаружили в канале `antiinfosec`, после чего сверили описание с официальным списком уязвимостей и [техническим разбором Xint](https://xint.io/blog/nginx2root-remote-code-execution).
+
+Самая заметная ошибка, CVE-2026-123007, затрагивает обработку управления потоком HTTP/2. В официальном бюллетене она имеет уровень major; уязвимыми указаны версии с 1.9.5 по 1.31.8. Xint показывает возможность выполнения команд без авторизации при включённом HTTP/2 и подходящей конфигурации. Остальные четыре проблемы касаются других путей обработки запросов и сервисов; условия эксплуатации у них различаются. Поэтому утверждение «любой nginx-сервер немедленно взломан» не следует из публикации.
+
+Исследователи также описали отдельную ошибку повышения привилегий в ядре Linux, которую можно соединить с одной из ошибок nginx. Это отдельная проблема: обновление веб-сервера закрывает описанный вход через nginx, но не исправляет само ядро. Приоритет для администраторов — установить исправленный пакет, предоставленный разработчиком или поставщиком дистрибутива, и перезапустить службу. Временное отключение HTTP/2 снижает риск только для части описанных ошибок и не заменяет обновление.
+
+### Почему это важно
+
+nginx стоит перед множеством сайтов и приложений, поэтому изменение его безопасности имеет широкий потенциальный охват. Реальный риск зависит от установленной версии, активных модулей и настроек конкретного сервера. Официальная таблица позволяет проверить применимость каждого CVE отдельно. Публичные материалы пока не дают достоверной оценки числа атак или скомпрометированных систем; наличие демонстрации эксплуатации не доказывает массовый взлом.
+
+## English version
+
+The nginx project [lists fixes](https://nginx.org/en/security_advisories.html) for five vulnerabilities grouped by Xint researchers under the name NGINX2Root. The fixed open-source releases are 1.30.7 on the stable branch and 1.31.9 on mainline. The project's [news page](https://nginx.org/news.html) dates both releases to November 18. We spotted the story in `antiinfosec`, then checked the official advisory list and [Xint's technical report](https://xint.io/blog/nginx2root-remote-code-execution).
+
+The most prominent flaw, CVE-2026-123007, affects HTTP/2 flow-control handling. nginx labels it major and lists versions 1.9.5 through 1.31.8 as vulnerable. Xint demonstrates unauthenticated command execution when HTTP/2 is enabled and the relevant conditions are met. The other four flaws involve different request-processing paths or services, with different requirements for exploitation. The disclosure therefore does not mean that every nginx installation has already been compromised.
+
+The researchers also describe a separate Linux kernel privilege-escalation flaw that can be chained with an nginx entry point. It is a distinct issue: updating nginx closes the described route through the web server, but does not patch the kernel itself. Administrators should obtain a fixed package from nginx or their distribution vendor and restart the service. Disabling HTTP/2 can reduce exposure to some of the disclosed flaws, but it does not address all five and should not replace patching.
+
+### Why it matters
+
+nginx sits in front of many websites and applications, so a change to its security has broad potential reach. Actual exposure depends on the installed version, enabled modules, and each server's configuration. The official advisory table lets operators assess the individual CVEs. The public record does not establish how many systems were attacked or compromised; a proof of exploitation is not evidence of a mass breach.
+
+
+----- 02-anthropic-ipo (business) — primary: https://www.anthropic.com/news/anthropic-prices-initial-public-offering -----
+
+## Русская версия
+
+Anthropic [установила цену первичного размещения](https://www.anthropic.com/news/anthropic-prices-initial-public-offering) акций класса A на уровне $83 за штуку. В предложении 980 млн акций: 956 351 354 продаёт сама компания, а 23 648 646 — существующие акционеры. Простое умножение объёма размещения на цену даёт $81,34 млрд валового объёма предложения. Это не сумма, которую целиком получит Anthropic: поступления от продажи пакета действующих акционеров ей не достанутся, а комиссии и расходы ещё предстоит учесть. Повод мы заметили в `xor_journal` и проверили по заявлению компании.
+
+По сообщению Anthropic, акции должны начать торговаться на Nasdaq 19 ноября под тикером ANT. Закрытие размещения ожидается 20 ноября и зависит от выполнения обычных условий сделки. На момент подготовки выпуска мы можем подтвердить цену и заявленные сроки, но не факт начала торгов или итоговую рыночную оценку после первой сессии. Первоначальный ориентир цены в [анонсе дорожного шоу](https://www.anthropic.com/news/roadshow-launch) составлял $70–78; окончательная цена оказалась выше этого диапазона.
+
+Комиссия по ценным бумагам США признала регистрационное заявление действующим 18 ноября. Это обязательный шаг для размещения, а не гарантия доходности бумаги. Финансовый рынок теперь должен оценить компанию, чьи продукты используются для программирования и корпоративных ИИ-задач, в условиях высоких затрат на вычисления и острой конкуренции между разработчиками моделей.
+
+### Почему это важно
+
+IPO создаёт публичный ориентир для стоимости крупной компании, строящей базовые ИИ-модели. Но цена размещения, объём привлечённых денег и рыночная капитализация — разные величины. Дальнейшие выводы зависят от начала торгов, фактического закрытия сделки и раскрываемых финансовых результатов. Сегодняшнее подтверждённое событие — именно назначение окончательной цены и структуры предложения.
+
+## English version
+
+Anthropic [priced its Class A initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering) at $83 per share. The offering contains 980 million shares: Anthropic is selling 956,351,354, while existing holders are selling 23,648,646. Multiplying all offered shares by the price gives a gross offering value of $81.34 billion. That is not the amount Anthropic itself will receive. Proceeds from the existing holders' shares do not go to the company, and underwriting costs and other expenses still matter. We spotted the story through `xor_journal` and checked the company's own announcement.
+
+Anthropic says its shares are expected to start trading on Nasdaq on November 19 under the ticker ANT. The offering is expected to close on November 20, subject to customary conditions. At the time of this edition, the confirmed facts are the price and those planned dates, not a completed first trading session or a final public-market valuation. The earlier [roadshow announcement](https://www.anthropic.com/news/roadshow-launch) gave an expected range of $70 to $78 per share; the final price is higher.
+
+The US Securities and Exchange Commission declared the registration statement effective on November 18. That is a required step for the sale, not a promise of investment returns. Public investors will now have to value a company whose models are used for coding and enterprise AI while computing costs and competition among model developers remain significant.
+
+### Why it matters
+
+The offering gives the market a public reference point for a major foundation-model company. But the offer price, total proceeds, and market capitalization are different measures. Further conclusions depend on the actual start of trading, the closing of the deal, and later financial disclosures. The verified event today is the final pricing and the announced structure of the offering.
+
+
+----- 03-gemini-neon (ai) — primary: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ -----
+
+## Русская версия
+
+Google [представила Gemini 4 Neon 18 ноября](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) и начала постепенно открывать доступ к модели. Она предназначена для сложного программирования, аналитики и длительных агентных задач. В линейке Gemini 4 компания ставит Neon между быстрым Hydrogen и более ресурсоёмким Carbon: это описание позиционирования продукта, а не универсальный рейтинг качества. О поводе мы узнали из `xor_journal`, затем открыли подробный материал Google.
+
+Для разработчиков модель появляется в платном уровне Gemini API через Google AI Studio и Android Studio. Корпоративным клиентам её предлагают в Gemini for business, а пользователям приложения Gemini — при подписке Pro или Ultra. Специализированная версия для задач киберзащиты должна стать доступной отобранным участникам программы Fairwind в следующие дни; это ещё не общедоступный выпуск такого варианта.
+
+Google указывает контекстное окно в миллион токенов и цену $3 за миллион входных токенов и $15 за миллион выходных. Кэшированные входные токены оценены в $0,15 за миллион. Компания также приводит результаты нескольких внешних и внутренних тестов, включая показатели программирования, управляемости и безопасности. Сопоставлять их с конкурентами без учёта версии теста, режима рассуждения и затрат на задачу было бы некорректно. Независимая оценка реальной работы модели станет возможна по мере расширения доступа.
+
+### Почему это важно
+
+Для пользователя ценность Neon будет зависеть от сочетания скорости, качества и стоимости на конкретных задачах, а не от одного места в таблице тестов. Заявленная цена позволяет разработчикам планировать эксперименты, но итоговые расходы зависят от длины запросов и объёма выходного текста. Подтверждённое событие — начало развертывания модели и опубликованные условия доступа; превосходство в повседневных сценариях пока требует проверки.
+
+## English version
+
+Google [introduced Gemini 4 Neon on November 18](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) and began a phased rollout. The model targets demanding coding, analysis, and extended agent workflows. In the Gemini 4 family, Google places Neon between the faster Hydrogen and the heavier Carbon. That is product positioning, not a universal quality ranking. We found the story via `xor_journal`, then read Google's detailed announcement.
+
+Developers can access the model through the paid Gemini API tier in Google AI Studio and Android Studio. Business customers are being offered it in Gemini for business, while Gemini app users need a Pro or Ultra subscription. A specialized cyber-defense version is due to reach selected Fairwind participants in the coming days; it is not yet a general release of that variant.
+
+Google specifies a one-million-token context window and pricing of $3 per million input tokens and $15 per million output tokens. Cached inputs cost $0.15 per million tokens. The company also reports results from several external and internal evaluations, including coding, steerability, and safety measures. Comparing those numbers with competitors without accounting for the benchmark version, reasoning setting, and cost per task would be misleading. Independent evidence about everyday performance should improve as access widens.
+
+### Why it matters
+
+For users, Neon's value will depend on the mix of speed, quality, and cost in their actual work, not a single position on a benchmark chart. Published prices help developers plan experiments, although final spending depends on prompt length and output volume. What is confirmed is the rollout and its access terms. Any broad claim of superiority in ordinary use still needs testing outside the announcement.
+
+
+----- google-genie4-project-genie-access (ai) — primary: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ -----
+
+Google открыла Genie 4 в Project Genie для части подписчиков Ultra
+
+Модель интерактивных миров теперь доступна подходящим подписчикам Google AI Ultra: окружение можно менять текстовыми запросами во время сеанса, появился адаптивный звук и галерея работ. Для Pro предусмотрен лист ожидания; ограничения физики и долгого сохранения сцены Google признаёт сама.
+Google opens Genie 4 in Project Genie to eligible Ultra subscribers
+
+Eligible Google AI Ultra subscribers can now use the interactive world model, edit environments with text during a session, hear adaptive audio, and share creations. Pro users have a waitlist; Google acknowledges limits in physics and long-term scene persistence.
+
+
+----- sberboom-track-launch (russia) — primary: https://www.sberbank.ru/ru/sberpress/all/article?blockID=1303&lang=ru&newsID=e94d84d8-0be6-4c63-9b05-8f13933f3149&regionID=33&type=NEWS -----
+
+Сбер начал продажи портативной колонки СберБум Трек
+
+Колонка с ГигаЧатом стоит 14 990 рублей. Сбер заявляет до восьми часов воспроизведения, локальное распознавание голосовых команд для музыки без интернета и поддержку Matter over Wi-Fi. Это характеристики производителя, не результаты независимого теста.
+Sber starts selling the portable SberBoom Track speaker
+
+The GigaChat speaker costs 14,990 rubles. Sber claims up to eight hours of playback, local voice control for offline music, and Matter over Wi-Fi support. These are manufacturer specifications, not independent test results.
+
+
+----- google-gemini-tasks-free-six-countries (ai) — primary: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/ -----
+
+Google начала бесплатно открывать задачи Gemini в шести странах
+
+Режим задач Gemini на базе Hydrogen запускается без подписки в США, Японии, Корее, Канаде, Австралии и Индии. Дополнительные возможности, включая звонки компаниям, пока запускаются сначала в США. Это поэтапное развёртывание, а не глобальная доступность.
+Google begins free rollout of Gemini Tasks in six countries
+
+Gemini Tasks powered by Hydrogen is rolling out without a subscription in the US, Japan, Korea, Canada, Australia, and India. Extra capabilities, including calls to businesses, begin in the US. This is a phased rollout, not worldwide availability.
+
+
 ===== EDITION 4 — 2026-11-17 =====
 
 ## От редакции

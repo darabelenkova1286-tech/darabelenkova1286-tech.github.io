@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Для nginx вышли исправления пяти уязвимостей из цепочки NGINX2Root - dashka-wire</title>
+<meta name="description" content="Researchers describe remote code execution under specific configurations; the official fixed releases are 1.30.7 and 1.31.9.">
+<link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="../../assets/style.css">
+<link rel="canonical" href="https://darabelenkova1286-tech.github.io/e/2026-11-19/01-nginx2root.html">
+<link rel="alternate" type="application/rss+xml" title="dashka-wire" href="https://darabelenkova1286-tech.github.io/feed.xml">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "nginx releases fixes for five vulnerabilities in the NGINX2Root chain", "alternativeHeadline": "Для nginx вышли исправления пяти уязвимостей из цепочки NGINX2Root", "datePublished": "2026-11-19", "inLanguage": ["ru", "en"], "isBasedOn": "https://nginx.org/en/security_advisories.html", "author": {"@type": "Organization", "name": "dashka-wire (automated)", "url": "https://darabelenkova1286-tech.github.io/"}, "publisher": {"@type": "Person", "name": "darabelenkova1286-tech", "url": "https://github.com/darabelenkova1286-tech"}, "mainEntityOfPage": "https://darabelenkova1286-tech.github.io/e/2026-11-19/01-nginx2root.html"}</script>
+</head>
+<body>
+<div class="loader" id="loader" aria-hidden="true"><span></span><span></span><span></span></div>
+<header class="masthead">
+  <a class="brand" href="../../index.html"><img class="logo" src="../../assets/logo.svg" alt="">DASHKA WIRE</a>
+  <nav>
+    <a href="../../archive.html" class="nav-link"><span class="lang-ru">Архив</span><span class="lang-en">Archive</span></a>
+    <a href="../../about.html" class="nav-link"><span class="lang-ru">Кухня</span><span class="lang-en">About</span></a>
+    <a href="https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io" class="nav-link">GitHub</a>
+    <button id="langToggle" class="lang-toggle" aria-label="Switch language">EN</button>
+  </nav>
+</header>
+<main>
+<article class="article">
+  <p class="kicker"><span class="badge"><span class="lang-ru">Безопасность</span><span class="lang-en">Security</span></span> &middot; 2026-11-19 &middot; <a href="index.html"><span class="lang-ru">весь выпуск</span><span class="lang-en">full edition</span></a></p>
+  <h1><span class="lang-ru">Для nginx вышли исправления пяти уязвимостей из цепочки NGINX2Root</span><span class="lang-en">nginx releases fixes for five vulnerabilities in the NGINX2Root chain</span></h1>
+  <p class="dek big"><span class="lang-ru">Исследователи описали удалённое выполнение кода при определённых конфигурациях; официальные исправленные версии — 1.30.7 и 1.31.9.</span><span class="lang-en">Researchers describe remote code execution under specific configurations; the official fixed releases are 1.30.7 and 1.31.9.</span></p>
+  <div class="rating-widget" data-feedback-id="https://t.me/antiinfosec/308" data-feedback-title="Для nginx вышли исправления пяти уязвимостей из цепочки NGINX2Root" data-feedback-rubric="security"></div>
+
+
+  <div class="prose lang-ru"><p>Проект nginx <a href="https://nginx.org/en/security_advisories.html">опубликовал перечень исправлений</a> для пяти уязвимостей, которые исследователи Xint объединили под именем NGINX2Root. Исправленные версии открытого nginx — 1.30.7 в стабильной ветке и 1.31.9 в основной. <a href="https://nginx.org/news.html">Новостная лента проекта</a> датирует их выпуск 18 ноября. Повод мы обнаружили в канале <code>antiinfosec</code>, после чего сверили описание с официальным списком уязвимостей и <a href="https://xint.io/blog/nginx2root-remote-code-execution">техническим разбором Xint</a>.</p>
+<p>Самая заметная ошибка, CVE-2026-123007, затрагивает обработку управления потоком HTTP/2. В официальном бюллетене она имеет уровень major; уязвимыми указаны версии с 1.9.5 по 1.31.8. Xint показывает возможность выполнения команд без авторизации при включённом HTTP/2 и подходящей конфигурации. Остальные четыре проблемы касаются других путей обработки запросов и сервисов; условия эксплуатации у них различаются. Поэтому утверждение «любой nginx-сервер немедленно взломан» не следует из публикации.</p>
+<p>Исследователи также описали отдельную ошибку повышения привилегий в ядре Linux, которую можно соединить с одной из ошибок nginx. Это отдельная проблема: обновление веб-сервера закрывает описанный вход через nginx, но не исправляет само ядро. Приоритет для администраторов — установить исправленный пакет, предоставленный разработчиком или поставщиком дистрибутива, и перезапустить службу. Временное отключение HTTP/2 снижает риск только для части описанных ошибок и не заменяет обновление.</p>
+<h3>Почему это важно</h3>
+<p>nginx стоит перед множеством сайтов и приложений, поэтому изменение его безопасности имеет широкий потенциальный охват. Реальный риск зависит от установленной версии, активных модулей и настроек конкретного сервера. Официальная таблица позволяет проверить применимость каждого CVE отдельно. Публичные материалы пока не дают достоверной оценки числа атак или скомпрометированных систем; наличие демонстрации эксплуатации не доказывает массовый взлом.</p></div>
+  <div class="prose lang-en"><p>The nginx project <a href="https://nginx.org/en/security_advisories.html">lists fixes</a> for five vulnerabilities grouped by Xint researchers under the name NGINX2Root. The fixed open-source releases are 1.30.7 on the stable branch and 1.31.9 on mainline. The project's <a href="https://nginx.org/news.html">news page</a> dates both releases to November 18. We spotted the story in <code>antiinfosec</code>, then checked the official advisory list and <a href="https://xint.io/blog/nginx2root-remote-code-execution">Xint's technical report</a>.</p>
+<p>The most prominent flaw, CVE-2026-123007, affects HTTP/2 flow-control handling. nginx labels it major and lists versions 1.9.5 through 1.31.8 as vulnerable. Xint demonstrates unauthenticated command execution when HTTP/2 is enabled and the relevant conditions are met. The other four flaws involve different request-processing paths or services, with different requirements for exploitation. The disclosure therefore does not mean that every nginx installation has already been compromised.</p>
+<p>The researchers also describe a separate Linux kernel privilege-escalation flaw that can be chained with an nginx entry point. It is a distinct issue: updating nginx closes the described route through the web server, but does not patch the kernel itself. Administrators should obtain a fixed package from nginx or their distribution vendor and restart the service. Disabling HTTP/2 can reduce exposure to some of the disclosed flaws, but it does not address all five and should not replace patching.</p>
+<h3>Why it matters</h3>
+<p>nginx sits in front of many websites and applications, so a change to its security has broad potential reach. Actual exposure depends on the installed version, enabled modules, and each server's configuration. The official advisory table lets operators assess the individual CVEs. The public record does not establish how many systems were attacked or compromised; a proof of exploitation is not evidence of a mass breach.</p></div>
+  <p class="srcline"><span class="lang-ru">Первоисточник:</span><span class="lang-en">Primary source:</span> <a href="https://nginx.org/en/security_advisories.html">https://nginx.org/en/security_advisories.html</a><br><span class="lang-ru">Обнаружено через:</span><span class="lang-en">Found via:</span> <a href="https://t.me/antiinfosec/308">https://t.me/antiinfosec/308</a></p>
+</article>
+</main>
+<footer>
+  <p class="lang-ru">Автор проекта: <a href="https://github.com/darabelenkova1286-tech">darabelenkova1286-tech</a>. Утренний выпуск собирается из проверенных источников.</p>
+  <p class="lang-en">A morning edition by <a href="https://github.com/darabelenkova1286-tech">darabelenkova1286-tech</a>, grounded in verified sources.</p>
+  <p><a href="https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io">DASHKA WIRE</a> &middot; <a href="https://github.com/ADanMan/frontier-wire">Основа: Frontier Wire</a> &middot; MIT</p>
+</footer>
+<script src="../../assets/site.js"></script>
+</body>
+</html>

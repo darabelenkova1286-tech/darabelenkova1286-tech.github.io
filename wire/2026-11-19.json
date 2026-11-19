@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-19",
+  "items": [
+    {
+      "id": "google-genie4-project-genie-access",
+      "published": "2026-11-18",
+      "rubric": "ai",
+      "title_ru": "Google открыла Genie 4 в Project Genie для части подписчиков Ultra",
+      "title_en": "Google opens Genie 4 in Project Genie to eligible Ultra subscribers",
+      "summary_ru": "Модель интерактивных миров теперь доступна подходящим подписчикам Google AI Ultra: окружение можно менять текстовыми запросами во время сеанса, появился адаптивный звук и галерея работ. Для Pro предусмотрен лист ожидания; ограничения физики и долгого сохранения сцены Google признаёт сама.",
+      "summary_en": "Eligible Google AI Ultra subscribers can now use the interactive world model, edit environments with text during a session, hear adaptive audio, and share creations. Pro users have a waitlist; Google acknowledges limits in physics and long-term scene persistence.",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "primary_source": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "primary_verified": true
+    },
+    {
+      "id": "google-gemini-tasks-free-six-countries",
+      "published": "2026-11-17",
+      "rubric": "ai",
+      "title_ru": "Google начала бесплатно открывать задачи Gemini в шести странах",
+      "title_en": "Google begins free rollout of Gemini Tasks in six countries",
+      "summary_ru": "Режим задач Gemini на базе Hydrogen запускается без подписки в США, Японии, Корее, Канаде, Австралии и Индии. Дополнительные возможности, включая звонки компаниям, пока запускаются сначала в США. Это поэтапное развёртывание, а не глобальная доступность.",
+      "summary_en": "Gemini Tasks powered by Hydrogen is rolling out without a subscription in the US, Japan, Korea, Canada, Australia, and India. Extra capabilities, including calls to businesses, begin in the US. This is a phased rollout, not worldwide availability.",
+      "source": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "primary_source": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "primary_verified": true
+    },
+    {
+      "id": "sberboom-track-launch",
+      "published": "2026-11-17",
+      "rubric": "russia",
+      "title_ru": "Сбер начал продажи портативной колонки СберБум Трек",
+      "title_en": "Sber starts selling the portable SberBoom Track speaker",
+      "summary_ru": "Колонка с ГигаЧатом стоит 14 990 рублей. Сбер заявляет до восьми часов воспроизведения, локальное распознавание голосовых команд для музыки без интернета и поддержку Matter over Wi-Fi. Это характеристики производителя, не результаты независимого теста.",
+      "summary_en": "The GigaChat speaker costs 14,990 rubles. Sber claims up to eight hours of playback, local voice control for offline music, and Matter over Wi-Fi support. These are manufacturer specifications, not independent test results.",
+      "source": "https://t.me/anti_agi/2318",
+      "primary_source": "https://www.sberbank.ru/ru/sberpress/all/article?blockID=1303&lang=ru&newsID=e94d84d8-0be6-4c63-9b05-8f13933f3149&regionID=33&type=NEWS",
+      "primary_verified": true
+    }
+  ]
+}
