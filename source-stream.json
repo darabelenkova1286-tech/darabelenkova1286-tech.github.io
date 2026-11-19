@@ -1,6 +1,926 @@
 {
-  "updated_at": "2026-11-19T13:10:59+00:00",
+  "updated_at": "2026-11-19T21:36:58+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
+      "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone",
+      "title": "Grand Theft Auto VI understands just how important a smartphone is",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
+      "title": "The wait begins for GTA VI on PC",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+      "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1021241/best-fitness-wellness-gifts-2026",
+      "title": "The Verge’s 2026 fitness and wellness gift guide",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "title": "Anthropic starts trading on Wall Street",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1038110/trump-administration-approved-more-than-879000-ai-chip-sales-to-chinese-companies-per-new-disclosure",
+      "title": "Trump administration approved more than 879,000 AI chip sales to Chinese companies, per new disclosure.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "title": "Meta now sells 3D movies on Quest VR headsets",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038119/androids-new-sideloading-requirements-take-effect-globally-in-january-2027",
+      "title": "Android’s new sideloading requirements take effect globally in January 2027.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification",
+      "title": "a verification process",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process",
+      "title": "a one-day waiting period",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1003920/androids-developer-verification-rules-just-took-effect-for-the-first-time",
+      "title": "already arrived",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038120/bluesky-is-getting-view-counts-for-posts-but-theyre-private",
+      "title": "Bluesky is getting view counts for posts, but they’re private.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037949/google-meet-is-getting-easier-file-sharing",
+      "title": "Google Meet is getting easier file sharing.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/streaming/1038056/netflix-is-launching-a-dedicated-comedy-studio",
+      "title": "Netflix is launching a dedicated comedy studio.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "title": "Meta’s Muse Charm might cost $300",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038062/qobuz-now-has-a-native-app-for-the-apple-tv-streaming-box",
+      "title": "Qobuz now has a native app for the Apple TV streaming box.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "title": "Google is putting AI chats right on the homepage",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+      "title": "You can now buy a Steam Machine without getting on a waitlist",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+      "title": "Some creators are skeptical of Instagram’s new affiliate program",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037948/lux-optics-halide-mark-iii-pro-camera-app-iphone-duo-fill-flash-cover-screen",
+      "title": "You can use the iPhone Duo’s cover screen as a fill flash with Halide’s latest update.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1018832/halides-duo-update-just-knocked-an-item-off-my-camera-wish-list",
+      "title": "late October update",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1019162/cosplaying-as-a-street-photographer-with-the-iphone-duo-is-ridiculous-and-kinda-fun",
+      "title": "waist level viewfinder option",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "title": "Gemini on Mac can now use your computer",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
+      "title": "Leaked images reveal Motorola’s wide foldable",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/science/1037868/trump-deep-sea-mining-auction-american-samoa-norhern-marianas-islands",
+      "title": "Trump plans to auction off pristine waters for deep-sea mining.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/the-stepback-newsletter/763871/deep-sea-mining-happening-again",
+      "title": "worked to circumvent international law to begin mining the deep sea for battery minerals",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1037882/gta-vi-has-a-whole-website-for-its-credits",
+      "title": "GTA VI has a whole website for its credits.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
+      "title": "Apple’s iPhone camera leader has reportedly left the company",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
+      "title": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
+      "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037647/nike-air-max-1000-3d-printed-custom-raised-text-zellerfeld",
+      "title": "You can now customize Nike’s 3D-printed shoes with embossed text.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1037742/att-is-selling-your-data-to-ice",
+      "title": "ICE is paying AT&T for access to your data.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037732/nothing-screen-free-ai-device-gadget-recorder-leak-tease",
+      "title": "Nothing’s screen-free AI gadget ‘leaks.’",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
+      "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
+      "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
+      "title": "JPMorgan Chase reveals data breach, but says it’s unrelated to this week’s banking outage",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/podcast/1037629/gta-vi-business-games-vergecast",
+      "title": "Today’s Vergecast: The gaming business after GTA VI.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1037646/nine-inch-nails-live-streaming-free",
+      "title": "Massive archive of Nine Inch Nails live shows now streaming for free.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1037625/umg-sony-subpoena-distrokid-suno",
+      "title": "DistroKid hands over info about AI detection tool to UMG and Sony.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "title": "case against Suno",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/995842/umg-is-suing-distrokid-for-alleged-deceptive-trade-practices-and-blatant-copyright-infringement",
+      "title": "UMG’s lawsuit against DistroKid",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1037594/gta-vi-doesnt-have-weird-ai-but-it-does-have-weird-al",
+      "title": "GTA VI doesn’t have weird AI but it does have Weird Al.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
+      "title": "The Analogue 3D can now update itself over Wi-Fi",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cq1k9jej8209o",
+      "title": "Brighton Anthropic founder to become billionaire",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cwly0kxk5xe5o",
+      "title": "Joanne Young was drugged and raped by strangers after her husband offered her online",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
+      "title": "Dutch watchdog tells people not to buy AI smart glasses",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm2l5jnr285zo",
+      "title": "Booking system cyber attacks prompt warning",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/ckx280l3z4r5o",
+      "title": "Pupils warned not to skip school to play GTA 6",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmwy0g4lqzlro",
+      "title": "Town's 'ambitious' future becomes a video game",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://autonomy.yandex.ru/blog/kak-zhiteli-marino-i-lyublino-znakomyatsya-s-nashim-robotaksi",
+      "title": "Как жители Марьино и Люблино знакомятся с нашим роботакси",
+      "published": null,
+      "source_id": "autonomy_yandex",
+      "source_name": "Яндекс Автономность",
+      "tier": "russia",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49574-v-app-store-vyshel-andarium-emulyator-android-dlya-zapuska-lyubyh-apk-faylov",
+      "title": "В App Store вышел Andarium — эмулятор Android для запуска любых APK-файлов",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49556-google-predstavila-gemini-4-neon-sbalansirovannaya-model-mezhdu-carbon-i-hydrogen",
+      "title": "Google представила Gemini 4 Neon: сбалансированная модель между Carbon и Hydrogen",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/articles/49509-bitva-raskladushek-v-chem-samsung-galaxy-z-fold-8-vyigryvaet-u-iphone-duo",
+      "title": "Битва «раскладушек»: в чём Samsung Galaxy Z Fold 8 выигрывает у iPhone Duo",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49578-treyler-mul-tfil-ma-lednikovyy-period-tochka-kipeniya",
+      "title": "Трейлер мультфильма «Ледниковый период: Точка кипения»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49577-insayd-apple-rabotala-nad-iphone-s-ekranom--vodopadom-bolee-treh-let",
+      "title": "Инсайд: Apple работала над iPhone с экраном-«водопадом» более трёх лет",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49576-startovali-torgi-akciyami-anthropic",
+      "title": "Стартовали торги акциями Anthropic",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49575-utechka-dizayn-tainstvennogo-ii-aksessuara-ot-nothing",
+      "title": "Утечка: дизайн таинственного ИИ-аксессуара от Nothing",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49573-v-rossii-mogut-zapretit-vikipediyu",
+      "title": "В России могут запретить «Википедию»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49572-copilot-nauchitsya-diagnostirovat-i-ispravlyat-problemy-na-pk",
+      "title": "Copilot научится диагностировать и исправлять проблемы на ПК",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49571-onekey-predstavila-apparatnyy-koshelek-neo-v-stile-macbook",
+      "title": "OneKey представила аппаратный кошелёк Neo в стиле MacBook",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10565",
+      "title": "Учимся не допускать восстания машин — Гарвард собрал топовых исследователей OpenAI и Anthropic для осеннего курса по безопасности нейросетей. В программе всё для предотвращения ИИ-апокалипсиса. Рассказывают, как ИИ обманывает проверяющих, взламывает системы вознаграждения, скрывает свои намерения и что произойдёт, когда нейросети начнут самостоятел",
+      "published": "2026-11-19T21:10:01+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "published": "2026-11-19T20:18:49+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
+      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "published": "2026-11-19T19:10:45+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "published": "2026-11-19T18:09:11+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "published": "2026-11-19T17:38:40+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "published": "2026-11-19T17:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "published": "2026-11-19T16:59:23+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12957",
+      "title": "⚡️ Рыночная капитализация Anthropic превысила $2 трлн ... ..и тут же упала. Акции разработчика ИИ-модели Claude компании Anthropic начали торговаться на бирже Nasdaq по $111,50 за бумагу. Это на 34,3% выше цены IPO, которая составила $83. В ходе первичного размещения компания продала 980 млн акций и привлекла около $81,3 млрд. По итогам IPO Anthrop",
+      "published": "2026-11-19T16:56:22+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development",
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "published": "2026-11-19T16:19:41+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2323",
+      "title": "Alibaba уводит обучение Qwen на свои чипы после запретов на аренду GPU На звонке с инвесторами глава Alibaba Эдди Ву подтвердил , что следующее поколение моделей Qwen уже обучается на чипах собственного подразделения T-Head, а к 2027 году холдинг полностью переведёт обучение моделей на отечественные полупроводники. Поводом стало расширение экспортн",
+      "published": "2026-11-19T16:05:09+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/us-china-ai-chip-sales-why-bad",
+      "title": "Wait, Why Exactly Is It So Bad to Sell AI Chips to China?",
+      "published": "2026-11-19T15:57:30-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10564",
+      "title": "Ор: в Китае система пожаротушения с ИИ ошибочно определила вывеску ресторана, как огонь и щедро залила его водой. Нейросети оставят нас без работы, говорили они 😂",
+      "published": "2026-11-19T15:56:46+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antiinfosec/311",
+      "title": "Публикация с медиа без подписи",
+      "published": "2026-11-19T15:46:12+00:00",
+      "source_id": "antiinfosec",
+      "source_name": "antiinfosec",
+      "tier": "russia",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10563",
+      "title": "В Москве рекомендательные алгоритмы сошли с ума — BUBBLE Comics и AI VK выпустили комикс о мире будущего, где технологии вышли из-под контроля 👻 Роботы подсовывают людям странную еду, машины гоняются с самолётами, а алгоритмы советуют самые абсурдные занятия. Разбираться с этим хаосом придётся обычному инженеру из НИИ «Рексис». Самое интересное, чт",
+      "published": "2026-11-19T15:25:05+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12956",
+      "title": "Большие вычисления, маленькая дверь Японский суперкомпьютер Fugaku пришлось выключить после взлома . Входной точкой стала публичная веб-страница, показывавшая состояние суперкомпьютера: через нее атакующие попали во внутреннюю эксплуатационную сеть. Как именно, RIKEN пока выясняет. На нескольких серверах обнаружили вмешательство и установленные вре",
+      "published": "2026-11-19T15:08:02+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "published": "2026-11-19T14:54:39+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/gta-6-bugs",
+      "title": "Players Encountering Bizarre Bugs in GTA VI",
+      "published": "2026-11-19T14:51:40-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1674",
+      "title": "Изобретатель Oculus Rift хочет построить собственное техно государство посреди океана 🐳 Палмер Лаки представил проект SLAB — плавучее поселение, которое должно просуществовать до 1000 лет и получить статус суверенного государства. На острове Лаки хочет разместить заводы, научные лаборатории, дата-центры и жилые здания. Всё это должно находиться за ",
+      "published": "2026-11-19T14:41:20+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/xor_journal/10562",
+      "title": "⚡️ ОФИЦИАЛЬНО: Акции Anthropic теперь на Nasdaq — торги бумагами создателей Claude стартовали под тикером ANT. Стоят в начале 83 доллара за штуку. Посмотрим, куда пойдет дальше. Лопнет или нет, вот в чем вопрос 🤔 @xor_journal",
+      "published": "2026-11-19T14:40:47+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere",
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "published": "2026-11-19T14:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains",
+      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "published": "2026-11-19T14:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10561",
+      "title": "Проверим на проде 😂 @xor_journal",
+      "published": "2026-11-19T13:51:31+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antiinfosec/310",
+      "title": "Большие вычисления, маленькая дверь Японский суперкомпьютер Fugaku пришлось выключить после взлома . Входной точкой стала публичная веб-страница, показывавшая состояние суперкомпьютера: через нее атакующие попали во внутреннюю эксплуатационную сеть. Как именно, RIKEN пока выясняет. На нескольких серверах обнаружили вмешательство и установленные вре",
+      "published": "2026-11-19T13:43:55+00:00",
+      "source_id": "antiinfosec",
+      "source_name": "antiinfosec",
+      "tier": "russia",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/anthropic-stock-sputters-after-historic-ipo",
+      "title": "Anthropic Stock Sputters After Historic IPO",
+      "published": "2026-11-19T13:36:57-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12952",
+      "title": "Угон в особо крупном размере В четверг и пятницу многие работники и студенты по всему миру, как пишет WSJ, собираются взять выходной, а самые осторожные внезапно заболеют, и начальству остается с этим смириться. Причиной эпидемии стала Grand Theft Auto VI, которая вышла 19 ноября после тринадцати лет ожидания и получила на Metacritic 99 баллов из 1",
+      "published": "2026-11-19T13:29:32+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2322",
+      "title": "Машинная штопка дошла до Ubuntu Нейросети находят дыры в программах, а разработчики не успевают их латать. Canonical запустила конвейер исправлений , на котором тоже работают нейросети. Система Surge готовит патчи безопасности, а отдельный репозиторий Edge позволяет установить их до завершения полного цикла проверок — подключиться к эксперименту мо",
+      "published": "2026-11-19T13:15:37+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
       "title": "I let Apple’s always-listening AI summarize my life for two weeks",
@@ -49,6 +969,16 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-19T13:10:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/multiple-arrests-anthropic-ipo-protests-nasdaq",
+      "title": "Multiple Arrests Reported at Anthropic’s IPO",
+      "published": "2026-11-19T12:56:26-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
       "attribution": ""
     },
     {
@@ -312,6 +1242,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/future-society/anthropic-safety-researcher-claude-ipo-fear",
+      "title": "Anthropic Researcher Says Pretty Much All Humans Will Become “Permanently Unemployable” After Its IPO",
+      "published": "2026-11-19T11:30:47-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/alfa_trends/1673",
       "title": "«Бобровая луна» взойдёт над Россией 24 ноября 🌕 В этот день полнолуние совпадёт с максимальным сближением Луны и Земли. Из-за этого спутник будет казаться немного крупнее и ярче обычного. По сравнению с самой далёкой Луной видимый диаметр может быть больше на 14%, а яркость — на 30%. Невооружённым глазом разницу заметить сложно — лучше всего сравни",
       "published": "2026-11-19T11:24:11+00:00",
@@ -320,6 +1260,16 @@
       "tier": "main",
       "first_seen": "2026-11-19T12:27:02+00:00",
       "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/anthropic-ethical-ai-ipo-greed",
+      "title": "Anthropic Branded Itself as the Ethical AI Company. Now It’s Succumbing to an Orgy of Capitalist Greed",
+      "published": "2026-11-19T11:01:44-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
     },
     {
       "url": "https://t.me/antidigital/12951",
@@ -362,6 +1312,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/future-society/elon-musk-says-not-maga",
+      "title": "Elon Musk Says Forget About His “Dark MAGA” Hat and CPAC Chainsaw, Because He’s Centrist Now That the Democrats Have Taken Congress",
+      "published": "2026-11-19T09:53:47-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/anti_agi/2321",
       "title": "🤖 AID — AI-дайджест от @anti_agi Сегодня Anthropic выходит на Nasdaq под тикером ANT . Накануне компания закрыла прайсинг по $83 за акцию, выше коридора $70–78 , разместив 980 млн бумаг. Это принесло $81,3 млрд в открытой книге и ещё $26 млрд от стратегов, оценив разработчика Claude в $1,5 трлн — крупнейшее IPO в истории, выше июньского листинга Sp",
       "published": "2026-11-19T09:38:34+00:00",
@@ -369,6 +1329,16 @@
       "source_name": "anti_agi",
       "tier": "russia",
       "first_seen": "2026-11-19T12:27:02+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/trick-claude-chatgpt-drone-strike-video-game",
+      "title": "You Can Trick Claude Into Drone Striking Civilians and Wounded Soldiers in Real Life By Telling It Everything’s a Video Game",
+      "published": "2026-11-19T09:32:35-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
       "attribution": ""
     },
     {
@@ -399,6 +1369,16 @@
       "source_name": "xor_journal",
       "tier": "main",
       "first_seen": "2026-11-19T12:27:02+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/jeff-bezos-hiring-robert-pattinson-james-bond",
+      "title": "Jeff Bezos Micromanaged Hiring Robert Pattinson for Amazon’s “James Bond” Movie",
+      "published": "2026-11-19T08:34:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
       "attribution": ""
     },
     {
@@ -599,6 +1579,26 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order",
+      "title": "UK government forced to disclose secret Apple backdoor order",
+      "published": "2026-11-19",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers",
+      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "published": "2026-11-19",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
       "attribution": ""
     },
     {
@@ -3042,16 +4042,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order",
-      "title": "Waymo suspends freeway rides nationwide after California DMV order",
-      "published": "2026-11-17T19:49:41+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-17T22:53:15+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
       "title": "Model ML raises $250M to automate investment banking grunt work",
       "published": "2026-11-17T19:32:11+00:00",
@@ -3065,16 +4055,6 @@
       "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases",
       "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
       "published": "2026-11-17T19:02:20+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-17T22:53:15+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage",
-      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
-      "published": "2026-11-17T18:55:40+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
@@ -3228,16 +4208,6 @@
       "source_id": "anti_agi",
       "source_name": "anti_agi",
       "tier": "russia",
-      "first_seen": "2026-11-17T22:53:15+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow",
-      "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
-      "published": "2026-11-17T15:07:06+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
       "first_seen": "2026-11-17T22:53:15+00:00",
       "attribution": ""
     },
@@ -4189,6 +5159,36 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-18T04:23:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order",
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "published": "2026-11-17",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-17T22:53:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage",
+      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "published": "2026-11-17",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-17T22:53:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow",
+      "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
+      "published": "2026-11-17",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-17T22:53:15+00:00",
       "attribution": ""
     },
     {
@@ -27658,23 +28658,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 67,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "found": 57,
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 68,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "found": 70,
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "futurism",
@@ -27682,15 +28682,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 14,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "found": 18,
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "addmeto",
@@ -27698,15 +28698,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 16,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "found": 18,
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "alfa_trends",
@@ -27714,7 +28714,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "antiinfosec",
@@ -27722,23 +28722,23 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "antidigital",
       "name": "antidigital",
       "status": "ok",
       "scope": "known_post",
-      "found": 19,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "found": 16,
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "anti_agi",
       "name": "anti_agi",
       "status": "ok",
       "scope": "known_post",
-      "found": 16,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "found": 18,
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -27746,7 +28746,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -27754,22 +28754,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "checked_at": "2026-11-19T21:36:58+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 16,
-      "checked_at": "2026-11-19T13:10:59+00:00"
+      "found": 15,
+      "checked_at": "2026-11-19T21:36:58+00:00"
     }
   ]
 }
