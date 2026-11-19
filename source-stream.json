@@ -1,6 +1,226 @@
 {
-  "updated_at": "2026-11-18T21:57:54+00:00",
+  "updated_at": "2026-11-19T03:29:53+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
+      "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037358/nvidia-world-hunger-200-billion-yearly-profit",
+      "title": "‘Nvidia could end world hunger or provide clean water for everyone, now that it’s making over $200 billion in pure profit a year.’",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "title": "data centers",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037353/someone-built-a-mixing-board-for-controlling-your-smart-lights",
+      "title": "Someone built a “mixing board” for controlling your smart lights.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037309/elon-musk-at-dealbook-im-not-maga",
+      "title": "Elon Musk at DealBook: “I’m not MAGA.”",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037285/elon-musk-on-jensen-huangs-departure-its-like-kicking-michael-jordan-off-your-team-when-youre-on-a-winning-streak",
+      "title": "Elon Musk on Jensen Huang’s departure: “It’s like kicking Michael Jordan off your team when you’re on a winning streak.”",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/science/1037243/this-week-in-the-big-ai-data-center-buildout",
+      "title": "This week in the big AI data center buildout.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037157/microsoft-ceo-satya-nadella-doesnt-know-when-the-rush-to-patch-ai-discovered-bugs-will-end",
+      "title": "Microsoft CEO Satya Nadella doesn’t know when the rush to patch AI-discovered bugs will end.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037176/anthropic-priced-its-initial-public-offering-at-83-per-share",
+      "title": "Anthropic priced its initial public offering at $83 per share.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037150/google-released-another-gemini-4-model",
+      "title": "Google released another Gemini 4 model.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga",
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "published": "2026-11-19T00:40:49+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "published": "2026-11-18T23:45:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "published": "2026-11-18T23:25:17+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "published": "2026-11-18T23:17:28+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "published": "2026-11-18T22:58:11+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "published": "2026-11-18T22:11:15+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper",
+      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+      "published": "2026-11-18T22:04:03+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
       "title": "What is Nvidia without AI’s sugar daddy in charge?",
@@ -732,6 +952,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/future-society/elon-musk-short-circuits-grimes-ai-waifu",
+      "title": "Elon Musk Short Circuits After Grimes Calls Out His Obsession With AI Waifus",
+      "published": "2026-11-18T18:06:27-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode",
       "title": "Google’s AI feature in Search gets its own incognito mode",
       "published": "2026-11-18T18:04:05+00:00",
@@ -759,6 +989,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/dhs-head-fly-football-game-faa",
+      "title": "Homeland Security Head Crashing Out Over Taking a Government Flight to a Football Game After FAA Grounded All Flights",
+      "published": "2026-11-18T17:14:28-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
       "attribution": ""
     },
     {
@@ -1679,6 +1919,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-18T04:23:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "published": "2026-11-18",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T03:29:53+00:00",
       "attribution": ""
     },
     {
@@ -26968,23 +27218,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 63,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "found": 68,
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 73,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "found": 72,
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "futurism",
@@ -26992,15 +27242,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 19,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "found": 14,
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "addmeto",
@@ -27008,7 +27258,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "xor_journal",
@@ -27016,7 +27266,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 15,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "alfa_trends",
@@ -27024,7 +27274,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "antiinfosec",
@@ -27032,7 +27282,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "antidigital",
@@ -27040,7 +27290,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "anti_agi",
@@ -27048,7 +27298,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -27056,7 +27306,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 10,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -27064,22 +27314,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "checked_at": "2026-11-19T03:29:53+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 15,
-      "checked_at": "2026-11-18T21:57:54+00:00"
+      "found": 14,
+      "checked_at": "2026-11-19T03:29:53+00:00"
     }
   ]
 }
