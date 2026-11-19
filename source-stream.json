@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-19T12:27:02+00:00",
+  "updated_at": "2026-11-19T13:10:59+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T13:10:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "title": "Canva adds an AI ‘off’ button",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T13:10:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1037497/europeanizing-tiktok",
+      "title": "Europeanizing TikTok.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T13:10:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx",
+      "title": "successful US efforts to do the same",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-19T13:10:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49568-ne-uvereny-chto-seychas-eto-komu-to-nuzhno-no",
+      "title": "Не уверены, что сейчас это кому-то нужно, но...🕹️",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-19T13:10:59+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding",
       "title": "Roblox money is pushing a controversial anorexia treatment",
@@ -27609,22 +27659,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 67,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 67,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "found": 68,
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "futurism",
@@ -27632,7 +27682,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "bbc",
@@ -27640,7 +27690,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 14,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "addmeto",
@@ -27648,7 +27698,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "xor_journal",
@@ -27656,7 +27706,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "alfa_trends",
@@ -27664,7 +27714,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "antiinfosec",
@@ -27672,7 +27722,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "antidigital",
@@ -27680,7 +27730,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "anti_agi",
@@ -27688,7 +27738,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -27696,7 +27746,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -27704,14 +27754,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     },
     {
       "id": "rozetked",
@@ -27719,7 +27769,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 16,
-      "checked_at": "2026-11-19T12:27:02+00:00"
+      "checked_at": "2026-11-19T13:10:59+00:00"
     }
   ]
 }
