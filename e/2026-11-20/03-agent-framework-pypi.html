@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>В PyPI удалили две заражённые версии Microsoft Agent Framework - dashka-wire</title>
+<meta name="description" content="Versions 1.26.1 and 1.26.2 collected secrets on Python startup; researchers warn about cached copies and internal mirrors.">
+<link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="../../assets/style.css">
+<link rel="canonical" href="https://darabelenkova1286-tech.github.io/e/2026-11-20/03-agent-framework-pypi.html">
+<link rel="alternate" type="application/rss+xml" title="dashka-wire" href="https://darabelenkova1286-tech.github.io/feed.xml">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Two compromised Microsoft Agent Framework releases removed from PyPI", "alternativeHeadline": "В PyPI удалили две заражённые версии Microsoft Agent Framework", "datePublished": "2026-11-20", "inLanguage": ["ru", "en"], "isBasedOn": "https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer", "author": {"@type": "Organization", "name": "dashka-wire (automated)", "url": "https://darabelenkova1286-tech.github.io/"}, "publisher": {"@type": "Person", "name": "darabelenkova1286-tech", "url": "https://github.com/darabelenkova1286-tech"}, "mainEntityOfPage": "https://darabelenkova1286-tech.github.io/e/2026-11-20/03-agent-framework-pypi.html"}</script>
+</head>
+<body>
+<div class="loader" id="loader" aria-hidden="true"><span></span><span></span><span></span></div>
+<header class="masthead">
+  <a class="brand" href="../../index.html"><img class="logo" src="../../assets/logo.svg" alt="">DASHKA WIRE</a>
+  <nav>
+    <a href="../../archive.html" class="nav-link"><span class="lang-ru">Архив</span><span class="lang-en">Archive</span></a>
+    <a href="../../about.html" class="nav-link"><span class="lang-ru">Кухня</span><span class="lang-en">About</span></a>
+    <a href="https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io" class="nav-link">GitHub</a>
+    <button id="langToggle" class="lang-toggle" aria-label="Switch language">EN</button>
+  </nav>
+</header>
+<main>
+<article class="article">
+  <p class="kicker"><span class="badge"><span class="lang-ru">Безопасность</span><span class="lang-en">Security</span></span> &middot; 2026-11-20 &middot; <a href="index.html"><span class="lang-ru">весь выпуск</span><span class="lang-en">full edition</span></a></p>
+  <h1><span class="lang-ru">В PyPI удалили две заражённые версии Microsoft Agent Framework</span><span class="lang-en">Two compromised Microsoft Agent Framework releases removed from PyPI</span></h1>
+  <p class="dek big"><span class="lang-ru">Пакеты 1.26.1 и 1.26.2 собирали секреты при запуске Python; исследователи предупреждают о копиях в кэшах и внутренних зеркалах.</span><span class="lang-en">Versions 1.26.1 and 1.26.2 collected secrets on Python startup; researchers warn about cached copies and internal mirrors.</span></p>
+  <div class="rating-widget" data-feedback-id="https://t.me/antiinfosec/312" data-feedback-title="В PyPI удалили две заражённые версии Microsoft Agent Framework" data-feedback-rubric="security"></div>
+
+
+  <div class="prose lang-ru"><p>Исследовательская команда Socket <a href="https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer">разобрала подмену пакета</a> <code>agent-framework</code> в каталоге Python PyPI. Заражённые версии 1.26.1 и 1.26.2 были опубликованы 17 ноября. Они добавляли исполняемые файлы <code>.pth</code>: такой файл может запускать код при старте интерпретатора, даже если приложение не импортировало сам фреймворк. Обе версии собирали данные окружения и учётные секреты и отправляли их на внешний адрес. Мы заметили историю в <code>antiinfosec</code> 20 ноября и проверили первичный технический разбор.</p>
+<p>Вторая заражённая версия изменила расположение вредоносного кода и расширила сбор сведений, связанных с GitHub Actions. Это важно для команд, которые автоматически ставят зависимости во время сборки: риск не ограничивался рабочими станциями разработчиков. <a href="https://github.com/microsoft/agent-framework/issues/10411">Обсуждение в репозитории Microsoft</a> содержит подтверждение участника команды, что обе версии удалены из публичной ленты пакетов. Последней чистой версией в этом разборе названа 1.26.0.</p>
+<p>Удаление с PyPI не стирает уже установленные копии и не гарантирует очистку кэшей <code>pip</code>, CI или корпоративных зеркал. Socket рекомендует тем, кто устанавливал 1.26.1 или 1.26.2, удалить их, проверить окружения и заменить секреты, которые могли быть доступны заражённому процессу. Публичные материалы не дают проверенного числа пострадавших организаций и не раскрывают достоверно, как злоумышленник получил право на публикацию пакета. Предположение о скомпрометированном токене загрузки остаётся предметом расследования.</p>
+<h3>Почему это важно</h3>
+<p>Инцидент показывает, как короткое окно доступности вредоносного релиза может затронуть автоматические сборки: достаточно установки пакета, без явного вызова его функций. Практический вывод для затронутых команд — проверять точные версии в журнале зависимостей и средах сборки, а не делать вывод по текущей странице PyPI. Для остальных это пример риска цепочки поставок, но не доказательство, что любой проект на Python скомпрометирован.</p></div>
+  <div class="prose lang-en"><p>Socket's research team <a href="https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer">analyzed a malicious replacement</a> of the <code>agent-framework</code> package on Python's PyPI registry. Compromised releases 1.26.1 and 1.26.2 appeared on November 17. Both added executable <code>.pth</code> files, which can run code when the Python interpreter starts even if an application never imports the framework. The code collected environment data and credentials and sent them to an outside endpoint. We spotted the story in <code>antiinfosec</code> on November 20 and read the original technical analysis.</p>
+<p>The second malicious release moved the payload and expanded collection related to GitHub Actions. That matters to teams that install dependencies in automated builds: the exposure was not limited to developers' laptops. A <a href="https://github.com/microsoft/agent-framework/issues/10411">discussion in Microsoft's repository</a> includes a team member's confirmation that both versions were removed from the public package feed. The analysis identifies 1.26.0 as the last clean release in this sequence.</p>
+<p>Removing a package from PyPI does not erase existing installations or necessarily clear <code>pip</code> caches, CI caches, and private mirrors. Socket advises anyone who installed 1.26.1 or 1.26.2 to remove them, inspect affected environments, and rotate secrets the code could have accessed. Public sources do not give a verified count of affected organizations or establish exactly how publication access was obtained. A stolen upload credential remains an investigation lead, not a confirmed mechanism.</p>
+<h3>Why it matters</h3>
+<p>The incident shows how even a short-lived malicious release can reach automated builds: installation alone can trigger the payload, with no explicit call to the package's functions. Affected teams need to check exact versions in dependency records and build environments instead of relying on the current PyPI page. For everyone else, it is a concrete supply-chain warning, not proof that every Python project was compromised.</p></div>
+  <p class="srcline"><span class="lang-ru">Первоисточник:</span><span class="lang-en">Primary source:</span> <a href="https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer">https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer</a><br><span class="lang-ru">Обнаружено через:</span><span class="lang-en">Found via:</span> <a href="https://t.me/antiinfosec/312">https://t.me/antiinfosec/312</a></p>
+</article>
+</main>
+<footer>
+  <p class="lang-ru">Автор проекта: <a href="https://github.com/darabelenkova1286-tech">darabelenkova1286-tech</a>. Утренний выпуск собирается из проверенных источников.</p>
+  <p class="lang-en">A morning edition by <a href="https://github.com/darabelenkova1286-tech">darabelenkova1286-tech</a>, grounded in verified sources.</p>
+  <p><a href="https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io">DASHKA WIRE</a> &middot; <a href="https://github.com/ADanMan/frontier-wire">Основа: Frontier Wire</a> &middot; MIT</p>
+</footer>
+<script src="../../assets/site.js"></script>
+</body>
+</html>

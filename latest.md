@@ -1,21 +1,23 @@
-# dashka-wire — latest edition №5 (2026-11-19)
+# dashka-wire — latest edition №6 (2026-11-20)
 
-## nginx releases fixes for five vulnerabilities in the NGINX2Root chain / Для nginx вышли исправления пяти уязвимостей из цепочки NGINX2Root
-rubric: security · primary: https://nginx.org/en/security_advisories.html · via: https://t.me/antiinfosec/308
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-19/01-nginx2root.md
+## Yandex robotaxis complete more than a thousand passenger rides in two Moscow districts / Роботакси Яндекса перевезли пассажиров более тысячи раз в двух районах Москвы
+rubric: yandex · primary: https://autonomy.yandex.ru/blog/kak-zhiteli-marino-i-lyublino-znakomyatsya-s-nashim-robotaksi · via: https://autonomy.yandex.ru/blog/kak-zhiteli-marino-i-lyublino-znakomyatsya-s-nashim-robotaksi
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-20/01-yandex-robotaxi.md
 
-## Anthropic prices its IPO at $83 a share, with trading expected today / Anthropic назначила цену IPO в $83 за акцию; торги ожидаются сегодня
-rubric: business · primary: https://www.anthropic.com/news/anthropic-prices-initial-public-offering · via: https://t.me/xor_journal/10560
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-19/02-anthropic-ipo.md
+## Gemini gains control of apps and websites on Mac / Gemini получила управление приложениями и сайтами на Mac
+rubric: ai · primary: https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/ · via: https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-20/02-gemini-mac.md
 
-## Google starts rolling out Gemini 4 Neon to developers and subscribers / Google начала выпуск Gemini 4 Neon для разработчиков и подписчиков
-rubric: ai · primary: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ · via: https://t.me/xor_journal/10558
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-19/03-gemini-neon.md
+## Two compromised Microsoft Agent Framework releases removed from PyPI / В PyPI удалили две заражённые версии Microsoft Agent Framework
+rubric: security · primary: https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer · via: https://t.me/antiinfosec/312
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-20/03-agent-framework-pypi.md
 
 ## More in the wire
-- Google открыла Genie 4 в Project Genie для части подписчиков Ultra / Google opens Genie 4 in Project Genie to eligible Ultra subscribers · 2026-11-18
-  primary: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ · via: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
-- Сбер начал продажи портативной колонки СберБум Трек / Sber starts selling the portable SberBoom Track speaker · 2026-11-17
-  primary: https://www.sberbank.ru/ru/sberpress/all/article?blockID=1303&lang=ru&newsID=e94d84d8-0be6-4c63-9b05-8f13933f3149&regionID=33&type=NEWS · via: https://t.me/anti_agi/2318
-- Google начала бесплатно открывать задачи Gemini в шести странах / Google begins free rollout of Gemini Tasks in six countries · 2026-11-17
-  primary: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/ · via: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/
+- KDDI открыла предзаказ простого телефона INFOBAR ZERO в Японии / KDDI opens Japanese preorders for the simple INFOBAR ZERO phone · 2026-11-18
+  primary: https://newsroom.kddi.com/news/detail/kddi_nr-1245_4832.html · via: https://t.me/alfa_trends/1671
+- Microsoft представила семейство моделей Code 2 для программирования / Microsoft introduces its Code 2 coding-model family · 2026-11-17
+  primary: https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/ · via: https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/
+- RIKEN сообщил о несанкционированном доступе к сети суперкомпьютера Fugaku / RIKEN reports unauthorized access to Fugaku's operational network · 2026-11-17
+  primary: https://www.riken.jp/en/news_pubs/news/2026/20261116_2/index.html · via: https://t.me/antiinfosec/310
+- Магнитные микророботы ускорили растворение тромбов в лабораторной модели / Magnetic microbots speed clot dissolution in a laboratory model · 2026-11-09
+  primary: https://ethz.ch/en/news-and-events/eth-news/news/2026/11/dissolving-blood-clots-with-flow-generating-microbots.html · via: https://t.me/alfa_trends/1672

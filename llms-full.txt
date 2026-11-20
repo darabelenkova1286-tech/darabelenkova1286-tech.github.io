@@ -2,6 +2,138 @@
 
 
 
+===== EDITION 6 — 2026-11-20 =====
+
+## От редакции
+
+Сегодня в центре выпуска — первые опубликованные результаты пассажирского теста роботакси Яндекса в двух районах Москвы, новый режим управления Mac у Gemini и проверенный разбор заражённых пакетов Python. Отделяем тестовые поездки от полноценного беспилотного сервиса и исследования безопасности от оценки числа пострадавших. В короткой ленте — другие подтверждённые события с датами исходных публикаций.
+
+## Editorial
+
+Today's edition leads with Yandex's published results from passenger robotaxi trials in two Moscow districts, Gemini's new Mac control mode, and verified research into compromised Python packages. We distinguish trial rides from a fully driverless service and security research from an estimate of victims. The brief feed carries other confirmed events with their original publication dates.
+
+
+----- 01-yandex-robotaxi (yandex) — primary: https://autonomy.yandex.ru/blog/kak-zhiteli-marino-i-lyublino-znakomyatsya-s-nashim-robotaksi -----
+
+## Русская версия
+
+Яндекс [рассказал 19 ноября](https://autonomy.yandex.ru/blog/kak-zhiteli-marino-i-lyublino-znakomyatsya-s-nashim-robotaksi) о пассажирском тесте роботакси в Марьино и Люблино. По данным команды, машины уже несколько недель доступны для заказа через Яндекс Go в пределах этих районов и к середине ноября выполнили более тысячи поездок с пассажирами. Это опубликованная статистика компании, а не независимый аудит сервиса. Повод появился и в канале Яндекс Автономности, но мы используем один подробный материал команды и не дублируем событие.
+
+Компания сообщает среднюю оценку поездок 4,88 из 5. Удобство поиска машины получило 4,9, а понятность управления через интерфейс автомобиля — 4,81. Среди ответивших на вопрос о самочувствии 98,4% сообщили, что их не укачивало. Эти числа описывают ответы участников теста; без размера каждой выборки и методики опроса по ним нельзя судить о всех будущих пассажирах. Средняя поездка, по данным Яндекса, длится около 11,5 минуты на расстояние 3,15 км.
+
+Чтобы заказать поездку, пользователь строит маршрут внутри Марьино или Люблино, выбирает тариф «Комфорт» либо «Комфорт+» и опцию «Роботакси». Во время испытания поездка стоит 1 рубль. Приложение указывает специальные точки посадки и высадки. За рулём находится водитель-испытатель, а на заднем сиденье допускаются до трёх совершеннолетних пассажиров. Таким образом, речь идёт о поездках с участием обычных клиентов, но не о полностью беспилотном такси без человека за рулём.
+
+### Почему это важно
+
+Тест показывает переход от демонстрационных заездов к регулярным поездкам с пассажирами в ограниченной городской зоне. Для оценки готовности к масштабированию нужны данные о безопасности, количестве вмешательств испытателя и работе в разных погодных и дорожных условиях. Пока Яндекс раскрывает главным образом пользовательские оценки и объём поездок; они полезны, но не отвечают на все вопросы об автономности системы.
+
+## English version
+
+Yandex [reported on November 19](https://autonomy.yandex.ru/blog/kak-zhiteli-marino-i-lyublino-znakomyatsya-s-nashim-robotaksi) on its passenger robotaxi trial in the Maryino and Lyublino districts of Moscow. According to the team, rides have been available through Yandex Go in those areas for several weeks, and the cars had completed more than a thousand passenger trips by mid-November. Those are company figures, not an independent audit. The Yandex Autonomy Telegram channel also mentioned the story, but we use the team's detailed report once rather than duplicating it.
+
+The company reports an average ride rating of 4.88 out of 5. Finding the vehicle scored 4.9, while the clarity of in-car trip controls scored 4.81. Of respondents asked about motion sickness, 98.4% said they had not felt sick. These numbers describe trial participants' responses; without sample sizes and survey methods for each question, they cannot represent every future rider. Yandex says the average trip is about 3.15 km and takes roughly 11.5 minutes.
+
+To request a ride, a customer plans a route within Maryino or Lyublino, chooses Comfort or Comfort+ and selects Robotaxi. During the trial, a trip costs one ruble. The app shows dedicated pickup and drop-off points. A test driver remains behind the wheel, and up to three adult passengers can sit in the back. These are rides with ordinary customers, but not a fully driverless taxi service with an empty driver's seat.
+
+### Why it matters
+
+The trial moves beyond demonstrations toward repeated passenger trips in a limited urban area. Assessing readiness to scale will require safety data, the frequency of test-driver interventions, and performance across weather and road conditions. For now, Yandex mainly discloses customer ratings and ride volume. Those are useful signals, but they do not answer every question about the system's autonomy.
+
+
+----- 02-gemini-mac (ai) — primary: https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/ -----
+
+## Русская версия
+
+Google [объявила 19 ноября](https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/) о режиме computer use в приложении Gemini для Mac. Пользователь описывает задачу словами, после чего агент может перемещаться по меню, вводить текст и заполнять формы в приложениях и на сайтах. Повод мы нашли в TechCrunch, а условия доступа и заявленные возможности проверили в публикации Google. Это отдельное обновление настольного приложения, а не повтор вчерашнего выпуска модели Gemini 4 Neon.
+
+Google приводит примеры пакетной обработки фотографий, переноса данных из локальных PDF в формы и подготовки материалов на основе нескольких веб-панелей. Агент действует в отдельном фоновом окне с предпросмотром, поэтому основной экран и курсор остаются доступными человеку. Компания обещает, что пользователь выбирает разрешённые приложения, может остановить процесс и утверждает значимые действия до их выполнения. Насколько надёжно это работает с разными приложениями, можно будет оценить только в независимых тестах.
+
+На старте функция развёртывается на английском языке в США. Требуется Mac с Apple Silicon и macOS Sequoia 15.0 или новее, личный аккаунт Google пользователя старше 18 лет и подписка Google AI Plus, Pro или Ultra. Эти ограничения важны: анонс не означает, что функция уже доступна всем владельцам Mac или работает в России. В официальном материале нет утверждения о поддержке Windows в том же режиме.
+
+### Почему это важно
+
+Агент, который выполняет действия в интерфейсе компьютера, потенциально полезен для задач, где нет готового API: он может переносить информацию между программами и проходить многошаговые формы. Вместе с этим повышается цена ошибок, особенно при работе с файлами, учётными записями и отправкой данных. Поэтому практическая ценность будет зависеть от надёжности действий, видимости каждого шага и того, насколько хорошо работают заявленные подтверждения пользователя.
+
+## English version
+
+Google [announced computer use in the Gemini app for Mac on November 19](https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/). A user describes a task in natural language, and the agent can navigate menus, type, and fill forms in desktop apps and websites. We found the story in TechCrunch and checked the rollout terms and claimed capabilities against Google's announcement. This is a separate desktop-app feature, not a repeat of yesterday's Gemini 4 Neon model release.
+
+Google's examples include batch editing photos, copying details from local PDFs into forms, and preparing materials from several web dashboards. The agent works in a separate background window with a live preview, leaving the person's main screen and cursor available. Google says users select which apps it can access, can pause the run, and must approve important actions before they occur. Independent tests will be needed to see how reliably that process works across different apps.
+
+The initial rollout is in English in the United States. It requires an Apple Silicon Mac running macOS Sequoia 15.0 or later, a personal Google account held by someone aged 18 or over, and a Google AI Plus, Pro, or Ultra subscription. Those limits matter: the announcement does not make the feature available to every Mac owner, nor does it establish availability in Russia. The official post does not claim the same mode is ready on Windows.
+
+### Why it matters
+
+An agent that operates a computer interface could help with tasks that have no ready API, moving information between apps and completing multi-step forms. Errors become more consequential when files, accounts, and outgoing data are involved. Its practical value will therefore depend on execution reliability, clear visibility into each step, and whether the promised user approvals work as described.
+
+
+----- 03-agent-framework-pypi (security) — primary: https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer -----
+
+## Русская версия
+
+Исследовательская команда Socket [разобрала подмену пакета](https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer) `agent-framework` в каталоге Python PyPI. Заражённые версии 1.26.1 и 1.26.2 были опубликованы 17 ноября. Они добавляли исполняемые файлы `.pth`: такой файл может запускать код при старте интерпретатора, даже если приложение не импортировало сам фреймворк. Обе версии собирали данные окружения и учётные секреты и отправляли их на внешний адрес. Мы заметили историю в `antiinfosec` 20 ноября и проверили первичный технический разбор.
+
+Вторая заражённая версия изменила расположение вредоносного кода и расширила сбор сведений, связанных с GitHub Actions. Это важно для команд, которые автоматически ставят зависимости во время сборки: риск не ограничивался рабочими станциями разработчиков. [Обсуждение в репозитории Microsoft](https://github.com/microsoft/agent-framework/issues/10411) содержит подтверждение участника команды, что обе версии удалены из публичной ленты пакетов. Последней чистой версией в этом разборе названа 1.26.0.
+
+Удаление с PyPI не стирает уже установленные копии и не гарантирует очистку кэшей `pip`, CI или корпоративных зеркал. Socket рекомендует тем, кто устанавливал 1.26.1 или 1.26.2, удалить их, проверить окружения и заменить секреты, которые могли быть доступны заражённому процессу. Публичные материалы не дают проверенного числа пострадавших организаций и не раскрывают достоверно, как злоумышленник получил право на публикацию пакета. Предположение о скомпрометированном токене загрузки остаётся предметом расследования.
+
+### Почему это важно
+
+Инцидент показывает, как короткое окно доступности вредоносного релиза может затронуть автоматические сборки: достаточно установки пакета, без явного вызова его функций. Практический вывод для затронутых команд — проверять точные версии в журнале зависимостей и средах сборки, а не делать вывод по текущей странице PyPI. Для остальных это пример риска цепочки поставок, но не доказательство, что любой проект на Python скомпрометирован.
+
+## English version
+
+Socket's research team [analyzed a malicious replacement](https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer) of the `agent-framework` package on Python's PyPI registry. Compromised releases 1.26.1 and 1.26.2 appeared on November 17. Both added executable `.pth` files, which can run code when the Python interpreter starts even if an application never imports the framework. The code collected environment data and credentials and sent them to an outside endpoint. We spotted the story in `antiinfosec` on November 20 and read the original technical analysis.
+
+The second malicious release moved the payload and expanded collection related to GitHub Actions. That matters to teams that install dependencies in automated builds: the exposure was not limited to developers' laptops. A [discussion in Microsoft's repository](https://github.com/microsoft/agent-framework/issues/10411) includes a team member's confirmation that both versions were removed from the public package feed. The analysis identifies 1.26.0 as the last clean release in this sequence.
+
+Removing a package from PyPI does not erase existing installations or necessarily clear `pip` caches, CI caches, and private mirrors. Socket advises anyone who installed 1.26.1 or 1.26.2 to remove them, inspect affected environments, and rotate secrets the code could have accessed. Public sources do not give a verified count of affected organizations or establish exactly how publication access was obtained. A stolen upload credential remains an investigation lead, not a confirmed mechanism.
+
+### Why it matters
+
+The incident shows how even a short-lived malicious release can reach automated builds: installation alone can trigger the payload, with no explicit call to the package's functions. Affected teams need to check exact versions in dependency records and build environments instead of relying on the current PyPI page. For everyone else, it is a concrete supply-chain warning, not proof that every Python project was compromised.
+
+
+----- kddi-infobar-zero-preorders (hardware) — primary: https://newsroom.kddi.com/news/detail/kddi_nr-1245_4832.html -----
+
+KDDI открыла предзаказ простого телефона INFOBAR ZERO в Японии
+
+Устройство рассчитано на звонки, SMS, музыку и снимки с камеры 2 Мп, без браузера и соцсетей. Предзаказ открыт 18 ноября, продажи намечены на 25 декабря. Это анонс телефона, а не уже начавшиеся поставки.
+KDDI opens Japanese preorders for the simple INFOBAR ZERO phone
+
+The phone focuses on calls, SMS, music, and a 2 MP camera, without a browser or social apps. Preorders opened November 18; sales are scheduled for December 25. It is an announced device, not one already shipping.
+
+
+----- microsoft-code2-ignite-2026 (ai) — primary: https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/ -----
+
+Microsoft представила семейство моделей Code 2 для программирования
+
+На Ignite компания объявила о Code 2 и более быстрой Code 2 Flash для агентных задач разработки. По заявлению Microsoft, обе модели доступны в GitHub Copilot и Foundry; оценки качества и эффективности пока исходят от самой компании.
+Microsoft introduces its Code 2 coding-model family
+
+At Ignite, Microsoft announced Code 2 and the faster Code 2 Flash for agentic development work. Microsoft says both are available in GitHub Copilot and Foundry; performance and efficiency claims currently come from the company.
+
+
+----- fugaku-riken-access-nov2026 (security) — primary: https://www.riken.jp/en/news_pubs/news/2026/20261116_2/index.html -----
+
+RIKEN сообщил о несанкционированном доступе к сети суперкомпьютера Fugaku
+
+Институт остановил Fugaku 14 ноября после обнаружения доступа через общедоступную страницу состояния. По сообщению от 17 ноября, данные учётных записей и ключи пользователей могли быть затронуты; подтверждения вывода исследовательских файлов пока нет. 20 ноября RIKEN сообщил, что расследование продолжается.
+RIKEN reports unauthorized access to Fugaku's operational network
+
+RIKEN suspended Fugaku on November 14 after finding access through a public status dashboard. Its November 17 notice says user account data and credentials may be affected, while exfiltration of research files is unproven. A November 20 follow-up says the investigation continues.
+
+
+----- eth-microbots-clots-2026 (physical_ai) — primary: https://ethz.ch/en/news-and-events/eth-news/news/2026/11/dissolving-blood-clots-with-flow-generating-microbots.html -----
+
+Магнитные микророботы ускорили растворение тромбов в лабораторной модели
+
+ETH Zurich сообщила о шестикратном ускорении в силиконовой модели сосудов с тромбами из свиной крови; в живых свиньях площадь восстановленного кровотока через 30 минут была вдвое больше. Метод ещё не применялся у людей, статья проходит рецензирование. Первичное сообщение вышло 9 ноября, а не сегодня.
+Magnetic microbots speed clot dissolution in a laboratory model
+
+ETH Zurich reports a sixfold speedup in a silicone vessel model with pig-blood clots; in live pigs, the reopened vessel area after 30 minutes was twice as large. The method has not been used in people, and the paper is under review. The original report dates to November 9.
+
+
 ===== EDITION 5 — 2026-11-19 =====
 
 ## От редакции

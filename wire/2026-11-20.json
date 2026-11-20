@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-20",
+  "items": [
+    {
+      "id": "fugaku-riken-access-nov2026",
+      "published": "2026-11-17",
+      "rubric": "security",
+      "title_ru": "RIKEN сообщил о несанкционированном доступе к сети суперкомпьютера Fugaku",
+      "title_en": "RIKEN reports unauthorized access to Fugaku's operational network",
+      "summary_ru": "Институт остановил Fugaku 14 ноября после обнаружения доступа через общедоступную страницу состояния. По сообщению от 17 ноября, данные учётных записей и ключи пользователей могли быть затронуты; подтверждения вывода исследовательских файлов пока нет. 20 ноября RIKEN сообщил, что расследование продолжается.",
+      "summary_en": "RIKEN suspended Fugaku on November 14 after finding access through a public status dashboard. Its November 17 notice says user account data and credentials may be affected, while exfiltration of research files is unproven. A November 20 follow-up says the investigation continues.",
+      "source": "https://t.me/antiinfosec/310",
+      "primary_source": "https://www.riken.jp/en/news_pubs/news/2026/20261116_2/index.html",
+      "primary_verified": true
+    },
+    {
+      "id": "kddi-infobar-zero-preorders",
+      "published": "2026-11-18",
+      "rubric": "hardware",
+      "title_ru": "KDDI открыла предзаказ простого телефона INFOBAR ZERO в Японии",
+      "title_en": "KDDI opens Japanese preorders for the simple INFOBAR ZERO phone",
+      "summary_ru": "Устройство рассчитано на звонки, SMS, музыку и снимки с камеры 2 Мп, без браузера и соцсетей. Предзаказ открыт 18 ноября, продажи намечены на 25 декабря. Это анонс телефона, а не уже начавшиеся поставки.",
+      "summary_en": "The phone focuses on calls, SMS, music, and a 2 MP camera, without a browser or social apps. Preorders opened November 18; sales are scheduled for December 25. It is an announced device, not one already shipping.",
+      "source": "https://t.me/alfa_trends/1671",
+      "primary_source": "https://newsroom.kddi.com/news/detail/kddi_nr-1245_4832.html",
+      "primary_verified": true,
+      "via": "Новости из ТГ Альфы"
+    },
+    {
+      "id": "microsoft-code2-ignite-2026",
+      "published": "2026-11-17",
+      "rubric": "ai",
+      "title_ru": "Microsoft представила семейство моделей Code 2 для программирования",
+      "title_en": "Microsoft introduces its Code 2 coding-model family",
+      "summary_ru": "На Ignite компания объявила о Code 2 и более быстрой Code 2 Flash для агентных задач разработки. По заявлению Microsoft, обе модели доступны в GitHub Copilot и Foundry; оценки качества и эффективности пока исходят от самой компании.",
+      "summary_en": "At Ignite, Microsoft announced Code 2 and the faster Code 2 Flash for agentic development work. Microsoft says both are available in GitHub Copilot and Foundry; performance and efficiency claims currently come from the company.",
+      "source": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+      "primary_source": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+      "primary_verified": true
+    },
+    {
+      "id": "eth-microbots-clots-2026",
+      "published": "2026-11-09",
+      "rubric": "physical_ai",
+      "title_ru": "Магнитные микророботы ускорили растворение тромбов в лабораторной модели",
+      "title_en": "Magnetic microbots speed clot dissolution in a laboratory model",
+      "summary_ru": "ETH Zurich сообщила о шестикратном ускорении в силиконовой модели сосудов с тромбами из свиной крови; в живых свиньях площадь восстановленного кровотока через 30 минут была вдвое больше. Метод ещё не применялся у людей, статья проходит рецензирование. Первичное сообщение вышло 9 ноября, а не сегодня.",
+      "summary_en": "ETH Zurich reports a sixfold speedup in a silicone vessel model with pig-blood clots; in live pigs, the reopened vessel area after 30 minutes was twice as large. The method has not been used in people, and the paper is under review. The original report dates to November 9.",
+      "source": "https://t.me/alfa_trends/1672",
+      "primary_source": "https://ethz.ch/en/news-and-events/eth-news/news/2026/11/dissolving-blood-clots-with-flow-generating-microbots.html",
+      "primary_verified": true,
+      "via": "Новости из ТГ Альфы"
+    }
+  ]
+}
