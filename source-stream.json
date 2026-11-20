@@ -1,6 +1,226 @@
 {
-  "updated_at": "2026-11-19T21:36:58+00:00",
+  "updated_at": "2026-11-20T03:17:59+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/games/1038345/mario-mega-man-metroid-donkey-kong-country-ai-crossover-snes",
+      "title": "For ‘90s kids, this is the stuff dreams are made of.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1019635/mario-64-mixed-reality-lucas-martinic-decomp",
+      "title": "letting you pull Mario into your real world",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038334/openai-is-testing-a-new-design-for-mobile-chatgpt",
+      "title": "OpenAI is testing a new design for mobile ChatGPT.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1038319/ubisofts-new-ai-subsidiary-is-called-motherbrain",
+      "title": "Ubisoft’s new AI subsidiary is called “Motherbrain.”",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038304/californias-attorney-general-subpoenaed-nvidia",
+      "title": "California’s attorney general subpoenaed Nvidia.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038301/data-center-redlining",
+      "title": "Data center development follows a legacy of redlining.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038244/googles-employees-are-asking-it-to-let-schools-use-search-without-ai",
+      "title": "Google’s employees are asking it to let schools use Search without AI.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "title": "disable Search in schools",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/business/1038208/bending-spoons-is-snapping-up-mailchimp-now",
+      "title": "Bending Spoons is snapping up MailChimp now.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/business/945710/after-buying-more-than-50-companies-bending-spoons-prepares-for-an-ipo",
+      "title": "than four dozen tech companies",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/hackers-leak-jpmorgan-visa-mastercard-n0n",
+      "title": "Hackers Leak User Data From JPMorgan, Visa, and Mastercard",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo",
+      "title": "Why Canada is embracing AI data centres while the US pushes back",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "published": "2026-11-20T00:56:01+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "published": "2026-11-19T23:37:56+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "published": "2026-11-19T22:33:26+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "published": "2026-11-19T21:58:06+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "published": "2026-11-19T21:42:31+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
       "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
@@ -658,6 +878,16 @@
       "source_id": "rozetked",
       "source_name": "Rozetked",
       "tier": "backup",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers",
+      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "published": "2026-11-19T21:33:24+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
       "first_seen": "2026-11-19T21:36:58+00:00",
       "attribution": ""
     },
@@ -1582,18 +1812,28 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order",
-      "title": "UK government forced to disclose secret Apple backdoor order",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
       "published": "2026-11-19",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
-      "first_seen": "2026-11-19T21:36:58+00:00",
+      "first_seen": "2026-11-20T03:17:59+00:00",
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers",
-      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "published": "2026-11-19",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order",
+      "title": "UK government forced to disclose secret Apple backdoor order",
       "published": "2026-11-19",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
@@ -3342,26 +3582,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "published": "2026-11-18T01:44:21+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-18T04:23:57+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories",
-      "title": "Stripe backer Atomico calls for Europe to own its success stories",
-      "published": "2026-11-18T00:01:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-18T04:23:57+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "published": "2026-11-18",
@@ -4015,16 +4235,6 @@
       "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit",
       "title": "SEC reportedly investigating Nvidia amid Huang exit",
       "published": "2026-11-17T21:48:07+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-17T22:53:15+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one",
-      "title": "Google joins the tech outage trend by announcing it’s not having one",
-      "published": "2026-11-17T21:34:50+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
@@ -5142,6 +5352,26 @@
       "attribution": ""
     },
     {
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "published": "2026-11-17",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T04:23:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories",
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "published": "2026-11-17",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T04:23:57+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit",
       "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
       "published": "2026-11-17",
@@ -5159,6 +5389,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-18T04:23:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "published": "2026-11-17",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-17T22:53:15+00:00",
       "attribution": ""
     },
     {
@@ -7072,16 +7312,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season",
-      "title": "The tech products we enthusiastically recommend this holiday season",
-      "published": "2026-11-15T16:00:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-15T17:44:12+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://www.bbc.co.uk/news/articles/cq782l2992dno",
       "title": "Sea of phones at Christmas event prompts backlash",
       "published": null,
@@ -7229,6 +7459,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-16T11:21:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season",
+      "title": "The tech products we enthusiastically recommend this holiday season",
+      "published": "2026-11-15",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-15T17:44:12+00:00",
       "attribution": ""
     },
     {
@@ -28658,23 +28898,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 57,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "found": 59,
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 70,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "found": 74,
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "futurism",
@@ -28682,7 +28922,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "bbc",
@@ -28690,7 +28930,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 18,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "addmeto",
@@ -28698,7 +28938,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "xor_journal",
@@ -28706,7 +28946,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "alfa_trends",
@@ -28714,7 +28954,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "antiinfosec",
@@ -28722,7 +28962,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "antidigital",
@@ -28730,7 +28970,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "anti_agi",
@@ -28738,7 +28978,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -28746,7 +28986,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -28754,14 +28994,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     },
     {
       "id": "rozetked",
@@ -28769,7 +29009,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 15,
-      "checked_at": "2026-11-19T21:36:58+00:00"
+      "checked_at": "2026-11-20T03:17:59+00:00"
     }
   ]
 }
