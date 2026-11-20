@@ -1,6 +1,266 @@
 {
-  "updated_at": "2026-11-20T08:55:25+00:00",
+  "updated_at": "2026-11-20T12:55:08+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+      "title": "Why the robots are ditching Uber",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038396/the-clandestine-operation-to-secure-britains-fridges",
+      "title": "The clandestine operation to secure Britain’s fridges.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+      "title": "industrial fridge and freezer hacks",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038384/androids-3d-emoji-have-surprisingly-demanding-system-specs",
+      "title": "Android’s 3D emoji have surprisingly demanding system requirements.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1038376/the-white-house-national-cyber-director-is-stepping-down",
+      "title": "The White House national cyber director is stepping down.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1035409/the-nsas-classified-communications-network-is-reportedly-down",
+      "title": "the past week",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038378/samsungs-mobile-division-has-a-new-chief",
+      "title": "Samsung’s mobile division has a new chief.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/826008/tm-roh-co-ceo",
+      "title": "promoted to co-CEO",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007664/samsungs-chip-business-continues-to-print-money",
+      "title": "money-printing memory business",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cq0k6gezp50vo",
+      "title": "MP says Grok was designed to make sexualised images",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c3rrgwg7ry1zo",
+      "title": "'World-beating' study to investigate social media ban",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://autonomy.yandex.ru/blog/bolee-300-tysyach-zakazov-za-god-i-13-rajonov-kak-nashi-rovery-osvaivayut-peterburg",
+      "title": "Более 300 тысяч заказов за год и 13 районов: как наши роверы осваивают Петербург",
+      "published": null,
+      "source_id": "autonomy_yandex",
+      "source_name": "Яндекс Автономность",
+      "tier": "russia",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://autonomy.yandex.ru/blog/magnit-i-iteco-mogut-priobresti-bolee-2000-robotrakov-yandeksa",
+      "title": "«Магнит» и ITECO могут приобрести более 2000 роботраков Яндекса",
+      "published": null,
+      "source_id": "autonomy_yandex",
+      "source_name": "Яндекс Автономность",
+      "tier": "russia",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49590-3d-emodzi-dlya-android-potrebuyut-6-gb-ozu-i-10-gb-svobodnogo-hranilischa",
+      "title": "3D-эмодзи для Android потребуют 6 ГБ ОЗУ и 10 ГБ свободного хранилища",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49588-kriticheskaya-uyazvimost-v-windows-11-pozvolyaet-poluchit-dostup-k-komp-yuteru-s-ekrana-blokirovki",
+      "title": "Критическая уязвимость в Windows 11 позволяет получить доступ к компьютеру с экрана блокировки",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49587-samsung-rabotaet-nad-sobstvennym-ii-agentom-galaxy-claw",
+      "title": "Samsung работает над собственным ИИ-агентом Galaxy Claw",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12961",
+      "title": "Wildberries обзавёлся анонимными совладельцами 25% доли в РВБ (головной компании Wildberries) перешли двум закрытым паевым фондам. Доля Татьяны Ким сократилась с 65% до 45%, структур Роберта Мирзояна - с 35% до 25%. В РВБ объяснили изменения оптимизацией активов и пересмотром состава учредителей. Новые владельцы - фонды \"Томь\" и \"Гало\". Кто стоит з",
+      "published": "2026-11-20T12:03:02+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1676",
+      "title": "GTA VI запустили на калькуляторе. Как это возможно? 🧮 В соцсетях вирусится видео, на котором игру якобы запустили на графическом калькуляторе TI-84 Plus CE. Выглядит вполне убедительно, но сама игра на калькуляторе не работает . Изображение передаётся на его экран с компьютера через специальное ПО, а нажатия кнопок калькулятора отправляются обратно",
+      "published": "2026-11-20T11:23:54+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/antidigital/12960",
+      "title": "MWS наращивает выручку на фоне спроса на ИИ-инфраструктуру За девять месяцев 2026 года внешняя выручка МТС Web Services (без продаж внутри группы) выросла на 13% год к году, а у MWS AI — на 36%. Число клиентов новой MWS Cloud Platform с начала года увеличилось в 15 раз. По словам гендиректора компании Павла Воронина, продуктовая линейка охватывает ",
+      "published": "2026-11-20T10:49:34+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2325",
+      "title": "MWS наращивает выручку на фоне спроса на ИИ-инфраструктуру За девять месяцев 2026 года внешняя выручка МТС Web Services (без продаж внутри группы) выросла на 13% год к году, а у MWS AI — на 36%. Число клиентов новой MWS Cloud Platform с начала года увеличилось в 15 раз. По словам гендиректора компании Павла Воронина, продуктовая линейка охватывает ",
+      "published": "2026-11-20T10:49:23+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10567",
+      "title": "Китайцы в ужасе от уровня блокировок в России. А это наша реальность 😭 @xor_journal",
+      "published": "2026-11-20T10:18:49+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12959",
+      "title": "Серверные стойки с доставкой на орбиту Google и Blue Origin Джеффа Безоса подписали первый тяжёлый пусковой контракт по проекту орбитальных ИИ-дата-центров Project Suncatcher . В первом квартале 2029 года ракета New Glenn выведет на солнечно-синхронную орбиту группу вычислительных спутников . На этой орбите аппараты почти не попадают в тень Земли, ",
+      "published": "2026-11-20T09:37:25+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2324",
+      "title": "🤖 AID — AI-дайджест от @anti_agi Главное событие вчерашнего (и не только) дня, конечно — выход Anthropic на Nasdaq . Компания разместила 980 млн акций по $83 (выше коридора $70–78 ), собрав рекордные $81,34 млрд по подписке плюс ещё $26 млрд от стратегов, обойдя июньский листинг SpaceX ( $75 млрд ). На открытии бумаги подскочили на 34,3% до $111,50",
+      "published": "2026-11-20T09:15:49+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down",
+      "title": "The U.S. national cyber director is stepping down",
+      "published": "2026-11-20T09:14:19+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-20T12:55:08+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1038370/openai-is-starting-to-bring-dots-to-plus-tier-subscribers",
       "title": "OpenAI is starting to bring Dots to Plus tier subscribers.",
@@ -3532,26 +3792,6 @@
       "attribution": "Новости из ТГ Альфы"
     },
     {
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "published": "2026-11-18T12:00:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-18T14:00:10+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
-      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-      "published": "2026-11-18T11:30:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-18T14:00:10+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://futurism.com/future-society/conspiracy-theory-cranks-global-outages-viral-rumors",
       "title": "Conspiracy Cranks Are Having an Absolute Field Day With All These Global Outages",
       "published": "2026-11-18T11:25:21-05:00",
@@ -3769,6 +4009,26 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-18T21:57:54+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "published": "2026-11-18",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T14:00:10+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "published": "2026-11-18",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T14:00:10+00:00",
       "attribution": ""
     },
     {
@@ -29069,22 +29329,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 74,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "found": 78,
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "futurism",
@@ -29092,15 +29352,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 18,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "found": 20,
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "addmeto",
@@ -29108,7 +29368,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "xor_journal",
@@ -29116,7 +29376,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "alfa_trends",
@@ -29124,7 +29384,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "antiinfosec",
@@ -29132,7 +29392,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "antidigital",
@@ -29140,15 +29400,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "anti_agi",
       "name": "anti_agi",
       "status": "ok",
       "scope": "known_post",
-      "found": 18,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "found": 20,
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -29156,7 +29416,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -29164,22 +29424,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "checked_at": "2026-11-20T12:55:08+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 17,
-      "checked_at": "2026-11-20T08:55:25+00:00"
+      "found": 16,
+      "checked_at": "2026-11-20T12:55:08+00:00"
     }
   ]
 }
