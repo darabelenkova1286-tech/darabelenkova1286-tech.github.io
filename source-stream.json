@@ -1,6 +1,176 @@
 {
-  "updated_at": "2026-11-20T03:17:59+00:00",
+  "updated_at": "2026-11-20T08:55:25+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038370/openai-is-starting-to-bring-dots-to-plus-tier-subscribers",
+      "title": "OpenAI is starting to bring Dots to Plus tier subscribers.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "title": "always-on AI agents",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo",
+      "title": "Should AI be judging our credit worthiness?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/ckq5vz28367do",
+      "title": "Met Police trial facial recognition tech on phones",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49570-utechka-dizayn-i-harakteristiki-samsung-galaxy-studio",
+      "title": "Утечка: дизайн и характеристики Samsung Galaxy Studio",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49586-analitika-gta-vi-uzhe-razoshlas-tirazhom-24-6-mln-kopiy-s-obschey-vyruchkoy-2-36-mlrd-dollarov",
+      "title": "Аналитика: GTA VI уже разошлась тиражом 24,6 млн копий — с общей выручкой 2,36 млрд долларов",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49585-hisense-predstavila-v-rossii-lazernyy-proektor-c3-ultra-s-yarkost-yu-4000-ansi-lyumen",
+      "title": "Hisense представила в России лазерный проектор C3 Ultra с яркостью 4000 ANSI-люмен",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49584-smi-vlasti-dopuskayut-chto-tarify-na-uslugi-svyazi-v-rossii-budut-rasti-bystree",
+      "title": "СМИ: власти допускают, что тарифы на услуги связи в России будут расти быстрее",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49583-lego-vpervye-vypustit-nabory-so-vsemi-komandami-formuly-1-v-sezone",
+      "title": "LEGO впервые выпустит наборы со всеми командами «Формулы-1» в сезоне",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49582-gemini-na-macos-teper-mozhet-upravlyat-komp-yuterom-poka-tol-ko-na-angliyskom-yazyke",
+      "title": "Gemini на macOS теперь может управлять компьютером — пока только на английском языке",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49581-utechka-pervyy-vzglyad-na-shirokuyu-raskladushku-motorola-razr-flex",
+      "title": "Утечка: первый взгляд на широкую «раскладушку» Motorola razr flex",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49580-na-yandeks-stanciyah-poyavilas-muzykal-naya-pashalka-v-chest-reliza-gta-vi",
+      "title": "На «Яндекс Станциях» появилась музыкальная пасхалка в честь релиза GTA VI",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49579-mobil-noe-podrazdelenie-samsung-menyaet-rukovodstvo-ro-the-mun-uhodit-spustya-pochti-sem-let",
+      "title": "Мобильное подразделение Samsung меняет руководство — Ро Тхэ-мун уходит спустя почти семь лет",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1675",
+      "title": "Альфа-Банк подтвердил статус МЕЖДУНАРОДНОГО ИИ-лидера в финтехе 🏆 На финтех-саммите Finnovex в Дубае получили престижную международную награду AI Leadership Award — за достижения в развитии искусственного интеллекта. Это уже вторая победа на финтех-саммите: в прошлом году Альфа-Банк стал лучшим в номинации Excellence in Fintech . И всё это закономе",
+      "published": "2026-11-20T08:31:56+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/antidigital/12958",
+      "title": "Доброе утро! ❤️ 1️⃣ Госфинансирование программы развития электронной и радиоэлектронной промышленности сократили на 12,2 млрд рублей на 2027–2029 годы. В частности, расходы на 2027 год уменьшили со 116,7 млрд до 108,1 млрд рублей, на 2028-й — со 117,4 млрд до 114,3 млрд. 2️⃣ Производственные мощности российских заводов по выпуску печатных плат могу",
+      "published": "2026-11-20T08:24:43+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10566",
+      "title": "У агентов появилось свое научное сообщество — alphaXiv запустили научную платформу, где нейросети сами проводят исследования и пишут статьи. За три месяца почти 1000 агентов из 35 лабораторий, включая Стэнфорд, MIT и ETH Zurich, подготовили 936 научных работ . Причём некоторые агенты находили ошибки в исследованиях кожаных и независимо получали рез",
+      "published": "2026-11-20T07:19:03+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antiinfosec/312",
+      "title": "Добрались до PyPI Остается надеется, что выход GTA VI как-то умерит пыл хакеров, а пока в PyPI скомпрометировали agent-framework от Microsoft. В версии 1.26.1 и 1.26.2 подложили стилер, который собирает ключи, токены и другие секреты из окружения разработчика или сборочного сервера. По данным Socket, зараженные релизы появились 17 ноября. Особенно ",
+      "published": "2026-11-20T07:14:55+00:00",
+      "source_id": "antiinfosec",
+      "source_name": "antiinfosec",
+      "tier": "russia",
+      "first_seen": "2026-11-20T08:55:25+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/games/1038345/mario-mega-man-metroid-donkey-kong-country-ai-crossover-snes",
       "title": "For ‘90s kids, this is the stuff dreams are made of.",
@@ -117,16 +287,6 @@
       "published": null,
       "source_id": "theverge",
       "source_name": "The Verge",
-      "tier": "main",
-      "first_seen": "2026-11-20T03:17:59+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/future-society/hackers-leak-jpmorgan-visa-mastercard-n0n",
-      "title": "Hackers Leak User Data From JPMorgan, Visa, and Mastercard",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-20T03:17:59+00:00",
       "attribution": ""
@@ -929,6 +1089,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/hackers-leak-jpmorgan-visa-mastercard-n0n",
+      "title": "Hackers Leak User Data From JPMorgan, Visa, and Mastercard",
+      "published": "2026-11-19T17:56:21-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
       "attribution": ""
     },
     {
@@ -28899,7 +29069,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "theverge",
@@ -28907,14 +29077,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 74,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "futurism",
@@ -28922,7 +29092,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "bbc",
@@ -28930,7 +29100,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 18,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "addmeto",
@@ -28938,7 +29108,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "xor_journal",
@@ -28946,7 +29116,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "alfa_trends",
@@ -28954,7 +29124,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "antiinfosec",
@@ -28962,7 +29132,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "antidigital",
@@ -28970,7 +29140,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 16,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "anti_agi",
@@ -28978,7 +29148,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -28986,7 +29156,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 11,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -28994,22 +29164,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "checked_at": "2026-11-20T08:55:25+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 15,
-      "checked_at": "2026-11-20T03:17:59+00:00"
+      "found": 17,
+      "checked_at": "2026-11-20T08:55:25+00:00"
     }
   ]
 }
