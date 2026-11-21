@@ -1,6 +1,136 @@
 {
-  "updated_at": "2026-11-21T02:17:22+00:00",
+  "updated_at": "2026-11-21T11:04:23+00:00",
   "items": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmvg23q5xq31o",
+      "title": "London's urgent race to make AI safer",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c623jv015xjno",
+      "title": "Are digital memories helping us or holding us back?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6j9m2rg42n2o",
+      "title": "MP opposing data centre joins government committee",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cjx2ry0d9913o",
+      "title": "What is being done to stop disruptive cable theft?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cwdr1xyzr5lmo",
+      "title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49603-v-telegram-dlya-ios-poyavilsya-novyy-dizayn-profiley-kak-vklyuchit",
+      "title": "В Telegram для iOS появился новый дизайн профилей — как включить?",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49605-igroki-obvalili-reyting-gta-vi-na-metacritic",
+      "title": "Игроки обвалили рейтинг GTA VI на Metacritic",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49604-glava-instagram-nazval-razrabotku-prilozheniya-dlya-iphone-duo-dostatochno-slozhnoy",
+      "title": "Глава Instagram* назвал разработку приложения для iPhone Duo «достаточно сложной»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49602-v-klube-gonzo-cybersport-organizovali-tematicheskiy-vecher-v-chest-reliza-gta-vi",
+      "title": "В клубе Gonzo Cybersport организовали тематический вечер в честь релиза GTA VI",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12970",
+      "title": "Татьяна Ким покинула пост гендиректора Wildberries. С 20 ноября вместо нее компанию возглавляет Алексей Куликов, топ-менеджер WB, который также руководит «ВБ Инжиниринг». По данным Rusprofile, он стал гендиректором ООО «Вайлдберриз» 19 ноября. Перестановка произошла на фоне изменений в структуре собственности РВБ. Напомним, что вчера 25% доли в РВБ",
+      "published": "2026-11-21T10:52:04+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2329",
+      "title": "Теперь паранойя про Матрицу может быть и у агентов Инженеры Chrome построили закрытую копию интернета под названием Mirror Dimension, чтобы тренировать ИИ-агентов на базе Gemini до того, как те получат доступ к реальной сети. Выпускать \"зелёных\" агентов в открытый веб слишком опасно — автономный помощник с правами на клики и заполнение форм может л",
+      "published": "2026-11-21T10:13:01+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10574",
+      "title": "Вся суть ИИ внедрения 😆 @xor_journal",
+      "published": "2026-11-21T09:10:51+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "published": "2026-11-21T04:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/games/1039371/gta-vi-broke-comcasts-network-traffic-records",
       "title": "GTA VI broke Comcast’s network traffic records.",
@@ -67,16 +197,6 @@
       "published": null,
       "source_id": "theverge",
       "source_name": "The Verge",
-      "tier": "main",
-      "first_seen": "2026-11-21T02:17:22+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/artificial-intelligence/jensen-huang-terror-nvidia",
-      "title": "Jensen Huang Was Reportedly Fixated on Humiliation",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-21T02:17:22+00:00",
       "attribution": ""
@@ -639,6 +759,16 @@
       "source_name": "antidigital",
       "tier": "russia",
       "first_seen": "2026-11-20T21:06:44+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/jensen-huang-terror-nvidia",
+      "title": "Jensen Huang Was Reportedly Fixated on Humiliation",
+      "published": "2026-11-20T16:23:23-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-21T02:17:22+00:00",
       "attribution": ""
     },
     {
@@ -3852,16 +3982,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated",
-      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-      "published": "2026-11-18T21:31:21+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-18T21:57:54+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie",
       "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
       "published": "2026-11-18T20:07:01+00:00",
@@ -4839,6 +4959,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "published": "2026-11-18",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-18T21:57:54+00:00",
       "attribution": ""
     },
     {
@@ -30189,7 +30319,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 49,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "theverge",
@@ -30197,14 +30327,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 76,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "futurism",
@@ -30212,15 +30342,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 57,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 20,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "found": 21,
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "addmeto",
@@ -30228,7 +30358,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "xor_journal",
@@ -30236,7 +30366,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "alfa_trends",
@@ -30244,7 +30374,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "antiinfosec",
@@ -30252,7 +30382,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "antidigital",
@@ -30260,7 +30390,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "anti_agi",
@@ -30268,7 +30398,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -30276,7 +30406,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -30284,22 +30414,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "checked_at": "2026-11-21T11:04:23+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 16,
-      "checked_at": "2026-11-21T02:17:22+00:00"
+      "found": 14,
+      "checked_at": "2026-11-21T11:04:23+00:00"
     }
   ]
 }
