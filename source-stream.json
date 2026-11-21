@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-11-21T17:58:08+00:00",
+  "updated_at": "2026-11-21T23:18:31+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-21T23:18:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1039559/elon-musk-got-really-awkward-at-teslas-argentina-launch",
+      "title": "Elon Musk got really awkward at Tesla’s Argentina launch.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-21T23:18:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-21T23:18:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1039547/sophisticated-and-serious-cyberattack-of-1984-hosting-may-be-part-of-a-13-5-million-crypto-heist",
+      "title": "‘Sophisticated’ and ‘serious’ cyberattack of 1984 Hosting may be part of a $13.5 million crypto heist.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-21T23:18:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo",
+      "title": "'It gives me the ick': Can you cheat on someone with a video game?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-21T23:18:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-21T23:18:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "published": "2026-11-21T21:37:10+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-21T23:18:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10576",
+      "title": "А ведь вас предупреждали 😂 @xor_journal",
+      "published": "2026-11-21T21:15:02+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-21T23:18:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+      "title": "A tale of two Nvidias",
+      "published": "2026-11-21T21:07:42+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-21T23:18:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "published": "2026-11-21T18:44:53+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-21T23:18:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10575",
+      "title": "Одна из задач тысячелетия, гипотеза Римана, официально ДОКАЗАНА — но вот кто ее доказал, пока большой вопрос. Сообщество действительно подтвердило корректность доказательства математика из Anthropic Левента Альпёге, который работал над задачей вместе с Claude. Причем проверку прошли все 17 миллионов строк кода, а результат подтвердили несколько нез",
+      "published": "2026-11-21T18:37:52+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-21T23:18:31+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/21/5-desk-gadgets-that-can-make-your-workday-better",
+      "title": "These desk gadgets can make your workday better",
+      "published": "2026-11-21T18:07:55+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-21T23:18:31+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
       "title": "Harbinger is building the unsexy EVs that keep the economy moving",
@@ -132,46 +252,6 @@
       "attribution": ""
     },
     {
-      "url": "https://futurism.com/space/spacex-lenders-elon-musk-chips-space-data-centers",
-      "title": "SpaceX Lenders Horrified at Elon’s Genius Idea to Blast Billions of Dollars Worth of Advanced AI Chips Into Space",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-21T17:58:08+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/future-society/elon-musk-donald-trump-maga-rebuke-feelings",
-      "title": "It Sounds Like Elon’s MAGA Rebuke Really Hurt Trump’s Feelings",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-21T17:58:08+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/artificial-intelligence/ai-model-floppy-disk",
-      "title": "We’ve Found the Only Good AI Chatbot: One So Tiny It Fits on a Single MS-DOS Floppy Disk",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-21T17:58:08+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://futurism.com/space/microplastics-linked-deadly-colon-cancer",
-      "title": "Microplastics Linked to Deadly Cancer",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-21T17:58:08+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://futurism.com/category/quantum-computing",
       "title": "Quantum Computing",
       "published": null,
@@ -262,6 +342,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/artificial-intelligence/ai-model-floppy-disk",
+      "title": "We’ve Found the Only Good AI Chatbot: One So Tiny It Fits on a Single MS-DOS Floppy Disk",
+      "published": "2026-11-21T12:52:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-21T17:58:08+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/anti_agi/2330",
       "title": "После ухода с поста CEO RWB Татьяна Ким станет кандидатом от России на пост CEO NVIDIA вместо Дженсена Хуанга. @anti_agi",
       "published": "2026-11-21T12:08:41+00:00",
@@ -278,6 +368,16 @@
       "source_id": "antidigital",
       "source_name": "antidigital",
       "tier": "russia",
+      "first_seen": "2026-11-21T17:58:08+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/space/microplastics-linked-deadly-colon-cancer",
+      "title": "Microplastics Linked to Deadly Cancer",
+      "published": "2026-11-21T11:49:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
       "first_seen": "2026-11-21T17:58:08+00:00",
       "attribution": ""
     },
@@ -392,6 +492,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/space/spacex-lenders-elon-musk-chips-space-data-centers",
+      "title": "SpaceX Lenders Horrified at Elon’s Genius Idea to Blast Billions of Dollars Worth of Advanced AI Chips Into Space",
+      "published": "2026-11-21T10:51:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-21T17:58:08+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://t.me/anti_agi/2329",
       "title": "Теперь паранойя про Матрицу может быть и у агентов Инженеры Chrome построили закрытую копию интернета под названием Mirror Dimension, чтобы тренировать ИИ-агентов на базе Gemini до того, как те получат доступ к реальной сети. Выпускать \"зелёных\" агентов в открытый веб слишком опасно — автономный помощник с правами на клики и заполнение форм может л",
       "published": "2026-11-21T10:13:01+00:00",
@@ -399,6 +509,16 @@
       "source_name": "anti_agi",
       "tier": "russia",
       "first_seen": "2026-11-21T11:04:23+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/elon-musk-donald-trump-maga-rebuke-feelings",
+      "title": "It Sounds Like Elon’s MAGA Rebuke Really Hurt Trump’s Feelings",
+      "published": "2026-11-21T09:48:00-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-21T17:58:08+00:00",
       "attribution": ""
     },
     {
@@ -1942,26 +2062,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you",
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-      "published": "2026-11-19T22:33:26+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-20T03:17:59+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "published": "2026-11-19T21:58:06+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-20T03:17:59+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style",
       "title": "These tech outages are giving Y2K, AI agent style",
       "published": "2026-11-19T21:42:31+00:00",
@@ -2632,16 +2732,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers",
-      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-      "published": "2026-11-19T21:33:24+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-19T21:36:58+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://t.me/xor_journal/10565",
       "title": "Учимся не допускать восстания машин — Гарвард собрал топовых исследователей OpenAI и Anthropic для осеннего курса по безопасности нейросетей. В программе всё для предотвращения ИИ-апокалипсиса. Рассказывают, как ИИ обманывает проверяющих, взламывает системы вознаграждения, скрывает свои намерения и что произойдёт, когда нейросети начнут самостоятел",
       "published": "2026-11-19T21:10:01+00:00",
@@ -2672,16 +2762,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "published": "2026-11-19T18:09:11+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-19T21:36:58+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://futurism.com/future-society/hackers-leak-jpmorgan-visa-mastercard-n0n",
       "title": "Hackers Leak User Data From JPMorgan, Visa, and Mastercard",
       "published": "2026-11-19T17:56:21-05:00",
@@ -2689,16 +2769,6 @@
       "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-20T03:17:59+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "published": "2026-11-19T17:38:40+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-19T21:36:58+00:00",
       "attribution": ""
     },
     {
@@ -3542,6 +3612,26 @@
       "attribution": ""
     },
     {
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "published": "2026-11-19",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "published": "2026-11-19",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
       "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
       "published": "2026-11-19",
@@ -3559,6 +3649,36 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers",
+      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "published": "2026-11-19",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "published": "2026-11-19",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "published": "2026-11-19",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-19T21:36:58+00:00",
       "attribution": ""
     },
     {
@@ -30658,8 +30778,8 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 49,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "found": 45,
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "theverge",
@@ -30667,14 +30787,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 65,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "futurism",
@@ -30682,7 +30802,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "bbc",
@@ -30690,7 +30810,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 21,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "addmeto",
@@ -30698,7 +30818,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "xor_journal",
@@ -30706,7 +30826,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "alfa_trends",
@@ -30714,7 +30834,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "antiinfosec",
@@ -30722,7 +30842,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "antidigital",
@@ -30730,7 +30850,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "anti_agi",
@@ -30738,7 +30858,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -30746,7 +30866,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -30754,22 +30874,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "checked_at": "2026-11-21T23:18:31+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 14,
-      "checked_at": "2026-11-21T17:58:08+00:00"
+      "found": 12,
+      "checked_at": "2026-11-21T23:18:31+00:00"
     }
   ]
 }
