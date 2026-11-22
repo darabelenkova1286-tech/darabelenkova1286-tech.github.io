@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-21T23:18:31+00:00",
+  "updated_at": "2026-11-22T06:51:28+00:00",
   "items": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo",
+      "title": "The real people finding their work copied and stolen by AI characters",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-22T06:51:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c674pejp1110o",
+      "title": "What to do if your child is being stalked online",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-22T06:51:28+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
       "title": "Amazon is complaining about NYC Council on shipping labels, too",
@@ -30778,8 +30798,8 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 45,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "found": 42,
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "theverge",
@@ -30787,14 +30807,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 65,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "futurism",
@@ -30802,15 +30822,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 58,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 21,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "found": 22,
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "addmeto",
@@ -30818,7 +30838,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "xor_journal",
@@ -30826,7 +30846,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "alfa_trends",
@@ -30834,7 +30854,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "antiinfosec",
@@ -30842,7 +30862,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "antidigital",
@@ -30850,7 +30870,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "anti_agi",
@@ -30858,7 +30878,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -30866,7 +30886,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -30874,14 +30894,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     },
     {
       "id": "rozetked",
@@ -30889,7 +30909,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 12,
-      "checked_at": "2026-11-21T23:18:31+00:00"
+      "checked_at": "2026-11-22T06:51:28+00:00"
     }
   ]
 }
