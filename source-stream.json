@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-22T21:47:43+00:00",
+  "updated_at": "2026-11-23T02:46:28+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "title": "We haven’t seen the last of the major tech outages",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-23T02:46:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-23T02:46:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "published": "2026-11-23T01:25:53+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-23T02:46:28+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
       "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
@@ -158,6 +188,16 @@
       "source_id": "rozetked",
       "source_name": "Rozetked",
       "tier": "backup",
+      "first_seen": "2026-11-22T21:47:43+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide",
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "published": "2026-11-22T21:42:48+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
       "first_seen": "2026-11-22T21:47:43+00:00",
       "attribution": ""
     },
@@ -479,16 +519,6 @@
       "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-22T15:18:59+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide",
-      "title": "‘You Can See Everything’ has made more than $100M worldwide",
-      "published": "2026-11-22",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-22T21:47:43+00:00",
       "attribution": ""
     },
     {
@@ -31269,22 +31299,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 42,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 69,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "found": 70,
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "futurism",
@@ -31292,7 +31322,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 60,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "bbc",
@@ -31300,7 +31330,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 23,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "addmeto",
@@ -31308,7 +31338,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "xor_journal",
@@ -31316,7 +31346,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "alfa_trends",
@@ -31324,7 +31354,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "antiinfosec",
@@ -31332,7 +31362,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "antidigital",
@@ -31340,7 +31370,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "anti_agi",
@@ -31348,7 +31378,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -31356,7 +31386,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -31364,14 +31394,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     },
     {
       "id": "rozetked",
@@ -31379,7 +31409,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 11,
-      "checked_at": "2026-11-22T21:47:43+00:00"
+      "checked_at": "2026-11-23T02:46:28+00:00"
     }
   ]
 }
