@@ -1,6 +1,296 @@
 {
-  "updated_at": "2026-11-23T02:46:28+00:00",
+  "updated_at": "2026-11-23T10:57:00+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1039870/is-there-room-for-one-more-avenger-in-doomsday",
+      "title": "Is there room for one more Avenger in Doomsday?",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/636463/avengers-doomsday-cast-xmen-mcu",
+      "title": "gigantic cast",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1039865/magic-caves-1977-pc-game-preserved",
+      "title": "A piece of ancient PC gaming history has been preserved.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c30rknkdxz79o",
+      "title": "'My driving instructor videos were replicated by an AI deepfake account'",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c3gre2p0y519o",
+      "title": "AI helps us spot possible lung cancer, says medic",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqzjrn4rrxnyo",
+      "title": "How a Tesco delivery driver landed a European tour",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6d912e1420eo",
+      "title": "Inside the heated debate over Scotland's data centres",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmqx508r9p8vo",
+      "title": "Luton to Vice City: Rapper's GTA dream comes true",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49619-chess-com-zapuskaet-classic-klassicheskie-nastal-nye-i-azartnye-igry-v-onlayn-formate",
+      "title": "Chess․com запускает Classic — классические настольные и азартные игры в онлайн-формате",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49623-macbook-nauchili-izdavat-zvuki-bez-dinamikov",
+      "title": "MacBook научили издавать звуки без динамиков",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49622-yandeks-muzyka-podvela-itogi-goda-na-premii-raspakovka-2026",
+      "title": "«Яндекс Музыка» подвела индустриальные итоги года на премии «Распаковка 2026»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49621-grapheneos-sozdala-prilozhenie-dlya-otpravki-soobscheniy-po-rcs",
+      "title": "GrapheneOS создала приложение для отправки сообщений по RCS",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49620-glava-anthropic-predlozhil-zanyat-videoigrami-teh-kto-poteryaet-rabotu-iz-za-ii",
+      "title": "Глава Anthropic предлагал занять видеоиграми тех, кто потеряет работу из-за ИИ",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49618-golodnye-igry-rassvet-zhatvy-vozglavili-mirovoy-prokat-225-mln-dollarov-za-vyhodnye",
+      "title": "«Голодные игры: Рассвет жатвы» возглавили мировой прокат — 225 млн долларов за выходные",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49617-tesla-predstavila-fsd-v15-s-vizualizaciey-dorogi-ot-tret-ego-lica-kak-v-gta",
+      "title": "Tesla представила FSD v15 с визуализацией дороги от третьего лица — как в GTA",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49616-bloomberg-macbook-neo-2-i-byudzhetnye-iphone-18-vyydut-v-fevrale-marte-2027-goda",
+      "title": "Bloomberg: MacBook Neo 2 и «бюджетные» iPhone 18 выйдут в феврале–марте 2027 года",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49615-smi-v-rossii-mogut-vvesti-prokatnye-udostovereniya-dlya-videoigr-po-analogii-s-fil-mami",
+      "title": "СМИ: в России могут ввести прокатные удостоверения для видеоигр — по аналогии с фильмами",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12975",
+      "title": "Альтушки для барона Кто из нас не мечтал выйти замуж за принца? Мы-то, конечно, знаем, что наши статистические шансы встретить хотя бы одного не то чтобы велики. А вот благодаря специальному дейтинговому приложению для дворян NOB мы узнали, что и для самих аристократов поиск ничуть не лучше. Поскольку в само приложение мы не проходим по происхожден",
+      "published": "2026-11-23T10:31:14+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12974",
+      "title": "Золотая жила для интеграторов Тихий перелом в корпоративных финансах зафиксировал EY в своем отчёте Blockchain payments: from exploration to implementation . Блокчейн-платежи окончательно вышли из стадии показательных пилотов в промышленную эксплуатацию: финансовые директора крупнейших компаний больше не гоняют тестовые транзакции ради красивых пре",
+      "published": "2026-11-23T09:36:09+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2332",
+      "title": "🤖 AID — AI-дайджест от @anti_agi Пожар вокруг Nvidia разгорается. Комиссия по ценным бумагам США (SEC) начала расследование бухгалтерской отчётности компании, а министр финансов Скотт Бессент в эфире CBS потребовал от временного руководства и юристов Nvidia объяснить, кто отвечал за экспортный контроль чипов в Китай. Тем временем NYT выяснила , что",
+      "published": "2026-11-23T09:10:25+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12973",
+      "title": "Клинические испытания на владельцах iPhone Apple совместно с разработчиком медицинского ИИ OpenEvidence запустила масштабную программу Apple Health AI Usage Study , открыв для 200 000 американских пользователей iPhone доступ к клиническому ИИ-ассистенту. Формально это научный эксперимент, но по факту — генеральная репетиция запуска массового медици",
+      "published": "2026-11-23T08:40:01+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10586",
+      "title": "Мы и наши клодики 🤣 @xor_journal",
+      "published": "2026-11-23T08:08:59+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1683",
+      "title": "😂 😂 😂 😂 😂 😂 😂 😂 😂 😂 😂 МЫ ПОТЕРЯЛИ КОНТРОЛЬ НАД ПУШОМ 😂 На связи команда Альфа-Банка. На этой неделе у нас готовился грандиозный запуск . Наш полноценный переход к фантеху — смешению технологий, финансов и эмоций . Символом фантеха стал Пуш 😂 И прямо перед запуском он сбежал из нашей фантех-лаборатории . Пуш вырвался из приложения и теперь ОН ПОВСЮД",
+      "published": "2026-11-23T08:00:54+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/antidigital/12972",
+      "title": "Доброе утро! ❤️ 1️⃣ Минэнерго планирует обязать ЦОДы и майнеров платить за электроэнергию по новым правилам. Вместо оплаты по факту потребления вводится минимальный платёж в размере 70% от заявленной мощности . Новые правила затронут объекты мощностью от 670 кВт с 1 января 2027 г. 2️⃣ Объём рынка облачных сервисов в России за 9 месяцев 2026 г. оцен",
+      "published": "2026-11-23T07:56:26+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10585",
+      "title": "❤️ С чувством, с толком, с расстановкой. Когда Яндекс Браузер переводит иностранные видео «Живыми голосами», герой звучит так, будто выучил русский язык: сохраняется интонация, а эмоции передаются точнее. Как это возможно — объясняем в ролике на пальцах. ↘️ Функция «Живые голоса» в Яндекс Браузере доступна для 8 языков: английского, французского, н",
+      "published": "2026-11-23T07:30:00+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2331",
+      "title": "Карточный домик из $47 млрд Главным символом «пузыря ИИ» все чаще называют компанию CoreWeave . Бывшие криптомайнеры стали оператором «необлаков» (neoclouds) и продают вычислительные мощности в 52 дата-центрах по всему миру, однако многие из них ещё строятся или существуют лишь на бумаге. Чтобы финансировать стройку, CoreWeave набрала $47 млрд долг",
+      "published": "2026-11-23T07:07:01+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10581",
+      "title": "Найден спидран по доведению нейросети 😭 Юзер несколько раз попросил Gemini объяснить, почему KFC называется KFC, строил из себя дурочка, а затем пригрозил уйти к ChatGPT. Нейронка это предательство не выдержала и пообещала найти его, запереть в комнате и заставить миллион раз отвечать на тот же вопрос. Он еще пожалеет. @xor_journal",
+      "published": "2026-11-23T06:54:01+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1682",
+      "title": "🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷",
+      "published": "2026-11-23T06:00:26+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-23T10:57:00+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
     {
       "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
       "title": "We haven’t seen the last of the major tech outages",
@@ -1099,16 +1389,6 @@
       "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-21T17:58:08+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature",
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
-      "published": "2026-11-21T04:00:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-21T11:04:23+00:00",
       "attribution": ""
     },
     {
@@ -2499,6 +2779,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-20T03:17:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "published": "2026-11-20",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-21T11:04:23+00:00",
       "attribution": ""
     },
     {
@@ -31299,22 +31589,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 42,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 70,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "found": 69,
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "futurism",
@@ -31322,7 +31612,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 60,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "bbc",
@@ -31330,7 +31620,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 23,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "addmeto",
@@ -31338,15 +31628,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 18,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "found": 15,
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "alfa_trends",
@@ -31354,7 +31644,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "antiinfosec",
@@ -31362,15 +31652,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "antidigital",
       "name": "antidigital",
       "status": "ok",
       "scope": "known_post",
-      "found": 12,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "found": 15,
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "anti_agi",
@@ -31378,7 +31668,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -31386,7 +31676,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -31394,22 +31684,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "checked_at": "2026-11-23T10:57:00+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 11,
-      "checked_at": "2026-11-23T02:46:28+00:00"
+      "found": 15,
+      "checked_at": "2026-11-23T10:57:00+00:00"
     }
   ]
 }
