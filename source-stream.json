@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-11-23T10:57:00+00:00",
+  "updated_at": "2026-11-23T12:46:15+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
+      "title": "Take-Two requests subpoenas over GTA VI gameplay leaks",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-23T12:46:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1039889/you-might-be-waiting-a-while-for-the-galaxy-watch-10",
+      "title": "You might be waiting a while for the Galaxy Watch 10.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-23T12:46:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches",
+      "title": "Galaxy Watch 9 and Ultra 2",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-23T12:46:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1039883/more-details-emerge-regarding-the-extent-of-alice-huangs-alleged-spying",
+      "title": "More details emerge regarding the extent of Alice Huang’s alleged spying.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-23T12:46:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-23T12:46:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo",
+      "title": "Next data accessed in cyber breach",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-23T12:46:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn7zp1n33o",
+      "title": "Police investigate fairness cream's alleged link to Indian teen's kidney ailment",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-23T12:46:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49627-alinea-analytics-prodazhi-gta-vi-sostavili-pochti-45-mln-kopiy",
+      "title": "Alinea Analytics: продажи GTA VI составили почти 45 млн копий",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-23T12:46:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49626-roborock-predstavila-v-rossii-tonkiy-i-moschnyy-robot-pylesos-qrevo-edge-2-flow",
+      "title": "Roborock представила в России тонкий и мощный робот-пылесос Qrevo Edge 2 Flow",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-23T12:46:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49625-google-gotovit-kastomnye-ikonki-dlya-prilozheniya-youtube",
+      "title": "Google готовит кастомные иконки для приложения YouTube",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-23T12:46:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10587",
+      "title": "Разрабы могут спать спокойно: ИИ-агенты смогли полностью выполнить меньше 8% реальных рабочих задач 🤭 Исследователи создали виртуальную ИТ-компанию и подготовили 101 задачу на основе реальных проектов по разработке на 11 ЯП. Агентам нужно было разбираться в документации, общаться с виртуальными коллегами, писать код и проверять результат. В итоге д",
+      "published": "2026-11-23T11:42:31+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-23T12:46:15+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/autonomy_yandex/335",
+      "title": "☺️ Их насчитывалось чуть больше 20 штук, и у каждого было своё имя. Отмотаем время на несколько лет назад и посмотрим, с чего началась большая история роверов Яндекса Идея сделать ровер родилась в 2019 году. На тот момент мы активно развивали технологию роботакси на базе автомобилей Toyota Prius. Алгоритмы автономного вождения у нас уже были, и мы ",
+      "published": "2026-11-23T11:04:35+00:00",
+      "source_id": "autonomy_yandex_tg",
+      "source_name": "Яндекс Автономность · Telegram",
+      "tier": "russia",
+      "first_seen": "2026-11-23T12:46:15+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
       "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
@@ -31589,22 +31709,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 42,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 69,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "found": 71,
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "futurism",
@@ -31612,7 +31732,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 60,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "bbc",
@@ -31620,7 +31740,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 23,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "addmeto",
@@ -31628,7 +31748,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "xor_journal",
@@ -31636,7 +31756,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 15,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "alfa_trends",
@@ -31644,7 +31764,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "antiinfosec",
@@ -31652,7 +31772,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "antidigital",
@@ -31660,7 +31780,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 15,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "anti_agi",
@@ -31668,15 +31788,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
       "name": "Яндекс Автономность · Telegram",
       "status": "ok",
       "scope": "known_post",
-      "found": 12,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "found": 9,
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -31684,14 +31804,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     },
     {
       "id": "rozetked",
@@ -31699,7 +31819,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 15,
-      "checked_at": "2026-11-23T10:57:00+00:00"
+      "checked_at": "2026-11-23T12:46:15+00:00"
     }
   ]
 }
