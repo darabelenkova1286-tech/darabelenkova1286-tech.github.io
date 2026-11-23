@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-23",
+  "items": [
+    {
+      "id": "yandex-rovers-spb-13-districts-2026",
+      "published": "2026-11-20",
+      "rubric": "yandex",
+      "title_ru": "Роверы Яндекса доставляют заказы в 13 районах Петербурга",
+      "title_en": "Yandex delivery robots now serve 13 St Petersburg districts",
+      "summary_ru": "По данным компании, с ноября 2025 года роверы выполнили в городе более 300 тысяч заказов, а площадь зон доставки превысила 80 км². Перед выходом в новый район Яндекс картографирует тротуары и согласует маршруты; цифры приведены самой компанией. Объявление вышло 20 ноября.",
+      "summary_en": "Yandex says its robots have completed more than 300,000 city orders since November 2025 and now cover delivery zones exceeding 80 sq km. The company maps sidewalks and agrees routes before entering a district. These are company-reported figures from November 20.",
+      "source": "https://t.me/autonomy_yandex/334",
+      "primary_source": "https://autonomy.yandex.ru/blog/bolee-300-tysyach-zakazov-za-god-i-13-rajonov-kak-nashi-rovery-osvaivayut-peterburg",
+      "primary_verified": true
+    },
+    {
+      "id": "apple-openevidence-health-ai-study-2026",
+      "published": "2026-11-15",
+      "rubric": "ai",
+      "title_ru": "Apple и OpenEvidence запустили исследование медицинского ИИ на iPhone",
+      "title_en": "Apple and OpenEvidence launch an iPhone health AI study",
+      "summary_ru": "Исследование в США открыто для максимум 200 тысяч участников старше 21 года с совместимым iPhone. Оно изучает доверие и понимание ответов ИИ; данные HealthKit передаются по желанию. Это исследовательское приложение, не сервис диагностики и не анонс массового медицинского ассистента. Apple объявила о нём 15 ноября.",
+      "summary_en": "The US study is open to up to 200,000 adults with a compatible iPhone. It examines trust in and comprehension of AI health answers; sharing HealthKit data is optional. This is a research app, not a diagnostic service or a mass-market medical assistant. Apple announced it on November 15.",
+      "source": "https://t.me/antidigital/12973",
+      "primary_source": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+      "primary_verified": true
+    }
+  ]
+}

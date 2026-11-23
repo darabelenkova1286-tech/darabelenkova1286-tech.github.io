@@ -2,6 +2,126 @@
 
 
 
+===== EDITION 7 — 2026-11-23 =====
+
+## От редакции
+
+Главное в выпуске — как Chrome проверяет ИИ-агентов в искусственной копии интернета и как Яндекс готовит автономные грузоперевозки к масштабированию. Отдельно разбираем доступ внешних агентов к Яндекс 360. Все три объявления вышли 19–20 ноября; дата этого выпуска — 23 ноября.
+
+## Editorial
+
+This edition looks at Chrome's synthetic web for testing AI agents, Yandex's proposed scale-up of autonomous freight, and external agent access to Yandex 360. The underlying announcements were published on November 19–20; this edition is dated November 23.
+
+
+----- 01-chrome-mirror-dimension (security) — primary: https://blog.google/security/mirror-dimension-for-agents/ -----
+
+## Русская версия
+
+Команда безопасности Chrome [описала](https://blog.google/security/mirror-dimension-for-agents/) 19 ноября внутреннюю среду Mirror Dimension для проверки браузерных ИИ-агентов. Агенту показывают привычные адреса сайтов, но его действия происходят в изолированной копии веба. Это позволяет повторять один и тот же сценарий, проверять защиту от вредоносных инструкций на страницах и не рисковать реальными учётными записями или заказами. Повод мы заметили в канале anti_agi; описание устройства среды проверили по публикации самих инженеров Google.
+
+Технически агент запускает Chrome без интерфейса в песочнице gVisor. Сетевые обращения перехватывает локальный прокси: запрос не уходит в публичный интернет, а возвращает созданную для теста страницу. Чтобы браузер не отклонял соединение как подмену сайта, внутри контролируемой песочницы установили собственный корневой сертификат. Прокси выпускает сертификаты для тестовых адресов. Такая схема предназначена для закрытой исследовательской среды, а не для браузеров пользователей.
+
+Google говорит о тысячах имитированных сайтов и автоматическом создании интерактивных страниц для многошаговых задач. Испытания охватывают и обычные действия, и попытки внедрить скрытые команды в текст страницы, изображения, подписи элементов или ответы инструментов. Команда утверждает, что её конвейер генерирует свыше тысячи вариантов атак в день на одного инженера. Это число характеризует объём тестов, а не успешность защиты: долю заблокированных атак публикация не приводит.
+
+### Почему это важно
+
+У браузерного агента есть возможность нажимать кнопки и заполнять формы, поэтому ошибка может иметь последствия за пределами чата. Изолированная среда делает испытания повторяемыми и позволяет проверять неожиданные действия до выхода в обычный веб. Но наличие такой лаборатории само по себе не доказывает, что агент безопасен в реальном интернете: публичных результатов испытаний в сообщении нет.
+
+## English version
+
+Chrome's security team [described](https://blog.google/security/mirror-dimension-for-agents/) its internal Mirror Dimension environment on November 19. It gives browser agents familiar website addresses while keeping their actions inside a synthetic web. Engineers can replay a task from the same starting state, probe defenses against malicious instructions embedded in pages, and avoid making real purchases or changing real accounts. We found the story in anti_agi and checked the implementation details against Google's own engineering post.
+
+The agent runs headless Chrome inside a gVisor sandbox. A local proxy intercepts network requests and serves generated pages instead of sending traffic to the public internet. The sandbox has its own trusted root certificate, allowing the proxy to issue certificates for the test addresses without triggering Chrome's normal TLS warnings. That trust setup exists inside a controlled evaluation environment; it is not a change to users' browsers.
+
+Google says the environment contains thousands of simulated sites and can generate interactive pages for tasks that span several steps. The team tests ordinary workflows alongside attempts to smuggle instructions through page text, images, accessibility labels, or tool responses. It says its pipeline creates more than a thousand attack candidates per engineer per day. That is a measure of test volume, not a published success rate for Chrome's defenses. The post gives no comparable figure for how often the agent resists those attacks.
+
+### Why it matters
+
+A browsing agent can click controls and fill forms, so its mistakes can reach beyond a conversation. A sealed, repeatable web makes it possible to examine risky behavior before an agent acts on live sites. The engineering method is concrete, but the public description does not establish how safe the resulting agent is in the open web. Independent assessment would need outcome data that Google has not provided here.
+
+
+----- 02-yandex-robotruck-partnerships (business) — primary: https://autonomy.yandex.ru/blog/magnit-i-iteco-mogut-priobresti-bolee-2000-robotrakov-yandeksa -----
+
+## Русская версия
+
+Яндекс [сообщил](https://autonomy.yandex.ru/blog/magnit-i-iteco-mogut-priobresti-bolee-2000-robotrakov-yandeksa/) 20 ноября о соглашениях с логистической компанией ITECO и ритейлером «Магнит» по автономным грузоперевозкам. По версии компании, партнёры *могут* приобрести более 2000 тягачей в 2028–2030 годах. Формулировка важна: сообщение не означает, что машины уже куплены, поставлены или вышли на маршруты в таком количестве. О событии сообщили и официальный блог, и Telegram-канал Яндекс Автономности; в выпуске это одна история.
+
+ITECO заявляет план приобрести 2000 роботраков, опираясь на свою сеть автопредприятий и технических центров. «Магнит» рассматривает перевозки между распределительными центрами, но точное число машин и рейсов будет зависеть от результатов испытаний. Компании также намерены изучить автоматическую постановку тягачей под загрузку и выгрузку, а для городов — возможность автономной доставки последней мили. Ни один из этих дополнительных сценариев не объявлен действующей услугой.
+
+Отдельная часть договорённостей — новая коммерческая схема. Яндекс планирует впервые для своего проекта предлагать технологию автономного вождения по подписке отдельно от самого тягача с датчиками. Расчёт может идти за километр автономного движения или за время использования; модель ещё выбирают под задачи клиентов. Это потенциально отделяет продажу автомобиля от обновляемого программного управления и обслуживания флота.
+
+Контраст с сегодняшним масштабом существенный: по собственным данным Яндекса, его коммерческий парк состоит из 27 роботраков, а до конца 2026 года он рассчитывает добавить ещё 70. Машины выполняют партнёрские рейсы на М-4, М-11 и ЦКАД. В публикации также описан летний автономный проезд из Москвы в Петербург, но тогда в кабине находился водитель-испытатель.
+
+### Почему это важно
+
+Соглашения показывают, какие объёмы логистические компании готовы обсуждать для автономных перевозок. Они ещё не подтверждают масштабный рынок: поставки и экономика подписки зависят от испытаний, инфраструктуры и решений партнёров. За ближайшими результатами тестов стоит следить внимательнее, чем за максимальным числом в заголовке.
+
+## English version
+
+Yandex [announced](https://autonomy.yandex.ru/blog/magnit-i-iteco-mogut-priobresti-bolee-2000-robotrakov-yandeksa/) cooperation agreements with logistics operator ITECO and retailer Magnit on November 20. According to the company, the partners *may* acquire more than 2,000 autonomous trucks between 2028 and 2030. The conditional language matters: the announcement is not evidence that the vehicles have been ordered, delivered, or placed in service at that scale. Yandex's blog and its Telegram channel describe the same event, which appears here only once.
+
+ITECO plans to acquire 2,000 trucks and points to its network of transport businesses and service centers as support for a larger fleet. Magnit is considering freight between distribution centers, but the actual number of vehicles and trips will depend on test results. The partners also intend to study automated positioning for loading and unloading. Magnit and Yandex will assess possible use in urban last-mile delivery. Those additional scenarios are proposals, not operating services.
+
+The agreements also introduce a possible commercial model. Yandex says it will offer its autonomous-driving technology as a subscription separate from the sensor-equipped truck. It is considering charging for autonomous kilometers or for time using the system, depending on each customer's needs. The model could separate vehicle ownership from software and fleet-management costs, though the pricing choice has not been finalized.
+
+For scale, Yandex says its current commercial fleet has 27 autonomous trucks and that it plans to add another 70 before the end of 2026. They run partner routes on the M-4, M-11, and Central Ring Road. Yandex also cites a summer drive from Moscow to St Petersburg without driver intervention, while noting that a test driver remained in the cab.
+
+### Why it matters
+
+These agreements show the volume major freight operators are willing to explore. They do not yet establish a market of thousands of deployed trucks. Testing, infrastructure, partner decisions, and the economics of the subscription will determine whether the proposed scale becomes real. The results of those trials are a more useful next milestone than the headline's maximum vehicle count.
+
+
+----- 03-yandex-360-mcp (yandex) — primary: https://www.yandex.ru/company/news/20-11-2026-02 -----
+
+## Русская версия
+
+Яндекс 360 [объявил](https://www.yandex.ru/company/news/20-11-2026-02/) 20 ноября о запуске MCP-сервера в режиме предварительного доступа. Через него внешние ИИ-агенты могут обращаться к инструментам виртуального офиса: Почте, Диску, Календарю, Телемосту, Вики, Трекеру и Формам. Повод появился в anti_agi; перечень сервисов и условия подключения мы сверили с заявлением Яндекса. Это доступ к инструментам для настроенных агентов, а не автоматическое включение ИИ во все аккаунты.
+
+Механика строится на Model Context Protocol — открытом способе связывать ассистента с внешними сервисами. Пользователь может попросить агента найти письмо, собрать сведения из документов или подготовить встречу. Компания говорит, что её сервер работает на стороне Яндекс 360, а разработчикам и пользователям нужно настроить своего агента и подключение. Поддерживаются внешние интерфейсы, включая ChatGPT, Claude и DeepSeek, а также решения Яндекса.
+
+Наиболее важное ограничение касается прав доступа. По описанию компании, агент получает те же разрешения, что и пользователь, и может применять только разрешённые инструменты. Например, он способен составить черновик письма, но не может отправить письмо от имени человека. Для рабочих данных это не отменяет необходимости выбирать, какому агенту доверить подключение, и проверять результат его действий. Открытый протокол упрощает интеграцию, однако сам по себе не даёт гарантии точности решений агента.
+
+В предварительном режиме подключиться могут организации — клиенты Яндекс 360 и пользователи с платной подпиской. В сообщении также упомянуто управление составом рабочих групп через MCP для корпоративных аккаунтов. Доступность каждого действия зависит от конкретных прав и настройки инструмента; утверждать, что любой агент уже может выполнять его у каждого клиента, было бы неверно. Компания обещает добавить поддержку других сервисов позднее.
+
+### Почему это важно
+
+Офисный ИИ становится полезнее, когда может работать с актуальной почтой, файлами и календарём, а не только отвечать по общим знаниям. Одновременно растёт цена ошибки и важность разграничения доступа. Для оценки новинки стоит смотреть на практические разрешения, журналы действий и качество результатов в предварительном режиме, а не только на список совместимых ассистентов.
+
+## English version
+
+Yandex 360 [announced](https://www.yandex.ru/company/news/20-11-2026-02/) a preview MCP server on November 20. It lets configured external AI agents use tools across Mail, Disk, Calendar, Telemost, Wiki, Tracker, and Forms. We spotted the announcement in anti_agi and checked the supported services and access conditions against Yandex's own statement. This is an integration for connected agents, not an automatic AI switch turned on for every account.
+
+The connection uses Model Context Protocol, an open method for linking an assistant to outside services. A user could ask an agent to find a message, gather details from documents, or prepare a calendar event. Yandex says it hosts the server on its side; developers and customers still have to configure their agents and connections. The announcement names external interfaces such as ChatGPT, Claude, and DeepSeek alongside Yandex's own AI products.
+
+Permissions are the central limit. According to Yandex, an agent inherits the user's access level and can use only the tools granted to it. It can draft an email, for example, but cannot send it on a person's behalf. That restriction does not remove the need to choose a trustworthy agent, review proposed actions, and check its output before relying on it for work. A shared protocol simplifies integration; it does not guarantee that an agent will reason correctly about private data.
+
+The preview is available to Yandex 360 business customers and users with paid subscriptions. The company also describes organization-management functions, such as changing work groups, for business accounts. The actions any particular agent can perform still depend on permissions and tool configuration. It would overstate the launch to say every customer can already automate every office task. Yandex says more services will gain support later.
+
+### Why it matters
+
+Office agents become more useful when they can work with current mail, files, and calendars instead of only general knowledge. Their mistakes also become more consequential. The practical test for this preview will be how clearly customers can control permissions, inspect actions, and verify outcomes, rather than how many assistant names appear in the compatibility list.
+
+
+----- yandex-rovers-spb-13-districts-2026 (yandex) — primary: https://autonomy.yandex.ru/blog/bolee-300-tysyach-zakazov-za-god-i-13-rajonov-kak-nashi-rovery-osvaivayut-peterburg -----
+
+Роверы Яндекса доставляют заказы в 13 районах Петербурга
+
+По данным компании, с ноября 2025 года роверы выполнили в городе более 300 тысяч заказов, а площадь зон доставки превысила 80 км². Перед выходом в новый район Яндекс картографирует тротуары и согласует маршруты; цифры приведены самой компанией. Объявление вышло 20 ноября.
+Yandex delivery robots now serve 13 St Petersburg districts
+
+Yandex says its robots have completed more than 300,000 city orders since November 2025 and now cover delivery zones exceeding 80 sq km. The company maps sidewalks and agrees routes before entering a district. These are company-reported figures from November 20.
+
+
+----- apple-openevidence-health-ai-study-2026 (ai) — primary: https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/ -----
+
+Apple и OpenEvidence запустили исследование медицинского ИИ на iPhone
+
+Исследование в США открыто для максимум 200 тысяч участников старше 21 года с совместимым iPhone. Оно изучает доверие и понимание ответов ИИ; данные HealthKit передаются по желанию. Это исследовательское приложение, не сервис диагностики и не анонс массового медицинского ассистента. Apple объявила о нём 15 ноября.
+Apple and OpenEvidence launch an iPhone health AI study
+
+The US study is open to up to 200,000 adults with a compatible iPhone. It examines trust in and comprehension of AI health answers; sharing HealthKit data is optional. This is a research app, not a diagnostic service or a mass-market medical assistant. Apple announced it on November 15.
+
+
 ===== EDITION 6 — 2026-11-20 =====
 
 ## От редакции

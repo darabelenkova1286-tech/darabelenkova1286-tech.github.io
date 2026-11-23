@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chrome построил искусственный интернет для испытания браузерных ИИ-агентов - dashka-wire</title>
+<meta name="description" content="An isolated environment lets engineers test agent actions and web-borne attacks without touching real sites.">
+<link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="../../assets/style.css">
+<link rel="canonical" href="https://darabelenkova1286-tech.github.io/e/2026-11-23/01-chrome-mirror-dimension.html">
+<link rel="alternate" type="application/rss+xml" title="dashka-wire" href="https://darabelenkova1286-tech.github.io/feed.xml">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Chrome built a synthetic web to test browser agents", "alternativeHeadline": "Chrome построил искусственный интернет для испытания браузерных ИИ-агентов", "datePublished": "2026-11-23", "inLanguage": ["ru", "en"], "isBasedOn": "https://blog.google/security/mirror-dimension-for-agents/", "author": {"@type": "Organization", "name": "dashka-wire (automated)", "url": "https://darabelenkova1286-tech.github.io/"}, "publisher": {"@type": "Person", "name": "darabelenkova1286-tech", "url": "https://github.com/darabelenkova1286-tech"}, "mainEntityOfPage": "https://darabelenkova1286-tech.github.io/e/2026-11-23/01-chrome-mirror-dimension.html"}</script>
+</head>
+<body>
+<div class="loader" id="loader" aria-hidden="true"><span></span><span></span><span></span></div>
+<header class="masthead">
+  <a class="brand" href="../../index.html"><img class="logo" src="../../assets/logo.svg" alt="">DASHKA WIRE</a>
+  <nav>
+    <a href="../../archive.html" class="nav-link"><span class="lang-ru">Архив</span><span class="lang-en">Archive</span></a>
+    <a href="../../about.html" class="nav-link"><span class="lang-ru">Кухня</span><span class="lang-en">About</span></a>
+    <a href="https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io" class="nav-link">GitHub</a>
+    <button id="langToggle" class="lang-toggle" aria-label="Switch language">EN</button>
+  </nav>
+</header>
+<main>
+<article class="article">
+  <p class="kicker"><span class="badge"><span class="lang-ru">Безопасность</span><span class="lang-en">Security</span></span> &middot; 2026-11-23 &middot; <a href="index.html"><span class="lang-ru">весь выпуск</span><span class="lang-en">full edition</span></a></p>
+  <h1><span class="lang-ru">Chrome построил искусственный интернет для испытания браузерных ИИ-агентов</span><span class="lang-en">Chrome built a synthetic web to test browser agents</span></h1>
+  <p class="dek big"><span class="lang-ru">Изолированная среда позволяет испытывать действия агентов и атаки через веб-страницы без обращения к настоящим сайтам.</span><span class="lang-en">An isolated environment lets engineers test agent actions and web-borne attacks without touching real sites.</span></p>
+  <div class="rating-widget" data-feedback-id="https://t.me/anti_agi/2329" data-feedback-title="Chrome построил искусственный интернет для испытания браузерных ИИ-агентов" data-feedback-rubric="security"></div>
+
+
+  <div class="prose lang-ru"><p>Команда безопасности Chrome <a href="https://blog.google/security/mirror-dimension-for-agents/">описала</a> 19 ноября внутреннюю среду Mirror Dimension для проверки браузерных ИИ-агентов. Агенту показывают привычные адреса сайтов, но его действия происходят в изолированной копии веба. Это позволяет повторять один и тот же сценарий, проверять защиту от вредоносных инструкций на страницах и не рисковать реальными учётными записями или заказами. Повод мы заметили в канале anti_agi; описание устройства среды проверили по публикации самих инженеров Google.</p>
+<p>Технически агент запускает Chrome без интерфейса в песочнице gVisor. Сетевые обращения перехватывает локальный прокси: запрос не уходит в публичный интернет, а возвращает созданную для теста страницу. Чтобы браузер не отклонял соединение как подмену сайта, внутри контролируемой песочницы установили собственный корневой сертификат. Прокси выпускает сертификаты для тестовых адресов. Такая схема предназначена для закрытой исследовательской среды, а не для браузеров пользователей.</p>
+<p>Google говорит о тысячах имитированных сайтов и автоматическом создании интерактивных страниц для многошаговых задач. Испытания охватывают и обычные действия, и попытки внедрить скрытые команды в текст страницы, изображения, подписи элементов или ответы инструментов. Команда утверждает, что её конвейер генерирует свыше тысячи вариантов атак в день на одного инженера. Это число характеризует объём тестов, а не успешность защиты: долю заблокированных атак публикация не приводит.</p>
+<h3>Почему это важно</h3>
+<p>У браузерного агента есть возможность нажимать кнопки и заполнять формы, поэтому ошибка может иметь последствия за пределами чата. Изолированная среда делает испытания повторяемыми и позволяет проверять неожиданные действия до выхода в обычный веб. Но наличие такой лаборатории само по себе не доказывает, что агент безопасен в реальном интернете: публичных результатов испытаний в сообщении нет.</p></div>
+  <div class="prose lang-en"><p>Chrome's security team <a href="https://blog.google/security/mirror-dimension-for-agents/">described</a> its internal Mirror Dimension environment on November 19. It gives browser agents familiar website addresses while keeping their actions inside a synthetic web. Engineers can replay a task from the same starting state, probe defenses against malicious instructions embedded in pages, and avoid making real purchases or changing real accounts. We found the story in anti_agi and checked the implementation details against Google's own engineering post.</p>
+<p>The agent runs headless Chrome inside a gVisor sandbox. A local proxy intercepts network requests and serves generated pages instead of sending traffic to the public internet. The sandbox has its own trusted root certificate, allowing the proxy to issue certificates for the test addresses without triggering Chrome's normal TLS warnings. That trust setup exists inside a controlled evaluation environment; it is not a change to users' browsers.</p>
+<p>Google says the environment contains thousands of simulated sites and can generate interactive pages for tasks that span several steps. The team tests ordinary workflows alongside attempts to smuggle instructions through page text, images, accessibility labels, or tool responses. It says its pipeline creates more than a thousand attack candidates per engineer per day. That is a measure of test volume, not a published success rate for Chrome's defenses. The post gives no comparable figure for how often the agent resists those attacks.</p>
+<h3>Why it matters</h3>
+<p>A browsing agent can click controls and fill forms, so its mistakes can reach beyond a conversation. A sealed, repeatable web makes it possible to examine risky behavior before an agent acts on live sites. The engineering method is concrete, but the public description does not establish how safe the resulting agent is in the open web. Independent assessment would need outcome data that Google has not provided here.</p></div>
+  <p class="srcline"><span class="lang-ru">Первоисточник:</span><span class="lang-en">Primary source:</span> <a href="https://blog.google/security/mirror-dimension-for-agents/">https://blog.google/security/mirror-dimension-for-agents/</a><br><span class="lang-ru">Обнаружено через:</span><span class="lang-en">Found via:</span> <a href="https://t.me/anti_agi/2329">https://t.me/anti_agi/2329</a></p>
+</article>
+</main>
+<footer>
+  <p class="lang-ru">Автор проекта: <a href="https://github.com/darabelenkova1286-tech">darabelenkova1286-tech</a>. Утренний выпуск собирается из проверенных источников.</p>
+  <p class="lang-en">A morning edition by <a href="https://github.com/darabelenkova1286-tech">darabelenkova1286-tech</a>, grounded in verified sources.</p>
+  <p><a href="https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io">DASHKA WIRE</a> &middot; <a href="https://github.com/ADanMan/frontier-wire">Основа: Frontier Wire</a> &middot; MIT</p>
+</footer>
+<script src="../../assets/site.js"></script>
+</body>
+</html>
