@@ -1,6 +1,286 @@
 {
-  "updated_at": "2026-11-24T00:52:57+00:00",
+  "updated_at": "2026-11-24T10:56:28+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1041084/metas-muse-agent-launches-in-the-uk",
+      "title": "Meta’s Muse agent launches in the UK.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "title": "shopping agent",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1041078/honors-magic-9-pro-max-leaves-china",
+      "title": "Honor’s Magic 9 Pro Max leaves China.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+      "title": "launched in China",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6gre58d2kn4o",
+      "title": "Teenager charged in online harm investigation",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c65y1vk4wp7po",
+      "title": "From dancing on the Tube to being sectioned: Sabrina Bahsoon on her psychosis misdiagnosis",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o",
+      "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c539gj9rnnx2o",
+      "title": "The friends who spent £1,000 each on a Sinclair C5 - but why?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cq1j6dl70l91o",
+      "title": "Esports gave me a place to belong, says student",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/reviews/49624-obzor-yandeks-pin-nosimoe-ii-ustroystvo-s-alisoy-ai",
+      "title": "Обзор «Яндекс Пин»: носимое ИИ-устройство с «Алисой AI»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49647-huawei-predstavila-tonchayshie-umnye-chasy-watch-air",
+      "title": "Huawei представила тончайшие умные часы Watch Air",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49649-motorola-predstavila-srednebyudzhetnyy-smartfon-edge-70-neo",
+      "title": "Motorola представила среднебюджетный смартфон Edge 70 Neo",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49646-dokumentalka-uvidet-vse-vyshla-v-cifre",
+      "title": "Мета-документалка «Увидеть всё» вышла в «цифре»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49645-ugreen-i-honkai-star-rail-predstavili-v-rossii-lineyku-zaryadnyh-ustroystv-i-aksessuarov",
+      "title": "Ugreen и Honkai: Star Rail представили в России линейку зарядных устройств и аксессуаров",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49644-yandeks-predstavil-pin-s-alisoy-ai-lichnyy-sekretar-v-vide-nosimogo-ii-ustroystva",
+      "title": "«Яндекс» представил «Пин» с «Алисой AI»: личный секретарь в виде носимого ИИ-устройства",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49643-oneplus-zakryla-svoi-sayty-v-ssha-i-nekotoryh-drugih-regionah",
+      "title": "OnePlus закрыла свои сайты в США и некоторых других регионах",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49642-sber-otkryl-pervyy-v-rossii-ofis-s-cifrovym-sotrudnikom",
+      "title": "«Сбер» открыл первый в России офис с цифровым сотрудником",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49641-na-kickstarter-sobirayut-na-borslon-eksperimental-nuyu-komp-yuternuyu-mysh--napal-chnik",
+      "title": "На Kickstarter собирают на Borslon — необычную компьютерную мышь-напальчник",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2336",
+      "title": "🤖 AID — AI-дайджест от @anti_agi Трамп поставил Хуанга на место . И это место — во главе Nvidia. Совет директоров единогласно вернул Дженсена Хуанга на пост CEO, президента и члена правления меньше чем через две недели после громкой отставки. В заявлении сказано, что после консультаций с представителями администрации США совет «уверен» в отсутствии",
+      "published": "2026-11-24T10:20:22+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12985",
+      "title": "Боже, какая безумная история. Китайские ТВ-приставки превратили в фабрику фальшивой рекламы, которая на пике генерировала до 40 млрд рекламных запросов в сутки. При этом владельцы устройств даже не подозревали, что их телевизоры участвуют в рекламном мошенничестве. Схему Badbox 3.0 раскрыла американская компания HUMAN Security. По её данным, на неё",
+      "published": "2026-11-24T10:11:15+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12984",
+      "title": "Доброе утро! ❤️ 1️⃣ Крупнейшие рекламодатели за восемь месяцев 2026 г. сократили присутствие на главных страницах Wildberries (с 70% до 62%) и «Яндекс Маркета» (с 84% до 73%), однако нарастили размещение на Ozon (до 84%). Сам рынок онлайн ретейл-медиа продолжит расти и к 2027 г. достигнет 1,2 трлн руб. (+41%). 2️⃣ Публичный Wi-Fi в России оказался ",
+      "published": "2026-11-24T09:38:25+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1685",
+      "title": "В мире появился новый браузерный движок — впервые за много лет 🐞 Разработчики представили альфа-версию Ladybird — независимого браузера с собственным движком, который написали с нуля. За проектом стоит некоммерческая организация. Её цель — создать независимый, быстрый и безопасный браузер , который не будет опираться на существующие браузерные движ",
+      "published": "2026-11-24T09:16:26+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/xor_journal/10594",
+      "title": "Секрет успешных вайбкодеров прост 😁 @xor_journal",
+      "published": "2026-11-24T09:09:51+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12983",
+      "title": "Конвейер по чеканке монет из молекул Классический венчурный биотех десятилетиями работал по одной и той же изнурительной схеме: фонды вкладывали $50–100 млн в университетский спин-офф, нанимали профессоров и пять–семь лет ждали, пока сырая идея из пробирки доберётся хотя бы до первых испытаний на людях. Вероятность провала при таком подходе зашкали",
+      "published": "2026-11-24T09:07:01+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10593",
+      "title": "«Мы работаем по Scrum, но…» Знакомо? В новом выпуске «Решительного совета» руководители R&D разбирают, почему фреймворки из книг и докладов редко работают «как написано». Какие проблемы возникают при «натягивании» чужих подходов. Какую задачу на самом деле решают все фреймворки и методологии (спойлер: не контроль). Почему компании добиваются отличн",
+      "published": "2026-11-24T08:05:04+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/autonomy_yandex/344",
+      "title": "Готовимся к заселению 🏡",
+      "published": "2026-11-24T08:00:22+00:00",
+      "source_id": "autonomy_yandex_tg",
+      "source_name": "Яндекс Автономность · Telegram",
+      "tier": "russia",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10592",
+      "title": "Вышло слишком реалистично 🥲 @xor_journal",
+      "published": "2026-11-24T07:27:59+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12979",
+      "title": "Большой брат на магнитике «Яндекс» выпустил Пин — небольшое носимое устройство, которое записывает разговоры в течение дня, а затем с помощью Алисы AI превращает их в расшифровки, конспекты и списки задач. Гаджет весит всего 16 г, крепится к одежде на магнит и стоит 19 990 рублей . Редакция @antidigital протестировала устройство и попробовала разоб",
+      "published": "2026-11-24T07:01:01+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-24T10:56:28+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
       "title": "Welcome to elite impunity, Jensen Huang",
@@ -32668,23 +32948,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 47,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "found": 46,
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 61,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "found": 62,
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "futurism",
@@ -32692,7 +32972,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "bbc",
@@ -32700,7 +32980,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 16,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "addmeto",
@@ -32708,15 +32988,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 14,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "found": 15,
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "alfa_trends",
@@ -32724,7 +33004,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "antiinfosec",
@@ -32732,15 +33012,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "antidigital",
       "name": "antidigital",
       "status": "ok",
       "scope": "known_post",
-      "found": 15,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "found": 16,
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "anti_agi",
@@ -32748,7 +33028,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -32756,7 +33036,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 9,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -32764,22 +33044,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "checked_at": "2026-11-24T10:56:28+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 15,
-      "checked_at": "2026-11-24T00:52:57+00:00"
+      "found": 14,
+      "checked_at": "2026-11-24T10:56:28+00:00"
     }
   ]
 }
