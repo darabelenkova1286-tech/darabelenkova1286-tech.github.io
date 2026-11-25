@@ -1,6 +1,566 @@
 {
-  "updated_at": "2026-11-25T04:14:25+00:00",
+  "updated_at": "2026-11-25T14:29:47+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1005781/small-prophets-review-apple-tv",
+      "title": "Apple TV’s great year continues with Small Prophets",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/science/1042084/watch-the-us-army-detonate-nearly-10000-lbs-of-unstable-lead",
+      "title": "Watch the US Army detonate nearly 10,000 lbs of unstable lead.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/podcast/1042079/ai-crypto-election-money-2028-vergecast",
+      "title": "Today’s Vergecast: Big Tech is ready to spend even bigger to win in 2028.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa",
+      "title": "‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale",
+      "title": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1042052/custom-watch-draws-time-sand-sugar-3d-printed-strange-inventions",
+      "title": "A watch that draws the time in powder is not for the impatient.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1042055/a-ponytailed-man-in-denver-has-been-egging-waymos",
+      "title": "A ponytailed man in Denver has been egging Waymos.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1042054/who-needs-gta",
+      "title": "Who needs GTA?",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games-review/684518/mario-kart-world-review-nintendo-switch-2",
+      "title": "Mario Kart World",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
+      "title": "Tapo’s new indoor security camera includes a touchscreen for video calls",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1042044/ea-sports-fc-is-resurrecting-a-deceased-commentator-with-ai",
+      "title": "EA Sports FC is resurrecting a deceased commentator with AI.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1041707/you-can-now-download-free-apps-for-the-busy-bar",
+      "title": "You can now download free apps for the Busy Bar.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1024329/flipper-zero-devices-busy-bar-third-party-javascript-apps",
+      "title": "firmware update earlier this month that added a JavaScript runtime",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1042041/australia-just-passed-its-own-online-safety-law",
+      "title": "Australia just passed its own online safety law.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+      "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1042020/lenovos-leaked-go-beam-handheld-will-apparently-run-android",
+      "title": "Lenovo’s leaked Go Beam handheld will apparently run Android.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/1042015/amazon-autos-uk-launch",
+      "title": "Amazon Autos is coming to the UK.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/artificial-intelligence/parallels-nvidia-enron",
+      "title": "The Parallels Between Nvidia and Enron Are Starting to Get Downright Bizarre",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c65y12442ezxo",
+      "title": "New drones could tackle crime 'within 30 seconds'",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cv4gnekn7kwpo",
+      "title": "Japanese technology company to create 200 new jobs",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
+      "title": "EA adds AI-generated John Motson to FC 27 video game",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo",
+      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno",
+      "title": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqpv9kljx79mo",
+      "title": "Team learning climate change lessons from farmers",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqx2ev4e19zpo",
+      "title": "Girls fear real life consequences of misogyny",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo",
+      "title": "Festive market cancels bookings after AI backlash",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49672-mir-pay-teper-rabotaet-na-smart-chasah-galaxy-watch-kakie-modeli-podderzhivayutsya",
+      "title": "Mir Pay теперь работает на смарт-часах Galaxy Watch — какие модели поддерживаются?",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49667-agentnyy-rezhim-deystvuy-v-alise-ai-zarabotal-u-pol-zovateley-bez-podpiski-vozmozhno-po-oshibke",
+      "title": "Агентный режим «Действуй!» в «Алисе AI» заработал у пользователей до официального запуска",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/reviews/49601-obzor-sberbum-trek-bol-she-chem-kolonka-s-batareykoy",
+      "title": "Обзор «СберБум Трек»: умная колонка без привязки к розетке",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49679-bloomberg-sotrudniki-apple-uzhe-ispol-zuyut-ipad-na-macos",
+      "title": "Bloomberg: сотрудники Apple уже используют iPad на macOS",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/articles/49673-vo-vkusno-i-tochka-startovali-al-piyskie-nedeli-chto-v-menyu",
+      "title": "Во «Вкусно — и точка» стартовали «Альпийские недели». Что в меню?",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49678-v-max-poyavilas-vozmozhnost-pred-yavit-qr-kod-v-kachestve-zameny-voditel-skim-prav",
+      "title": "В Max появилась возможность предъявить QR-код в качестве замены водительских прав",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49677-tri-luchshih-prilozheniya-kotorye-my-nashli-za-etu-nedelyu",
+      "title": "Три лучших приложения, которые мы нашли за эту неделю 🔄",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49675-xiaomi-otchitalas-o-trehkratnom-padenii-pribyli-v-3-kvartale-2026-goda",
+      "title": "Xiaomi отчиталась о трёхкратном падении прибыли в 3 квартале 2026 года",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49674-yandeks-brauzer-ubral-upominaniya-anonimnosti-sobiraemyh-dannyh-iz-soglasheniya",
+      "title": "«Яндекс Браузер» убрал упоминания анонимности собираемых данных из соглашения",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49671-dve-ps5-vyshli-iz-stroya-vo-vremya-strimov-gta-vi-odna-iz-nih-zagorelas",
+      "title": "Две PS5 вышли из строя во время стримов GTA VI — одна из них загорелась",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "published": "2026-11-25T14:10:18+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12996",
+      "title": "На все спутники ракет не хватит! Коллеги из @anti_space пишут, что тысячи собранных спутников Amazon Leo пылятся на складах без шансов в ближайшее время попасть на орбиту. Одновременно слоты на ещё не летавшую ракету Neutron от Rocket Lab раскупили уже до 2030-х годов , причем по повышенным ценам ( $70 млн за пуск вместо первоначальных $55 млн ). В",
+      "published": "2026-11-25T13:36:58+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2339",
+      "title": "Плата без интеллекта ИИ-индустрия добралась до стеклоткани. Global Electronics Association предупреждает : закупки материалов для печатных плат у дата-центров теперь оттесняют в очередь автопром, промышленность, медицинскую и военную технику. Ассоциация сравнивает возможные последствия с кризисом чипов. Только теперь электроника рискует остаться бе",
+      "published": "2026-11-25T13:35:32+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1690",
+      "title": "ЭРА ФАНТЕХА начинается с Альфа-Банка. Финансы, выгода и развлечения — теперь на ОДНОЙ ПЛАТФОРМЕ 😂 ❤️ Смотрим в будущее — и видим в нём ФАН . Запускаем большое обновление приложения Альфа-Банка — и превращаем его в персонализированную фантех-платформу . В основу положили мини-приложение «Деньги» , которое сделало банковские операции ещё быстрее. Ряд",
+      "published": "2026-11-25T13:14:19+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty",
+      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "published": "2026-11-25T13:08:19+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12995",
+      "title": "От «Агуши» к чипам Компанию «НМ-тех» возглавил Сергей Царапкин. С 2022 г. он занимал там должность исполнительного директора , а до прихода в «НМ-тех» руководил заводом «Уралхиммаш» и возглавлял направление детского питания в «Вимм-Билль-Данн» (бренд «Агуша»). Назначение произошло на этой неделе. Царапкин сменил на посту генерального директора Дени",
+      "published": "2026-11-25T13:03:58+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "published": "2026-11-25T13:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1689",
+      "title": "В России спроектировали первый подземный ЦОД на 4200 ИИ-стоек 👇 В Сибири построят подземный центр обработки данных G-System. Инвестиции в проект оцениваются в 15,58 млрд рублей . Над дата-центром появится 160-метровый бизнес-центр. Тепло от серверов будут использовать для отопления гостиниц , офисов и образовательного центра, а также подогрева воды",
+      "published": "2026-11-25T12:40:55+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/xor_journal/10600",
+      "title": "Учиться на программистов все-таки придется — ученые выяснили, что вайбкодеры без знаний ИТ-основ справляются с задачами хуже 😧 Исследователи из ETH Zurich провели эксперимент со 100 студентами. Участникам предложили создать веб-приложения исключительно с помощью ИИ и промптов, даже не заглядывая в исходный код. По итогу выяснилось, что на успех в в",
+      "published": "2026-11-25T12:07:33+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12994",
+      "title": "🔀 Авито тестирует новую модель оплаты для продавцов: вместо просмотров — только контакты с покупателями Авито Товары с 1 декабря начнёт тестировать новую модель оплаты для профессиональных продавцов. В рамках пилота размещение объявлений и их просмотры станут бесплатными , а платить потребуется только за состоявшиеся звонки и переписки с потенциаль",
+      "published": "2026-11-25T12:04:53+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12993",
+      "title": "Сделать то, на чём споткнулась NASA Грузовой корабль «Прогресс МС-36» доставляет на МКС российского антропоморфного робота «Теледроид» , созданного магнитогорским НПО «Андроидная техника» совместно с ЦНИИмаш и РКК «Энергия» . В отличие от нашумевшего в 2019 году полноростового «Фёдора», который работал скорее как пиар-проект и только внутри станции",
+      "published": "2026-11-25T11:31:58+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12992",
+      "title": "Квантовый чип без морозилки Итальянский диптех-стартап Rotonium , основанный экс-главой производителя встраиваемых компьютеров Eurotech Роберто Сиагри и физиком Фабрицио Тамбурини , представил прототип фотонного квантового процессора размером 18×4 мм на четыре эффективных кубита, которому вообще не нужно охлаждение — ни для источника света, ни для ",
+      "published": "2026-11-25T10:35:12+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2338",
+      "title": "🤖 AID — AI-дайджест от @anti_agi За стремительным возвращением Дженсена Хуанга в кресло CEO Nvidia стояла скоординированная «военная комната» технолидеров Кремниевой долины, убедивших Дональда Трампа и вице-президента Джей Ди Вэнса , что только Хуанг способен удержать мировое лидерство американских открытых ИИ-моделей в гонке с Китаем. Впрочем, пос",
+      "published": "2026-11-25T10:11:16+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/12991",
+      "title": "Доброе утро! ❤️ 1️⃣ ФАС признала законность блокировки вызовов без маркировки, которую инициировали банкиры. После разбирательства операторы связи и кредитные организации договорились о тарифе на маркировку ниже 25 коп. (вместо изначальных 30 коп.). Операторы рассказали, что это позволило снизить число спам-звонков на 25–30%, однако сами банки оцен",
+      "published": "2026-11-25T09:00:26+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10599",
+      "title": "Работает — не трогай. Главное презентовать потом красиво 😁 @xor_journal",
+      "published": "2026-11-25T08:57:18+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1688",
+      "title": "Учёные нашли в мозге тормоз, который отбивает желание заниматься спортом 🥊 Оказывается, с годами мозг может буквально отбивать желание двигаться. Серотониновые клетки становятся активнее и подавляют нейронные цепи , отвечающие за мотивацию и физическую активность. Учёные изучили активность 72 человек и выяснили: участники 50–70 лет ходили медленнее",
+      "published": "2026-11-25T08:15:56+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/antiinfosec/316",
+      "title": "И даром не надо Исследователи обнаружили две не связанные между собой базы, доступные всем желающим без авторизации. В одной около 2 млрд записей с данными для входа, в другой — 1,64 млрд документов. Владельцев установить не удалось. Впрочем, требовать от людей представиться было бы неловко. Сами они у посетителей даже пароль не спрашивали. Первую ",
+      "published": "2026-11-25T08:10:27+00:00",
+      "source_id": "antiinfosec",
+      "source_name": "antiinfosec",
+      "tier": "russia",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/autonomy_yandex/345",
+      "title": "Публикация с медиа без подписи",
+      "published": "2026-11-25T07:01:11+00:00",
+      "source_id": "autonomy_yandex_tg",
+      "source_name": "Яндекс Автономность · Telegram",
+      "tier": "russia",
+      "first_seen": "2026-11-25T14:29:47+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
       "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
@@ -102,16 +662,6 @@
       "attribution": ""
     },
     {
-      "url": "https://futurism.com/future-society/elon-musk-breakdown-audience",
-      "title": "Elon Musk Seems to Have Some Kind of Breakdown in Front of Live Audience",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-25T04:14:25+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo",
       "title": "Why tiny cars are taking off across Europe",
       "published": null,
@@ -159,6 +709,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach",
+      "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+      "published": "2026-11-25",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T14:29:47+00:00",
       "attribution": ""
     },
     {
@@ -592,16 +1152,6 @@
       "attribution": ""
     },
     {
-      "url": "https://futurism.com/future-society/employees-disgusted-jensen-huang",
-      "title": "Nvidia Employees Disgusted by Decision to Rehire Sex Pest CEO Jensen Huang",
-      "published": null,
-      "source_id": "futurism",
-      "source_name": "Futurism",
-      "tier": "main",
-      "first_seen": "2026-11-24T21:12:45+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://futurism.com/category/elon-musk",
       "title": "More in Elon Musk",
       "published": null,
@@ -842,6 +1392,16 @@
       "attribution": ""
     },
     {
+      "url": "https://futurism.com/future-society/elon-musk-breakdown-audience",
+      "title": "Elon Musk Seems to Have Some Kind of Breakdown in Front of Live Audience",
+      "published": "2026-11-24T16:57:56-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
       "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
       "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
       "published": "2026-11-24T16:46:00+00:00",
@@ -897,6 +1457,16 @@
       "published": "2026-11-24T15:51:07+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-24T21:12:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/employees-disgusted-jensen-huang",
+      "title": "Nvidia Employees Disgusted by Decision to Rehire Sex Pest CEO Jensen Huang",
+      "published": "2026-11-24T15:47:44-05:00",
+      "source_id": "futurism",
+      "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-24T21:12:45+00:00",
       "attribution": ""
@@ -2242,16 +2812,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default",
-      "title": "Uber now lets you book rides that record the drive by default",
-      "published": "2026-11-23T14:00:00+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-24T00:52:57+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://futurism.com/future-society/jensen-huang-scandal-getting-worse",
       "title": "The Jensen Huang Scandal Is Getting Worse at the Exact Moment That Nvidia Rehired Him",
       "published": "2026-11-23T13:46:28-05:00",
@@ -2749,6 +3309,16 @@
       "source_name": "BBC Technology",
       "tier": "main",
       "first_seen": "2026-11-23T02:46:28+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default",
+      "title": "Uber now lets you book rides that record the drive by default",
+      "published": "2026-11-23",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-24T00:52:57+00:00",
       "attribution": ""
     },
     {
@@ -34038,23 +34608,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 56,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "found": 59,
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 60,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "found": 67,
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "futurism",
@@ -34062,15 +34632,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 16,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "found": 20,
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "addmeto",
@@ -34078,7 +34648,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "xor_journal",
@@ -34086,7 +34656,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 15,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "alfa_trends",
@@ -34094,7 +34664,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "antiinfosec",
@@ -34102,7 +34672,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "antidigital",
@@ -34110,7 +34680,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "anti_agi",
@@ -34118,7 +34688,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -34126,7 +34696,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 9,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -34134,22 +34704,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "checked_at": "2026-11-25T14:29:47+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 16,
-      "checked_at": "2026-11-25T04:14:25+00:00"
+      "found": 14,
+      "checked_at": "2026-11-25T14:29:47+00:00"
     }
   ]
 }
