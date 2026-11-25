@@ -1,6 +1,236 @@
 {
-  "updated_at": "2026-11-24T21:12:45+00:00",
+  "updated_at": "2026-11-25T04:14:25+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+      "title": "GTA VI PC recompilation project shut down by Take-Two",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/games/1041999/minecraft-youtuber-mike-tomlin-is-back",
+      "title": "Minecraft YouTuber Mike Tomlin is back.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1041988/utah-dropped-its-criminal-charges-against-kalshi",
+      "title": "Utah dropped its criminal charges against Kalshi.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1041937/you-can-see-everything-vod",
+      "title": "Now You Can See Everything without leaving your house.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1014687/fielder-holmes-you-can-see-everything",
+      "title": "Elizabeth Holmes documentary",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041882/anthropic-artifact-desktop-apps-mac-windows",
+      "title": "Anthropic rolls out “Install as app” on Mac and PC for Claude’s mini-app Artifacts.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "title": "Huawei found guilty of stealing trade secrets",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/policy/1041753/democrats-are-trying-to-nail-down-the-timeline-of-what-trump-knew-about-jensen-huang",
+      "title": "Democrats are trying to nail down the timeline of what Trump knew about Jensen Huang.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://futurism.com/future-society/elon-musk-breakdown-audience",
+      "title": "Elon Musk Seems to Have Some Kind of Breakdown in Front of Live Audience",
+      "published": null,
+      "source_id": "futurism",
+      "source_name": "Futurism",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo",
+      "title": "Why tiny cars are taking off across Europe",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/crz9dkw315xqo",
+      "title": "Virtual reality gives new view of Scotland's largest PoW camp",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "published": "2026-11-25T00:12:02+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary",
+      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "published": "2026-11-25T00:10:27+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "published": "2026-11-24T22:27:52+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "published": "2026-11-24T21:48:27+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once",
+      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+      "published": "2026-11-24T21:48:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
+      "title": "Even the best AI agents struggle with everyday life",
+      "published": "2026-11-24T21:33:29+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "published": "2026-11-24T21:32:38+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "published": "2026-11-24T21:19:52+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10598",
+      "title": "Вышла крошечная мощная нейросеть для распознавания документов — OCRia-nano-1 😨 У малютки всего 8 млн параметров, но она обрабатывает одну страницу за 426 мс на обычном процессоре, распознаёт сложные таблицы и поддерживает множество языков. При этом, по тестам разрабов, модель точнее Marker, PP-OCRv6 и Tesseract и в довесок еще и работает в 2–5 раз ",
+      "published": "2026-11-24T21:15:01+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
       "title": "Jensen Huang deepfakes are the hot new AI slop",
@@ -528,6 +758,16 @@
       "source_id": "rozetked",
       "source_name": "Rozetked",
       "tier": "backup",
+      "first_seen": "2026-11-24T21:12:45+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report",
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "published": "2026-11-24T21:09:04+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
       "first_seen": "2026-11-24T21:12:45+00:00",
       "attribution": ""
     },
@@ -1702,16 +1942,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report",
-      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-      "published": "2026-11-24",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-24T21:12:45+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers",
       "title": "Figma employee sues, alleging company forced her to confront harassers",
       "published": "2026-11-23T23:07:49+00:00",
@@ -2522,16 +2752,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "published": "2026-11-23T01:25:53+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-23T02:46:28+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet",
       "title": "Jensen Huang isn’t out of the woods yet",
       "published": "2026-11-23",
@@ -3019,6 +3239,16 @@
       "source_name": "Futurism",
       "tier": "main",
       "first_seen": "2026-11-22T15:18:59+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "published": "2026-11-22",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-23T02:46:28+00:00",
       "attribution": ""
     },
     {
@@ -5082,16 +5312,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones",
-      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "published": "2026-11-19T23:37:56+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-20T03:17:59+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style",
       "title": "These tech outages are giving Y2K, AI agent style",
       "published": "2026-11-19T21:42:31+00:00",
@@ -6639,6 +6859,16 @@
       "source_name": "TechCrunch",
       "tier": "main",
       "first_seen": "2026-11-19T03:29:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "published": "2026-11-19",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-20T03:17:59+00:00",
       "attribution": ""
     },
     {
@@ -33808,23 +34038,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 53,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "found": 56,
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 66,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "found": 60,
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "futurism",
@@ -33832,15 +34062,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 59,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 14,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "found": 16,
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "addmeto",
@@ -33848,7 +34078,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "xor_journal",
@@ -33856,7 +34086,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 15,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "alfa_trends",
@@ -33864,7 +34094,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "antiinfosec",
@@ -33872,7 +34102,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "antidigital",
@@ -33880,7 +34110,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "anti_agi",
@@ -33888,7 +34118,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -33896,7 +34126,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 9,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -33904,14 +34134,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "checked_at": "2026-11-25T04:14:25+00:00"
     },
     {
       "id": "rozetked",
@@ -33919,7 +34149,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 16,
-      "checked_at": "2026-11-24T21:12:45+00:00"
+      "checked_at": "2026-11-25T04:14:25+00:00"
     }
   ]
 }
