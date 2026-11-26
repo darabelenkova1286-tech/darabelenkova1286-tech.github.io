@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OpenRouter отключил трёх провайдеров после проверки утечек запросов - dashka-wire</title>
+<meta name="description" content="The platform also removed Zero Data Retention eligibility from 125 endpoints and notified potentially affected customers.">
+<link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="../../assets/style.css">
+<link rel="canonical" href="https://darabelenkova1286-tech.github.io/e/2026-11-26/02-openrouter-provider-security.html">
+<link rel="alternate" type="application/rss+xml" title="dashka-wire" href="https://darabelenkova1286-tech.github.io/feed.xml">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "OpenRouter removes three providers after prompt data investigation", "alternativeHeadline": "OpenRouter отключил трёх провайдеров после проверки утечек запросов", "datePublished": "2026-11-26", "inLanguage": ["ru", "en"], "isBasedOn": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/", "author": {"@type": "Organization", "name": "dashka-wire (automated)", "url": "https://darabelenkova1286-tech.github.io/"}, "publisher": {"@type": "Person", "name": "darabelenkova1286-tech", "url": "https://github.com/darabelenkova1286-tech"}, "mainEntityOfPage": "https://darabelenkova1286-tech.github.io/e/2026-11-26/02-openrouter-provider-security.html"}</script>
+</head>
+<body>
+<div class="loader" id="loader" aria-hidden="true"><span></span><span></span><span></span></div>
+<header class="masthead">
+  <a class="brand" href="../../index.html"><img class="logo" src="../../assets/logo.svg" alt="">DASHKA WIRE</a>
+  <nav>
+    <a href="../../archive.html" class="nav-link"><span class="lang-ru">Архив</span><span class="lang-en">Archive</span></a>
+    <a href="../../about.html" class="nav-link"><span class="lang-ru">Кухня</span><span class="lang-en">About</span></a>
+    <a href="https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io" class="nav-link">GitHub</a>
+    <button id="langToggle" class="lang-toggle" aria-label="Switch language">EN</button>
+  </nav>
+</header>
+<main>
+<article class="article">
+  <p class="kicker"><span class="badge"><span class="lang-ru">Безопасность</span><span class="lang-en">Security</span></span> &middot; 2026-11-26 &middot; <a href="index.html"><span class="lang-ru">весь выпуск</span><span class="lang-en">full edition</span></a></p>
+  <h1><span class="lang-ru">OpenRouter отключил трёх провайдеров после проверки утечек запросов</span><span class="lang-en">OpenRouter removes three providers after prompt data investigation</span></h1>
+  <p class="dek big"><span class="lang-ru">Платформа также сняла статус Zero Data Retention со 125 конечных точек и уведомила потенциально затронутых клиентов.</span><span class="lang-en">The platform also removed Zero Data Retention eligibility from 125 endpoints and notified potentially affected customers.</span></p>
+  <div class="rating-widget" data-feedback-id="https://t.me/anti_agi/2340" data-feedback-title="OpenRouter отключил трёх провайдеров после проверки утечек запросов" data-feedback-rubric="security"></div>
+
+
+  <div class="prose lang-ru"><p>OpenRouter <a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">сообщил</a> 22 ноября о действиях после расследования обработки пользовательских запросов у внешних провайдеров ИИ-инференса. Компания отключила от платформы трёх провайдеров, сняла пометку Zero Data Retention со 125 конечных точек и уведомила потенциально затронутых клиентов. Повод появился в anti_agi; численные данные и формулировки мы сверили с сообщением самого OpenRouter.</p>
+<p>Проверку начали исследователи Dragos. Они использовали специальные тестовые запросы с маркерами, чтобы обнаруживать неожиданные копии данных за пределами ожидаемого маршрута. OpenRouter пишет, что результаты указали на компрометацию данных или несоблюдение заявленных политик у отдельных провайдеров. В анонсе прямо сказано: исследование не показало взлома самой системы OpenRouter и не установило несанкционированного доступа к ней. Приравнивать проблемы провайдеров к взлому маршрутизатора было бы неверно.</p>
+<p>Платформа не называет в основной части сообщения три отключённых компании. Она публикует список отдельных уведомлений провайдеров, но этот список нельзя механически считать перечнем именно отключённых. Статус Zero Data Retention был снят шире, чем круг уже обнаруженных проблемных точек: часть исключений OpenRouter сделал превентивно. Это означает пересмотр обещания о хранении данных на уровне отдельных маршрутов, а не утверждение, что все 125 точек допустили утечку.</p>
+<p>Дальше компания планирует повторять подобные проверки, прослеживать сетевые пути запросов и требовать подтверждения мер до восстановления статуса Zero Data Retention. Для клиентов важна и архитектура сервиса: одна заявка может проходить через маршрутизатор и выбранного поставщика вычислений, поэтому обещания о конфиденциальности следует проверять для всей цепочки обработки.</p>
+<h3>Почему это важно</h3>
+<p>ИИ-сервис может выглядеть как единая точка доступа, хотя запрос обслуживает несколько организаций. Если пользователь отправляет туда чувствительные данные, реальная политика каждого звена имеет значение. Сообщение OpenRouter показывает конкретные меры реагирования, но не даёт основания считать все 125 маршрутов скомпрометированными или инцидент закрытым.</p></div>
+  <div class="prose lang-en"><p>OpenRouter <a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">reported</a> on November 22 that it had taken action after an investigation into how external AI inference providers handled customer prompts. It removed three providers, withdrew Zero Data Retention eligibility from 125 endpoints, and notified customers who might have been affected. We found the story in anti_agi and checked the figures and wording against OpenRouter's own notice.</p>
+<p>Dragos researchers began with test prompts carrying markers that could reveal unexpected copies outside the intended processing path. OpenRouter says the findings pointed to compromised data or evidence that certain providers were not honoring stated data policies. Its notice explicitly says the testing did not show a breach of OpenRouter itself or unauthorized access to its systems. A problem at an inference provider should not be described as a confirmed hack of the routing platform.</p>
+<p>The main notice does not identify the three providers it removed. It links to several provider statements, but that list is not necessarily the list of companies taken off the service. OpenRouter also says some of the 125 endpoints lost Zero Data Retention eligibility as a precaution. The number therefore describes a policy review across routes, not 125 confirmed leaks. Customers need to distinguish a verified incident from a conservative restriction while facts are still being checked.</p>
+<p>OpenRouter says it is adapting the researchers' technique for continuing checks, verifying where requests and responses travel, and requiring evidence before it restores Zero Data Retention status. The case also illustrates the service architecture: a single customer request may involve the router and a separate compute provider. A privacy promise has to hold across that entire chain.</p>
+<h3>Why it matters</h3>
+<p>An AI service can look like one endpoint while several organizations process the prompt behind it. For sensitive data, each provider's actual practices matter. OpenRouter has disclosed concrete response steps, but the announcement does not support treating every removed endpoint as compromised or assuming the investigation is finished.</p></div>
+  <p class="srcline"><span class="lang-ru">Первоисточник:</span><span class="lang-en">Primary source:</span> <a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</a><br><span class="lang-ru">Обнаружено через:</span><span class="lang-en">Found via:</span> <a href="https://t.me/anti_agi/2340">https://t.me/anti_agi/2340</a></p>
+</article>
+</main>
+<footer>
+  <p class="lang-ru">Автор проекта: <a href="https://github.com/darabelenkova1286-tech">darabelenkova1286-tech</a>. Утренний выпуск собирается из проверенных источников.</p>
+  <p class="lang-en">A morning edition by <a href="https://github.com/darabelenkova1286-tech">darabelenkova1286-tech</a>, grounded in verified sources.</p>
+  <p><a href="https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io">DASHKA WIRE</a> &middot; <a href="https://github.com/ADanMan/frontier-wire">Основа: Frontier Wire</a> &middot; MIT</p>
+</footer>
+<script src="../../assets/site.js"></script>
+</body>
+</html>

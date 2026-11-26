@@ -2,6 +2,130 @@
 
 
 
+===== EDITION 8 — 2026-11-26 =====
+
+## От редакции
+
+В выпуске — новые возможности MCP в Claude, последствия расследования утечек запросов у провайдеров OpenRouter и наноустройства для доставки лекарства в мозг мышей. Первоисточники опубликованы 22–25 ноября; мы отделяем результаты экспериментов и планы компаний от готовых массовых продуктов.
+
+## Editorial
+
+This edition covers new MCP capabilities in Claude, OpenRouter's response to reported prompt leaks at inference providers, and experimental nanodevices that delivered medicine to mouse brains. The primary announcements date from November 22–25; research results and company plans are distinguished from deployed products.
+
+
+----- 01-mcp-skills-tasks (ai) — primary: https://claude.com/resources/articles/skills-over-mcp-tasks-and-more -----
+
+## Русская версия
+
+Anthropic [описала](https://claude.com/resources/articles/skills-over-mcp-tasks-and-more) 24 ноября обновления работы Claude с серверами Model Context Protocol. Серверы теперь могут публиковать не только инструменты, но и навыки — инструкции по применению этих инструментов для конкретных задач. Claude загружает такой навык по мере необходимости. Пользователю не требуется отдельно устанавливать его, если он приходит вместе с подключённым сервером. Повод мы заметили в anti_agi и сверили с полным анонсом Anthropic.
+
+Skills over MCP доступны в публичной бета-версии Claude и Claude Code. По данным компании, у подписчиков Pro, Max и Ultra возможность включена по умолчанию, а для Team её должен разрешить администратор. Для Enterprise поддержка обещана позже. Важное ограничение: это описание доступности в продуктах Anthropic, а не утверждение, что любой клиент MCP уже понимает навыки одинаково.
+
+Другое изменение касается длительной работы. Механизм Tasks позволяет серверу продолжать операцию в фоне, пока Claude занимается другими шагами, а затем получить результат. Elicitation даёт серверу способ запросить у пользователя данные или подтверждение по ходу вызова. Anthropic пишет, что обе возможности уже доступны в Claude и Claude Code для ряда планов. Передача файлов между клиентом и сервером ещё разворачивается, поэтому её нельзя считать общедоступной завершённой функцией.
+
+Компания также сообщает о более чем 700 миллионах загрузок SDK MCP в месяц и свыше 10 тысяч коннекторов для Claude. Это собственные показатели Anthropic, а не независимая оценка активных пользователей. Спецификация остаётся открытой, но внедрение отдельных расширений зависит от клиента и сервера.
+
+### Почему это важно
+
+Подключённому агенту нужны не только команды доступа к данным, но и контекст о том, как выполнять длинную работу. Поставка инструкций вместе с сервером уменьшает ручную настройку, а фоновые задачи расширяют набор сценариев. Практическая ценность будет зависеть от поддержки у конкретных клиентов, прозрачности разрешений и того, насколько надёжно агент возвращает результат.
+
+## English version
+
+Anthropic [described](https://claude.com/resources/articles/skills-over-mcp-tasks-and-more) a set of changes to Claude's Model Context Protocol support on November 24. MCP servers can now provide skills as well as tools. A skill tells Claude how to use a server's capabilities for a particular workflow, and Claude loads it only when needed. The guidance can update with the server, so a user does not have to install a separate local package for that connected service. We spotted the story in anti_agi and checked it against Anthropic's full announcement.
+
+Skills over MCP is in public beta in Claude and Claude Code. Anthropic says it is on by default for Pro, Max, and Ultra users, while Team administrators must enable it. Enterprise support is planned for later. Those are product-specific availability terms; they do not mean every MCP client already handles server-delivered skills in the same way.
+
+The update also covers work that takes longer than a single tool call. Tasks lets an MCP server continue an operation in the background while Claude works on something else, then return a result. Elicitation lets a server request user input or approval during an operation. Anthropic says those two capabilities are generally available in Claude and Claude Code for several subscription tiers. File Uploads is still rolling out, so it should not be presented as a fully deployed feature for everyone.
+
+Anthropic also reports more than 700 million monthly MCP SDK downloads and over 10,000 connectors for Claude. These are the company's figures, not an independent count of active users. The protocol is open, but real support for each extension still depends on both the client and the server.
+
+### Why it matters
+
+An agent needs more than a list of callable tools to complete a substantial workflow. Shipping instructions with the server can reduce setup, while background tasks allow longer operations. The practical test is whether specific clients support the extensions reliably, make permissions clear, and return results users can check.
+
+
+----- 02-openrouter-provider-security (security) — primary: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ -----
+
+## Русская версия
+
+OpenRouter [сообщил](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) 22 ноября о действиях после расследования обработки пользовательских запросов у внешних провайдеров ИИ-инференса. Компания отключила от платформы трёх провайдеров, сняла пометку Zero Data Retention со 125 конечных точек и уведомила потенциально затронутых клиентов. Повод появился в anti_agi; численные данные и формулировки мы сверили с сообщением самого OpenRouter.
+
+Проверку начали исследователи Dragos. Они использовали специальные тестовые запросы с маркерами, чтобы обнаруживать неожиданные копии данных за пределами ожидаемого маршрута. OpenRouter пишет, что результаты указали на компрометацию данных или несоблюдение заявленных политик у отдельных провайдеров. В анонсе прямо сказано: исследование не показало взлома самой системы OpenRouter и не установило несанкционированного доступа к ней. Приравнивать проблемы провайдеров к взлому маршрутизатора было бы неверно.
+
+Платформа не называет в основной части сообщения три отключённых компании. Она публикует список отдельных уведомлений провайдеров, но этот список нельзя механически считать перечнем именно отключённых. Статус Zero Data Retention был снят шире, чем круг уже обнаруженных проблемных точек: часть исключений OpenRouter сделал превентивно. Это означает пересмотр обещания о хранении данных на уровне отдельных маршрутов, а не утверждение, что все 125 точек допустили утечку.
+
+Дальше компания планирует повторять подобные проверки, прослеживать сетевые пути запросов и требовать подтверждения мер до восстановления статуса Zero Data Retention. Для клиентов важна и архитектура сервиса: одна заявка может проходить через маршрутизатор и выбранного поставщика вычислений, поэтому обещания о конфиденциальности следует проверять для всей цепочки обработки.
+
+### Почему это важно
+
+ИИ-сервис может выглядеть как единая точка доступа, хотя запрос обслуживает несколько организаций. Если пользователь отправляет туда чувствительные данные, реальная политика каждого звена имеет значение. Сообщение OpenRouter показывает конкретные меры реагирования, но не даёт основания считать все 125 маршрутов скомпрометированными или инцидент закрытым.
+
+## English version
+
+OpenRouter [reported](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) on November 22 that it had taken action after an investigation into how external AI inference providers handled customer prompts. It removed three providers, withdrew Zero Data Retention eligibility from 125 endpoints, and notified customers who might have been affected. We found the story in anti_agi and checked the figures and wording against OpenRouter's own notice.
+
+Dragos researchers began with test prompts carrying markers that could reveal unexpected copies outside the intended processing path. OpenRouter says the findings pointed to compromised data or evidence that certain providers were not honoring stated data policies. Its notice explicitly says the testing did not show a breach of OpenRouter itself or unauthorized access to its systems. A problem at an inference provider should not be described as a confirmed hack of the routing platform.
+
+The main notice does not identify the three providers it removed. It links to several provider statements, but that list is not necessarily the list of companies taken off the service. OpenRouter also says some of the 125 endpoints lost Zero Data Retention eligibility as a precaution. The number therefore describes a policy review across routes, not 125 confirmed leaks. Customers need to distinguish a verified incident from a conservative restriction while facts are still being checked.
+
+OpenRouter says it is adapting the researchers' technique for continuing checks, verifying where requests and responses travel, and requiring evidence before it restores Zero Data Retention status. The case also illustrates the service architecture: a single customer request may involve the router and a separate compute provider. A privacy promise has to hold across that entire chain.
+
+### Why it matters
+
+An AI service can look like one endpoint while several organizations process the prompt behind it. For sensitive data, each provider's actual practices matter. OpenRouter has disclosed concrete response steps, but the announcement does not support treating every removed endpoint as compromised or assuming the investigation is finished.
+
+
+----- 03-brainbots-caltech (hardware) — primary: https://www.caltech.edu/about/news/tiny-robots-deliver-treatments-to-the-brain -----
+
+## Русская версия
+
+Исследователи Caltech [представили](https://www.caltech.edu/about/news/tiny-robots-deliver-treatments-to-the-brain) 25 ноября систему BrainBots — наночастицы для доставки лекарства через гематоэнцефалический барьер. Повод мы заметили в Telegram-канале Альфы; параметры и результаты сверили с сообщением исследовательского института, которое ссылается на статью в Science Robotics. Это лабораторная и животная работа, а не доступный пациентам метод лечения.
+
+Частицы размером около 250 нанометров несут лекарственный груз и внутреннюю камеру с веществом, выделяющим газ. Когда на них направляют ближний инфракрасный свет, чувствительный слой открывается, газ создаёт движение, а частица приближается к клеткам барьера. На её поверхности есть молекулы, помогающие прикрепиться к этим клеткам; затем груз может попасть в мозг. Авторы заявляют, что использовали биосовместимые и биоразлагаемые материалы. Название «робот» здесь описывает управляемую функцию наночастицы, а не автономную машину с искусственным интеллектом.
+
+В опытах активированные светом BrainBots доставили в мозг примерно в пять раз больше лекарства, чем такие же неактивированные частицы. В модели глиобластомы у мышей доставка химиопрепарата доксорубицина замедляла рост опухоли и продлевала выживаемость, согласно сообщению Caltech. Исследователи также не обнаружили нарушения целостности барьера в рамках этого эксперимента и сообщили о меньшей системной токсичности по сравнению с обычным введением препарата.
+
+Эти результаты требуют осторожного чтения. Сравнение «в пять раз» относится к двум экспериментальным вариантам частиц, а не к результатам лечения пациентов. Опыт на мышах не отвечает на вопросы о безопасной дозе света, управлении доставкой и долгосрочных последствиях для человека. Сама исследовательская статья связана из пресс-релиза, но её полный текст через доступный веб-инструмент не открылся.
+
+### Почему это важно
+
+Барьер защищает мозг, одновременно мешая лекарствам попадать к опухоли. Управляемая светом доставка предлагает способ улучшить адресность лечения. До клинического применения предстоит подтвердить воспроизводимость и безопасность в дальнейших исследованиях; нынешние цифры показывают потенциал метода у животных.
+
+## English version
+
+Caltech researchers [announced](https://www.caltech.edu/about/news/tiny-robots-deliver-treatments-to-the-brain) BrainBots on November 25, a nanoscale system for moving medicine across the blood-brain barrier. We spotted the story in Alfa's Telegram channel and checked the mechanism and results against Caltech's report, which links to a Science Robotics paper. This is laboratory and animal research, not a treatment available to patients.
+
+Each roughly 250-nanometer particle carries a medicine payload and a chamber containing a gas-generating substance. Near-infrared light opens a temperature-sensitive gate, producing gas that propels the particle toward cells of the barrier. Molecules on its surface help it attach to those cells, allowing the payload to cross. The researchers say the materials are biocompatible and biodegradable. Calling these particles “robots” describes a controllable nanoscale function; it does not imply a machine with artificial intelligence.
+
+In the reported experiments, light-activated BrainBots delivered about five times more medicine into the brain than otherwise similar particles that were not activated. In mice with a glioblastoma model, delivery of the chemotherapy drug doxorubicin slowed tumor growth and extended survival, according to Caltech. The team reports no detectable disruption of the barrier within that experiment and lower systemic toxicity than conventional administration of the drug alone.
+
+The comparison needs careful framing. The fivefold figure compares two experimental particle conditions, not treatment outcomes in patients. Mouse studies cannot settle questions about a safe light dose, precise control, or long-term effects in people. Caltech links the scientific paper, but the full paper was not accessible through the available web tool, so this account relies on the institute's detailed primary report for the reported results.
+
+### Why it matters
+
+The barrier protects the brain while making it difficult for medicines to reach a tumor. Light-controlled delivery offers a possible way to improve targeting. Reproducibility and safety still need further study before any clinical use; today's result demonstrates potential in animals rather than a proven human therapy.
+
+
+----- genspark-secondbrain-voicepad-2026 (hardware) — primary: https://shop.genspark.ai/pages/voicepad?from=note -----
+
+Genspark показала VoicePad — настольный пульт с голосовым вводом
+
+Устройство с пятью настраиваемыми кнопками подключается к компьютеру, запускает приложения и ИИ-сервисы, а также записывает речь. Производитель сообщает, что проект сейчас доступен на Kickstarter; это краудфандинг, а не подтверждённые массовые поставки. Источник обнаружения — Telegram Альфы.
+Genspark presents VoicePad, a desktop voice-control device
+
+The five-key device pairs with a computer to launch apps and AI services and record speech. The maker says it is currently on Kickstarter; crowdfunding is not evidence of mass shipments. We spotted it in Alfa's Telegram channel.
+
+
+----- yandex-rovers-voronezh-2026 (yandex) — primary: https://autonomy.yandex.ru/blog/rovery-poyavilis-v-voronezhe -----
+
+Роботы Яндекса начали доставлять заказы в Воронеже
+
+По сообщению компании от 24 ноября, роверы уже доставляют товары из трёх дарксторов Лавки в частях Коминтерновского и Советского районов. Расширение на левый берег и подключение Еды намечены на будущее, а не действуют сейчас. Официальный блог и Telegram-канал описывают одно событие.
+Yandex delivery robots begin serving Voronezh
+
+Yandex said on November 24 that its robots had begun deliveries from three Lavka dark stores in parts of the Kominternovsky and Sovetsky districts. Expansion to the left bank and prepared-food delivery are future plans, not current service. The blog and Telegram channel cover the same launch.
+
+
 ===== EDITION 7 — 2026-11-23 =====
 
 ## От редакции

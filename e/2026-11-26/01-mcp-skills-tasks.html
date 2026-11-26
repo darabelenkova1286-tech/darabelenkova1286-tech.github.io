@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Серверы MCP теперь могут передавать Claude навыки и длительные задачи - dashka-wire</title>
+<meta name="description" content="Anthropic opened a beta for skills delivered through MCP and expanded support for tasks, input requests, and files.">
+<link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="../../assets/style.css">
+<link rel="canonical" href="https://darabelenkova1286-tech.github.io/e/2026-11-26/01-mcp-skills-tasks.html">
+<link rel="alternate" type="application/rss+xml" title="dashka-wire" href="https://darabelenkova1286-tech.github.io/feed.xml">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "MCP servers can now provide Claude with skills and long-running tasks", "alternativeHeadline": "Серверы MCP теперь могут передавать Claude навыки и длительные задачи", "datePublished": "2026-11-26", "inLanguage": ["ru", "en"], "isBasedOn": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more", "author": {"@type": "Organization", "name": "dashka-wire (automated)", "url": "https://darabelenkova1286-tech.github.io/"}, "publisher": {"@type": "Person", "name": "darabelenkova1286-tech", "url": "https://github.com/darabelenkova1286-tech"}, "mainEntityOfPage": "https://darabelenkova1286-tech.github.io/e/2026-11-26/01-mcp-skills-tasks.html"}</script>
+</head>
+<body>
+<div class="loader" id="loader" aria-hidden="true"><span></span><span></span><span></span></div>
+<header class="masthead">
+  <a class="brand" href="../../index.html"><img class="logo" src="../../assets/logo.svg" alt="">DASHKA WIRE</a>
+  <nav>
+    <a href="../../archive.html" class="nav-link"><span class="lang-ru">Архив</span><span class="lang-en">Archive</span></a>
+    <a href="../../about.html" class="nav-link"><span class="lang-ru">Кухня</span><span class="lang-en">About</span></a>
+    <a href="https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io" class="nav-link">GitHub</a>
+    <button id="langToggle" class="lang-toggle" aria-label="Switch language">EN</button>
+  </nav>
+</header>
+<main>
+<article class="article">
+  <p class="kicker"><span class="badge"><span class="lang-ru">ИИ</span><span class="lang-en">AI</span></span> &middot; 2026-11-26 &middot; <a href="index.html"><span class="lang-ru">весь выпуск</span><span class="lang-en">full edition</span></a></p>
+  <h1><span class="lang-ru">Серверы MCP теперь могут передавать Claude навыки и длительные задачи</span><span class="lang-en">MCP servers can now provide Claude with skills and long-running tasks</span></h1>
+  <p class="dek big"><span class="lang-ru">Anthropic открыла бета-доступ к навыкам через MCP и расширила поддержку задач, запросов ввода и файлов.</span><span class="lang-en">Anthropic opened a beta for skills delivered through MCP and expanded support for tasks, input requests, and files.</span></p>
+  <div class="rating-widget" data-feedback-id="https://t.me/anti_agi/2342" data-feedback-title="Серверы MCP теперь могут передавать Claude навыки и длительные задачи" data-feedback-rubric="ai"></div>
+
+
+  <div class="prose lang-ru"><p>Anthropic <a href="https://claude.com/resources/articles/skills-over-mcp-tasks-and-more">описала</a> 24 ноября обновления работы Claude с серверами Model Context Protocol. Серверы теперь могут публиковать не только инструменты, но и навыки — инструкции по применению этих инструментов для конкретных задач. Claude загружает такой навык по мере необходимости. Пользователю не требуется отдельно устанавливать его, если он приходит вместе с подключённым сервером. Повод мы заметили в anti_agi и сверили с полным анонсом Anthropic.</p>
+<p>Skills over MCP доступны в публичной бета-версии Claude и Claude Code. По данным компании, у подписчиков Pro, Max и Ultra возможность включена по умолчанию, а для Team её должен разрешить администратор. Для Enterprise поддержка обещана позже. Важное ограничение: это описание доступности в продуктах Anthropic, а не утверждение, что любой клиент MCP уже понимает навыки одинаково.</p>
+<p>Другое изменение касается длительной работы. Механизм Tasks позволяет серверу продолжать операцию в фоне, пока Claude занимается другими шагами, а затем получить результат. Elicitation даёт серверу способ запросить у пользователя данные или подтверждение по ходу вызова. Anthropic пишет, что обе возможности уже доступны в Claude и Claude Code для ряда планов. Передача файлов между клиентом и сервером ещё разворачивается, поэтому её нельзя считать общедоступной завершённой функцией.</p>
+<p>Компания также сообщает о более чем 700 миллионах загрузок SDK MCP в месяц и свыше 10 тысяч коннекторов для Claude. Это собственные показатели Anthropic, а не независимая оценка активных пользователей. Спецификация остаётся открытой, но внедрение отдельных расширений зависит от клиента и сервера.</p>
+<h3>Почему это важно</h3>
+<p>Подключённому агенту нужны не только команды доступа к данным, но и контекст о том, как выполнять длинную работу. Поставка инструкций вместе с сервером уменьшает ручную настройку, а фоновые задачи расширяют набор сценариев. Практическая ценность будет зависеть от поддержки у конкретных клиентов, прозрачности разрешений и того, насколько надёжно агент возвращает результат.</p></div>
+  <div class="prose lang-en"><p>Anthropic <a href="https://claude.com/resources/articles/skills-over-mcp-tasks-and-more">described</a> a set of changes to Claude's Model Context Protocol support on November 24. MCP servers can now provide skills as well as tools. A skill tells Claude how to use a server's capabilities for a particular workflow, and Claude loads it only when needed. The guidance can update with the server, so a user does not have to install a separate local package for that connected service. We spotted the story in anti_agi and checked it against Anthropic's full announcement.</p>
+<p>Skills over MCP is in public beta in Claude and Claude Code. Anthropic says it is on by default for Pro, Max, and Ultra users, while Team administrators must enable it. Enterprise support is planned for later. Those are product-specific availability terms; they do not mean every MCP client already handles server-delivered skills in the same way.</p>
+<p>The update also covers work that takes longer than a single tool call. Tasks lets an MCP server continue an operation in the background while Claude works on something else, then return a result. Elicitation lets a server request user input or approval during an operation. Anthropic says those two capabilities are generally available in Claude and Claude Code for several subscription tiers. File Uploads is still rolling out, so it should not be presented as a fully deployed feature for everyone.</p>
+<p>Anthropic also reports more than 700 million monthly MCP SDK downloads and over 10,000 connectors for Claude. These are the company's figures, not an independent count of active users. The protocol is open, but real support for each extension still depends on both the client and the server.</p>
+<h3>Why it matters</h3>
+<p>An agent needs more than a list of callable tools to complete a substantial workflow. Shipping instructions with the server can reduce setup, while background tasks allow longer operations. The practical test is whether specific clients support the extensions reliably, make permissions clear, and return results users can check.</p></div>
+  <p class="srcline"><span class="lang-ru">Первоисточник:</span><span class="lang-en">Primary source:</span> <a href="https://claude.com/resources/articles/skills-over-mcp-tasks-and-more">https://claude.com/resources/articles/skills-over-mcp-tasks-and-more</a><br><span class="lang-ru">Обнаружено через:</span><span class="lang-en">Found via:</span> <a href="https://t.me/anti_agi/2342">https://t.me/anti_agi/2342</a></p>
+</article>
+</main>
+<footer>
+  <p class="lang-ru">Автор проекта: <a href="https://github.com/darabelenkova1286-tech">darabelenkova1286-tech</a>. Утренний выпуск собирается из проверенных источников.</p>
+  <p class="lang-en">A morning edition by <a href="https://github.com/darabelenkova1286-tech">darabelenkova1286-tech</a>, grounded in verified sources.</p>
+  <p><a href="https://github.com/darabelenkova1286-tech/darabelenkova1286-tech.github.io">DASHKA WIRE</a> &middot; <a href="https://github.com/ADanMan/frontier-wire">Основа: Frontier Wire</a> &middot; MIT</p>
+</footer>
+<script src="../../assets/site.js"></script>
+</body>
+</html>

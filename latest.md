@@ -1,19 +1,19 @@
-# dashka-wire — latest edition №7 (2026-11-23)
+# dashka-wire — latest edition №8 (2026-11-26)
 
-## Chrome built a synthetic web to test browser agents / Chrome построил искусственный интернет для испытания браузерных ИИ-агентов
-rubric: security · primary: https://blog.google/security/mirror-dimension-for-agents/ · via: https://t.me/anti_agi/2329
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-23/01-chrome-mirror-dimension.md
+## MCP servers can now provide Claude with skills and long-running tasks / Серверы MCP теперь могут передавать Claude навыки и длительные задачи
+rubric: ai · primary: https://claude.com/resources/articles/skills-over-mcp-tasks-and-more · via: https://t.me/anti_agi/2342
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-26/01-mcp-skills-tasks.md
 
-## Yandex signs autonomous truck agreements with ITECO and Magnit / Яндекс договорился с ITECO и Магнитом о тестировании роботраков
-rubric: business · primary: https://autonomy.yandex.ru/blog/magnit-i-iteco-mogut-priobresti-bolee-2000-robotrakov-yandeksa · via: https://t.me/autonomy_yandex/333
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-23/02-yandex-robotruck-partnerships.md
+## OpenRouter removes three providers after prompt data investigation / OpenRouter отключил трёх провайдеров после проверки утечек запросов
+rubric: security · primary: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ · via: https://t.me/anti_agi/2340
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-26/02-openrouter-provider-security.md
 
-## Yandex 360 opens preview access to external AI agents / Яндекс 360 открыл предварительный доступ внешним ИИ-агентам
-rubric: yandex · primary: https://www.yandex.ru/company/news/20-11-2026-02 · via: https://t.me/anti_agi/2328
-markdown: https://darabelenkova1286-tech.github.io/e/2026-11-23/03-yandex-360-mcp.md
+## Light-driven nanodevices delivered medicine across the brain barrier in mice / Светоуправляемые наноустройства доставили лекарство через барьер мозга у мышей
+rubric: hardware · primary: https://www.caltech.edu/about/news/tiny-robots-deliver-treatments-to-the-brain · via: https://t.me/alfa_trends/1693
+markdown: https://darabelenkova1286-tech.github.io/e/2026-11-26/03-brainbots-caltech.md
 
 ## More in the wire
-- Роверы Яндекса доставляют заказы в 13 районах Петербурга / Yandex delivery robots now serve 13 St Petersburg districts · 2026-11-20
-  primary: https://autonomy.yandex.ru/blog/bolee-300-tysyach-zakazov-za-god-i-13-rajonov-kak-nashi-rovery-osvaivayut-peterburg · via: https://t.me/autonomy_yandex/334
-- Apple и OpenEvidence запустили исследование медицинского ИИ на iPhone / Apple and OpenEvidence launch an iPhone health AI study · 2026-11-15
-  primary: https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/ · via: https://t.me/antidigital/12973
+- Genspark показала VoicePad — настольный пульт с голосовым вводом / Genspark presents VoicePad, a desktop voice-control device · 2026-11-25
+  primary: https://shop.genspark.ai/pages/voicepad?from=note · via: https://t.me/alfa_trends/1691
+- Роботы Яндекса начали доставлять заказы в Воронеже / Yandex delivery robots begin serving Voronezh · 2026-11-24
+  primary: https://autonomy.yandex.ru/blog/rovery-poyavilis-v-voronezhe · via: https://autonomy.yandex.ru/blog/rovery-poyavilis-v-voronezhe

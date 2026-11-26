@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-26",
+  "items": [
+    {
+      "id": "yandex-rovers-voronezh-2026",
+      "published": "2026-11-24",
+      "rubric": "yandex",
+      "title_ru": "Роботы Яндекса начали доставлять заказы в Воронеже",
+      "title_en": "Yandex delivery robots begin serving Voronezh",
+      "summary_ru": "По сообщению компании от 24 ноября, роверы уже доставляют товары из трёх дарксторов Лавки в частях Коминтерновского и Советского районов. Расширение на левый берег и подключение Еды намечены на будущее, а не действуют сейчас. Официальный блог и Telegram-канал описывают одно событие.",
+      "summary_en": "Yandex said on November 24 that its robots had begun deliveries from three Lavka dark stores in parts of the Kominternovsky and Sovetsky districts. Expansion to the left bank and prepared-food delivery are future plans, not current service. The blog and Telegram channel cover the same launch.",
+      "source": "https://autonomy.yandex.ru/blog/rovery-poyavilis-v-voronezhe",
+      "primary_source": "https://autonomy.yandex.ru/blog/rovery-poyavilis-v-voronezhe",
+      "primary_verified": true
+    },
+    {
+      "id": "genspark-secondbrain-voicepad-2026",
+      "published": "2026-11-25",
+      "rubric": "hardware",
+      "title_ru": "Genspark показала VoicePad — настольный пульт с голосовым вводом",
+      "title_en": "Genspark presents VoicePad, a desktop voice-control device",
+      "summary_ru": "Устройство с пятью настраиваемыми кнопками подключается к компьютеру, запускает приложения и ИИ-сервисы, а также записывает речь. Производитель сообщает, что проект сейчас доступен на Kickstarter; это краудфандинг, а не подтверждённые массовые поставки. Источник обнаружения — Telegram Альфы.",
+      "summary_en": "The five-key device pairs with a computer to launch apps and AI services and record speech. The maker says it is currently on Kickstarter; crowdfunding is not evidence of mass shipments. We spotted it in Alfa's Telegram channel.",
+      "source": "https://t.me/alfa_trends/1691",
+      "primary_source": "https://shop.genspark.ai/pages/voicepad?from=note",
+      "primary_verified": true,
+      "via": "Новости из ТГ Альфы"
+    }
+  ]
+}
