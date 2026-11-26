@@ -1,6 +1,176 @@
 {
-  "updated_at": "2026-11-25T23:38:04+00:00",
+  "updated_at": "2026-11-26T08:20:53+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cq20xrplvzlvo",
+      "title": "Fire and rescue drone support volunteers get award",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c3vg29nnxnnjo",
+      "title": "Great markets ‘reflect people who use them’",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c62l5j02lj0go",
+      "title": "Government set to double spending on social media unit to £25m",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49695-sber-predstavil-televizory-serii-9000-s-ob-emnym-zvukom-rgb-miniled-i-gigachatom",
+      "title": "«Сбер» представил телевизоры серии 9000 — с объёмным звуком, RGB miniLED и «ГигаЧатом»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49693-v-rossiyskom-prokate-vyshli-golodnye-igry-rassvet-zhatvy",
+      "title": "В российском прокате вышли «Голодные игры: Рассвет жатвы»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/articles/49474-snimaem-na-oppo-find-x10-pro-max-200-200-200",
+      "title": "Снимаем на Oppo Find X10 Pro Max с фотокитом: 200+200+200",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49691-spacex-poluchila-razreshenie-na-vyvod-na-orbitu-do-1-mln-sputnikov-dlya-kosmicheskih-data-centrov",
+      "title": "SpaceX получила разрешение на вывод на орбиту до 1 млн спутников для космических дата-центров",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49690-google-podala-patent-na-sozdanie-servisa-s-ii-kontentom-gde-v-glavnoy-roli-sam-zritel",
+      "title": "Google подала патент на создание сервиса с ИИ-контентом, где в главной роли — сам зритель",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49689-openai-ob-edinyaet-limity-chatgpt-i-codex",
+      "title": "OpenAI объединяет лимиты ChatGPT и Codex",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49688-insayd-apple-mozhet-vypustit-macbook-air-v-novom-dizayn-i-s-oled-uzhe-v-2027-godu",
+      "title": "Инсайд: Apple может выпустить MacBook Air в новом дизайне и с OLED уже в 2027 году",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49687-v-whatsapp-poyavilas-podderzhka-otlozhennyh-soobscheniy-v-lichnyh-i-gruppovyh-chatah",
+      "title": "В WhatsApp* появилась поддержка отложенных сообщений — в личных и групповых чатах",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49686-1password-smogli-vzlomat-raskryty-imena-i-adresa-elektronnoy-pochty-klientov-no-ne-paroli",
+      "title": "1Password смогли взломать: раскрыты имена и адреса электронной почты, но не пароли",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2342",
+      "title": "Anthropic превратила MCP в распределённый агентный рантайм К двухлетию Model Context Protocol, Anthropic выкатила крупное обновление спецификации и сразу добавила поддержку новых возможностей в Claude и Claude Code. К этому моменту протокол подошёл с внушительной базой (более 700 млн скачиваний SDK в месяц и свыше 10 тысяч коннекторов), а свежий ре",
+      "published": "2026-11-26T08:13:01+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10603",
+      "title": "Разраб запустил огромную Qwen на 180 млрд параметров прямо на MacBook 🤔 На M4 Max с 64 ГБ памяти модель выдала 56 токенов в секунду. Секрет оказался в бесплатном движке Magnitude, который хранит наиболее востребованные части модели в быстрой памяти, а остальные подгружает с SSD по мере необходимости. Запустить такую махину можно и на ПК с относител",
+      "published": "2026-11-26T06:41:03+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-26T08:20:53+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
       "title": "The loneliest peptide party in New York",
@@ -35288,23 +35458,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 58,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "found": 57,
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 72,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "found": 70,
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "futurism",
@@ -35312,15 +35482,15 @@
       "status": "partial",
       "scope": "listing",
       "found": 57,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "bbc",
       "name": "BBC Technology",
       "status": "partial",
       "scope": "listing",
-      "found": 20,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "found": 21,
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "addmeto",
@@ -35328,15 +35498,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 15,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "found": 16,
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "alfa_trends",
@@ -35344,7 +35514,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "antiinfosec",
@@ -35352,7 +35522,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "antidigital",
@@ -35360,7 +35530,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 17,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "anti_agi",
@@ -35368,7 +35538,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -35376,7 +35546,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 9,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -35384,22 +35554,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "checked_at": "2026-11-26T08:20:53+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 15,
-      "checked_at": "2026-11-25T23:38:04+00:00"
+      "found": 16,
+      "checked_at": "2026-11-26T08:20:53+00:00"
     }
   ]
 }
