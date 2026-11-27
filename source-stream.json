@@ -1,6 +1,116 @@
 {
-  "updated_at": "2026-11-26T19:01:55+00:00",
+  "updated_at": "2026-11-27T02:12:13+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-27T02:12:13+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1043657/bambus-p3c-hummingbird-before-and-after",
+      "title": "Bambu’s P3C hummingbird, before and after.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-27T02:12:13+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/1043425/toss-a-patch-to-your-witcher",
+      "title": "Toss a patch to your witcher.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-27T02:12:13+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo",
+      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-27T02:12:13+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo",
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-27T02:12:13+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo",
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-27T02:12:13+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49709-v-seti-poyavilis-soobscheniya-chto-gta-vi-na-pk-smogli-zapustit-v-60-fps",
+      "title": "В сети появились сообщения, что GTA VI на ПК смогли запустить в 60 fps",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-27T02:12:13+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10608",
+      "title": "Превращаем картинки в SVG за пару кликов — принесли на ночь бесплатную утилиту OpenVector 🎁 Закидываем логотип или иконку в PNG или JPEG и получаем редактируемый вектор, который можно масштабировать без потери качества. Бонусом можно удалять фон и настраивать цветовую палитру. Всё работает локально, есть версии для Windows, macOS и Linux. GitHub жд",
+      "published": "2026-11-26T21:15:01+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-27T02:12:13+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "published": "2026-11-26T20:03:54+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-27T02:12:13+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not",
+      "title": "Is Alice Huang a spy or not?",
+      "published": "2026-11-26T20:00:00+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-27T02:12:13+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years",
+      "title": "X finally gets parental controls after 20 years",
+      "published": "2026-11-26T19:31:50+00:00",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-27T02:12:13+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
       "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
@@ -2302,16 +2412,6 @@
       "attribution": ""
     },
     {
-      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary",
-      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-      "published": "2026-11-25T00:10:27+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-25T04:14:25+00:00",
-      "attribution": ""
-    },
-    {
       "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
       "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
       "published": "2026-11-24T22:27:52+00:00",
@@ -2355,16 +2455,6 @@
       "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
       "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
       "published": "2026-11-24T21:32:38+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
-      "first_seen": "2026-11-25T04:14:25+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "published": "2026-11-24T21:19:52+00:00",
       "source_id": "techcrunch",
       "source_name": "TechCrunch",
       "tier": "main",
@@ -2898,16 +2988,6 @@
       "source_id": "rozetked",
       "source_name": "Rozetked",
       "tier": "backup",
-      "first_seen": "2026-11-24T21:12:45+00:00",
-      "attribution": ""
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report",
-      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-      "published": "2026-11-24T21:09:04+00:00",
-      "source_id": "techcrunch",
-      "source_name": "TechCrunch",
-      "tier": "main",
       "first_seen": "2026-11-24T21:12:45+00:00",
       "attribution": ""
     },
@@ -4039,6 +4119,36 @@
       "source_name": "Rozetked",
       "tier": "backup",
       "first_seen": "2026-11-24T00:52:57+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary",
+      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "published": "2026-11-24",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "published": "2026-11-24",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-25T04:14:25+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report",
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "published": "2026-11-24",
+      "source_id": "techcrunch",
+      "source_name": "TechCrunch",
+      "tier": "main",
+      "first_seen": "2026-11-24T21:12:45+00:00",
       "attribution": ""
     },
     {
@@ -36198,23 +36308,23 @@
       "name": "TechCrunch",
       "status": "partial",
       "scope": "listing",
-      "found": 55,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "found": 50,
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 73,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "found": 72,
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "futurism",
@@ -36222,7 +36332,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 57,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "bbc",
@@ -36230,7 +36340,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 21,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "addmeto",
@@ -36238,7 +36348,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "xor_journal",
@@ -36246,7 +36356,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "alfa_trends",
@@ -36254,7 +36364,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "antiinfosec",
@@ -36262,7 +36372,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "antidigital",
@@ -36270,7 +36380,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "anti_agi",
@@ -36278,7 +36388,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -36286,7 +36396,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -36294,14 +36404,14 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     },
     {
       "id": "rozetked",
@@ -36309,7 +36419,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 16,
-      "checked_at": "2026-11-26T19:01:55+00:00"
+      "checked_at": "2026-11-27T02:12:13+00:00"
     }
   ]
 }
