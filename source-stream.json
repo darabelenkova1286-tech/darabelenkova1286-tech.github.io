@@ -1,6 +1,236 @@
 {
-  "updated_at": "2026-11-27T02:12:13+00:00",
+  "updated_at": "2026-11-27T10:53:16+00:00",
   "items": [
+    {
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "title": "The absolute best Black Friday deals we’ve found (so far)",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026",
+      "title": "Our favorite headphones and earbuds are cheaper than ever ahead of Black Friday",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/tech/1043705/soon-whatsapp-will-sell-you-an-esim",
+      "title": "Soon WhatsApp will sell you an eSIM.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1043694/apple-benefits-as-the-us-smartphone-market-shrinks",
+      "title": "Apple benefits as the US smartphone market shrinks.",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/991130/apple-skips-iphone-18-fall-2026-release",
+      "title": "without the iPhone 18",
+      "published": null,
+      "source_id": "theverge",
+      "source_name": "The Verge",
+      "tier": "main",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o",
+      "title": "Department for Work and Pensions takes some services offline after 'cyber incident'",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c3qj5yrxv12lo",
+      "title": "Female gamers told to 'get back in kitchen'",
+      "published": null,
+      "source_id": "bbc",
+      "source_name": "BBC Technology",
+      "tier": "main",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49719-iskat-tovary-na-wildberries-teper-mozhno-pri-pomoschi-risunkov",
+      "title": "Искать товары на Wildberries теперь можно при помощи рисунков",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49718-counterpoint-research-dolya-android-stremitel-no-snizhaetsya-v-pol-zu-apple-i-huawei",
+      "title": "Counterpoint Research: доля Android стремительно снижается в пользу Apple и Huawei",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49717-dedpul-4-v-razrabotke",
+      "title": "«Дэдпул 4» — в разработке",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49716-obankrotivshayasya-character-ai-mozhet-prodat-chaty-svoih-pol-zovateley-s-ii-personazhami",
+      "title": "Обанкротившаяся Character.AI может продать чаты своих пользователей с ИИ-персонажами",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49715-v-seti-poyavilos-video-s-vozmozhnym-mul-tipleerom-gta-vi-na-pk",
+      "title": "В сети появилось видео с возможным мультиплеером GTA VI на ПК",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49714-devid-fincher-podtverdil-chto-ispol-zoval-ii-v-rabote-nad-novymi-pohozhdeniyami-kliffa-buta",
+      "title": "Дэвид Финчер подтвердил, что использовал ИИ в работе над «Новыми похождениями Клиффа Бута»",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49713-smi-do-konca-2026-goda-yandeks-nachnet-testirovat-dostavku-chelovekopodobnymi-robotami",
+      "title": "СМИ: до конца года «Яндекс» начнёт тестировать доставку человекоподобными роботами",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/posts/49712-enough-phone-budet-nemnogo-luchshe-chem-ozhidalos",
+      "title": "Enough Phone будет немного лучше, чем ожидалось",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://rozetked.me/news/49711-google-obyazhet-android-razrabotchikov-raskryvat-domashnie-adresa-po-vsemu-miru",
+      "title": "Google потребует от разработчиков раскрывать личные данные пользователям по всему миру",
+      "published": null,
+      "source_id": "rozetked",
+      "source_name": "Rozetked",
+      "tier": "backup",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10611",
+      "title": "Anthropic снова оказалась в центре скандала — компанию обвиняют в блокировке решения математических задач и саботаже научных исследований 👻 Пользователи обнаружили, что если попросить Fable 5.2 разработать алгоритм разложения больших чисел на простые множители за полиномиальное время, срабатывает система безопасности и модель автоматически заменяют",
+      "published": "2026-11-27T10:52:41+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10610",
+      "title": "ИИ уже помогает российскому бизнесу экономить миллионы рублей — за последний год 26,4% опрошенных компаний сэкономили от 1 до 5 млн рублей, а у 18,4% на тот же диапазон выросла выручка. По данным исследования «Сбер2B Аналитики», в 44,8% случаев компании оценивают эффект от ИИ, сравнивая расходы до и после его внедрения. Как отметил на AI Journey пе",
+      "published": "2026-11-27T10:02:03+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/alfa_trends/1696",
+      "title": "ИИ приблизился к взлому алгоритма шифрования RSA — или нет? 🔥 Известный учёный Скотт Ааронсон написал в блоге, что слышал от надёжных источников о возможных криптографических прорывах в OpenAI и Anthropic. Речь о факторизации больших чисел — математической основе RSA, алгоритма защиты цифровых коммуникаций и данных. По словам Ааронсона, открытия од",
+      "published": "2026-11-27T09:01:41+00:00",
+      "source_id": "alfa_trends",
+      "source_name": "Альфа Тренды",
+      "tier": "main",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": "Новости из ТГ Альфы"
+    },
+    {
+      "url": "https://t.me/antidigital/13013",
+      "title": "Доброе утро! ❤️ 1️⃣ В «ЦИАНе» сменилась часть акционеров. ООО «Технологии недвижимости» Левана Назарова приобрело 21,97% акций компании. Ещё 21,41% компании купила инвестиционная группа «Атон». Из акционерного капитала «ЦИАН» полностью вышли структуры Дмитрия Крюкова (32,99%), Дмитрия Демина (7,16%) и Максима Мельникова (6,24%). 2️⃣ Минэкономразвит",
+      "published": "2026-11-27T07:57:08+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/anti_agi/2346",
+      "title": "🤖 AID — AI-дайджест от @anti_agi Двадцать с лишним столетий назад любовные утехи римских вождей с египтянкой Клеопатрой отправили ко дну Римскую республику и дали старт империи. Сегодня Элис Хуанг , пожалуй, претендует на похожую роль роковой женщины. Сейсмические волны от похождений Дженсена Хуанга продолжают расходиться по миру: Кремниевая долина",
+      "published": "2026-11-27T07:31:53+00:00",
+      "source_id": "anti_agi",
+      "source_name": "anti_agi",
+      "tier": "russia",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/antidigital/13012",
+      "title": "Великие американские работники В среду администрация Трампа предложила обложить индийские товары пошлиной до 25%, обвинив Индию в избыточных производственных мощностях. При этом другую индийскую отрасль - великий ИТ - американское правительство собственными руками превращает в еще более серьезного конкурента США. Услуги программистов, в отличие от ",
+      "published": "2026-11-27T07:01:11+00:00",
+      "source_id": "antidigital",
+      "source_name": "antidigital",
+      "tier": "russia",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
+    {
+      "url": "https://t.me/xor_journal/10609",
+      "title": "Готовимся к собесам в бигтех — нашел бесплатную базу с тысячами задач с тех. интервью в крупнейших IT-компаниях. В репозитории собрали задания для тех, кто метит в Google, Amazon, OpenAI, Stripe и другой бигтех. Например, среди задач OpenAI есть проектирование онлайн-игры на скорость печати, а среди заданий Netflix — создание системы персональных р",
+      "published": "2026-11-27T06:54:30+00:00",
+      "source_id": "xor_journal",
+      "source_name": "xor_journal",
+      "tier": "main",
+      "first_seen": "2026-11-27T10:53:16+00:00",
+      "attribution": ""
+    },
     {
       "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
       "title": "Netflix’s coziest show has made a very quiet return",
@@ -36309,22 +36539,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 50,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "theverge",
       "name": "The Verge",
       "status": "partial",
       "scope": "listing",
-      "found": 72,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "found": 70,
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "theinformation",
       "name": "The Information · Technology",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "futurism",
@@ -36332,7 +36562,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 57,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "bbc",
@@ -36340,7 +36570,7 @@
       "status": "partial",
       "scope": "listing",
       "found": 21,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "addmeto",
@@ -36348,15 +36578,15 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "xor_journal",
       "name": "xor_journal",
       "status": "ok",
       "scope": "known_post",
-      "found": 18,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "found": 19,
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "alfa_trends",
@@ -36364,7 +36594,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 18,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "antiinfosec",
@@ -36372,7 +36602,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "antidigital",
@@ -36380,7 +36610,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 19,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "anti_agi",
@@ -36388,7 +36618,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 20,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "autonomy_yandex_tg",
@@ -36396,7 +36626,7 @@
       "status": "ok",
       "scope": "known_post",
       "found": 12,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "autonomy_yandex",
@@ -36404,22 +36634,22 @@
       "status": "partial",
       "scope": "listing",
       "found": 7,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "wiley_advanced",
       "name": "Advanced Materials · Wiley",
       "status": "unavailable",
       "error": "HTTPError: HTTP Error 403: Forbidden",
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "checked_at": "2026-11-27T10:53:16+00:00"
     },
     {
       "id": "rozetked",
       "name": "Rozetked",
       "status": "partial",
       "scope": "listing",
-      "found": 16,
-      "checked_at": "2026-11-27T02:12:13+00:00"
+      "found": 17,
+      "checked_at": "2026-11-27T10:53:16+00:00"
     }
   ]
 }
